@@ -1,0 +1,8 @@
+.venv/
+logs/
+__pycache__/
+*.pyc
+
+# Raw downloads are large and fully reproducible via scripts/.
+# Kept out of git deliberately; see DATA_STATUS.md for sources and sizes.
+data/raw/
