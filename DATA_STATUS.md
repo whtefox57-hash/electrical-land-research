@@ -153,7 +153,16 @@ screen. I am not going to ship that under the original labels.
 
 ---
 
-## What I have not done yet
+## What happened after this report
 
-Nothing from Steps 3–6. I stopped here as instructed, before building candidates
-or scoring, so the substation gap can be closed first.
+You chose to proceed with a derived substation proxy and rescaled scoring.
+Steps 3–6 are complete — see `outputs/METHOD.md` for the full method, the
+derivation, and the limitations. This file remains the record of the Step 2
+acquisition and its two failures.
+
+**When you obtain the substation layer**, drop it in `data/raw/` with
+`substation` in the filename (`.geojson`, `.gpkg`, `.shp`, `.zip`, or a `.csv`
+with lat/lon columns) and re-run `scripts/build_screen.py`. It auto-detects the
+file, maps common field spellings, replaces the proxy, restores the full 25 + 15
+substation points, and rebuilds Population 2 from real substations. No code
+change required.

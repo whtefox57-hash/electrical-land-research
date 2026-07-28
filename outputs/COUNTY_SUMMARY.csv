@@ -1,0 +1,235 @@
+county,pop1_candidates,total_retired_mw,total_announced_mw,total_site_mw,pop1_mean_score,pop1_best_site,max_score,pop2_candidates,candidates,mean_score
+Bexar County,6,1501.0,1875.0,3376.0,86.9,J K Spruce,100.0,83,89,55.69
+Harris County,5,2212.9,0.0,2212.9,76.3,Greens Bayou,88.9,245,250,54.56
+Lubbock County,3,257.6,860.4,1118.0,70.63,Jones,88.6,5,8,61.05
+Titus County,2,2538.0,0.0,2538.0,100.0,Monticello,100.0,6,8,64.11
+Orange County,2,345.9,1304.4,1650.3,84.8,Sabine,93.1,20,22,59.64
+Lamb County,2,244.0,1326.2,1570.2,85.8,Tolk,91.9,1,3,75.63
+Potter County,2,0.0,1554.7,1554.7,85.25,Harrington,89.7,4,6,67.95
+Milam County,2,1252.1,0.0,1252.1,97.5,Sandow No 5,97.5,7,9,60.98
+El Paso County,2,0.0,661.9,661.9,76.25,Newman,95.6,2,4,69.22
+Hidalgo County,2,0.0,200.0,200.0,68.6,Madero Grid,68.6,52,54,51.75
+Freestone County,1,1186.8,0.0,1186.8,100.0,Big Brown,100.0,5,6,60.72
+Fannin County,1,1175.4,0.0,1175.4,83.3,Valley (TX),83.3,4,5,58.92
+Hood County,1,799.2,0.0,799.2,83.3,DeCordova Steam Electric Station,83.3,12,13,60.42
+Travis County,1,726.0,0.0,726.0,100.0,Decker Creek,100.0,81,82,52.56
+Harrison County,1,721.0,0.0,721.0,86.4,Pirkey,86.4,13,14,57.65
+Wilbarger County,1,720.0,0.0,720.0,95.6,Oklaunion,95.6,7,8,58.18
+Tarrant County,1,706.1,0.0,706.1,83.3,Eagle Mountain,83.3,101,102,54.35
+Mitchell County,1,687.9,0.0,687.9,83.3,Morgan Creek,83.3,4,5,62.3
+Ward County,1,650.4,0.0,650.4,80.8,Permian Basin,80.8,4,5,54.16
+Montgomery County,1,0.0,542.8,542.8,94.2,Lewis Creek,94.2,34,35,52.95
+Hale County,1,0.0,478.0,478.0,37.8,Hale Community Wind Farm,61.1,2,3,53.33
+Grimes County,1,453.5,0.0,453.5,91.1,Gibbons Creek,91.1,16,17,58.96
+Llano County,1,446.0,0.0,446.0,65.3,Thomas C Ferguson,65.3,8,9,52.57
+McLennan County,1,321.6,0.0,321.6,78.9,Lake Creek,78.9,23,24,56.0
+Nolan County,1,243.0,0.0,243.0,63.3,TXU Sweetwater Generating Plant,65.6,8,9,60.51
+Brazoria County,1,169.5,0.0,169.5,63.7,Freeport Energy,65.6,48,49,54.46
+Nueces County,1,163.2,0.0,163.2,70.8,Lon C Hill,70.8,17,18,53.17
+Collin County,1,156.2,0.0,156.2,72.2,Collin,72.2,45,46,54.97
+Gregg County,1,150.0,0.0,150.0,68.6,Knox Lee,68.6,11,12,54.42
+Pecos County,1,150.0,0.0,150.0,51.5,Sherbino I Wind Farm,61.1,22,23,50.06
+Brazos County,1,116.0,0.0,116.0,58.6,Bryan (TX),62.2,19,20,51.44
+Howard County,1,75.0,0.0,75.0,80.0,C R Wing Cogen Plant,80.0,6,7,57.33
+Upton County,1,75.0,0.0,75.0,63.1,West Texas Wind Energy LLC,63.1,6,7,49.73
+Jefferson County,1,70.9,0.0,70.9,64.2,Valero Energy Port Arthur Refinery,64.2,67,68,54.93
+Frio County,1,66.0,0.0,66.0,76.7,Pearsall,76.7,11,12,53.78
+Calhoun County,1,63.1,0.0,63.1,65.9,Point Comfort Operations,65.9,13,14,51.88
+Scurry County,1,63.0,0.0,63.0,24.7,Snyder Wind Farm,64.4,11,12,51.63
+Gray County,1,50.0,0.0,50.0,51.1,Celanese,61.1,4,5,56.12
+Anderson County,0,0.0,0.0,0.0,,,51.9,9,9,50.56
+Andrews County,0,0.0,0.0,0.0,,,47.5,8,8,47.5
+Angelina County,0,0.0,0.0,0.0,,,64.4,13,13,51.85
+Aransas County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Archer County,0,0.0,0.0,0.0,,,65.6,9,9,52.21
+Atascosa County,0,0.0,0.0,0.0,,,62.2,14,14,53.06
+Austin County,0,0.0,0.0,0.0,,,51.9,7,7,50.17
+Bandera County,0,0.0,0.0,0.0,,,53.1,4,4,51.92
+Bastrop County,0,0.0,0.0,0.0,,,66.7,16,16,57.36
+Baylor County,0,0.0,0.0,0.0,,,51.9,2,2,51.35
+Bee County,0,0.0,0.0,0.0,,,48.6,4,4,48.32
+Bell County,0,0.0,0.0,0.0,,,65.6,25,25,54.37
+Blanco County,0,0.0,0.0,0.0,,,48.6,4,4,48.05
+Borden County,0,0.0,0.0,0.0,,,65.6,7,7,57.46
+Bosque County,0,0.0,0.0,0.0,,,66.7,8,8,58.34
+Bowie County,0,0.0,0.0,0.0,,,64.4,10,10,53.52
+Briscoe County,0,0.0,0.0,0.0,,,62.2,2,2,62.2
+Brooks County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Brown County,0,0.0,0.0,0.0,,,64.4,5,5,51.76
+Burleson County,0,0.0,0.0,0.0,,,51.9,2,2,51.9
+Burnet County,0,0.0,0.0,0.0,,,53.1,11,11,51.75
+Caldwell County,0,0.0,0.0,0.0,,,62.2,7,7,52.01
+Callahan County,0,0.0,0.0,0.0,,,51.9,3,3,49.7
+Cameron County,0,0.0,0.0,0.0,,,62.2,42,42,51.67
+Camp County,0,0.0,0.0,0.0,,,64.4,3,3,58.67
+Carson County,0,0.0,0.0,0.0,,,61.1,5,5,59.66
+Cass County,0,0.0,0.0,0.0,,,66.7,6,6,58.38
+Castro County,0,0.0,0.0,0.0,,,61.1,6,6,49.77
+Chambers County,0,0.0,0.0,0.0,,,64.4,20,20,60.29
+Cherokee County,0,0.0,0.0,0.0,,,66.7,11,11,54.93
+Childress County,0,0.0,0.0,0.0,,,62.2,4,4,52.0
+Clay County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Cochran County,0,0.0,0.0,0.0,,,47.5,1,1,47.5
+Coke County,0,0.0,0.0,0.0,,,53.1,5,5,51.72
+Coleman County,0,0.0,0.0,0.0,,,48.6,2,2,48.6
+Colorado County,0,0.0,0.0,0.0,,,53.1,15,15,51.57
+Comal County,0,0.0,0.0,0.0,,,57.8,19,19,52.7
+Comanche County,0,0.0,0.0,0.0,,,62.2,4,4,54.78
+Cooke County,0,0.0,0.0,0.0,,,57.8,15,15,51.44
+Coryell County,0,0.0,0.0,0.0,,,48.6,6,6,48.05
+Cottle County,0,0.0,0.0,0.0,,,55.3,3,3,53.03
+Crane County,0,0.0,0.0,0.0,,,47.5,4,4,47.5
+Crockett County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Culberson County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Dallam County,0,0.0,0.0,0.0,,,51.9,2,2,51.9
+Dallas County,0,0.0,0.0,0.0,,,66.7,203,203,56.13
+Dawson County,0,0.0,0.0,0.0,,,50.8,2,2,49.7
+DeWitt County,0,0.0,0.0,0.0,,,65.6,8,8,52.52
+Deaf Smith County,0,0.0,0.0,0.0,,,62.2,4,4,55.08
+Delta County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Denton County,0,0.0,0.0,0.0,,,66.7,48,48,55.08
+Dickens County,0,0.0,0.0,0.0,,,61.1,3,3,57.97
+Dimmit County,0,0.0,0.0,0.0,,,50.8,2,2,50.8
+Donley County,0,0.0,0.0,0.0,,,62.2,1,1,62.2
+Duval County,0,0.0,0.0,0.0,,,47.5,1,1,47.5
+Eastland County,0,0.0,0.0,0.0,,,62.2,5,5,52.64
+Ector County,0,0.0,0.0,0.0,,,61.1,30,30,52.45
+Ellis County,0,0.0,0.0,0.0,,,65.6,21,21,53.14
+Erath County,0,0.0,0.0,0.0,,,48.6,6,6,48.05
+Falls County,0,0.0,0.0,0.0,,,50.8,2,2,49.7
+Fayette County,0,0.0,0.0,0.0,,,66.7,16,16,59.48
+Fisher County,0,0.0,0.0,0.0,,,61.1,1,1,61.1
+Floyd County,0,0.0,0.0,0.0,,,61.1,3,3,61.1
+Foard County,0,0.0,0.0,0.0,,,62.2,2,2,58.3
+Fort Bend County,0,0.0,0.0,0.0,,,66.7,28,28,55.51
+Franklin County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Gaines County,0,0.0,0.0,0.0,,,55.3,1,1,55.3
+Galveston County,0,0.0,0.0,0.0,,,65.6,34,34,51.49
+Gillespie County,0,0.0,0.0,0.0,,,47.5,4,4,47.5
+Glasscock County,0,0.0,0.0,0.0,,,62.2,10,10,51.82
+Goliad County,0,0.0,0.0,0.0,,,66.7,3,3,64.37
+Gonzales County,0,0.0,0.0,0.0,,,51.9,4,4,49.42
+Grayson County,0,0.0,0.0,0.0,,,63.1,16,16,52.44
+Guadalupe County,0,0.0,0.0,0.0,,,65.6,28,28,56.97
+Hall County,0,0.0,0.0,0.0,,,61.1,1,1,61.1
+Hamilton County,0,0.0,0.0,0.0,,,47.5,3,3,47.5
+Hansford County,0,0.0,0.0,0.0,,,61.1,1,1,61.1
+Hardeman County,0,0.0,0.0,0.0,,,53.1,1,1,53.1
+Hardin County,0,0.0,0.0,0.0,,,62.2,11,11,52.27
+Haskell County,0,0.0,0.0,0.0,,,66.7,2,2,66.15
+Hays County,0,0.0,0.0,0.0,,,62.2,22,22,49.73
+Henderson County,0,0.0,0.0,0.0,,,66.7,16,16,55.28
+Hill County,0,0.0,0.0,0.0,,,64.4,7,7,53.11
+Hockley County,0,0.0,0.0,0.0,,,55.3,6,6,52.68
+Hopkins County,0,0.0,0.0,0.0,,,64.4,7,7,53.27
+Houston County,0,0.0,0.0,0.0,,,62.2,3,3,54.23
+Hunt County,0,0.0,0.0,0.0,,,62.2,15,15,52.23
+Hutchinson County,0,0.0,0.0,0.0,,,56.4,5,5,55.06
+Irion County,0,0.0,0.0,0.0,,,47.5,1,1,47.5
+Jack County,0,0.0,0.0,0.0,,,64.4,4,4,63.22
+Jackson County,0,0.0,0.0,0.0,,,57.8,4,4,52.28
+Jasper County,0,0.0,0.0,0.0,,,53.1,11,11,50.31
+Jim Wells County,0,0.0,0.0,0.0,,,56.4,2,2,51.95
+Johnson County,0,0.0,0.0,0.0,,,64.4,29,29,51.5
+Jones County,0,0.0,0.0,0.0,,,62.2,3,3,56.2
+Karnes County,0,0.0,0.0,0.0,,,65.6,6,6,61.8
+Kaufman County,0,0.0,0.0,0.0,,,65.6,21,21,51.65
+Kendall County,0,0.0,0.0,0.0,,,65.6,9,9,57.79
+Kenedy County,0,0.0,0.0,0.0,,,61.1,3,3,52.03
+Kent County,0,0.0,0.0,0.0,,,48.6,2,2,48.6
+Kerr County,0,0.0,0.0,0.0,,,53.1,12,12,51.63
+Kimble County,0,0.0,0.0,0.0,,,61.1,2,2,55.95
+King County,0,0.0,0.0,0.0,,,48.6,1,1,48.6
+Kinney County,0,0.0,0.0,0.0,,,48.6,3,3,48.23
+Kleberg County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Knox County,0,0.0,0.0,0.0,,,64.4,5,5,54.42
+La Salle County,0,0.0,0.0,0.0,,,51.9,4,4,51.62
+Lamar County,0,0.0,0.0,0.0,,,64.4,13,13,54.72
+Lampasas County,0,0.0,0.0,0.0,,,50.8,3,3,48.97
+Lavaca County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Lee County,0,0.0,0.0,0.0,,,48.6,2,2,48.6
+Leon County,0,0.0,0.0,0.0,,,62.2,5,5,52.66
+Liberty County,0,0.0,0.0,0.0,,,53.1,18,18,50.44
+Limestone County,0,0.0,0.0,0.0,,,65.6,6,6,55.23
+Live Oak County,0,0.0,0.0,0.0,,,59.7,2,2,55.8
+Loving County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Lynn County,0,0.0,0.0,0.0,,,55.3,2,2,51.4
+Madison County,0,0.0,0.0,0.0,,,48.6,2,2,48.05
+Marion County,0,0.0,0.0,0.0,,,66.7,5,5,63.68
+Martin County,0,0.0,0.0,0.0,,,62.2,5,5,51.76
+Mason County,0,0.0,0.0,0.0,,,47.5,3,3,47.5
+Matagorda County,0,0.0,0.0,0.0,,,66.7,13,13,54.32
+Maverick County,0,0.0,0.0,0.0,,,53.1,6,6,51.75
+McCulloch County,0,0.0,0.0,0.0,,,50.8,2,2,50.8
+Medina County,0,0.0,0.0,0.0,,,56.7,13,13,50.15
+Menard County,0,0.0,0.0,0.0,,,47.5,1,1,47.5
+Midland County,0,0.0,0.0,0.0,,,61.1,16,16,51.96
+Mills County,0,0.0,0.0,0.0,,,54.4,1,1,54.4
+Montague County,0,0.0,0.0,0.0,,,58.9,5,5,52.94
+Moore County,0,0.0,0.0,0.0,,,55.3,1,1,55.3
+Morris County,0,0.0,0.0,0.0,,,66.7,2,2,66.7
+Motley County,0,0.0,0.0,0.0,,,55.3,1,1,55.3
+Nacogdoches County,0,0.0,0.0,0.0,,,62.2,8,8,56.05
+Navarro County,0,0.0,0.0,0.0,,,64.4,10,10,53.05
+Newton County,0,0.0,0.0,0.0,,,65.6,10,10,57.16
+Ochiltree County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Oldham County,0,0.0,0.0,0.0,,,62.2,3,3,61.83
+Palo Pinto County,0,0.0,0.0,0.0,,,64.4,5,5,54.88
+Panola County,0,0.0,0.0,0.0,,,60.8,5,5,53.54
+Parker County,0,0.0,0.0,0.0,,,65.6,22,22,54.6
+Parmer County,0,0.0,0.0,0.0,,,47.5,1,1,47.5
+Polk County,0,0.0,0.0,0.0,,,50.8,6,6,49.33
+Presidio County,0,0.0,0.0,0.0,,,48.6,1,1,48.6
+Rains County,0,0.0,0.0,0.0,,,64.4,2,2,58.15
+Randall County,0,0.0,0.0,0.0,,,58.6,2,2,57.5
+Reagan County,0,0.0,0.0,0.0,,,47.5,2,2,47.5
+Red River County,0,0.0,0.0,0.0,,,53.1,2,2,50.85
+Reeves County,0,0.0,0.0,0.0,,,48.6,4,4,47.78
+Refugio County,0,0.0,0.0,0.0,,,61.1,3,3,54.63
+Roberts County,0,0.0,0.0,0.0,,,61.1,1,1,61.1
+Robertson County,0,0.0,0.0,0.0,,,66.7,10,10,54.09
+Rockwall County,0,0.0,0.0,0.0,,,62.2,5,5,53.54
+Runnels County,0,0.0,0.0,0.0,,,51.9,1,1,51.9
+Rusk County,0,0.0,0.0,0.0,,,66.7,17,17,53.23
+Sabine County,0,0.0,0.0,0.0,,,53.1,3,3,51.93
+San Augustine County,0,0.0,0.0,0.0,,,48.6,1,1,48.6
+San Jacinto County,0,0.0,0.0,0.0,,,53.1,5,5,51.26
+San Patricio County,0,0.0,0.0,0.0,,,62.2,10,10,51.2
+San Saba County,0,0.0,0.0,0.0,,,50.8,2,2,49.7
+Schleicher County,0,0.0,0.0,0.0,,,61.1,4,4,50.9
+Shackelford County,0,0.0,0.0,0.0,,,62.2,3,3,62.2
+Shelby County,0,0.0,0.0,0.0,,,51.9,8,8,49.42
+Smith County,0,0.0,0.0,0.0,,,65.6,15,15,57.45
+Somervell County,0,0.0,0.0,0.0,,,66.7,1,1,66.7
+Starr County,0,0.0,0.0,0.0,,,62.2,8,8,54.8
+Stephens County,0,0.0,0.0,0.0,,,51.9,8,8,49.84
+Sterling County,0,0.0,0.0,0.0,,,48.6,2,2,48.6
+Stonewall County,0,0.0,0.0,0.0,,,48.6,1,1,48.6
+Sutton County,0,0.0,0.0,0.0,,,61.1,3,3,52.03
+Swisher County,0,0.0,0.0,0.0,,,56.4,1,1,56.4
+Taylor County,0,0.0,0.0,0.0,,,62.2,25,25,52.9
+Tom Green County,0,0.0,0.0,0.0,,,65.6,17,17,52.87
+Trinity County,0,0.0,0.0,0.0,,,51.9,2,2,50.25
+Tyler County,0,0.0,0.0,0.0,,,50.8,6,6,48.78
+Upshur County,0,0.0,0.0,0.0,,,51.9,4,4,51.62
+Uvalde County,0,0.0,0.0,0.0,,,62.2,4,4,52.28
+Val Verde County,0,0.0,0.0,0.0,,,53.1,6,6,51.75
+Van Zandt County,0,0.0,0.0,0.0,,,62.2,16,16,52.74
+Victoria County,0,0.0,0.0,0.0,,,66.7,14,14,57.76
+Walker County,0,0.0,0.0,0.0,,,51.9,8,8,49.42
+Waller County,0,0.0,0.0,0.0,,,51.9,7,7,49.23
+Washington County,0,0.0,0.0,0.0,,,62.2,9,9,51.22
+Webb County,0,0.0,0.0,0.0,,,64.4,18,18,54.58
+Wharton County,0,0.0,0.0,0.0,,,62.2,15,15,51.29
+Wheeler County,0,0.0,0.0,0.0,,,55.3,3,3,50.1
+Wichita County,0,0.0,0.0,0.0,,,65.6,21,21,54.52
+Willacy County,0,0.0,0.0,0.0,,,48.6,3,3,48.6
+Williamson County,0,0.0,0.0,0.0,,,64.4,32,32,51.68
+Wilson County,0,0.0,0.0,0.0,,,53.1,6,6,50.45
+Winkler County,0,0.0,0.0,0.0,,,47.5,9,9,47.5
+Wise County,0,0.0,0.0,0.0,,,64.4,28,28,52.82
+Wood County,0,0.0,0.0,0.0,,,51.9,8,8,51.35
+Yoakum County,0,0.0,0.0,0.0,,,61.1,7,7,56.6
+Young County,0,0.0,0.0,0.0,,,66.7,13,13,57.45
+Zapata County,0,0.0,0.0,0.0,,,57.8,1,1,57.8
+Zavala County,0,0.0,0.0,0.0,,,50.8,5,5,49.04

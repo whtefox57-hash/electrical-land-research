@@ -1,0 +1,22 @@
+{
+  "generated": "2026-07-28",
+  "notes": [
+    "transmission: 10804 features; 348 with missing/sentinel voltage set to null (source used -999999)",
+    "proxy substations: 21776 line endpoints extracted from 10804 lines",
+    "proxy substations: 7305 clusters -> 4680 inside Texas (tolerance 250 m)",
+    "water: 211 reservoirs + 3171 major river features",
+    "EIA units: 665 rows across releases -> 289 unique (plant, generator) after dedup, preferring most current release",
+    "Population 1: 131 TX plants with retired/announced capacity; 56 at or above 50 MW",
+    "NOTE: 5 site(s) have no past retirement and an announced retirement after 2036 - operating today, not acquirable: Jones (2058); Harrington (2040); Hale Community Wind Farm (2044); Madero Grid (2042); Ignacio Grid Energy Storage System (2042)",
+    "Population 2: dropped 451 low-confidence proxy nodes holding a single line end (likely segment splits, not substations)",
+    "Population 2: 4680 substation nodes -> 2801 at or above 138 kV -> 2704 beyond 2000 m from a Population 1 site",
+    "candidates: 56 Population 1 + 2704 Population 2 = 2760 total",
+    "scoring: 90 of 100 rubric points available, rescaled to 0-100. Excluded factors: ['broadband']",
+    "wrote outputs/tx_candidates.gpkg",
+    "wrote outputs/top25_candidates.csv (25 rows)",
+    "wrote outputs/COUNTY_SUMMARY.csv (234 counties; 38 contain a retired/retiring plant, sorted so those come first)"
+  ],
+  "failures": [
+    "Electric substations (dataset A): no source reachable; using DERIVED proxy nodes from transmission line endpoints."
+  ]
+}
