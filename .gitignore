@@ -1,0 +1,14 @@
+# Raw downloads are large and are not this repo's product. The manifest IS.
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/MANIFEST.json
+data/interim/*
+!data/interim/.gitkeep
+
+# Generated outputs -- rebuild them from source, do not commit them.
+outputs/*
+!outputs/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store

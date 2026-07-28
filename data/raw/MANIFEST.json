@@ -1,0 +1,222 @@
+{
+  "created_utc": "2026-07-28T08:12:17+00:00",
+  "sources": {
+    "broadband": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:25+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='broadbandmap.fcc.gov', port=443): Max retries exceeded with url: /nbm/map/api/published/filing (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://broadbandmap.fcc.gov/nbm/map/api/published/filing"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:26+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='opendata.fcc.gov', port=443): Max retries exceeded with url: /resource/bdc-fixed-summary.json?$limit=50000&state=TX (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://opendata.fcc.gov/resource/bdc-fixed-summary.json?$limit=50000&state=TX"
+        }
+      ],
+      "files": [],
+      "note": "PROXY for fibre availability, not a fibre route dataset",
+      "recorded_utc": "2026-07-28T08:12:26+00:00",
+      "status": "failed"
+    },
+    "eia860": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:18+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860224.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860224.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:18+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860223.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860223.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:18+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860222.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860222.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:19+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860221.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860221.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:19+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860220.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860220.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:20+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860219.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860219.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:20+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860/xls/eia860218.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860/xls/eia860218.zip"
+        }
+      ],
+      "files": [],
+      "note": "",
+      "recorded_utc": "2026-07-28T08:12:20+00:00",
+      "status": "failed"
+    },
+    "eia860m": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:20+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/july_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/july_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:21+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/june_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/june_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:21+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/may_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/may_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:21+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/april_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/april_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:22+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/march_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/march_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:22+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/february_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/february_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:23+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/january_generator2026.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/january_generator2026.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:23+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/december_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/december_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:23+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/november_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/november_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:23+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/october_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/october_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:24+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/september_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:24+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/august_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/august_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:24+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/july_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/july_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:25+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/june_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/june_generator2025.xlsx"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:25+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.eia.gov', port=443): Max retries exceeded with url: /electricity/data/eia860m/xls/may_generator2025.xlsx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.eia.gov/electricity/data/eia860m/xls/may_generator2025.xlsx"
+        }
+      ],
+      "files": [],
+      "note": "",
+      "recorded_utc": "2026-07-28T08:12:25+00:00",
+      "status": "failed"
+    },
+    "substations": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:17+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='services2.arcgis.com', port=443): Max retries exceeded with url: /FiaPA4ga0iQKduv3/arcgis/rest/services?f=json (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services"
+        }
+      ],
+      "files": [],
+      "note": "",
+      "recorded_utc": "2026-07-28T08:12:17+00:00",
+      "status": "failed"
+    },
+    "transmission": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:17+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='services2.arcgis.com', port=443): Max retries exceeded with url: /FiaPA4ga0iQKduv3/arcgis/rest/services?f=json (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services"
+        }
+      ],
+      "files": [],
+      "note": "",
+      "recorded_utc": "2026-07-28T08:12:17+00:00",
+      "status": "failed"
+    },
+    "water": {
+      "attempts": [
+        {
+          "at_utc": "2026-07-28T08:12:27+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.twdb.texas.gov', port=443): Max retries exceeded with url: /mapping/gisdata/doc/GCD_Shapefile.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.twdb.texas.gov/mapping/gisdata/doc/GCD_Shapefile.zip"
+        },
+        {
+          "at_utc": "2026-07-28T08:12:27+00:00",
+          "error": "ProxyError: HTTPSConnectionPool(host='www.twdb.texas.gov', port=443): Max retries exceeded with url: /mapping/gisdata/doc/Major_Reservoirs_shp.zip (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+          "http_status": null,
+          "url": "https://www.twdb.texas.gov/mapping/gisdata/doc/Major_Reservoirs_shp.zip"
+        }
+      ],
+      "files": [],
+      "note": "optional layer",
+      "recorded_utc": "2026-07-28T08:12:27+00:00",
+      "status": "failed"
+    }
+  },
+  "updated_utc": "2026-07-28T08:12:27+00:00"
+}
