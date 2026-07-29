@@ -42,11 +42,18 @@ def _now() -> str:
 
 
 def log_status(dataset: str, url: str, ok: bool, detail: str = "",
-               manual_url: str = "", records: int | None = None) -> None:
-    """Append one dataset attempt to the status log."""
+               manual_url: str = "", records: int | None = None,
+               key: str = "") -> None:
+    """Append one dataset attempt to the status log.
+
+    `key` groups retries of the SAME dataset so a later success supersedes an
+    earlier failure. Without it, a retry logged under a slightly different
+    display name would leave a phantom failure in DATA_STATUS.md.
+    """
     rec = {
         "timestamp": _now(),
         "dataset": dataset,
+        "key": key or dataset,
         "url": url,
         "status": "SUCCESS" if ok else "FAILED",
         "detail": str(detail)[:2000],

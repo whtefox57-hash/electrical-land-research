@@ -21,10 +21,11 @@ def main():
         return
     recs = [json.loads(l) for l in open(STATUS_LOG) if l.strip()]
 
-    # Keep the LAST attempt per dataset name, but remember earlier failures.
+    # Keep the LAST attempt per dataset KEY, so a successful retry supersedes
+    # the earlier failure instead of leaving a phantom failure behind.
     latest: dict[str, dict] = {}
     for r in recs:
-        latest[r["dataset"]] = r
+        latest[r.get("key") or r["dataset"]] = r
     ok = [r for r in latest.values() if r["status"] == "SUCCESS"]
     bad = [r for r in latest.values() if r["status"] != "SUCCESS"]
 
@@ -63,7 +64,8 @@ def main():
     # Full chronological history, including superseded failures.
     superseded = [r for r in recs
                   if r["status"] != "SUCCESS"
-                  and latest.get(r["dataset"], {}).get("status") == "SUCCESS"]
+                  and latest.get(r.get("key") or r["dataset"], {}
+                                 ).get("status") == "SUCCESS"]
     if superseded:
         out.append("\n---\n")
         out.append("\n## Failures later resolved by retry\n")
