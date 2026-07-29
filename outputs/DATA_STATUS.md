@@ -1,6 +1,6 @@
 # DATA_STATUS — every dataset attempted
-Regenerated 2026-07-29 13:41:12 UTC from `data/data_status_log.jsonl` (20 attempt records, 14 distinct datasets).
-**12 succeeded · 2 failed (final state).**
+Regenerated 2026-07-29 13:52:24 UTC from `data/data_status_log.jsonl` (30 attempt records, 24 distinct datasets).
+**22 succeeded · 2 failed (final state).**
 A dataset listed as SUCCESS here was read from the network in this run. Nothing in this project is estimated, synthesised or substituted: where a source failed, the dependent field is left empty and the failure is recorded below.
 
 ---
@@ -26,6 +26,14 @@ A dataset listed as SUCCESS here was read from the network in this run. Nothing 
 | dataset | records | timestamp (UTC) | endpoint |
 |---|---:|---|---|
 | ADEQ_Land_Ownership (cross-check) | 116 | 2026-07-29T13:15:56Z | `https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/Land_Ownership/FeatureServer/0` |
+| ADWR Well Registry 2024 | 240104 | 2026-07-29T13:52:11Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Well_Registry_2024/FeatureServer/0` |
+| ADWR aaws_determinations | 5596 | 2026-07-29T13:45:49Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/AAWS_Issued_Determination_2024/FeatureServer/0` |
+| ADWR ama_ina | 11 | 2026-07-29T13:45:17Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/AMA_INA_2024/FeatureServer/0` |
+| ADWR city_boundaries | 91 | 2026-07-29T13:45:55Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/City_Boundaries_2024/FeatureServer/0` |
+| ADWR counties | 15 | 2026-07-29T13:45:52Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/County_2024/FeatureServer/3` |
+| ADWR cws_service_area | 750 | 2026-07-29T13:45:34Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/CWS_2024/FeatureServer/0` |
+| ADWR groundwater_basin | 52 | 2026-07-29T13:45:23Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Groundwater_Basin_2024/FeatureServer/0` |
+| ADWR groundwater_subbasin | 85 | 2026-07-29T13:45:31Z | `https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Groundwater_Subbasin/FeatureServer/0` |
 | ASLD_Public_Land_Ownership (azgeo.az.gov) [retry unpaged] | 108 | 2026-07-29T13:19:04Z | `https://azgeo.az.gov/arcgis/rest/services/asld/ASLD_AdminBoundaries/MapServer/14` |
 | BLM_AZ_SMA_fullres (PRIMARY ownership) | 17585 | 2026-07-29T13:14:25Z | `https://gis.blm.gov/azarcgis/rest/services/lands/BLM_AZ_SMA/MapServer/0` |
 | BLM_Natl_SMA_cached (cross-check, GENERALISED) [objectId batching] | 102 | 2026-07-29T13:20:26Z | `https://gis.blm.gov/arcgis/rest/services/lands/BLM_Natl_SMA_Cached_with_PriUnk/MapServer/1` |
@@ -37,6 +45,8 @@ A dataset listed as SUCCESS here was read from the network in this run. Nothing 
 | HIFLD_Electric_Retail_Service_Territories (cross-check copy) | 59 | 2026-07-29T13:38:02Z | `https://services6.arcgis.com/BAJNi3EgCdtQ1BCG/arcgis/rest/services/Electric_Retail_Service_Territories/FeatureServer/0` |
 | HIFLD_Electric_Substations (AZ) [third-party republication of HIFLD schema; hifld-geoplatform opendata is SUNSET] | 901 | 2026-07-29T13:37:18Z | `https://services6.arcgis.com/OO2s4OoyCZkYJ6oE/arcgis/rest/services/Substations/FeatureServer/0` |
 | PADUS_Manager_Name (cross-check) | 2915 | 2026-07-29T13:16:31Z | `https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Manager_Name_PADUS/FeatureServer/0` |
+| USGS NHD Arizona perennial flowlines (FCode 46006) | 18992 | 2026-07-29T13:49:28Z | `https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/NHD_H_Arizona_State_GDB/FeatureServer/11` |
+| USGS NHD Arizona waterbodies | 10489 | 2026-07-29T13:49:56Z | `https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/NHD_H_Arizona_State_GDB/FeatureServer/16` |
 
 ---
 
