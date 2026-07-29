@@ -1,0 +1,15 @@
+Plant Code,Plant Name,retired_mw,n_units,county,latitude,longitude,utility_name,ba_code,first_retire_year,last_retire_year,retire_types,technologies,fuels,statuses
+4941,Navajo,2409.3,3,Coconino,36.9047,-111.3886,Salt River Project,SRP,2019.0,2019.0,retired,Conventional Steam Coal,BIT,RE
+113,Cholla,1128.8,4,Navajo,34.9394,-110.3033,Arizona Public Service Co,AZPS,2015.0,2025.0,"announced,retired",Conventional Steam Coal,SUB,"OP,RE"
+8223,Springerville,849.6,2,Apache,34.3186,-109.1639,Tucson Electric Power Co,TEPC,2027.0,2032.0,announced,Conventional Steam Coal,SUB,OP
+6177,Coronado,821.8,2,Apache,34.5789,-109.2708,Salt River Project,SRP,2032.0,2032.0,announced,Conventional Steam Coal,SUB,OP
+118,Saguaro,251.0,3,Pinal,32.5517,-111.3,Arizona Public Service Co,AZPS,2013.0,2013.0,retired,Natural Gas Steam Turbine; Solar Thermal without Energy Storage,"NG,SUN",RE
+116,Ocotillo,227.79999999999998,5,Maricopa,33.4225,-111.9122,Arizona Public Service Co,AZPS,2015.0,2019.0,retired,Natural Gas Steam Turbine; Solar Photovoltaic,"NG,SUN",RE
+126,H Wilson Sundt Generating Station,217.6,2,Pima,32.16,-110.9047,Tucson Electric Power Co,TEPC,2019.0,2019.0,retired,Natural Gas Steam Turbine,NG,RE
+7998,Tri Cities,5.0,5,Maricopa,33.4833,-111.8172,Salt River Project,SRP,2015.0,2015.0,retired,Landfill Gas,LFG,RE
+58466,Mesa Solar Array,4.0,1,Maricopa,33.346944,-111.603056,"Apple, Inc",SRP,2016.0,2016.0,retired,Solar Photovoltaic,SUN,RE
+57673,Macys Goodyear,3.1,1,Maricopa,33.409063,-112.414596,"Macys Corporate Services, Inc",AZPS,2035.0,2035.0,announced,Solar Photovoltaic,SUN,OP
+56899,IRC Generator Facility,3.0,2,Coconino,36.9708,-112.5264,"Garkane Energy Coop, Inc",WALC,2021.0,2021.0,retired,Petroleum Liquids,DFO,RE
+57939,Walmart Casa Grande,2.0,2,Pinal,32.866837,-111.771751,Tesla Inc.,AZPS,2023.0,2023.0,retired,Solar Photovoltaic,SUN,RE
+61913,Punkin Center Battery Storage,2.0,1,Gila,33.87581,-111.31356,Arizona Public Service Co,AZPS,2019.0,2019.0,retired,Batteries,MWH,RE
+57765,Arizona Western College PV,1.0,2,Yuma,32.687778,-114.49611,AES Distributed Energy,AZPS,2014.0,2014.0,retired,Solar Photovoltaic,SUN,RE
