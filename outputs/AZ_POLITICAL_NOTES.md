@@ -273,3 +273,52 @@ Per your instruction, the explicit list:
     Gila, Graham, Greenlee, La Paz, Santa Cruz, Yavapai. Nothing found for any
     of them, which most likely means nothing has been proposed there yet rather
     than that they are permissive.
+
+---
+
+## APPENDED 2026-07-29 — the two TBD components, now computed
+
+**Do not edit above this line.** The provisional scores table left
+`prior_industrial_use` (5 pts) and `dist_to_residential_km` (4 pts) as TBD for
+the GIS work. Both are now computed. Method and results:
+
+**`prior_industrial_use` (0–5) — DERIVED**
+- 5/5 where the candidate is a retired generating station. A retired power
+  plant is unambiguous prior industrial use.
+- ≤3/5 where the candidate is a substation, scored on density of electrical
+  infrastructure within 5 km as an industrial-corridor proxy (3 if ≥3
+  substations within 5 km, 2 if 1–2, else 1). Capped at 3 because a substation
+  parcel is not evidence that the surrounding land is industrial.
+
+**`dist_to_residential_km` (0–4) — DERIVED**
+- Distance to the nearest census block group with population density
+  ≥200 persons/km², computed in EPSG:26912 from FCC BDC Dec-2024 `TotalPop`
+  over equal-area block group area.
+- Banding: ≥5 km → 4; 2–5 km → 3; 1–2 km → 2; 0.3–1 km → 1; <0.3 km → 0. The
+  0.3 km break is set at Phoenix's 300-foot noise-study trigger.
+- This is a density proxy, not a parcel-level land use survey.
+
+### A finding that materially affects how the table above should be read
+
+**All 25 of the top-scoring private candidates fall in jurisdictions this
+document did not research.** None is in Pima, Tucson, Marana, Phoenix, Buckeye,
+Pinal, Cochise or Chandler. They are in unincorporated Navajo, Apache, Mohave,
+Yuma, Coconino, Greenlee, Yavapai and Maricopa county, plus Kingman, Tempe,
+Mesa, Gilbert and Gila Bend.
+
+Every one of them therefore receives the default 8/8 on moratorium status and
+5/5 on "no restrictive ordinance" **solely because nothing was found** — the
+condition this document already warned about in its closing section
+("Absence of evidence, not evidence of absence").
+
+The rubric cannot distinguish a jurisdiction verified permissive from one
+nobody has studied. Those candidates carry
+`political_prior_basis = "INFERRED — jurisdiction not researched..."` in the
+output CSVs, and this is recorded in AZ_METHOD.md as the single most likely way
+the screen is wrong.
+
+The observation in the original table — that Tucson scores 8/8 on moratorium
+despite being the most hostile jurisdiction in the state — is the same
+weakness seen from the other side. The suggestion to add a litigation-exposure
+term is endorsed; it is not implemented here because doing so would change a
+rubric supplied as an input.

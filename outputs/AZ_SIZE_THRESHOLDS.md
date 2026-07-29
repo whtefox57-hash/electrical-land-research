@@ -225,3 +225,38 @@ invented scale:
 `capacity_basis` must name the source field it came from. Where a substation
 publishes **MVA**, record MVA and **do not silently convert** — the power factor
 is unknown and assuming 1.0 overstates servable MW.
+
+---
+
+## APPENDED 2026-07-29 — note from the GIS build (Steps 2–10)
+
+**Do not edit above this line.** This note qualifies the `size_class` proposal
+at the end of this document; it does not contradict the thresholds themselves,
+which were all confirmed usable as written.
+
+**The `size_class` scheme could only be applied to 7 of 255 candidates.**
+
+The proposal assumed a capacity figure would exist per candidate. For retired
+plants it does: EIA-860 2024 publishes `Nameplate Capacity (MW)` per unit, and
+those 7 sites classify cleanly (3 `project_blue_scale`, 1 `large_load`, and the
+rest below).
+
+For the 248 substation candidates it does not. **The HIFLD substation schema
+contains no capacity field of any kind** — the columns are NAME, TYPE, STATUS,
+LINES, MAX_VOLT, MIN_VOLT plus administrative metadata. There is no MVA rating
+and no MW rating.
+
+This means the instruction in this document — "where a substation publishes
+MVA, record MVA and do not silently convert" — **could not be exercised,
+because no MVA is published anywhere in the acquired data.** The guidance was
+right; the data simply does not reach it.
+
+Those 248 candidates therefore carry `est_capacity_mw = null`,
+`size_class = NOT_DETERMINED`, `capacity_confidence = low`, and a
+`capacity_basis` string explaining the gap. Deriving MW from kV was rejected as
+fabrication: servable load depends on transformer bank size, conductor rating
+and the utility's own planning limits, none of which are public.
+
+**Consequence for the screen:** the ranking measures *access* to the grid
+(proximity, voltage, line counts) and not *room* on it. Resolving capacity
+requires one call per site to the serving utility's system planning group.

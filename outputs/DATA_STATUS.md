@@ -1,6 +1,6 @@
 # DATA_STATUS — every dataset attempted
-Regenerated 2026-07-29 13:52:24 UTC from `data/data_status_log.jsonl` (30 attempt records, 24 distinct datasets).
-**22 succeeded · 2 failed (final state).**
+Regenerated 2026-07-29 14:09:55 UTC from `data/data_status_log.jsonl` (32 attempt records, 25 distinct datasets).
+**23 succeeded · 2 failed (final state).**
 A dataset listed as SUCCESS here was read from the network in this run. Nothing in this project is estimated, synthesised or substituted: where a source failed, the dependent field is left empty and the failure is recorded below.
 
 ---
@@ -40,10 +40,11 @@ A dataset listed as SUCCESS here was read from the network in this run. Nothing 
 | Census_TIGERweb_AIANNH L2 (Federal American Indian Reservations) | 24 | 2026-07-29T13:18:57Z | `https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/AIANNHA/MapServer/2` |
 | Census_TIGERweb_AIANNH L3 (Off-Reservation Trust Lands) | 9 | 2026-07-29T13:18:58Z | `https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/AIANNHA/MapServer/3` |
 | EIA-860 annual 2024 |  | 2026-07-29T13:38:18Z | `https://www.eia.gov/electricity/data/eia860/xls/eia8602024.zip` |
+| FCC Broadband Data Collection Dec-2024, AZ block groups (PROXY for fiber, not routes) | 4773 | 2026-07-29T13:54:40Z | `https://services8.arcgis.com/peDZJliSvYims39Q/arcgis/rest/services/FCC_Broadband_Data_Collection_December_2024_View/FeatureServer/3` |
 | HIFLD_Electric_Power_Transmission_Lines (AZ bbox) | 1335 | 2026-07-29T13:37:23Z | `https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services/US_Electric_Power_Transmission_Lines/FeatureServer/0` |
 | HIFLD_Electric_Retail_Service_Territories (AZ bbox) | 59 | 2026-07-29T13:37:53Z | `https://services3.arcgis.com/OYP7N6mAJJCyH6hd/arcgis/rest/services/Electric_Retail_Service_Territories_HIFLD/FeatureServer/0` |
 | HIFLD_Electric_Retail_Service_Territories (cross-check copy) | 59 | 2026-07-29T13:38:02Z | `https://services6.arcgis.com/BAJNi3EgCdtQ1BCG/arcgis/rest/services/Electric_Retail_Service_Territories/FeatureServer/0` |
-| HIFLD_Electric_Substations (AZ) [third-party republication of HIFLD schema; hifld-geoplatform opendata is SUNSET] | 901 | 2026-07-29T13:37:18Z | `https://services6.arcgis.com/OO2s4OoyCZkYJ6oE/arcgis/rest/services/Substations/FeatureServer/0` |
+| HIFLD_Electric_Substations (AZ) [third-party republication of HIFLD schema; hifld-geoplatform opendata is SUNSET] | 901 | 2026-07-29T14:02:19Z | `https://services6.arcgis.com/OO2s4OoyCZkYJ6oE/arcgis/rest/services/Substations/FeatureServer/0` |
 | PADUS_Manager_Name (cross-check) | 2915 | 2026-07-29T13:16:31Z | `https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Manager_Name_PADUS/FeatureServer/0` |
 | USGS NHD Arizona perennial flowlines (FCode 46006) | 18992 | 2026-07-29T13:49:28Z | `https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/NHD_H_Arizona_State_GDB/FeatureServer/11` |
 | USGS NHD Arizona waterbodies | 10489 | 2026-07-29T13:49:56Z | `https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/NHD_H_Arizona_State_GDB/FeatureServer/16` |

@@ -93,7 +93,11 @@ def step_a():
     g["min_volt_provenance"] = g["MIN_INFER"].apply(
         lambda v: "INFERRED" if str(v).strip().upper() in ("Y", "YES", "1",
                                                            "TRUE") else "READ")
-    g["lines_count"] = pd.to_numeric(g["LINES"], errors="coerce")
+    # LINES carries the same -999999 sentinel as the voltage fields. Coercing
+    # without nulling let -999999 through into scoring and produced a
+    # composite score of -1,818,114.
+    g["lines_count"] = null_sentinels(g["LINES"], sentinels=(-999999, -999998,
+                                                             -99999, -9999))
 
     print(f"  {len(g)} AZ substations")
     print(f"  max_volt known: {g['max_volt_kv'].notna().sum()}, "
