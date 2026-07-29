@@ -1,0 +1,65 @@
+{
+  "breakdown": {
+    "tribal": {
+      "acres_equalarea": 20289203.152247526,
+      "acres_source_field": 20278892.04127555,
+      "pct": 27.809070583649092,
+      "n_polygons": 693
+    },
+    "private": {
+      "acres_equalarea": 12582021.838312376,
+      "acres_source_field": 12579192.61207035,
+      "pct": 17.245346244555883,
+      "n_polygons": 7098
+    },
+    "federal_blm": {
+      "acres_equalarea": 12063811.764053194,
+      "acres_source_field": 12067795.75665034,
+      "pct": 16.535069925466665,
+      "n_polygons": 2063
+    },
+    "federal_forest": {
+      "acres_equalarea": 11178580.669162283,
+      "acres_source_field": 11171974.98920953,
+      "pct": 15.321742136497521,
+      "n_polygons": 357
+    },
+    "state_trust": {
+      "acres_equalarea": 9275903.088307494,
+      "acres_source_field": 9272978.53074882,
+      "pct": 12.713867655332583,
+      "n_polygons": 5961
+    },
+    "federal_other": {
+      "acres_equalarea": 4602427.887342052,
+      "acres_source_field": 4604227.95057465,
+      "pct": 6.308243897743818,
+      "n_polygons": 676
+    },
+    "military": {
+      "acres_equalarea": 2786007.4181636083,
+      "acres_source_field": 2788152.5805330197,
+      "pct": 3.8185963419514266,
+      "n_polygons": 46
+    },
+    "municipal": {
+      "acres_equalarea": 177061.85940330566,
+      "acres_source_field": 176983.28668084,
+      "pct": 0.24268699509143776,
+      "n_polygons": 159
+    },
+    "unknown": {
+      "acres_equalarea": 3922.432919539665,
+      "acres_source_field": 3924.34504552,
+      "pct": 0.005376219711567339,
+      "n_polygons": 532
+    }
+  },
+  "total_acres_equalarea": 72958940.10991138,
+  "az_land_acres_reference": 72964000,
+  "private_polygons": 7098,
+  "cross_checks_acquired": [
+    "adeq",
+    "padus"
+  ]
+}

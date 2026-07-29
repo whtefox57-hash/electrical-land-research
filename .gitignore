@@ -1,0 +1,6 @@
+data/*.gpkg
+data/*.zip
+data/*.xlsx
+data/*.part
+__pycache__/
+*.pyc
