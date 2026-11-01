@@ -45,6 +45,7 @@
     "build",
     "vite.config.ts",
     "tests",
-    "scripts"
+    "scripts",
+    "examples"
   ]
 }
