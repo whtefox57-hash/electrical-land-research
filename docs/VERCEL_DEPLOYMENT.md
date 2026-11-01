@@ -33,6 +33,6 @@ The app is online-first. The service worker caches only a generic offline respon
 
 ## Checks
 
-`npm run test:vercel` exercises rollback, stale versions, two competing snapshot writers, failed readback, private ETag transport and PWA cache limits. Production build/type checks are separate. Platform deployment protection must also be verified on the deployed URL.
+`npm run test:vercel` exercises rollback, stale versions, two competing snapshot writers, failed readback, private ETag transport, authentication boundaries and PWA cache limits. The expanded port, existing atlas-basemap, credential-vault and atlas-rules suites pass 45 checks. Production build/type checks are separate. Platform deployment protection must also be verified on the deployed URL.
 
 Original Cloudflare/Vinext scripts are retained as source reference. Use the `:vercel` scripts for this branch. Existing automations and MCP registrations remain attached to the original Sites origin.

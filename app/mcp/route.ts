@@ -41,7 +41,7 @@ async function POSTHandler(req:Request){
  }catch(e){return reply({isError:true,content:[{type:'text',text:(e as Error).message}]})}
 }
 async function GETHandler(req:Request){const denied=authorize(req);if(denied)return denied;return new Response('Use Streamable HTTP POST',{status:405,headers:{Allow:'POST','Cache-Control':'private, no-store'}})}
-const DELETEHandler=GET;
+const DELETEHandler=GETHandler;
 
 export const POST=withDatabase(POSTHandler);
 export const GET=withDatabase(GETHandler);
