@@ -40,6 +40,12 @@
     "node_modules",
     ".sites-runtime",
     ".wrangler",
-    "dist"
+    "dist",
+    "worker",
+    "build",
+    "vite.config.ts",
+    "tests",
+    "scripts",
+    "examples"
   ]
 }

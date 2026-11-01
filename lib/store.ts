@@ -1,8 +1,8 @@
-import { env } from 'cloudflare:workers';
+import { database } from './vercel-runtime';
 import type { Desk } from './model';
 import {applySourceUpdates} from './source-updates';
 import {encodeWorkspace,decodeWorkspace} from './workspace-codec';
-export function db(){const d=(env as any).DB;if(!d)throw Error('Durable storage is unavailable. Saved research has not been replaced.');return d;}
+export function db(){return database();}
 export async function readDesk():Promise<{data:Desk;version:number}>{
  for(let attempt=0;attempt<4;attempt++){
   const r=await db().prepare('SELECT data,version FROM workspace WHERE id=?').bind('main').first();if(!r)throw Error('Baseline migration has not completed.');const data=decodeWorkspace(r.data),version=r.version;

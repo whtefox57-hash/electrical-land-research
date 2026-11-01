@@ -1,4 +1,5 @@
-import type { Metadata } from "next";
+import PWA from './pwa';
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import "./research-hub.css";
 import "./atlas.css";
@@ -12,9 +13,13 @@ import "./data-centers.css";
 export const metadata: Metadata = {
   title: "Syncranicity Deal Desk",
   description: "Private land research and decision workspace for Syncranicity LLC.",
+  applicationName: "Syncranicity Deal Desk",
+  manifest: "/home-screen-v2.webmanifest",
+  appleWebApp: {capable:true,title:"Deal Desk",statusBarStyle:"black-translucent"},
   icons: {
-    icon: "https://syncranicity-land.whtefox57.chatgpt.site/home-icons/syncranicity-deal-desk/favicon-v2-32.png?v=art2",
-    shortcut: "https://syncranicity-land.whtefox57.chatgpt.site/home-icons/syncranicity-deal-desk/favicon-v2-32.png?v=art2",
+    apple: "/apple-touch-icon-v2.png",
+    icon: "/favicon-v2-32.png",
+    shortcut: "/favicon-v2-32.png",
   },
 };
 
@@ -24,8 +29,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en"><head><link rel="apple-touch-icon" sizes="180x180" href="https://syncranicity-land.whtefox57.chatgpt.site/home-icons/syncranicity-deal-desk/apple-touch-icon-v2.png?v=art2" /><link rel="icon" type="image/png" sizes="32x32" href="https://syncranicity-land.whtefox57.chatgpt.site/home-icons/syncranicity-deal-desk/favicon-v2-32.png?v=art2" /><link rel="manifest" href="/home-screen-v2.webmanifest" /></head>
-      <body className="antialiased">{children}</body>
+    <html lang="en">
+      <body className="antialiased"><PWA/>{children}</body>
     </html>
   );
 }
+
+export const viewport: Viewport={themeColor:"#111827",width:"device-width",initialScale:1};

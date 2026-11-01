@@ -1,3 +1,6 @@
+import {withDatabase} from '@/lib/vercel-runtime';
 import {authorize} from '@/lib/auth';import {db} from '@/lib/store';
 export const dynamic='force-dynamic';
-export async function GET(req:Request,{params}:{params:Promise<{id:string}>}){const denied=authorize(req);if(denied)return denied;const {id}=await params;const d=await db().prepare('SELECT * FROM documents WHERE id=?').bind(id).first();if(!d)return Response.json({error:'Document not found'},{status:404});const bytes=Uint8Array.from(atob(d.content),(c:string)=>c.charCodeAt(0));return new Response(bytes,{headers:{'Content-Type':d.mime,'Content-Disposition':`attachment; filename="${d.name.replace(/[^\w.\-]/g,'_')}"`,'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff'}})}
+async function GETHandler(req:Request,{params}:{params:Promise<{id:string}>}){const denied=authorize(req);if(denied)return denied;const {id}=await params;const d=await db().prepare('SELECT * FROM documents WHERE id=?').bind(id).first();if(!d)return Response.json({error:'Document not found'},{status:404});const bytes=Uint8Array.from(atob(d.content),(c:string)=>c.charCodeAt(0));return new Response(bytes,{headers:{'Content-Type':d.mime,'Content-Disposition':`attachment; filename="${d.name.replace(/[^\w.\-]/g,'_')}"`,'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff'}})}
+
+export const GET=withDatabase(GETHandler);

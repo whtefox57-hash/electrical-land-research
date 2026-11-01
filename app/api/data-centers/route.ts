@@ -1,7 +1,8 @@
+import {withDatabase} from '@/lib/vercel-runtime';
 import {authorize} from '@/lib/auth';
 import {dataset,evidenceData,dataCenterSummary,filterDataCenters,csvExport,relatedEvidence} from '@/lib/data-center-registry';
 export const dynamic='force-dynamic';
-export async function GET(req:Request){
+async function GETHandler(req:Request){
  const denied=authorize(req);if(denied)return denied;
  const p=new URL(req.url).searchParams,headers={'Cache-Control':'private, max-age=300'};
  if(p.get('id')){const record=dataset.records.find(r=>r.id===p.get('id'));return record?Response.json({record,evidence:relatedEvidence(record),sources:{...dataset.sources,...evidenceData.sources}},{headers}):Response.json({error:'Data center not found'},{status:404})}
@@ -13,3 +14,5 @@ export async function GET(req:Request){
  const offset=Math.max(0,Math.floor(Number(p.get('offset'))||0)),limit=Math.min(200,Math.max(1,Math.floor(Number(p.get('limit'))||50)));
  return Response.json({total:rows.length,offset,limit,rows:rows.slice(offset,offset+limit)},{headers});
 }
+
+export const GET=withDatabase(GETHandler);
