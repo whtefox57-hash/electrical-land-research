@@ -1,0 +1,11 @@
+{
+  "name": "layer-26-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/S_FIRM_PAN/FeatureServer/1?f=json",
+  "retrievedAt": "2026-09-05T17:58:15.997120+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 10812,
+  "sha256": "8226c4366cfeae16c461d52a758c28fddde1309e77169125df194f7678abd4a2",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

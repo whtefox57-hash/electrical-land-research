@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788630903400,
+      "tag": "0000_naive_smasher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788631200000,
+      "tag": "0001_baseline_import",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788631500000,
+      "tag": "0002_benson_official_review",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1793404037203,
+      "tag": "0003_smart_secret_warriors",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1793404391302,
+      "tag": "0004_tranquil_mattie_franklin",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1793419743044,
+      "tag": "0005_last_king_cobra",
+      "breakpoints": true
+    }
+  ]
+}

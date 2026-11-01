@@ -1,0 +1,11 @@
+{
+  "name": "layer-43-metadata",
+  "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/AMA_INA_2024/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:26.173434+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12915,
+  "sha256": "531b4551ac2aaf177fcfec70359b0de8729c5272520f207d4e639d5579ba6acd",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

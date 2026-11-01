@@ -1,0 +1,417 @@
+# October 22 research · the October 30 option decision
+
+As of October 22, 2026. Hypothetical decision date: Friday, October 30, 2026.
+
+If forced to choose a target, Hinds 110 is the conditional first choice for a cheap, long-duration assignable option. No reviewed site is currently cleared for payment.
+
+Hinds wins on disclosed land basis and the possibility that founder-reported power/fiber work can be documented quickly. Its ranking is not a finding that it is the most buildable site or has a known success probability.
+
+Texas permitting is a real current blocker. If Hinds cannot provide issuer documents and affordable extensions, Dillon 53 becomes the next negotiation target; New Castle follows. No automatic fallback purchase.
+
+By October 28, require the offered survey, seller authority, actual utility/carrier documents, a written permitting path, accepted economic terms and a takeout route meeting the operative policy. If they remain absent, do not pay on October 30. No fallback is pre-cleared.
+
+## Decision and capital
+
+Retain 52 factors, 16 proofs, conservative score >=70 and evidence confidence >=85. September 23 control-first G11 amendment remains explicitly proposed. Scores and success probability are not computed from missing evidence.
+
+No reviewed option is cleared for payment. New spending recommended: $0. Approved limits remain $5,000 learning and $10,000 cumulative all-in soft control. Prior exposure and remaining cash are unresolved. Assignment probability is not estimable; no numerical success probability or fee valuation is manufactured.
+
+## What changed
+
+- TCEQ construction-stormwater halt is still posted after the October 19 agency deadline. That date was never a reopening promise.
+- Hinds $319,000/$319,500 price conflict remains; low land price does not prove an affordable option or a buyer.
+- Williston listing updated October 20, but the old exact-site denial still needs a written cure.
+- Chiefland is an existing lead, not a new discovery. The June 2025 power timeline and moratorium ambiguity remain reasons to hold.
+- Four additional offering reviews: Georgetown, Entiat, White Oak/Sandston and Rio Del Oro. None displaces the leading candidates.
+- New October 21 Crusoe modular announcement informs buyer discovery; it does not establish a land buyer.
+
+## Texas: a material limit on the Hinds thesis
+
+TCEQ continues to post its data-center permitting pause, including construction stormwater; October 19 was an agency-response deadline, not a promised restart. Rule 16 TAC 25.194 took effect October 8 for qualifying ERCOT large-load arrangements (including the defined co-location cases). Its $100,000 study fee and $50,000/MW intermediate security are not a fee quote for Hinds. A qualifying 75 MW case would imply $3.75 million of that security. Actual supplier, grid, load definition and applicability must be established first. SPP service would not remove statewide TCEQ requirements.
+
+Hinds actual supplier and grid remain unresolved: prior work raised SWRE/WFEC/SPP versus AEP/ERCOT possibilities, not a customer right to choose between them. The 110-acre offering is part of a larger parent and needs its own survey. Transmission voltage and nearby facilities do not establish deliverable MW. Founder-reported power/fiber progress is retained but has not been independently scoped or verified by this run.
+
+## Proposed buyer requirements
+
+20–30 MW initial facility load; 25 MW working case, possible 50 MW expansion. Remote AI/HPC or centralized inference, low-water cooling and two constructible fiber routes. Energization window must be supplied by a buyer.
+
+5–10 MW cases are a separate buyer-discovery hypothesis, not permission to relax land, network or power gates. Compute MW is not facility MW.
+
+Unvalidated hypotheses; no named buyer has accepted any reviewed site.
+
+## Offering comparison
+
+### 1. Hinds 110 / FM 2072 — CONDITIONAL FIRST CHOICE
+
+Wilbarger, TX. 110 advertised acres. Advertised ask $319,000.
+
+$319,000 MLS versus $319,500 Land.com. Reconcile with broker; approximately $2,900/advertised acre.
+
+**Why:** Lowest disclosed land basis among the leading full-size candidates, plus founder-reported power/fiber progress. Best hypothesis for cheap, long-duration control.
+
+**Risk:** Exact 110-acre severance, utility/carrier writing, seller financing and assignment terms remain unresolved. TCEQ permit notice still blocks a dependable construction schedule.
+
+**Power:** Founder says power and fiber are deliverable. Preserve that information; the underlying issuer documents have not been recovered. 138/345 kV crossings are marketing, not allocated MW.
+
+**Next proof:** Obtain offered survey and the actual power/fiber letters; establish supplier, grid, MW, date, cost and transfer rights. Seek a low-fee, long option only after money gates clear.
+
+APNs / parent references: 100771. These do not establish a surveyed offered tract.
+
+[Hinds 110 / FM 2072 offering](https://www.landsearch.com/properties/county-road-105-n-vernon-tx-76384/5375038) · Sources: H2, H1, TX1, TX2, TX3, P2.
+
+### 2. Dillon-Baker compartment 53 — FIRST BACKUP
+
+Dillon, SC. 60 advertised acres. Advertised ask $696,000.
+
+Current ask $11,600/acre. Option terms unknown.
+
+**Why:** Traceable 60-acre tract, published ask and industrial/logistics context; no Texas permit-pause exposure.
+
+**Risk:** County RU use path, exact serving utility and load capacity remain open. Earlier screen found a narrow layout and drainage constraints.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Request 20–25 MW utility writing, RU data-center use interpretation and a layout covering electrical yards, cooling and easements.
+
+APNs / parent references: 080-00-00-053. These do not establish a surveyed offered tract.
+
+[Dillon-Baker compartment 53 offering](https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2) · Sources: SC1, P1.
+
+### 3. New Castle / State Road 3 and Riley Road — SECOND BACKUP
+
+Henry, IN. 44.35 advertised acres. Advertised ask $899,900.
+
+$899,900 / 44.35 acres. No accepted option price.
+
+**Why:** Prior APN-based screen found predominantly well-drained mapped soils; commercial frontage and infrastructure lead.
+
+**Risk:** 44.35-acre offer, 49.634-acre prior legal and about 43.55 GIS acres do not reconcile. Utility map intersects REMC and Duke; sewer listed None.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Reconcile post-split survey and access; obtain a coordinated REMC/Duke service-point and load response.
+
+APNs / parent references: 33-07-27-000-111.001-021. These do not establish a surveyed offered tract.
+
+[New Castle / State Road 3 and Riley Road offering](https://www.reindiana.com/commercial-for-sale/N-State-Road-3-New-Castle-IN-47362-432318720) · Sources: IN1, P1.
+
+### 4. Dillon-Baker compartment 48 — LAYOUT CHALLENGER
+
+Dillon, SC. 36.45 advertised acres. Advertised ask $438,000.
+
+36.45 advertised acres; $438,000. Prior tax/GIS size conflict retained.
+
+**Why:** Lower asking price than 53; earlier soil map was more favorable.
+
+**Risk:** Acreage reconciliation, mapped wetlands, expansion, power and RU use still unresolved. Better soil is not a better buildable layout by itself.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Compare a qualified layout for 48 against 53 before choosing one; do not pay for both.
+
+APNs / parent references: 080-00-00-048. These do not establish a surveyed offered tract.
+
+[Dillon-Baker compartment 48 offering](https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2) · Sources: SC1, P1.
+
+### 5. Rooks Industrial Gateway — LOCAL DOCUMENT CHALLENGER
+
+Maricopa, AZ. 36 advertised acres. Price unpublished.
+
+36-acre primary offering; adjacent APN 401-87-005 not assumed included.
+
+**Why:** Accessible for a founder visit; advertised industrial land and possible smaller first phase. Existing equal research priority is preserved.
+
+**Risk:** Current price unpublished. Prior 10 MW / Q1 2027 claim conflicts with broker versions and lacks APS-issued commitment.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Get price, exact 36-acre offered survey, APS documents and data-center use path before comparing option economics.
+
+APNs / parent references: 401-87-007B. These do not establish a surveyed offered tract.
+
+[Rooks Industrial Gateway offering](https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-195999/rooks-industrial-gateway-w-mc-85-s-rooks-rd-buckeye-az-85326-usa-buckeye-az-85326) · Sources: AZ1, P1.
+
+### 6. Port Arthur / 1970 TX-73 — STUDY-DOCUMENT CHALLENGER
+
+Jefferson, TX. 160.8 advertised acres. Price unpublished.
+
+Price unpublished; 160.8 acres advertised.
+
+**Why:** Broker advertises 50 MW and 150 MW studies, potentially more useful than infrastructure proximity.
+
+**Risk:** Studies, price, offered APNs, wetland permit and rights not examined. Entergy/MISO classification is a hypothesis until confirmed; Texas statewide permit pause still matters.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Ask for full dated study, assumptions, project/applicant identity, remaining upgrades, transfer rights and price.
+
+APNs / parent references: Unresolved. These do not establish a surveyed offered tract.
+
+[Port Arthur / 1970 TX-73 offering](https://www.showcase.com/1970-tx-73-port-arthur-tx-77640/38808518/) · Sources: PA1, TX1.
+
+### 7. White Oak / 5650 Technology Boulevard — STALE TIMELINE CHECK
+
+Henrico, VA. 49.415 advertised acres. Price unpublished.
+
+
+
+**Why:** Advertised M1-C data-center use and 20 MW bridging power create a specific falsifiable claim.
+
+**Risk:** Q3 2026 power milestone has passed. No current issuer proof, price, entitlement letter or transfer terms; portal mixes sale/lease labels.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Ask whether the 20 MW was actually energized and allocated to these APNs, obtain the utility letter and current transaction terms.
+
+APNs / parent references: 843-706-0700; 843-707-0215. These do not establish a surveyed offered tract.
+
+[White Oak / 5650 Technology Boulevard offering](https://www.showcase.com/5650-technology-blvd-sandston-va-23150/35097051/) · Sources: VA1.
+
+### 8. Chiefland / Sherrill property — REGULATORY AND TIMELINE HOLD
+
+Levy, FL. 351.7 advertised acres. Advertised ask $7,000,000.
+
+$7M whole property. A 20–40 acre arithmetic scenario is $400k–$800k, not a seller quote.
+
+**Why:** Seller advertises subdivision at $20,000/acre and provides a dated readiness report.
+
+**Risk:** The report estimates 25–36 months for 10 MW with upgrades; 20+ MW requires substation rebuild. Moratorium scope/effective date and exact jurisdiction remain unresolved.
+
+**Power:** June 2025 readiness report: 1–5 MW minimal improvements; 10 MW feeder/transformer work and 25–36-month estimate; 20+ MW rebuild and project-dependent timing. All subject to current utility confirmation.
+
+**Next proof:** Obtain signed final ordinance and exact-site determination, then a current utility study for a quoted carveout. Do not treat a hypothetical 30-acre/$600,000 cut as an offered parcel.
+
+APNs / parent references: Unresolved. These do not establish a surveyed offered tract.
+
+[Chiefland / Sherrill property offering](https://totalcommercial.com/listings/e1c95cd4-3116-4a70-bd74-5c8a168c7f72) · Sources: FL1, FL2, FL3, FL4.
+
+### 9. Georgetown / Westinghouse Road — SMALL-SITE WATCH
+
+Williamson, TX. 11.28 advertised acres. Price unpublished.
+
+
+
+**Why:** Broker specifies 10 MW in 2027 plus 10 MW in 2028.
+
+**Risk:** Capacity is seller marketing; two-utility claim is not lawful service choice. Small acreage, unpublished price and Texas permitting impede a deadline option.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Obtain exact utility allocation and quoted price; test buyer-fit and buildable area before expansion work.
+
+APNs / parent references: R039945; R623026. These do not establish a surveyed offered tract.
+
+[Georgetown / Westinghouse Road offering](https://www.loopnet.com/Listing/748-750-Westinghouse-Rd-Georgetown-TX/40718675/) · Sources: GT1, TX1.
+
+### 10. Entiat / Shamel Street F-3 — OUTSIDE STANDARD SEARCH BOX
+
+Chelan, WA. 1.87 advertised acres. Advertised ask $325,900.
+
+
+
+**Why:** Affordable absolute ask with a marketed 5–10 MW concept.
+
+**Risk:** Only 1.87 acres, conditional-use requirement and no utility commitment. Does not meet the standard 20+ acre land screen.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Only reopen for a buyer-validated compact project or an exact neighboring assemblage; request utility and CUP writing first.
+
+APNs / parent references: 252104545090. These do not establish a surveyed offered tract.
+
+[Entiat / Shamel Street F-3 offering](https://www.northwestfirstrealtors.com/mls/0-nna-shamel-street-f-3-entiat-wa-98822-2548614) · Sources: WA1, WA2.
+
+### 11. Rio Del Oro / Rancho Cordova Parkway — SPONSOR-SCALE BENCHMARK
+
+Sacramento, CA. 35.75 advertised acres. Advertised ask $18,684,669.
+
+
+
+**Why:** Broker markets 20 MW with 49 MW expansion by 2032 on improved industrial land.
+
+**Risk:** The $18.68M land ask is far outside first-pilot economics. No independently verified capacity reservation.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Retain as a competing-site benchmark; do not pursue a founder-funded option.
+
+APNs / parent references: 072-3880-002. These do not establish a surveyed offered tract.
+
+[Rio Del Oro / Rancho Cordova Parkway offering](https://www.loopnet.com/Listing/Rancho-Cordova-Pky-Rancho-Cordova-CA/26302685/) · Sources: CA1.
+
+### 12. Williston / Highway 1804 and 48th Street NW — ADVERSE-HISTORY HOLD
+
+Williams, ND. 136 advertised acres. Price unpublished.
+
+Current 10-acre example $199,000; 10–76-acre lots start at $19,900/acre. Whole-offering price unresolved.
+
+**Why:** October 20 listing refresh still offers lots adjacent to MWEC infrastructure.
+
+**Risk:** Eastern 76-acre parcel has an adverse 2024 setback appeal decision. No later subject cure found. Cheap 10-acre example is not the full 136-acre offering or proof of power.
+
+**Power:** No current exact-load service commitment recovered.
+
+**Next proof:** Require written county cure for eastern APN 35-035 before any paid pursuit. Separately identify western lots; do not transfer the denial or another site’s MWEC agreement across parcels.
+
+APNs / parent references: 51-154-02-00-35-035. These do not establish a surveyed offered tract.
+
+[Williston / Highway 1804 and 48th Street NW offering](https://www.commercialsearch.com/commercial-property/us/nd/williston/heavy-industrial-lots-from-10-acres-19-900-acre-next-to-substation-terminal-1/) · Sources: ND1, ND2, P1.
+
+## Proposed Hinds option structure
+
+Negotiation targets only. No seller acceptance, offer or payment.
+
+- **Initial consideration:** Target $1,000 for six months, only after applicable payment gates pass; a negotiation target, not an accepted offer.
+- **Extensions:** Two unilateral six-month extensions at no more than $1,000 each; total potential control 18 months. Seek a defined permit-delay extension/tolling provision, subject to a longstop.
+- **Purchase basis:** Negotiate at or below the reconciled current asking price, attached to the exact 110-acre survey and legal description.
+- **Assignment:** Counsel-approved assignment / nomination to a project buyer or affiliate, with no discretionary seller veto or surprise fee; utility/queue transfer is a separate approval.
+- **Seller financing:** Must be agreed now as the exercise purchase method: down payment, rate, amortization, balloon, security, recourse, prepayment and assignee assumption. No assumption the seller has accepted.
+- **Access and evidence:** Owner authorization for utility, carrier, planning and title inquiries; controlled testing rights, data sharing, consultant reliance and seller cooperation.
+- **Exit and liability:** No unconditional purchase obligation, automatic paid renewal or personal utility guarantee. Title/survey cures, cancellation and capped restoration obligations reviewed by Texas counsel.
+- **Budget:** Illustrative ceiling: $3,000 total option/extension fees + $2,000 legal/title + $3,000 scoped fatal screens + $2,000 contingency = $10,000. Include prior spend and commitments first; actual quotes may make this infeasible.
+
+## Sixteen pre-payment proofs
+
+- **G01 Exact parcel — UNKNOWN:** 110-acre offered survey/legal description missing; parent identity alone is insufficient.
+- **G02 Seller authority — UNKNOWN:** Recorded owner history and listing agent do not prove present authority to sign.
+- **G03 Access and layout — UNKNOWN:** Transmission easements, legal access and contiguous buildable pad not reconciled.
+- **G04 Serving utility — UNKNOWN:** Require exact retail supplier, grid and POI from issuer documents.
+- **G05 Studyable power path — UNKNOWN:** Founder assertion retained; scoped MW/date/cost/security commitment absent from reviewed pack.
+- **G06 Use and approvals — BLOCKED / NEEDS INTERPRETATION:** TCEQ construction-stormwater halt remains posted October 22. No design-specific lawful issuance timetable recovered.
+- **G07 Water and cooling — UNKNOWN:** Low-water design remains a hypothesis; actual demand/discharge and permits unspecified.
+- **G08 Fiber — UNKNOWN:** Founder assertion retained; carrier capacity and physically diverse routes not documented.
+- **G09 Environmental — UNKNOWN:** No offered-polygon environmental or engineering clearance.
+- **G10 Buyer fit — UNKNOWN:** 25 MW / 50 MW target is an analyst hypothesis, not a validated requirement.
+- **G11 Funded takeout — UNKNOWN:** No validated requirement or funded engagement. Control-first takeout-route amendment in September 23 policy is proposed, not silently adopted; either version remains unmet.
+- **G12 Assignable control — UNKNOWN:** No accepted assignment, extension or seller-financing terms.
+- **G13 Lawful transaction — UNKNOWN:** Counsel review of option/assignment structure and applicable licensing rules still required.
+- **G14 Transferable evidence — UNKNOWN:** Utility, carrier, studies and seller authorizations must run to the purchaser/assignee.
+- **G15 Capital and runway — HOLD:** New spend $0 recommended; historical exposure and remaining cash unreconciled.
+- **G16 Independent challenge — UNKNOWN:** A qualified third party has not independently cleared the offered tract and complete thesis.
+
+## Prepared founder handoffs
+
+Planning milestones only; no outreach, application, automation or reminder created.
+
+### 2026-10-23 · Get the actual Hinds evidence pack
+
+Chris Clerihew / Davis Vernon · 940-552-0500 · Founder call or listing inquiry; draft only
+
+I am evaluating Hinds 110 for phased computing use, with no committed tenant or capacity reservation. Please send the exact 110-acre survey/legal description, seller authority, easements, and every utility/carrier letter supporting the reported power and fiber. Please identify issuer, applicant, MW, delivery point/date, upgrade costs and transfer conditions. Would the seller discuss a low-fee assignable option with enforceable extensions and seller financing fixed in advance?
+
+**Success:** Exact offered survey plus dated issuer documents and named authorized seller.
+
+**Partial:** Documents promised with owner and delivery date; no inferred gate pass.
+
+**Stop:** No offered tract definition or demand for hard money before evidence.
+
+**Voicemail / short script:** William with Syncranicity, calling about Hinds 110. I need the offered survey and existing power/fiber letters before discussing conditional option terms. Please return my call.
+
+$0 document request; no fees authorized
+
+### 2026-10-26 · Resolve the actual utility and permit route
+
+Serving utility named in seller documents; TCEQ Stormwater Permits Team · Utility channel remains unverified; SWGP@tceq.texas.gov verified on current official page
+
+For the exact offered tract and a genuine 20–30 MW facility phase / 50 MW expansion hypothesis, please identify DSP, TSP, ISO, intake steps, delivery point, schedule, upgrades, deposits, credit and transfer conditions. For TCEQ: which construction, generator and water authorizations would this design require, and what can proceed while the directive remains? Do not submit a funded application.
+
+**Success:** Written exact-site process and credible scope-specific path with costs/dependencies.
+
+**Partial:** Correct named desk plus document request; availability remains unknown.
+
+**Stop:** No affordable studyable path or control cannot outlast the required milestone.
+
+**Voicemail / short script:** I am seeking the correct exact-parcel large-load intake and a written process, not a capacity reservation.
+
+$0 preliminary request; no study/application authorized
+
+### 2026-10-27 · Test whether a developer would pay for this position
+
+Crusoe infrastructure/site-selection function; route through official contact page · https://www.crusoe.ai/contact-sales (routing only; no message sent)
+
+Your October 21 modular announcement prompted a requirements question. Would a remote North Texas site with a documented 20–30 MW facility phase and 50 MW path fit any acquisition program? What power cost/date, network latency, diversity, control term and evidence milestone would cause your team to consider paying for a transferable land position? We have no validated MW allocation or buyer-ready claim.
+
+**Success:** Dated requirement card from a relevant decision-maker and explicit evidence/payment hurdle.
+
+**Partial:** Referral only; no buyer validation.
+
+**Stop:** Remote geography or scale rejected; retarget before commissioning reports.
+
+**Voicemail / short script:** William with Syncranicity. I would like the infrastructure site-selection contact for a requirements discussion before presenting a specific land opportunity.
+
+$0 discovery; no transaction commitment
+
+### 2026-10-27 · Keep Dillon ready to replace Hinds
+
+Curtis Spencer / AFM · 803-491-4832 · Founder call; draft only
+
+Please provide existing utility and county RU-use correspondence, offered surveys and easement schedules for compartments 53 and 48. Which tract can support a 20–25 MW layout, and would the owner entertain assignable, extendable low-fee control?
+
+**Success:** Issuer documents, layout path and actual terms.
+
+**Partial:** Broker assertions only; hold.
+
+**Stop:** No legal use path, adequate pad or affordable transferable control.
+
+**Voicemail / short script:** Calling about Baker compartments 53 and 48. Please share existing power, use and survey documents so we can compare layouts before discussing control.
+
+$0 document request; no fees authorized
+
+### 2026-10-28 · Re-rank before any deadline decision
+
+William + Texas commercial real-estate counsel/title · Desk review; no adviser engaged
+
+Reconcile prior spend, all commitments, signed terms, offered geometry, power/fiber, permitting runway, buyer takeout route and all 16 proofs. If any required proof remains open, choose no payment on October 30.
+
+**Success:** Complete evidence/cash review and counsel-approved transferable terms.
+
+**Partial:** Extend free access or negotiations; do not pay.
+
+**Stop:** Unresolved critical proof or all-in exposure exceeds $10,000.
+
+**Voicemail / short script:** Not applicable: internal decision meeting.
+
+No engagement or expense authorized
+
+## Demand signals, not committed buyers
+
+- **Crusoe:** October 21 Spark Liquid: up to 3.5 MW compute per module, with production in 2027. Useful new evidence that small modular blocks have a real product path. Request an infrastructure requirement card. Remote Hinds may fail localized-inference latency and demand needs. No site interest; no commitment; product evidence only. Source B1.
+- **Soluna:** Operating Texas campuses and a disclosed renewable-linked AI pipeline. Possible demand-discovery target only if an actual competitive renewable supply/co-location structure exists. Transmission crossings alone do not fit this model. No subject interest; adjacent existing land is a competing alternative. Source B2.
+- **IREN:** Reported 50 MW IT deployments at Childress. Regional context and a scale benchmark, not a validated buyer for a 25 MW rural tract. Search excerpt only; not counted as qualified takeout. Source B3.
+
+## Coverage
+
+- 12 deduplicated offering reviews: 8 existing records refreshed and 4 additions to this review queue. Shared AFM page contains separate compartments 53 and 48.
+- Fresh listing/public-policy review plus carried October 3/8/19 parcel work. No new whole-polygon GIS analysis or field inspection in this run.
+- Adairsville remains stopped. Founder categories, notes, portfolio assignments, spending caps and automations are preserved.
+- No seller, utility, carrier, county, buyer or professional was contacted; no expense, application, offer or option was made.
+- Site-specific available MW and assignment success probabilities remain null in this research. Founder-entered information is preserved separately.
+- A current signed Levy ordinance was not retrieved. Conflicting September/October reports and possible scope thresholds are flagged; no automatic 20–30 MW exemption or blanket ban is asserted.
+
+## Source ledger
+
+- **H1** [Hinds 110 live Land.com offering](https://www.land.com/property/110-acres-in-wilbarger-county-texas/27899900/) — Land.com / Davis Vernon; Listing updated August 7; rechecked October 22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **H2** [Hinds MLS 21317653 price and parent identifier](https://www.landsearch.com/properties/county-road-105-n-vernon-tx-76384/5375038) — LandSearch / Davis Vernon; Price updated September 11; rechecked October 22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **TX1** [TCEQ construction stormwater notice](https://www.tceq.texas.gov/permitting/stormwater/construction) — Texas Commission on Environmental Quality; 2026-10-22; V3. Statewide notice still posted; project-specific permits, applicability and reopening require written confirmation.
+- **TX2** [Adopted 16 TAC 25.194](https://www.sos.state.tx.us/texreg/archive/October22026/Adopted%20Rules/16.ECONOMIC%20REGULATION.html) — Texas Secretary of State / PUCT; Effective October 8, 2026; V3. ERCOT scope; do not apply the per-MW security formula to a standalone sub-75 MW case without a proper applicability analysis.
+- **TX3** [Data center state and community impact RFI](https://www.ercot.com/services/comm/mkt_notices/M-B091426-01) — ERCOT; September 14, 2026; V3. Applies to described notified project cohorts; not evidence Hinds is registered or an RFI recipient. December report target is not a permitting reopening date.
+- **SC1** [Dillon-Baker offerings, price and broker](https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2) — AFM Real Estate; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **IN1** [New Castle State Road 3 current listing](https://www.reindiana.com/commercial-for-sale/N-State-Road-3-New-Castle-IN-47362-432318720) — Indiana Regional MLS; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **AZ1** [Rooks Industrial Gateway current offering](https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-195999/rooks-industrial-gateway-w-mc-85-s-rooks-rd-buckeye-az-85326-usa-buckeye-az-85326) — CBRE; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **ND1** [Williston 10-acre example and 10-76 acre lots](https://www.commercialsearch.com/commercial-property/us/nd/williston/heavy-industrial-lots-from-10-acres-19-900-acre-next-to-substation-terminal-1/) — CommercialSearch / Lunnen; Updated October 20, 2026; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **ND2** [GoGo appeal denial on MS16-0029](https://williamsnd.civicweb.net/document/167495/) — Williams County; February 20, 2024; rechecked October 22, 2026; V3. Historical exact-site adverse decision. No later subject cure located; it is not automatically a ban on every western lot.
+- **PA1** [1970 TX-73 marketing / studies advertised](https://www.showcase.com/1970-tx-73-port-arthur-tx-77640/38808518/) — Showcase / listing broker; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **FL1** [Chiefland divisible land offering](https://totalcommercial.com/listings/e1c95cd4-3116-4a70-bd74-5c8a168c7f72) — TotalCommercial / Busch Realty; Updated October 7, 2026; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **FL2** [Sherrill Property Site Readiness report, page 20](https://totalcommercial.com/media/273917/Duke-Energy-Site-Readiness---Levy---Sherrill-Property-Report---6.26.2025.pdf) — Site Selection Group / Duke Site Readiness program; June 26, 2025; V2. Broker-hosted professional screening, dated and not a current load reservation or reliance letter.
+- **FL3** [Levy County October 6 public hearing agenda](https://meetings.municode.com/adaHtmlDocument/index?cc=LEVYFL&ip=false&me=bc4088e6162c4c3c8b15b69654b03084) — Levy County; October 6, 2026; V3. Agenda proves hearing scope, not final enacted language, applicability or effective date.
+- **FL4** [Levy moratorium adoption reporting](https://www.wcjb.com/2026/10/06/levy-county-residents-raise-health-water-concerns-over-data-centers/) — WCJB; October 6, 2026; V2. Adoption reported; September and October reporting conflict on timing. Signed final text and exact-site interpretation remain missing.
+- **GT1** [748 and 750 Westinghouse Road](https://www.loopnet.com/Listing/748-750-Westinghouse-Rd-Georgetown-TX/40718675/) — LoopNet / Lee & Associates; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **WA1** [Entiat Shamel F-3 offering](https://www.northwestfirstrealtors.com/mls/0-nna-shamel-street-f-3-entiat-wa-98822-2548614) — Northwest First / NWMLS; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **WA2** [Entiat offering APN and price](https://chaselipke.com/commercial-for-sale/0-NNA-Shamel-Street-Unit-F-3-Entiat-WA-98822-435149664) — Van Dorm / NWMLS; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **CA1** [Rancho Cordova Parkway / Rio Del Oro](https://www.loopnet.com/Listing/Rancho-Cordova-Pky-Rancho-Cordova-CA/26302685/) — LoopNet / Newmark; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **VA1** [White Oak / 5650 Technology Boulevard](https://www.showcase.com/5650-technology-blvd-sandston-va-23150/35097051/) — Showcase / listing broker; 2026-10-22; V1. Listing or broker statement; no reserved capacity, legal title, or transferable utility rights established.
+- **B1** [Crusoe Spark Liquid announcement](https://www.crusoe.ai/resources/newsroom/crusoe-introduces-crusoe-spark-liquid) — Crusoe; October 21, 2026; V3. Company product announcement; 3.5 MW is compute per unit, not facility load. Manufacturing planned in 2027. No interest in any reviewed land.
+- **B2** [Soluna Kati completion and pipeline](https://www.solunacomputing.com/news/kati-1-completion/) — Soluna; September 8, 2026; V3. Company-stated projects and strategy, not a requirement or offer for Hinds. Existing controlled sites compete with new land.
+- **B3** [IREN FY26 results](https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results) — IREN; August 27, 2026; V2. Official release search excerpt only; full page returned 403. Regional context only; do not count as a qualified small-site buyer.
+- **P1** [October 19 four-site desktop baseline](/research/2026-10-19-screening/report.md) — Syncranicity; October 19, 2026; PRIOR_RESEARCH. County geometry, soil and utility-overlay findings carried forward with their original dates; not rerun October 22.
+- **P2** [Hinds parcel and regulatory baseline](/research/2026-10-13/hinds-oct03-addendum.md) — Syncranicity; October 3, 2026; PRIOR_RESEARCH. Parent CAD identity and competing service paths carried forward; offered-tract survey and issuer evidence not recovered.

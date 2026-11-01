@@ -1,0 +1,57 @@
+{
+  "at": "2026-10-31T02:36:34.523Z",
+  "data_center_records": 4257,
+  "build": "passed",
+  "typescript": "passed",
+  "data_register_tests": {
+    "passed": 5
+  },
+  "production_api_tests": {
+    "passed": true,
+    "checks": [
+      "Anonymous API requests rejected",
+      "Production inventory matches the complete current 3000+ record register",
+      "Full directory payload includes records, sources and acquisition evidence",
+      "Directory page renders through the production Worker",
+      "State filter and pagination",
+      "Record specifications and provenance",
+      "Unknown record returns404",
+      "Filtered geographic export",
+      "CSV export retains measurement basis"
+    ]
+  },
+  "rendered_and_component_tests": {
+    "passed": 5
+  },
+  "broader_unit_tests": {
+    "passed": 25,
+    "failed": 1
+  },
+  "existing_fixture_failures": [
+    {
+      "test": "scripts/worker-acceptance.mjs",
+      "reason": "Historical fixture expects 26 workspace records; current source updates return 322."
+    },
+    {
+      "test": "scripts/mcp-acceptance.mjs",
+      "reason": "Historical fixture expects 26 workspace records; current source updates return 322."
+    },
+    {
+      "test": "tests/oct19-research.test.mjs",
+      "reason": "Historical October 19 fixture fails the later October 22 canonical record requirement (oct19-27254380). The tested source-update modules are unchanged by this data-center feature."
+    }
+  ],
+  "browser_review": "Unavailable: no browser route in this session.",
+  "database_export": {
+    "sqlite_integrity": "ok",
+    "records": 4257
+  },
+  "coverage_limitations": [
+    "Incomplete national inventory",
+    "Unresolved campus/building relationships",
+    "Acreage available for 919 records; reported MW for 1531",
+    "Original land purchaser identified in 4 linked inventory records",
+    "21 researched acquisition cases, 7 exact inventory links",
+    "Metered power use not available"
+  ]
+}

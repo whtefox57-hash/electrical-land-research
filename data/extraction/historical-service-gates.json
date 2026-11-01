@@ -1,0 +1,72 @@
+{
+  "warning": "This older services/competitor framework has different gate meanings than controlling Operator Manual gate identifiers. Preserve separately; do not merge by numeric ID.",
+  "source": "project_sources/11-Electric_Land_Gate_Strategy_Competitor_Report-1-.pdf",
+  "gates": [
+    {
+      "id": 0,
+      "name": "Project definition and kill criteria",
+      "question": "Is the project defined precisely enough to evaluate sites?",
+      "page": 2
+    },
+    {
+      "id": 1,
+      "name": "Regional and utility-territory feasibility",
+      "question": "Which markets and utility regimes deserve attention?",
+      "page": 2
+    },
+    {
+      "id": 2,
+      "name": "Parcel desktop fatal-flaw screen",
+      "question": "Does a parcel survive ownership, buildability, infrastructure and hazard screening?",
+      "page": 3
+    },
+    {
+      "id": 3,
+      "name": "Human validation and ground truth",
+      "question": "Do utilities, governments, providers and the physical site support the desktop theory?",
+      "page": 3
+    },
+    {
+      "id": 4,
+      "name": "Site control and diligence rights",
+      "question": "Can the customer control land conditionally while diligence proceeds?",
+      "page": 4
+    },
+    {
+      "id": 5,
+      "name": "Utility and power path",
+      "question": "Is there a credible path to the required quantity, quality, price, reliability and date of power?",
+      "page": 4
+    },
+    {
+      "id": 6,
+      "name": "Physical, environmental and resource feasibility",
+      "question": "Can the facility actually be built and operated?",
+      "page": 5
+    },
+    {
+      "id": 7,
+      "name": "Entitlement and political durability",
+      "question": "Can approvals be obtained and survive politics, appeals and community opposition?",
+      "page": 6
+    },
+    {
+      "id": 8,
+      "name": "Integrated business case",
+      "question": "Does the combined site still make financial sense?",
+      "page": 6
+    },
+    {
+      "id": 9,
+      "name": "Transferable evidence and commercial readiness",
+      "question": "Can a buyer, lender or investment committee independently audit and reuse the work?",
+      "page": 7
+    },
+    {
+      "id": 10,
+      "name": "Closing, construction, energization and lifecycle",
+      "question": "Can the project execute through construction and operation?",
+      "page": 7
+    }
+  ]
+}

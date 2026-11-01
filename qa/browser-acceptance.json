@@ -1,0 +1,30 @@
+{
+  "at": "2026-09-07T18:56:34.872086+00:00",
+  "scope": "Supervised local preview with isolated D1, not live deployment",
+  "passed": [
+    "Existing Deal Desk and SafetyLoop reference inspected",
+    "Desktop and 390px mobile layouts inspected",
+    "Synthetic MCP delivery returned SYNCED with readback",
+    "Repeated synthetic delivery returned duplicate",
+    "Synthetic correction appeared in dossier and map",
+    "Invalid delivery displayed SYNC_FAILED and retained payload",
+    "Fresh tab read same records",
+    "Watch, Rejected, Primary, Backups, Priority and node filters changed visible records",
+    "Company and customer address locators rendered",
+    "Road layer removed three shapes",
+    "Well layer added two point features",
+    "Electronic range displayed source interpretation",
+    "All four automation cards opened their own history",
+    "Company search filtered source evidence",
+    "Empty Change Watch feed was explicit",
+    "Exact parcel polygons toggled from zero to four visible polygon shapes",
+    "Synthetic record archived after fixing incomplete-screen rejection bug",
+    "Methodology showed no individual-weights-missing message",
+    "Tasks, Relationships, Research, Political and active-deal routes rendered"
+  ],
+  "limitations": [
+    "WebGL unavailable in cloud browser; rendered saved-coordinate fallback tested",
+    "No live scheduled receipt; owner Sites MCP capability blocked",
+    "Fresh tab shares browser session; separate authenticated request sessions tested in Worker suite"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "layer-23-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fort%20Huachuca%20Electronic%20Range/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:13.541070+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 8775,
+  "sha256": "9f7ac061d1ae922b5570055fef2834c9f5ffd79841535671d33738bf532bfb88",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

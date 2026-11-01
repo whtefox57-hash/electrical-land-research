@@ -1,0 +1,11 @@
+{
+  "name": "layer-16-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/MaintainedRoadSegmented/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.417935+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 16407,
+  "sha256": "1a13e4ee3c3bf5fa005be2ab4454ed16fc3095e4a9714eeef1d7e3d0a98b540c",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

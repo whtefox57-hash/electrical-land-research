@@ -1,0 +1,11 @@
+{
+  "name": "layer-1-metadata",
+  "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Well_Registry_2024/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.414161+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 19644,
+  "sha256": "87ec7d8ca5534d0c731b92a8aa8c17783458ffd597962962d406fa959f61c99d",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

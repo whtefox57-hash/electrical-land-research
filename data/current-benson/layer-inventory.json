@@ -1,0 +1,623 @@
+[
+  {
+    "id": "199ee347a67-layer-68",
+    "title": "Parcels-(Notification only)",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0",
+    "itemId": "794ec9e6c3494db2ac153aace7a36bf6",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Well_Registry_2024_8772",
+    "title": "Well Registry 2024",
+    "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Well_Registry_2024/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "CWS_Service_Area_4043",
+    "title": "Utility - Water Company Service Area",
+    "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/ArcGIS/rest/services/CWS_Service_Area/FeatureServer/0",
+    "itemId": "97604374d965467db96ef5e56f31e737",
+    "definitionExpression": "COUNTY = 'COCHISE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "199de8d7cd8-layer-67",
+    "title": "Utility - Electric Service Area",
+    "url": "https://services6.arcgis.com/l7uujk4hHifqabRB/arcgis/rest/services/Arizona_Utility_Company_Boundaries_VIEW/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Telephone Company_8155",
+    "title": "Utility - Telephone Company",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Telephone%20Company/FeatureServer/0",
+    "itemId": "fd87c05c97524411b9304c3f1e6c7ccf",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "KMAssetMap_WFL1_5376",
+    "title": "Utility - Natural Gas - Pacific South Line",
+    "url": "https://services3.arcgis.com/eANuK4g7QbIKogEB/ArcGIS/rest/services/KMAssetMap_WFL1/FeatureServer/31",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "KMAssetMap_WFL1_659",
+    "title": "Utility - Natural Gas",
+    "url": "https://services3.arcgis.com/eANuK4g7QbIKogEB/ArcGIS/rest/services/KMAssetMap_WFL1/FeatureServer/2",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "UZA_2023_gdb_281",
+    "title": "Urbanized Areas, Adjusted, 2023",
+    "url": "https://services1.arcgis.com/MdyCMZnX1raZ7TS3/arcgis/rest/services/UZA_2023_gdb/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Tombstone Aqueduct_3661",
+    "title": "Tombstone Aqueduct",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Tombstone%20Aqueduct/FeatureServer/0",
+    "itemId": "dd730243318149b9bf031775543ef342",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_TaxLienParcel_5057",
+    "title": "Tax Lien Parcel",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_TaxLienParcel/FeatureServer/0",
+    "itemId": "884c3a68ea82466399c4558151694d30",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Surface Watersheds_9540",
+    "title": "Sierra Vista Sub-Watershed",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Surface%20Watersheds/FeatureServer/0",
+    "itemId": "cdf3cec1246a49689f68f1d4875903d4",
+    "definitionExpression": "GID = 9",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes5_8859",
+    "title": "School District",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes5/FeatureServer/0",
+    "itemId": "9cadf15e2b384fb298723c6ba122b938",
+    "definitionExpression": "schname <> 'UNORGANIZED'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fac_Location_4199",
+    "title": "School",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fac_Location/FeatureServer/2",
+    "itemId": "9733de055d1d4affb3fe6e037beb1ec5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fac_Location_9330",
+    "title": "Sanitation - Transfer Station and Landfill",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fac_Location/FeatureServer/1",
+    "itemId": "9733de055d1d4affb3fe6e037beb1ec5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19cddf6e0ec-layer-68",
+    "title": "Roads - Functional Classification (New)",
+    "url": "https://services6.arcgis.com/clPWQMwZfdWn4MQZ/arcgis/rest/services/ADOT_ATIS_Public_view/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": "FunctionalSystem <> 7 AND County = 'Cochise'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Trn_ROW_3444",
+    "title": "Roads - Dedicated Right of Way",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_ROW/FeatureServer/0",
+    "itemId": "e1e44a89bb294b04b8e28a89d0625262",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "MaintainedRoadSegmented_815",
+    "title": "Roads - County Maintained",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/MaintainedRoadSegmented/FeatureServer/0",
+    "itemId": "a5063cfbaee44d96b017c08a2687d5d0",
+    "definitionExpression": "active = 'YES'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fac_Location_3967",
+    "title": "Police",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fac_Location/FeatureServer/3",
+    "itemId": "9733de055d1d4affb3fe6e037beb1ec5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Opportunity_Zones_2604",
+    "title": "Opportunity Zones",
+    "url": "https://services5.arcgis.com/ZrPVNtByTK88ebut/arcgis/rest/services/Opportunity_Zones/FeatureServer/0",
+    "itemId": "e00b835ecc634f509d0d7b85c26167a5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "2022_Aggregates_and_Crushed_Stone_1473",
+    "title": "Mines: Aggregates and Crushed Stone (2022)",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2022_Aggregates_and_Crushed_Stone/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Trn_Milepost_1727",
+    "title": "Milepost",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_Milepost/FeatureServer/0",
+    "itemId": "ddc558fcb390440db1587183159a7b19",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Hubbard Encroachment Area_6394",
+    "title": "Fort Huachuca Hubbard Encroachment Area",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Hubbard%20Encroachment%20Area/FeatureServer/0",
+    "itemId": "b3dcc85ab7e1408b95a73b69c4219915",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "FtHuachuca_interactive_map_2022_05_31_EBR_374",
+    "title": "Fort Huachuca High Noise or Accident Potential Zone",
+    "url": "https://services6.arcgis.com/qsfT0E2It2u5vqBg/arcgis/rest/services/FtHuachuca_interactive_map_2022_05_31_EBR/FeatureServer/13",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fort Huachuca Electronic Range_7783",
+    "title": "Fort Huachuca Electronic Range",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fort%20Huachuca%20Electronic%20Range/FeatureServer/0",
+    "itemId": "548222b48a274739b0ba45b6ffc769b4",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "FtHuachuca_interactive_map_2022_05_31_EBR_7823",
+    "title": "Fort Huachuca - Airfield Safety Zones",
+    "url": "https://services6.arcgis.com/qsfT0E2It2u5vqBg/ArcGIS/rest/services/FtHuachuca_interactive_map_2022_05_31_EBR/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "USA_Flood_Hazard_Reduced_Set_gdb_2121",
+    "title": "Floodplain - Flood Hazard Areas",
+    "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer/0",
+    "itemId": "2b245b7f816044d7a779a61a5844be23",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "S_FIRM_PAN_2569",
+    "title": "Floodplain - FIRM Panels",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/S_FIRM_PAN/FeatureServer/1",
+    "itemId": "12d3fd13cd2d4dc1833cd0e071f72359",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Base_Flood_Elevation_9402",
+    "title": "Floodplain - Base Flood Elevation",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Base_Flood_Elevation/FeatureServer/1",
+    "itemId": "8668b6df73b140b1a5b134881846c8af",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fac_Location_2351",
+    "title": "Fire Stations",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fac_Location/FeatureServer/5",
+    "itemId": "9733de055d1d4affb3fe6e037beb1ec5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Enterprise Zones_2625",
+    "title": "Enterprise Zones",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Enterprise%20Zones/FeatureServer/0",
+    "itemId": "f7d8539a3ecd44ff852d6fe635da9ce5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes6_2466",
+    "title": "District -  Water",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes6/FeatureServer/0",
+    "itemId": "d01fd977298345cfbede0423e71a7828",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes9_3085",
+    "title": "District - Sanitation",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes9/FeatureServer/0",
+    "itemId": "f384b97298764a79b0b1a33ff14fee2e",
+    "definitionExpression": "sanname <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes4_1752",
+    "title": "District - Road",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes4/FeatureServer/0",
+    "itemId": "eef3dfde256748c28fa2beb725f2f3e8",
+    "definitionExpression": "rdname <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes6_3751",
+    "title": "District - Light",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes6/FeatureServer/0",
+    "itemId": "35fb1c7a153e426a8b521fe4be080cb8",
+    "definitionExpression": "litename <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes8_5946",
+    "title": "District - Irrigation",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes8/FeatureServer/0",
+    "itemId": "6d7c4eedef724f2998d6a5ca64b13c8f",
+    "definitionExpression": "irrname <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes3_2190",
+    "title": "District - Hospital District",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes3/FeatureServer/0",
+    "itemId": "b268b140847e4dbf8ea6a6e8c21ce2ee",
+    "definitionExpression": "hospname <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes1_523",
+    "title": "District - Flood",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes1/FeatureServer/0",
+    "itemId": "3e31f4a4838b4ce9a44b6c1153ac6389",
+    "definitionExpression": "fldname <> 'NONE'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Taxcodes8_1091",
+    "title": "District - Fire",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes8/FeatureServer/0",
+    "itemId": "a9843c7af9f14a2a95739d29e239d793",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "COLONIAS_COMMUNITIES_9847",
+    "title": "Colonias Communities",
+    "url": "https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/COLONIAS_COMMUNITIES/FeatureServer/2",
+    "itemId": "0ddba0a992cb4a73933ff9be09a1c76c",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Census_Tracts_Opportunity_Zones_2016Census_6673",
+    "title": "Census - Low Income Community Tracts - 2016 ACS",
+    "url": "https://services1.arcgis.com/4yjifSiIG17X0gW4/arcgis/rest/services/Census_Tracts_Opportunity_Zones_2016Census/FeatureServer/0",
+    "itemId": "92e085b0953348a2857d3d3dac930337",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "USA_Census_2020_Redistricting_Tracts_6260",
+    "title": "Census 2020 Tracts",
+    "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Census_2020_Redistricting_Tracts/FeatureServer/0",
+    "itemId": "e3a7d2d3e5834b7eb6b1c2943141ced6",
+    "definitionExpression": "State_Name = 'Arizona'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Bisbee_Historic_0921_6759",
+    "title": "Bisbee Historic District",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Bisbee_Historic_0921/FeatureServer/0",
+    "itemId": "1d604b783a274e2383b24f55d56e89cf",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Arizona_National_Scenic_trail_8663",
+    "title": "Arizona National Scenic Trail",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/Arizona_National_Scenic_trail/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "AMA_INA_2024_785",
+    "title": "AMA (Active Managment Area)",
+    "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/AMA_INA_2024/FeatureServer/0",
+    "itemId": null,
+    "definitionExpression": "BASIN_NAME = 'WILLCOX AMA' OR BASIN_NAME = 'DOUGLAS AMA'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Fac_Location_9628",
+    "title": "Airport",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fac_Location/FeatureServer/0",
+    "itemId": "9733de055d1d4affb3fe6e037beb1ec5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Zoning_Sierra_Vista_Test_7589",
+    "title": "Zoning - Sierra Vista",
+    "url": "https://services6.arcgis.com/qsfT0E2It2u5vqBg/arcgis/rest/services/Zoning_Sierra_Vista_Test/FeatureServer/0",
+    "itemId": "78c8ea7688544e71935176a46205662d",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Dev_Zoning_9125",
+    "title": "Zoning - County",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Zoning/FeatureServer/0",
+    "itemId": "f0a647f03fc3439fb3f9020a033f0bbe",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "183f87ec8a0-layer-48",
+    "title": "Zoning - Benson",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/BensonZoning/FeatureServer/0",
+    "itemId": "e2dc98218df24be48394cee5488e4161",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "SpecialUsePoint_shp_9830",
+    "title": "Special Use Permits",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/SpecialUsePoint_shp/FeatureServer/0",
+    "itemId": "25aa507c54ab4762908d7fbf492ede0c",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Lnd_SectionDocuments_7573",
+    "title": "Sections (Plats and Surveys)",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Lnd_SectionDocuments/FeatureServer/0",
+    "itemId": "6b56894d965d429995dc2a2be17f47c0",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Trn_Roads_138",
+    "title": "Roads",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_Roads/FeatureServer/0",
+    "itemId": "3ca3373973ee4533b1110626feb6edf1",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19079584679-layer-65",
+    "title": "Parcel - (Cochise County - Tax Lien)",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_TaxLienParcel/FeatureServer/0",
+    "itemId": "884c3a68ea82466399c4558151694d30",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cad_Parcel_TaxInfo_8738",
+    "title": "Parcels",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0",
+    "itemId": "794ec9e6c3494db2ac153aace7a36bf6",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Area Plans and MDPs_5544",
+    "title": "Master Development Plan",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Area%20Plans%20and%20MDPs/FeatureServer/0",
+    "itemId": "bb030289b59641718a0fe586a3c4c6cb",
+    "definitionExpression": "FeatureName LIKE '%MDP%'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "ASLD_AdminBoundaries_3151",
+    "title": "Land Jurisdiction - Public Land Ownership",
+    "url": "https://azgeo.az.gov/arcgis/rest/services/asld/ASLD_AdminBoundaries/MapServer/14",
+    "itemId": "3a3c32f6e3b54082b2dec952e7a8a436",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "199cb158850-layer-70",
+    "title": "Incorporated Limits (Cochise County)",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Incorp/FeatureServer/0",
+    "itemId": "bf183fb38b9f44c79d23639a61f0c8d8",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Lnd_CoBnd_3188",
+    "title": "County Boundary",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Lnd_CoBnd/FeatureServer/0",
+    "itemId": "0d35fd734b844ddfbb774bb8436d86a0",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Cochise_County_2ft_contours_5114",
+    "title": "Contours 2ft.",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cochise_County_2ft_contours/FeatureServer/0",
+    "itemId": "45439ef905eb49ee9937ba9ab660a6bf",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Dev_CompPlanGrowthAreas_4784",
+    "title": "Comp Plan Growth Areas",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_CompPlanGrowthAreas/FeatureServer/0",
+    "itemId": "6edc6b6bb65547d69906e207251b68f4",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "CompPlanDesignation_8644",
+    "title": "Comp Plan Designation",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/CompPlanDesignation/FeatureServer/0",
+    "itemId": "23c7df51780c483383766113d3dd8685",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Ele_Precincts2011_1154",
+    "title": "Board of Supervisor District",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Ele_Precincts2011/FeatureServer/0",
+    "itemId": "0a2f1baaea8b4cdf96af230ffa0204a5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Area Plans and MDPs_1464",
+    "title": "Area Plans",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Area%20Plans%20and%20MDPs/FeatureServer/0",
+    "itemId": "bb030289b59641718a0fe586a3c4c6cb",
+    "definitionExpression": "FeatureName LIKE '%AREA PLAN%'",
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "Dev_Adds_Proc_7597",
+    "title": "Address",
+    "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Adds_Proc/FeatureServer/0",
+    "itemId": "56bebeebedcb4e12aba2d63763ca36f5",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "1982e681901-layer-134",
+    "title": "ADOT Engineering Districts",
+    "url": "https://services6.arcgis.com/clPWQMwZfdWn4MQZ/arcgis/rest/services/ADOT_EngineeringDistricts/FeatureServer/2",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "1982e7de88b-layer-160",
+    "title": "ADOT Right-Of-Way (2023)",
+    "url": "https://services6.arcgis.com/clPWQMwZfdWn4MQZ/arcgis/rest/services/HPMS_2023_Data/FeatureServer/40",
+    "itemId": "4418f3a98c2a4892bd3ad02329b2ccc9",
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19e6f70b993-layer-69",
+    "title": "2025 Active Mines - 2025 Cement and Lime",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2025_Active_Mines/FeatureServer/8",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19e6f71d83a-layer-82",
+    "title": "2025 Active Mines - 2025 Building Stone",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2025_Active_Mines/FeatureServer/9",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19e6f7218da-layer-83",
+    "title": "2025 Active Mines - 2025 Aggregates and Crushed Stone",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2025_Active_Mines/FeatureServer/10",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  },
+  {
+    "id": "19e6f725a7c-layer-84",
+    "title": "2025 Active Mines - 2025 Metals",
+    "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2025_Active_Mines/FeatureServer/4",
+    "itemId": null,
+    "definitionExpression": null,
+    "scope": "County-linked webmap complete operationalLayers list; not all county datasets",
+    "result": "NOT_REVIEWED"
+  }
+]

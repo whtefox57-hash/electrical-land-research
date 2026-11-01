@@ -1,0 +1,70 @@
+{
+  "scope": "Isolated production Worker with local D1; platform dispatch access tested separately",
+  "at": "2026-09-07T18:56:49.938Z",
+  "checks": [
+    {
+      "name": "26 records, six founder archives plus one research rejection and 68 documents load from migrated D1",
+      "status": "PASS"
+    },
+    {
+      "name": "Production Worker rejects anonymous APIs, exports and documents",
+      "status": "PASS"
+    },
+    {
+      "name": "Note saved and read back through a new request",
+      "status": "PASS"
+    },
+    {
+      "name": "Tasks persist and stale concurrent saves are rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "Real Benson report replay deduplicates without changing founder decisions",
+      "status": "PASS"
+    },
+    {
+      "name": "Conflicting report content under the same run ID is rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "Complete export restores while preserving notes, records and history",
+      "status": "PASS"
+    },
+    {
+      "name": "Invalid import leaves original data unchanged",
+      "status": "PASS"
+    },
+    {
+      "name": "Archived records cannot reopen without evidence",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejected records cannot enter routine deep-GIS workflow",
+      "status": "PASS"
+    },
+    {
+      "name": "GeoJSON exports ten sourced polygons, five node locators and eleven unmapped records",
+      "status": "PASS"
+    },
+    {
+      "name": "Private document bytes and attachment size match original",
+      "status": "PASS"
+    },
+    {
+      "name": "Previous versions retained as durable snapshots",
+      "status": "PASS"
+    },
+    {
+      "name": "Initial-screen survivor enters Priority before GIS; blocked stays unknown and Watch cannot enter routine GIS",
+      "status": "PASS"
+    },
+    {
+      "name": "Evidence-backed archive and explicit reopen preserve research and decision history",
+      "status": "PASS"
+    },
+    {
+      "name": "Cross-origin mutations rejected",
+      "status": "PASS"
+    }
+  ]
+}

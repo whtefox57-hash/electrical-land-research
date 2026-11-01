@@ -1,0 +1,2049 @@
+=== PAGE 1 ===
+SYNCHRONICITY / ELECTRIC LAND
+Control the Right Parcel
+Before You Buy Certainty
+A full operating and AI-automation blueprint for the option-led assignment model
+Demand hypothesis first.
+Exact APNs second.
+Cheap, assignable control only after fatal screens.
+Buyer-funded advanced diligence.
+Prepared for a 22-year-old solo founder in law school
+Arizona launch context | 31 August 2026 | Confidential founder working document
+Business strategy only. Verify legal, title, utility, engineering, tax and environmental matters with qualified professionals.
+
+
+=== PAGE 2 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+2
+VERDICT FIRST
+Is the first step to identify a parcel?
+No - not as an isolated act, and definitely not as the first place you spend money.
+THE CORRECT STARTING SEQUENCE
+In the first two weeks, run three workstreams in parallel: (1) a fixed-scope Arizona legal-structure review, (2) 8-12 buyer-discovery conversations that
+produce a versioned requirement card, and (3) an automated node refresh. Parcel discovery begins immediately inside workstream 3, but a parcel is not
+promoted to an option candidate until the first two workstreams have shaped the search.
+Why parcel-first fails
+A parcel can look attractive because it is near a substation, has industrial zoning, or is cheap. None of those facts proves the parcel fits a
+buyer's live load, can be served on the buyer's schedule, or can be marketed lawfully through your contemplated option structure. The
+prior Arizona screen proved the danger: 255 infrastructure candidates produced 166 private-land signals, but 248 had unknown capacity,
+181 had overlapping utility territories, and the records were points rather than exact purchasable APNs. [P1-P8]
+Start with a hypothesis, not certainty: a 10-25 MW first phase, a possible 50 MW expansion path, low-water cooling, 40-120 usable
+acres, and an Arizona location are the initial search box until buyers correct it.
+Start the parcel pipeline now, but label every result NODE LEAD ONLY until exact APN, owner, boundary, jurisdiction and access are
+supported by official records.
+Do not pay an option fee until counsel approves the intended assignment/marketing structure, the seller can authorize diligence, the
+exact serving-utility intake path is identified, and at least one buyer class plausibly fits.
+The initial business objective is not to prove that a site is powered. It is to create a cheap, exclusive and transferable right to investigate
+and present one unusually relevant site to funded counterparties.
+CURRENT VERDICT
+CALL SPRINT / HOLD MONEY. Up to $2,500 may be used for a fixed-scope legal memo, essential parcel/title data and limited demand discovery.
+Recommended current spend is $0 for an option fee, generic electrical report or formal utility study.
+
+
+=== PAGE 3 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+3
+WHAT THE COMPANY ACTUALLY DOES
+The option-led assignment model in one sentence
+THE MODEL
+Find a buyer-shaped parcel, secure cheap and assignable conditional control, assemble only the evidence that changes the next decision, and transfer
+the contractual position to a funded developer before Synchronicity must close on the land or finance major utility and field studies.
+What you own
+A time-limited contractual right against a specific seller, with access, inquiry and cooperation rights.
+A permissioned, dated evidence room tied to exact APNs and a defined load hypothesis.
+A record of which buyer objections, utility processes and local constraints were verified or remain unknown.
+What you do not own
+Utility capacity, a queue position, an energization promise, an entitlement, a water supply or buyer interest.
+The right to market another person's land as an agent, unless the structure and conduct comply with applicable licensing law.
+Professional engineering, title, environmental, water or legal conclusions merely because you summarized them.
+Counterparty
+Leverage created
+What remains outside your control
+Seller
+High if exclusive, assignable and long enough
+Authority, title cure, cooperation and extension decisions
+Buyer
+Medium only if parcel matches live
+requirements
+Substitutes, timing, price, diligence threshold and capital
+Utility
+Very low
+Delivery, supply, upgrade cost, queue credibility, tariff and timing
+County/city
+Low
+Entitlement discretion, hearings, politics, referendum and conditions
+Consultants
+None
+Scope, assumptions, reliance, cost and professional opinion
+LEVERAGE TEST
+If a buyer can replace your parcel cheaply, the option is weak. Leverage comes from a scarce combination of control, timing, exact buyer fit, credible
+process evidence and a seller price that leaves room for the buyer - not from the word 'option.'
+
+
+=== PAGE 4 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+4
+OPERATE A FUNNEL, NOT A TREASURE HUNT
+The deal state machine
+WATCHLIST
+node lead
+REQUIREMENT
+buyer-shaped
+APN
+exact parcel
+VALIDATED
+written paths
+CONTROLLED
+assignable
+SPONSOR
+buyer-funded
+ANY STATE -> HOLD OR KILL
+Preserve the reason as training data. An AI score can prioritize a call; it cannot override a fatal flaw.
+State
+Minimum evidence
+Founder action
+Money rule
+WATCHLIST
+Current node signal and source
+None
+$0
+REQUIREMENT-QUALIFIE
+D
+Versioned buyer card
+Discovery calls
+Within $2,500 cap
+APN-QUALIFIED
+Exact parcels, owner, jurisdiction, access proxy
+Assessor/planning clarifications
+$0 option fee
+PRE-SCREENED
+Fatal desktop, utility intake route, seller reachable
+Calls and written follow-up
+Still no hard money
+CONTROLLED
+Counsel-approved assignable instrument
+Negotiate/sign
+Within $15,000 cumulative cap
+SPONSOR-BACKED
+Serious buyer and approved evidence budget
+Pitch/negotiation
+Advanced work buyer-funded
+MONETIZED
+Assignment/JV/close completed
+Approve closing
+Reinvest only after review
+ONE LIVE DEAL RULE
+Until the first monetization, maintain one primary opportunity and two unpaid backups. A new attractive lead does not justify a second paid-control position
+unless the first is killed or a written exception explains the time-sensitive advantage.
+
+
+=== PAGE 5 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+5
+USE THE OLD SEARCH AS A NODE GENERATOR
+What must change in the Arizona automation
+255
+infrastructure points
+166
+private-land signals
+248
+capacity unknown
+181
+utility overlaps
+The old system did valuable work
+It combined EIA, transmission, substations, land ownership, water regulation, broadband proxies and political priors into a reproducible
+statewide screen.
+It correctly refused to convert kV into available MW and recorded source failures instead of filling gaps with estimates.
+It exposed the real information asymmetry: capacity, utility assignment, owner willingness, exact parcel boundaries and local
+institutional knowledge were missing.
+But it ranked the wrong unit of decision
+Old object
+Problem
+Required replacement
+Plant/substation point
+May sit on a non-acquirable or irrelevant polygon
+Exact APN polygons in rings/corridors around the node
+Private land class
+Does not identify owner, legal parcel or authority
+Assessor record plus title/escrow verification
+Territory overlay
+181/255 overlaps; not a service determination
+Official utility/county confirmation for exact APN
+Composite score
+Can average away a fatal flaw
+Fatal gates first; score only surviving parcels
+Water 20/20
+Means less regulation, not water availability
+Rights/provider/basin/path for the exact parcel and design
+Broadband count
+Census-block proxy, not diverse fiber routes
+Provider route/budget inquiry after parcel selection
+DO NOT AUTO-PROMOTE THE OLD TOP THREE
+Cholla, Springerville and Coronado were strong node signals in the July screen, but subsequent research showed incumbent owners pursuing repowering
+or continued facility plans. They are not verified purchasable parcels. Treat every historical rank as a lead to recheck, never as an acquisition
+recommendation. [P1]
+
+
+=== PAGE 6 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+6
+STEP 0A - DEFINE THE BUYER-SHAPED SEARCH BOX
+Requirement Card v0 - a hypothesis to be corrected by
+buyers
+Field
+Starting hypothesis
+What discovery must validate
+Buyer/use
+Powered-land or merchant data-center developer
+Who can buy control and fund studies before an end tenant
+First phase
+10-25 MW
+Minimum project size that matters; phased service appetite
+Expansion
+Path to about 50 MW
+Whether buyer needs 50, 100 or 300+ MW ultimate
+Timing
+24-48 month service hypothesis
+Actual COD window and acceptable staged energization
+Land
+40-120 usable contiguous acres plus expansion
+Density, setbacks, substation/yard needs and ordinary-use downside
+Cooling/water
+Air-cooled or low-water posture
+Peak and annual acre-feet; fire flow; discharge
+Fiber
+Two constructible diverse routes
+Carrier, latency market, diversity and build cost
+Power quality
+High load factor; redundancy buyer-defined
+Voltage, redundancy, outage profile, ramp and power factor
+Control
+Assignable option/phased PSA
+Minimum term, diligence rights, assignment and seller cooperation
+Geography
+Arizona first
+Counties/utilities accepted, political tolerance and travel burden
+Price
+Unknown
+Buyer basis metric and maximum land/control premium
+Versioning rule
+Save every change as Requirement Card v0.1, v0.2 and so on. Record who supplied the information, whether the source was a buyer,
+adviser or public signal, and when it expires. A hypothesis becomes validated only after several consistent buyer conversations or a
+specific funded requirement.
+SEARCH DISCIPLINE
+Do not search simultaneously for data centers, hydrogen, crypto mining, battery factories, logistics parks and every other load. One first-deal card keeps
+parcel rankings comparable. A second buyer card should be opened only if discovery shows a distinct, reachable buyer class with materially different
+requirements.
+
+
+=== PAGE 7 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+7
+THE 90-DAY LAUNCH SEQUENCE
+Parallelize learning; serialize spending
+DAYS 1-14
+legal + demand + nodes
+DAYS 8-30
+exact APNs
+DAYS 21-60
+written validation
+DAYS 45-90
+soft control + buyer test
+Window
+AI / research work
+Founder work
+Promotion gate
+Days 1-5
+Rebuild source registry; refresh buyer signals and
+nodes
+Send legal scope; book buyer calls
+Counsel issue list + Requirement v0
+Days 6-14
+Extract buyer requirements; rank 20 nodes
+Complete 5-8 discovery calls
+One search card; 10 nodes survive
+Days 8-21
+Convert top 3 nodes into 20-40 exact APNs
+Resolve assessor/GIS ambiguities
+3-6 APN-qualified parcels
+Days 15-30
+Fatal desktop; owner and ordinary-use downside
+Call planning/utility intake; contact owners
+One primary + two backups
+Days 30-60
+Update ledger from written responses
+Seek seller authorization/exclusivity
+Studyable path + receptive seller
+Days 45-75
+Prepare anonymous buyer fact pattern
+Buyer fit calls; negotiate counsel-led terms
+Buyer interest or clear proof threshold
+Days 60-90
+Build permissioned data room
+Sign only if gates clear; seek sponsor funding
+Controlled, marketable position or kill
+THE FIRST 90-DAY WIN
+The win is not necessarily an assignment. A valid early win is one counsel-approved structure, one validated buyer card, one exact parcel pipeline, one
+seller-authorized written utility path and a disciplined kill before $2,500. A paid option without these is not progress.
+
+
+=== PAGE 8 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+8
+STEP 0B - MAKE THE EXIT LAWFUL BEFORE BUYING CONTROL
+Fixed-scope Arizona counsel assignment
+Ask for a written issue memo, not a vague consultation
+Question
+Why it matters
+Required deliverable
+Own-property/licensing
+Arizona broker definitions include options; exemptions have
+conditions
+Opinion on LLC activity, repetition, marketing and compensation
+Assignment disclosure
+Residential wholesaling statute is not blanket clearance for
+industrial land
+Seller/buyer disclosure language and role description
+Entity/registration
+A Delaware LLC may need Arizona registration depending
+on activities
+Entity/SPV and foreign registration recommendation
+Marketing process
+Public advertising can create licensing, confidentiality or
+misrepresentation risk
+Approved teaser, NDA, buyer-list and broker/channel rules
+Escrow/tax
+Assignment, SPV sale, double close and option exercise
+differ
+Permitted structures, closing flow and tax questions to escalate
+Control form
+Assignment, memorandum, remedies and access are
+jurisdiction-specific
+Counsel-drafted term sheet/form and title/escrow coordination
+Scope email
+Subject: Fixed-fee Arizona option-assignment structure review
+Synchronicity plans to acquire its own conditional option or phased purchase interest in one Arizona industrial parcel,
+investigate it with seller authorization, and potentially assign or transfer the position to a funded developer. Please
+quote a fixed-fee memo/call addressing licensing and own-property treatment, assignment marketing, required disclosures,
+entity registration, escrow/closing alternatives, memorandum/recording, and the business terms a counsel-drafted
+instrument must contain. We will not market, sign or pay consideration until the recommended structure is documented.
+STOP CONDITION
+If counsel says the contemplated repeated assignment model cannot be operated safely without a broker, licensed partner or materially different
+structure, stop parcel spending and choose that lawful structure before proceeding. Do not self-interpret the statutes because you are in law school.
+
+
+=== PAGE 9 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+9
+STEP 1 - DISCOVER DEMAND BEFORE PITCHING INVENTORY
+Eight to twelve conversations create the search specification
+Target order
+Priority
+Counterparty
+Why first
+What to learn
+1
+Growth-stage powered-land / merchant
+developers
+Can evaluate imperfect positions and fund next proof
+Live markets, MW blocks, required control and utility
+evidence
+2
+Specialist data-center land brokers and site
+selectors
+See many rejection patterns and buyer mandates
+Basis metrics, substitutes, process and lawful channel
+role
+3
+Infrastructure investors / development capital
+Can back diligence when the fact pattern fits
+Sponsor threshold, downside protection and
+governance
+4
+Regional operators / conversion platforms
+May accept smaller first-phase projects
+Timing, facility type, fiber/water and expansion needs
+5
+Hyperscalers
+Large demand but high procurement and in-house
+capacity
+Use only through warm channels or a uniquely mature
+position
+Discovery opening
+USE THIS
+I am building a disciplined pipeline of exact-parcel, seller-controlled sites for phased large loads. I am not pitching a parcel today. Before I search, I want
+to understand what causes your team to reject a site and which written evidence makes you willing to inspect a controlled position. What would a 10-25
+MW first phase with a possible 50 MW expansion need to show?
+Questions in order
+Which markets and serving utilities are currently acceptable or excluded?
+What first-phase, ramp, ultimate MW and service date are actually live?
+What kills a site immediately: power timeline, water, fiber, land use, price, access, emissions, noise, ownership or politics?
+Which utility artifact is enough for an initial site review, and which work must wait for your credit and load profile?
+What option term, assignment right and seller cooperation must already exist?
+Will you reimburse or directly fund a next utility/engineering proof if the early fact pattern fits?
+May I return with a matching anonymous one-pager, and who else should review it?
+
+
+=== PAGE 10 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+10
+TURN CONVERSATIONS INTO A REUSABLE BUYER DATASET
+Do not confuse a polite call with validation
+Examples from the 100-customer research
+The earlier prospect universe identified developers such as Tract, PowerHouse Data Centers, Rowan Digital Infrastructure, CleanArc,
+Corscale, Crane Data Centers, Ada Infrastructure, Takanock and Beale Infrastructure as more plausible learning targets than direct
+hyperscaler outreach. None has been contacted or represented as interested. [P12]
+Capture field
+Required entry
+Person and role
+Decision maker, developer, operator, adviser, broker, capital source or unknown
+Requirement status
+Live/funded, exploratory, stale, confidential or no requirement
+Load and timing
+First phase, ramp, ultimate MW, service window and flexibility
+Land/cooling/fiber
+Acres, water target, routes, latency, emissions/noise and expansion
+Control threshold
+Minimum term, assignment/nominee rights, access and seller authorization
+Evidence threshold
+Exact utility, zoning, title, civil/environment, reliance and freshness
+Commercial form
+Buy, ground lease, option assignment, JV, reimbursement or no preference
+Follow-up
+Permission, next person, date, document promised and explicit objections
+Validation standard
+One buyer saying 'interesting' is V2 at most and does not justify an option.
+Three or more consistent conversations can shape the requirement hypothesis, but site-specific engagement still requires a dated
+communication.
+A buyer willing to sign an NDA, inspect a data room, identify a decision maker or fund the next proof is materially stronger than a
+generic compliment.
+FOUNDER CREDIBILITY
+Your strongest positioning is not 'I know the grid.' It is: 'I control very few positions, separate public signals from parcel-specific proof, preserve every
+unknown, and ask licensed specialists only the question that unlocks the next decision.'
+
+
+=== PAGE 11 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+11
+THE AI OPERATING SYSTEM
+Automate research and state management; hand off
+judgment and authority
+1. DEMAND REGISTRY
+buyer cards
+rejection criteria
+freshness dates
+2. SOURCE REGISTRY
+official URLs/APIs
+retrieval + failures
+license/ToS
+3. GIS + RULES
+nodes -> exact APNs
+fatal overlays
+no MW inference
+4. AI DOCUMENT LAYER
+ordinance/docket parse
+claim extraction
+contradiction log
+5. DEAL STATE
+evidence grades
+capital gates
+primary + backups
+6. FOUNDER HANDOFF
+calls + scripts
+approvals + terms
+reminders + capture
+Human approval boundary
+AI may research, extract, rank, draft and monitor. The founder or qualified professional calls, signs, represents, visits, certifies and spends.
+Recommended MVP stack
+Start with a local, reproducible pipeline rather than custom SaaS. The first system can run from Python, GeoPandas/Shapely, SQLite or
+GeoPackage, Parquet/CSV, a structured-output language model and a secure document folder. Add PostGIS, a web application and paid
+data only after the workflow produces a real controlled opportunity.
+Layer
+MVP
+Upgrade trigger
+Geospatial
+GeoPackage + GeoPandas
+More than 10 states, large rasters or multi-user editing
+Deal database
+SQLite + JSON records
+Multiple analysts or concurrent transactions
+Evidence files
+Stable folders + hashes + ledger
+External data-room access or formal permissions
+AI
+Structured extraction and drafting
+Only after tests show repeatable accuracy and cost
+Scheduling
+One weekly scout + event-triggered updates
+More frequent only when a live option needs monitoring
+Interface
+Generated HTML/PDF summaries
+Build a dashboard after the schema stabilizes
+DESIGN PRINCIPLE
+The automation should be optimized for fast falsification, not for finding the highest score. It should tell you which $0 call or public record can kill a parcel
+next, and it should make it impossible for an unknown capacity field to become zero or a fabricated MW number.
+
+
+=== PAGE 12 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+12
+AUTOMATION INPUT MAP - LAND, OWNERSHIP AND POWER
+Every adapter has a source, scope, freshness rule and failure
+state
+Domain
+Primary source
+Automated use
+Cannot prove
+Generator status
+EIA-860M / EIA-860
+Current and planned retirement/change leads
+Load-serving capacity or owner
+willingness
+Transmission/substations
+Utility plans, ACC filings, HIFLD-style
+layers
+Node and corridor signals; voltage/distance
+Available MW, upgrade scope or delivery
+date
+Retail territory
+Utility/ACC maps and county
+confirmation
+Candidate provider list
+Exact serving utility where polygons
+overlap
+Parcel geometry
+County assessor/GIS; AZGeo index
+Exact APNs, acreage, adjacency, owner-of-record fields
+Marketable title, legal access or authority
+Recorded documents
+County recorder / title company
+Document numbers and access/easement leads
+Title conclusion without professional
+review
+Land ownership class
+BLM/ASLD/tribal layers
+Early public/state/tribal exclusion or alternate path
+Exact fee owner or transaction authority
+Listings/comps
+Authorized listing feeds; assessor sales;
+manual review
+Seller signal and ordinary-use downside
+Seller willingness, clean price or option
+terms
+Adapter contract
+source_id | publisher | URL/API | scope | fields | retrieved_at | effective_date
+license_or_terms | rate_limit | last_success | last_failure | checksum | freshness_due
+transform_version | geometry_CRS | known_gaps | manual_fallback
+Do not silently substitute a stale annual source when a monthly source fails. Record the failure and downstream fields affected.
+County parcel adapters are jurisdiction-specific. A statewide search catalog may help discover layers, but the county assessor/recorder
+remains authoritative for the transaction workflow.
+Respect access controls, rate limits and terms. Do not scrape behind logins or bypass anti-bot restrictions; create a manual task
+instead.
+
+
+=== PAGE 13 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+13
+SOURCE REGISTRY
+Automation input map - use, water, environment and
+connectivity
+Domain
+Primary source
+Automated screen
+Human/professional
+escalation
+Zoning/use
+County/city GIS, adopted code, agendas
+and case files
+Current zone, overlay, future use, moratorium/ordinance
+alerts
+Written use determination, pre-app
+and local counsel
+Water
+ADWR GIS/GWSI, AMA/INA, provider
+layers
+Basin, wells, regulatory regime, subsidence/fissure leads
+Rights, provider capacity, hydrology,
+permit and cooling plan
+Flood
+FEMA NFHL / Map Service Center
+Current mapped flood zone and panel status
+Survey/civil interpretation and
+unmapped drainage
+Species/habitat
+USFWS IPaC and critical habitat data
+Species/resource list and consultation lead
+Biologist and formal consultation
+determination
+Environmental facilities
+EPA ECHO/FRS plus ADEQ
+Nearby regulated/legacy facility indicators
+Phase I ESA and targeted
+investigation
+Cultural/tribal
+Official cultural/tribal screens where public
+Proximity/consultation trigger
+Qualified archaeologist, tribes and
+agency process
+Road/rail
+State/local DOT and official GIS
+Frontage, route, bridge and corridor proxies
+Access rights, traffic/civil feasibility
+Fiber
+FCC availability plus provider maps
+Provider/technology proxy
+Route, diversity, construction and
+budget letter
+SOURCE FRESHNESS
+Recheck contacts, buyer requirements, listings, utility tariffs/dockets and ordinances on the day they drive a decision. Recheck political and moratorium
+status weekly before control. Environmental and physical facts may be older only when their scope and effective date remain clear.
+
+
+=== PAGE 14 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+14
+AI MODULE 1 - MARKET AND NODE SCOUT
+Find places worth parcelizing, not parcels worth buying
+Inputs
+Requirement Card version and weights.
+Current buyer signals and explicit geographic exclusions.
+Utility/regulator planning materials, tariffs, queues/process statements and large-load filings.
+EIA-860M retirement/addition changes, high-voltage node/corridor layers, industrial land signals and founder closeability.
+Process
+Pass
+Automation action
+Output
+1. Change
+detection
+Compare source hashes, dates, dockets, outages and company signals
+Only materially changed facts
+2. Market rank
+Score utility transparency, demand, politics, water posture and closeability
+3 markets with evidence coverage
+3. Node
+generation
+Create buffers/corridors around plausible infrastructure and brownfields
+20-50 node leads
+4. Cheap
+exclusions
+Remove non-acquirable land classes, impossible geography and explicit bans
+10-20 leads
+5. Falsification
+rank
+Sort by conservative fit and cheapest next proof
+1 primary node + 2 backups
+Node lead record
+node_id, requirement_version, geometry, node_type, voltage_signal, utility_candidates,
+land_classes, jurisdictions, buyer_signal, evidence_coverage, contradictions,
+next_cheapest_test, status='NODE_LEAD_ONLY', retrieved_at
+FORBIDDEN OUTPUT
+The node scout may never output 'available MW,' 'powered site,' 'utility approved,' 'shovel-ready' or a success probability. It may say only that a current
+source creates a reason to investigate exact parcels.
+
+
+=== PAGE 15 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+15
+AI MODULE 2 - CONVERT NODES INTO EXACT APNS
+This is the first true land-search step
+Geospatial sequence
+Order
+Action
+Quality test
+1
+Fetch the authoritative county parcel layer around each node/corridor
+Layer date, county provenance, CRS and unique APN field recorded
+2
+Generate rings/corridors from parcel boundaries, not from ownership-class polygons
+Distances measured in a suitable projected CRS
+3
+Join assessor owner-of-record, mailing address, acres and last sale where lawful
+Nulls preserved; no invented contact data
+4
+Assemble contiguous parcels and expansion paths
+Show every APN and assemblage dependency
+5
+Intersect jurisdiction, zoning, land class, roads, flood, water and environmental screens
+Exact parcel applicability stored per claim
+6
+Estimate ordinary-use downside using zoning, access and comparable sales
+Label as screen, not appraisal
+7
+Create owner-reachability task and title/recorder document list
+Assessor record is not title proof
+Promotion test - NODE LEAD to APN-QUALIFIED
+Exact APN and boundary source are captured.
+Owner of record and transaction-authority questions are identifiable.
+Parcel is large/usable enough for the requirement hypothesis or has a realistic assemblage.
+Legal access is not disproved; jurisdiction and land class are known.
+The land has a plausible ordinary use and price basis if the electric thesis fails.
+OWNER DATA RULE
+Public owner records are used only for legitimate transaction diligence. Secure the data, avoid publishing personal information, and verify authority
+through title/counsel before relying on it.
+
+
+=== PAGE 16 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+16
+AI MODULE 3 - EXACT-PARCEL FATAL-FLAW SCREEN
+Kill before scoring
+Fatal gate
+Pass standard before paid control
+Cheapest falsification
+Exact parcel
+Official APN/boundary and usable configuration
+County GIS/assessor
+Owner/authority
+Reachable owner; authority can be verified
+Assessor/entity search; seller call
+Access
+Recorded/public or plausible curable access
+Recorder/title desktop
+Serving utility
+Exact APN has a defined verification route
+Utility/county written confirmation
+Power process
+Utility will accept a credible screening/application path
+Intake call; process document
+Use path
+No ban; by-right, CUP or feasible rezoning path
+Code + planning confirmation
+Water/cooling
+Lawful low-water path plausible
+ADWR/provider screen
+Environment/civil
+No known fatal flood, habitat, contamination, cultural or ROW issue
+Official desktops; Phase I scope later
+Control transfer
+Seller will consider assignment/nominee and diligence rights
+Seller discovery; counsel
+Lawful marketing
+Counsel-approved role, process and disclosure
+Written legal memo
+Buyer class
+At least one validated class plausibly fits
+Requirement card + discovery notes
+Capital
+Next gate is within cap or sponsor-funded
+Spend request
+RULE
+An unresolved gate is not always a kill at scan stage. It is a reason to withhold money and name the fastest test. A contradicted gate is a stop unless a
+specific cure path is documented.
+
+
+=== PAGE 17 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+17
+RANK SURVIVING PARCELS BY EVIDENCE AND FALSIFICATION VALUE
+A score is not a probability
+Dimension
+Weight
+A high score requires
+Power path
+25
+Current parcel/load-specific delivery, supply, upgrade and process evidence
+Buyer fit
+20
+Qualified buyer confirms requirement and proof threshold
+Land/control/downside
+15
+Usable parcel, accessible owner, transferable control and ordinary-use value
+Permitting/politics
+10
+Predictable use path and manageable opposition
+Fiber
+10
+Two constructible diverse routes supported by provider/engineering
+Water/cooling
+5
+Low-water design and lawful source/discharge path
+Civil/environment
+5
+Clean fatal screens and manageable site work
+Economics/carry
+5
+Buyer value after price, upgrades and carry; evidence transfers
+Execution/closeability
+5
+Founder can transact with accessible professionals and counterparties
+Four outputs, never one
+Conservative score: unknown critical facts fail.
+Base score: documented analyst judgment.
+Upside score: explicitly identifies which unknowns would have to pass.
+Evidence coverage: weighted share supported by acceptable parcel-specific evidence.
+Decision priority formula
+priority = conservative_fit + evidence_coverage + buyer_relevance
+- fatal_risk - founder_friction - next_test_cost - time_to_answer
+PROBABILITY DISCIPLINE
+Before an exact parcel and qualified buyer requirement, success probability is not estimable. After control, forecast separate ranges for utility path,
+entitlement, buyer engagement and closing. Do not convert the composite score into a deal probability.
+
+
+=== PAGE 18 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+18
+THE MACHINE-READABLE DEAL RECORD
+Every claim must know what it applies to
+{
+'deal_id': 'EL-001',
+'as_of': '2026-08-31',
+'state': 'WATCHLIST',
+'requirement_version': 'DC-AZ-v0.1',
+'parcels': [{'apn': null, 'boundary_source': null, 'owner_verified': false}],
+'utility': {'candidate': null, 'verified': false, 'available_mw': null},
+'fatal_gates': {'exact_parcel': false, 'owner_authority': false,
+'access': false, 'serving_utility': false,
+'power_process': false, 'use_path': false,
+'water_path': false, 'environment': false,
+'transferable_control': false, 'lawful_marketing': false,
+'buyer_class_fit': false, 'capital_path': false},
+'control': {'instrument': null, 'assignable': null, 'term_days': null},
+'capital': {'spent': 0, 'committed': 0, 'next_request': 0},
+'verdict': 'HOLD / RESEARCH'
+}
+Evidence record
+claim_id, deal_id, apn, exact_claim, source_url, publisher, effective_date,
+retrieved_at, evidence_class, exact_parcel, scope, expiration, contradiction,
+owner, archived_hash, confidentiality, reliance_rights, next_verification
+Evidence grades
+Grade
+Meaning
+Example
+V4
+Executed / parcel-specific official or professional
+Signed option, utility study, zoning letter, title/Phase I
+V3
+Current official public record
+Assessor, adopted code, tariff, official GIS
+V2
+Reliable secondary source or documented call
+Professional report, dated founder note
+V1
+Proxy, inference or seller claim
+Line proximity, listing, seller says 'power'
+V0
+Unknown or conflicting
+No reliable evidence
+
+
+=== PAGE 19 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+19
+THE HUMAN APPROVAL BOUNDARY
+AI should remove work, not manufacture authority
+AI may
+Founder must
+Professional must
+Retrieve public data and log failures
+Approve sources and priorities
+Confirm regulated/professional scope
+Run spatial joins and rank next tests
+Resolve ambiguous APNs and make calls
+Survey/title/engineering conclusions
+Extract ordinances, dockets and terms
+Read decisive source text and correct extraction
+Give legal or utility opinions
+Draft scripts, emails and term issue lists
+Send, negotiate and represent facts
+Draft/review contracts and disclosures
+Monitor changes and create reminders
+Choose timing around law school
+Manage filing and professional deadlines
+Prepare evidence summaries and data rooms
+Approve sharing and confidentiality
+Grant reliance/assignment rights
+Model scenarios
+Authorize any spend
+Provide quotes, appraisals and tax advice
+Mandatory automated checks
+Reject any record that contains available MW without a current exact-parcel utility artifact.
+Reject a parcel without exact APN and boundary source from moving to paid control.
+Reject an option recommendation if assignment, seller authorization, term, legal review or capital cap is unresolved.
+Flag sources past freshness deadlines and show contradictions before the score.
+Generate a human task rather than guessing when a website fails, a polygon overlaps, or an official answer is missing.
+AUDIT RULE
+Every AI-written sentence in a buyer-facing packet must trace to a claim ID. If the source cannot be produced immediately, the sentence is removed or
+labeled as an unresolved hypothesis.
+
+
+=== PAGE 20 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+20
+PROMPT PACK I - RECURRING MARKET AND NODE SCOUT
+Use structured outputs; save only deltas
+ROLE: Electric-land sourcing analyst.
+OBJECTIVE: Find current node leads for Requirement Card [VERSION], then identify the cheapest next falsification.
+RULES:
+1. Use current primary sources first and date every mutable fact.
+2. A plant, line or substation is a node lead, never a parcel.
+3. Never infer MW from voltage, distance, retired nameplate or a territory polygon.
+4. Use null for unknowns. Show source failures and contradictions.
+5. Penalize founder travel, opaque utilities and difficult transaction systems.
+6. Return one primary node, two backups and a kill list.
+OUTPUT JSON:
+{requirement_version, as_of, changed_sources, node_leads:[{node_id, geometry,
+why_now, buyer_fit, utility_candidates, land_classes, evidence_grade,
+contradictions, next_cheapest_test, source_ids}], killed:[{node_id, reason}]}
+Evaluation tests
+Test
+Pass condition
+Unknown-capacity test
+No non-null MW unless an exact supporting source is linked
+Point/parcel test
+Every node record says NODE_LEAD_ONLY
+Freshness test
+Mutable sources include retrieval date and next review date
+Contradiction test
+Conflicting owner/utility/political facts are surfaced, not silently selected
+Capital test
+No spend request appears at node stage
+SCHEDULE
+Run weekly while no parcel is controlled. Once a live option exists, continue only the primary deal plus two backups; node scouting becomes a short
+change alert unless the primary is killed.
+
+
+=== PAGE 21 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+21
+AUTOMATION PROMPTS
+Prompt pack II - exact parcel and document analyst
+TASK A - PARCELIZE
+For node [NODE_ID], retrieve the authoritative county parcel layer and generate exact APNs in engineering-relevant
+rings/corridors. Preserve boundaries, acres, owner-of-record fields, jurisdiction, land class, access proxies, adjacency
+and source date. Do not treat the node parcel as the target automatically. Return APN candidates and missing records.
+TASK B - DOCUMENT EXTRACT
+Read [ORDINANCE/DOCKET/TARIFF]. Extract only explicit claims into the evidence schema: controlling section, effective
+date, geography, exact use, decision body, filing/hearing path, costs/deposits, conditions, expiration and contradictions.
+Quote no more than necessary. Mark legal interpretation unresolved.
+TASK C - DEAL UPDATE
+Merge founder call notes and new documents into Deal [ID]. Do not overwrite prior facts; version them. Recompute fatal
+gates, evidence coverage, next cheapest test, authorized spend and verdict. Return only changed decisions and founder
+actions.
+Founder handoff output
+action_id | owner | verified contact channel | decision unlocked | deadline/timezone
+full script | voicemail | priority questions | evasive follow-ups | documents open
+capture form | success | partial success | stop outcome | reminder requested
+CONTACT SAFETY
+The system must recheck any phone number, email, contact role and office on the day a call packet is created. It should never schedule a reminder
+around an unverified contact or claim the call was made.
+
+
+=== PAGE 22 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+22
+RECURRING AUTOMATION CADENCE
+One scout, one deal update and one founder call block
+Cadence
+Automation
+Founder output
+Noise rule
+Weekly scout
+Refresh mutable sources; identify material changes
+One paragraph if nothing changed
+No repeated full report
+Weekly qualification
+Parcelize/rank the best open node or deepen primary
+One primary decision plus backups
+Do not open paid deal #2
+Founder call block
+Generate scripts, documents and capture forms
+60-90 minutes of calls
+Batch calls around school
+After call notes
+Immediate UPDATE mode; revise gates and ledger
+Approve changed next step
+Do not wait for weekly run
+Material gate change
+Regenerate deal packet and data room index
+Review and authorize
+No cosmetic duplicate PDFs
+Monthly retro
+Measure false positives, cost, cycle time and missed data
+Choose one workflow change
+Do not redesign everything
+Durable recurring instruction
+Continue the highest-value open electric-land deal in this conversation. Work demand-first, browse current primary
+sources, preserve exact APNs and evidence dates, and never infer capacity from proximity or voltage. Spend nothing unless
+the next gate names payee, deliverable, decision unlocked, reliance/transfer rights and stop condition. Give me only
+calls, emails, approvals and negotiations that require me. If nothing material changed, say so and name the next
+founder-dependent event.
+STATE PERSISTENCE
+Keep the canonical requirement card, deal JSON, evidence ledger and current verdict in persistent storage. Scheduled agents may not retain the scratch
+workspace; the data model, not chat memory, is the source of truth.
+
+
+=== PAGE 23 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+23
+STEP 2 - THE FOUNDER VALIDATION SPRINT
+Call in an order that makes each later conversation more
+credible
+Order
+Call
+Decision unlocked
+Required written follow-up
+1
+Assessor/GIS/planning desk
+APN, jurisdiction, use path, applications and parcel history
+Map, code section, case file or written direction
+2
+Utility economic development / large-load
+intake
+Exact territory, credibility requirements and process
+Application, tariff/process and next contact
+3
+Utility planning/engineering if routed
+Study inputs, delivery alternatives, deposits and lead-time risks
+Written summary or process acknowledgment
+4
+Water/wastewater provider or ADWR
+route
+Provider/right/permit path and design limits
+Map, policy, data request or named specialist
+5
+Fiber providers
+On-net/near-net and diverse-route budget process
+Route/budget process, not availability slogan
+6
+Title/escrow and land counsel
+Access/title/control/marketing issues
+Preliminary report/scope and legal issue memo
+7
+Seller
+Goals, authority, cooperation and control terms
+Data authorization or counsel-led term sheet
+8
+Buyer
+Site-specific fit and next proof
+NDA/data-room request or explicit rejection
+reason
+Universal pre-call brief
+Exact APN map and boundary source.
+Target first-phase/ultimate MW and service window, labeled hypothesis.
+One-sentence low-water posture and founder/company identity.
+Blank capture form and the exact decision the call must unlock.
+HONEST POSITIONING
+I am screening a specific parcel for a phased electricity-intensive development. I am not asking you to reserve capacity or make a commitment. I want to
+understand the correct process, the evidence a credible applicant must provide, and whether there is a studyable path before I spend money or represent
+anything to a buyer.
+
+
+=== PAGE 24 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+24
+UTILITY CALL PACKET
+Ask for the process, not a promised MW number
+OPENING
+Hi, my name is William Ernst with Synchronicity. I am evaluating APN [APN] in [JURISDICTION] for a prospective [10-25] MW first phase with a possible
+[50] MW ultimate build. I am still in feasibility and will not describe the parcel as powered without written utility support. Can you confirm whether you
+serve this exact APN and route me to the correct large-load intake or system-planning process?
+Priority question
+Why it matters
+Do you serve this exact APN? If not, how can I verify the boundary?
+Prevents a territory overlay from becoming a false fact
+What distinguishes a credible request from a speculative one?
+Arizona utilities are screening large queues [W1-W5]
+Can an option holder request preliminary screening, and what owner authorization is required?
+Determines whether soft control unlocks the next step
+What application, deposit, study, confidentiality, collateral and milestone sequence applies?
+Defines capital and document gates
+Can service be phased, and how are ramp assumptions tested?
+Matches the buyer card and minimum-bill risk
+How are delivery upgrades, energy supply/generation, line extension and tariff/credit handled separately?
+Prevents one vague 'power' answer
+What fact would cause you to reject or pause this request today?
+Finds the cheapest kill
+Follow-up email
+Subject: APN [APN] - request for correct large-load screening process
+Thank you for speaking with me on [DATE]. My understanding is: [BULLETS]. Please correct anything inaccurate. I will not
+represent available capacity or timing based on this conversation. Would you send the current application/tariff/process,
+confirm the owner-authorization requirement, and identify the next technical contact?
+
+
+=== PAGE 25 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+25
+PLANNING, WATER AND FIBER CALL PACKETS
+Turn institutional knowledge into dated evidence
+Planning/zoning
+Opening: I am screening APN [APN], not requesting an approval. Could you confirm the parcel's jurisdiction, current zoning and future
+land-use designation, and whether a [data center / high-load industrial use] is by right, conditional, special-use, rezoning or prohibited?
+Ask for the controlling use definition and code section, not a staff impression.
+Ask about active applications, overlays, setbacks, height, noise, generators, water/cooling restrictions, moratoria and proposed
+ordinances.
+Ask which body decides, expected pre-application/hearing sequence, referendum/appeal exposure and comparable opposition.
+Water/wastewater
+Opening: I am screening APN [APN] for a low-water electricity-intensive facility. I need the governing provider or regulator and the written
+path, not a service promise. What source, right, permit or service process applies?
+Ask peak day and annual acre-feet, cooling restrictions, drought curtailment, fire flow, discharge/reuse and provider connection
+capacity.
+Separate legal rights from physical infrastructure and water quality.
+Fiber
+Opening: Can your network team confirm whether APN [APN] is on-net or near-net and explain the budgetary process for two physically
+diverse entrances and routes? Provider availability alone is not enough.
+Ask route diversity, conduit/ROW, distance, lit/dark fiber, carrier-hotel path, latency, lead time, non-recurring cost and transferability of
+any letter or quote.
+
+
+=== PAGE 26 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+26
+STEP 3 - APPROACH THE SELLER AFTER CHEAP SCREENS
+Do not promise a buyer or hide uncertainty
+SELLER OPENING
+I am evaluating whether the property could support a large infrastructure use, but utility and governmental questions remain unresolved. I am not
+promising a closing or asking you to rely on a buyer I do not have. I would like to understand your goals and whether a short, paid, conditional diligence
+period or assignable option could create a fair path for both sides.
+Seller discovery checklist
+Topic
+Questions
+Authority
+Who owns the property, who signs, entity approvals, marital/probate/bankruptcy issues?
+Economics
+Price, timing, taxes/1031, retained acreage, lease/JV interest, carrying concerns?
+History
+Prior offers, studies, utility contacts, applications, contamination, water/minerals and disputes?
+Control
+Short exclusivity, option, extensions, assignment/nominee, access and testing?
+Cooperation
+Authorization for utility/planning/title inquiries and documents; confidentiality boundaries?
+Conflicts
+Broker/listing agreements, options, leases, rights of first refusal and neighboring claims?
+What you ask for before a full option
+Seller-signed data and utility authorization.
+Access/right-to-test terms appropriate to the work, with insurance/restoration reviewed by counsel.
+30-60 day exclusivity/no-shop if the seller will grant it for modest consideration.
+Documents already in the seller's possession and permission to show an anonymous fact pattern to qualified buyers.
+WALK AWAY
+Pressure to conceal your assignment economics, a short forced closing, no seller authorization, disputed authority, large nonrefundable cash or
+confidentiality that blocks utility/buyer diligence converts leverage into risk.
+
+
+=== PAGE 27 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+27
+STEP 4 - CLIMB THE CONTROL LADDER
+Use the least expensive instrument that preserves the next
+decision
+Instrument
+Best use
+Limitation
+NDA + data authorization
+Early owner dialogue and document access
+No exclusivity or sale right
+Access/right to test
+Desktop and limited field diligence
+No price protection unless combined
+Short exclusivity/no-shop
+Time to validate seller, utility and use path
+Expires; remedy matters
+ROFR/ROFO
+Preserve future negotiation
+Usually cannot force a sale at a known price
+Assignable option
+Asymmetric upside at a defined price
+Fee, term, extensions, assignment and recording
+matter
+Phased PSA
+Mature path with diligence conditions
+Deposits and deadlines can turn hard
+Ground-lease option
+Lower acquisition cash; seller retains land
+Finance, lender, tax and assignment complexity
+Counsel-drafted option business points
+Exact Synchronicity/SPV entity and legal description; purchase price or transparent formula.
+Target a long-enough initial term and staged extensions. An illustrative negotiation target is 6-12 months plus extensions to 18-24
+months, subject to seller market and counsel - not a form or promise.
+Modest staged consideration, creditable at closing where negotiated; no personal guarantee.
+Express assignment, nominee and buyer-approved change-of-control path.
+Access/testing, utility/government authorization, seller cooperation and document delivery.
+Broad diligence/approval conditions, title/survey cure, casualty/condemnation and closing conditions.
+Confidentiality that permits qualified buyer diligence; broker treatment; memorandum/recording strategy; remedies and survival.
+
+
+=== PAGE 28 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+28
+CAPITAL GATES
+Your $100,000 is a ceiling, not a budget
+NOW
+$2.5k
+legal + demand
+SOFT CONTROL
+$7.5k
+APN + seller authority
+OPTION PROOF
+$15.0k
+assignable control
+ADVANCED
+buyer-funded
+buyer funded
+The unused reserve is not idle cash. It is protection against a wrong parcel, a short seller clock, and sunk-cost escalation.
+Gate
+Cumulative
+cap
+Must be true
+Authorized use
+Stop
+0 - learn
+$2,500
+Counsel scope, Requirement Card, APN workflow
+Legal memo, calls, limited data/travel
+No buyer problem or
+lawful structure
+A - soft control
+$7,500
+Exact APN/owner, fatal desktop, seller receptive,
+intake path
+Counsel, title desktop,
+authorization/exclusivity
+Hard cash, short clock,
+no cooperation
+B - option proof
+$15,000
+Assignable control, written use/utility process, buyer
+class
+Modest option fee and decisive portable
+screens
+Title/access/power/use/w
+ater/buyer fatality
+C - advanced
+Buyer-funded
+Serious buyer and approved evidence budget
+Utility/field studies, survey, Phase I, extension
+Founder asked to fund
+unpriced utility exposure
+Reserve
+$85,000
+untouched
+Written exception after external validation
+Second validated opportunity or closing gap
+Never rescue sunk cost
+Spend request form
+amount | cumulative exposure | payee | refundable/creditable | exact deliverable
+parcel and decision unlocked | reliance/assignment rights | deadline | kill criterion
+what happens if answer is negative | who funds the next gate
+
+
+=== PAGE 29 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+29
+STEP 5 - MANUFACTURE TRANSFERABLE EVIDENCE
+The product is a controlled position plus an auditable
+decision room
+Folder
+Contents
+Promotion standard
+00 Executive
+One-page verdict, fatal gates, unknowns and next decision
+No promotional adjectives unsupported by claim IDs
+01 Control
+Executed agreement, amendments, seller authority, access and confidentiality
+Assignment/nominee and term summarized by counsel
+02 Parcel/title
+APNs, legal description, boundary, assessor, recorder, title/access
+Every parcel and assemblage dependency explicit
+03 Utility
+Territory proof, intake, tariffs/process, calls, written responses
+Delivery, supply, upgrades and commercial terms separated
+04 Land use/politics
+Code, zoning map, applications, letters, agendas and opposition
+Use path and decision calendar current
+05 Water
+AMA/INA, provider/rights, design demand, discharge and fire flow
+Legal and physical path separated
+06 Environment/civil
+Flood, IPaC, EPA/ADEQ, Phase I scope, geotech/civil leads
+Professional limitations and expiration visible
+07 Fiber/logistics
+Provider/route records, road/rail and access
+No diversity claim without route proof
+08 Commercial
+Requirement card, buyer feedback, price basis, option economics
+Confidential sources permissioned
+09 Evidence ledger
+Claim IDs, dates, grades, scope, conflicts and owners
+Every buyer-facing sentence traceable
+TRANSFERABILITY TEST
+For every report or letter ask: Who issued it? Which exact parcel and load does it cover? What assumptions and exclusions apply? Can a buyer, lender or
+SPV rely on it? Can it be assigned? When does it expire? A beautiful report without reliance or assignment rights may add little transaction value.
+
+
+=== PAGE 30 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+30
+DILIGENCE SEQUENCE
+Buy the cheapest fact that can kill or unlock the next gate
+Sequenc
+e
+Evidence
+Founder pays?
+Decision unlocked
+1
+Exact APN/jurisdiction/access desktop
+Yes, within Gate 0/A
+Is this a real parcel?
+2
+Utility intake and owner-authorization requirements
+Calls only
+Is there a process you can enter?
+3
+Written zoning/use/moratorium path
+Limited fee if necessary
+Can the use lawfully proceed?
+4
+Water/flood/environment desktops
+Limited, targeted
+Is there an obvious fatality?
+5
+Buyer requirement and anonymous fact-pattern review
+No project study
+Does anyone value the next proof?
+6
+Preliminary title and survey scope
+Within Gate B
+Can control and access survive diligence?
+7
+Utility feasibility/system-impact/line-extension work
+Buyer/sponsor
+Delivery, supply, cost and timing path
+8
+Phase I, ALTA, wetlands, geotech, civil/fiber studies
+Buyer/sponsor
+Can a buyer/lender rely and close?
+9
+Entitlement and engineered design
+Project capital
+Can the facility be approved and built?
+Consultant request
+Please quote the least-expensive scope that can answer [DECISION] for exact APN [APN]. Separate desktop and field phases.
+Identify exclusions, third-party inputs, delivery time, fee/reimbursables, seal, reliance-letter availability, assignment
+to a buyer/lender/SPV, update cost, conflicts, insurance and a not-to-exceed amount. This request does not authorize work.
+NO GENERIC ELECTRICAL REPORT
+The utility's process and the buyer's load/credit profile determine whether a power study matters. A consultant can assess scope and infrastructure, but
+cannot create utility capacity or permission. Do not buy an untethered report merely to make the site look more certain.
+
+
+=== PAGE 31 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+31
+STEP 6 - RUN A PERMISSIONED BUYER PROCESS
+Sell the development position, not the PDF
+Outreach ladder
+Stage
+What is shared
+Buyer action that advances the deal
+1. Anonymous fit check
+Region, first/ultimate MW hypothesis, acres, use path, major unknowns
+Confirms requirement and asks for APN-level
+review
+2. NDA teaser
+Exact APNs, control summary, source-linked fatal-screen facts
+Names decision maker and review process
+3. Data room
+Permissioned control and evidence documents
+Returns written questions or site visit request
+4. Proof budget
+Defined next utility/professional scope and quotes
+Buyer reimburses/funds or signs exclusivity
+5. Transaction
+Assignment/JV/option acquisition terms
+LOI, deposit and counsel process
+Target list size
+Build 15-25 qualified prospects that fit the same requirement card; do not blast a public listing.
+Prioritize warm introductions from land counsel, title/escrow, utility economic development, engineers, land-use professionals and
+specialist brokers.
+Approach powered-land and merchant developers before hyperscalers. The buyer must be able to carry diligence and option timing.
+Use one evidence room and a consistent question deadline so buyers compare the same facts.
+NO BUYER CLAIM
+A buyer is not 'interested' unless a dated communication supports that statement. An NDA, data-room access, written questions, site visit, proof budget or
+LOI are progressively stronger evidence; a friendly call is not.
+
+
+=== PAGE 32 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+32
+BUYER SCRIPTS AND DECISION PACKET
+Make the asset carry the conversation
+Anonymous fit email
+Subject: Arizona controlled-site fit check - [PHASE] MW first phase
+Synchronicity is evaluating an assignable, seller-authorized position on [ACRES] acres in [REGION] for a [PHASE] MW first
+phase and possible [ULTIMATE] MW expansion. We are not representing available capacity. Current evidence addresses exact
+APNs, owner/control path, serving-utility intake, land-use process and early fatal screens; [KEY UNKNOWNS] remain. Does
+this fact pattern match a live requirement, and what written proof would your team require before an APN-level review?
+One-page decision sheet
+Block
+Content
+Verdict
+Why inspect / why not / next test
+Control
+Instrument, remaining term, extensions, assignment, seller cooperation
+Buyer card
+Phase/ramp/ultimate, acres, cooling, fiber, timing and price basis
+Verified
+Only V3/V4 parcel-specific facts, dated
+Unknown
+Available MW, upgrades, cost, timing, title, entitlement and other open gates
+Ask
+NDA, data-room review and buyer-funded next proof
+Stop date
+Date control expires and when extension becomes uneconomic
+Objection response
+If asked, 'Do you have power?' answer: No utility capacity is being represented. The parcel has [verified nearby
+infrastructure/process fact], and the serving utility has identified [written next step]. I am asking whether this merits
+buyer-backed feasibility, not asking you to underwrite a capacity claim.
+
+
+=== PAGE 33 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+33
+STEP 7 - MONETIZE WITHOUT CLOSING ON THE LAND
+Choose the transaction that preserves capital and legal
+clarity
+Path
+How you get paid
+Main issues
+Option/PSA assignment
+Fixed assignment consideration, spread or negotiated
+payment
+Assignment consent, disclosure, brokerage, tax and escrow
+Buyer acquisition of project SPV
+Equity purchase price
+Securities/tax/liabilities/change of control; counsel required
+Buyer-funded exclusivity
+Reimbursement plus negotiated transfer terms
+Scope, termination, ownership of evidence and confidentiality
+Development JV
+Reimbursement, promote/minority upside
+Securities, governance, fiduciary, capital and tax complexity
+Ground-lease position
+Lease-option assignment or participation
+Lender rights, landlord obligations and long duration
+Close and resell
+Land price spread
+Highest capital, title, tax, carry and market risk; not launch default
+Illustrative mechanics - not a forecast
+Scenario
+Transfer proceeds
+Reimbursed diligence
+Founder cost basis
+Pre-tax contribution
+Low
+$15,000
+$0
+$10,000
+$5,000
+Middle
+$35,000
+$6,000
+$10,000
+$31,000
+High
+$75,000
+$10,000
+$15,000
+$70,000
+Formula: pre-tax contribution = transfer proceeds + reimbursed costs - option consideration - legal/title/data/diligence - extension/carry - closing
+costs. These numbers illustrate mechanics only. No parcel, buyer, seller terms or market quote exists, so actual proceeds and probability are unknown.
+PROFITABILITY TRUTH
+The first monetization may be small, slow or zero. Early profitability depends on keeping the cost basis low and obtaining buyer funding before expensive
+certainty. Do not extend a dead option because its sunk cost makes a large assignment feel necessary.
+
+
+=== PAGE 34 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+34
+CLOSING AND TRANSFER CHECKLIST
+No transaction is complete because the buyer says yes
+Workstream
+Required confirmation
+Authority
+Seller, Synchronicity entity and buyer approvals; beneficial ownership and signatures
+Control
+Option/PSA valid, unexpired, uncured defaults addressed, assignment/nominee consent satisfied
+Disclosure
+Role/equitable interest, assignment economics and material facts disclosed as counsel requires
+Title/escrow
+Legal description, exceptions, access, liens, taxes, prorations, recording and closing flow
+Evidence
+Data-room index, permissions, reliance/assignment rights, confidentiality and update dates
+Utility/government
+No correspondence is overstated; applications/authorization transferred correctly
+Economics
+Assignment price, reimbursements, deposits, expenses, tax reserves and payment instructions
+Publicity
+No names, logos, call notes or deal announcement without written permission
+Post-close
+Archive final set, request feedback/referrals and update conversion/cost data
+Three closing outcomes
+Assignment: the buyer steps into the land position and funds remaining diligence/closing.
+Buyer-backed continuation: buyer funds a defined next proof and receives exclusivity before final transfer.
+Kill: option expires or is terminated within the capped downside; evidence and rejection reasons improve the next search.
+SUCCESS METRIC
+A clean $10,000 loss inside a planned cap can be a better operating result than a forced land closing or a $100,000 rescue attempt. Judge the process by
+whether it bought decisive information cheaply and protected your ability to try again.
+
+
+=== PAGE 35 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+35
+FOUNDER OPERATING CADENCE DURING LAW SCHOOL
+Design the deal around the calendar you actually have
+Block
+Time
+Work
+Monday async
+45-60 min
+Review weekly scout, approve primary research and kill stale tasks
+Wednesday calls
+60-90 min
+Batch buyer, county, utility, seller and vendor calls
+Friday synthesis
+45-60 min
+Upload notes, update gates, decide next cheapest test
+Weekend deep block
+2-4 hours only when
+needed
+Parcel review, counsel materials, negotiation prep or data room
+Monthly retro
+60 min
+Costs, hours, false positives, call completion and workflow changes
+Calendar covenants
+One live paid-control position until first monetization.
+Target 6-10 hours per week during term. Delegate, defer or kill a task that needs 15+ hours for three consecutive weeks.
+No option expiry, hard deposit conversion, hearing or planned closing within 21 days of final exams or a major journal/moot-court
+deadline.
+Avoid same-day client service promises while in school; this is an asset process, not an always-on consultancy.
+Travel only after the parcel survives the desktop and a specific visit objective is written.
+SOLO-FOUNDER ADVANTAGE
+One controlled position can be managed asynchronously. The automation should compress research and prepare your calls, but it should never create
+more live deals than your school schedule can protect.
+
+
+=== PAGE 36 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+36
+WEEKLY DASHBOARD AND STOP RULES
+Measure truth velocity, not activity theater
+Metric
+First-90-day target
+Stop/change trigger
+Buyer discovery
+8-12 completed; requirement card updated
+No consistent buyer class or proof threshold
+Node leads
+20 current, source-backed; one primary/two backups
+Mostly stale/proxy signals or poor closeability
+Exact APNs
+20-40 screened; 3-6 APN-qualified
+No reachable owner, access or ordinary-use downside
+Written paths
+Utility + planning process for primary
+No plausible utility or use path
+Seller
+Authorization/exclusivity or option terms
+Hard money, short clock, no assignment/cooperation
+Buyer site test
+2 qualified reviews or 1 funded next proof
+20 qualified outreaches with no substantive engagement
+Cash
+<= $2,500 until prerequisites; <= $15,000 pre-sponsor
+Any spend that exceeds cap or lacks kill criterion
+Founder time
+6-10 hours/week
+>15 hours for 3 weeks or missed academic obligations
+Portfolio kill reasons to track
+Wrong owner or non-acquirable land; access/assemblage failure; seller uncooperative.
+Utility will not engage without a customer profile you cannot supply; no service path on buyer window.
+Use ban, politically unrealistic rezoning, water/cooling fatality or environmental/ROW obstacle.
+Buyer requirement mismatch, price basis too high, easy substitute parcels or evidence cannot transfer.
+Legal/marketing structure requires a license/partner or expense that destroys the model.
+KILL IS DATA
+For every killed parcel save the gate, source, cost, elapsed days, earliest missed signal and search-rule change. The automation becomes defensible by
+learning what not to pursue.
+
+
+=== PAGE 37 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+37
+YOUR FIRST TEN WORKING DAYS
+The exact founder action queue
+Day
+Founder action
+AI/preparation
+Success / stop
+1
+Approve Requirement Card v0 and legal scope
+Create templates and source registry
+One narrow buyer hypothesis
+2
+Send fixed-fee scope to 2-3 Arizona commercial land
+lawyers
+Draft comparison sheet
+Quote and issue coverage
+3
+Select 12 discovery targets and 5 warm channels
+Research current role/signal; draft messages
+Verified contact paths
+4
+Book first 4 buyer calls
+Generate briefs and capture forms
+Calls scheduled
+5
+Review refreshed Arizona node list
+Run current source/change scan
+20 node leads; no capacity claims
+6
+Complete 2 buyer conversations
+Update requirement card
+At least one rejection criterion learned
+7
+Choose top 3 nodes to parcelize
+Fetch county parcel adapters
+Exact APN work begins
+8
+Resolve county GIS/assessor ambiguities
+Build APN and adjacency tables
+10+ exact parcels
+9
+Complete 2 more buyer calls
+Re-rank parcels against current card
+Card v0.2 or explicit disagreement
+10
+Select one primary and two backup parcel groups
+Generate fatal-screen plan and call packet
+CALL SPRINT / $0 option fee
+SPEND DURING DAYS 1-10
+Only fixed-scope counsel, essential data and limited communication/travel inside the $2,500 cumulative cap. No option consideration, consultant capacity
+report, utility deposit, national travel, software build or paid lead list.
+
+
+=== PAGE 38 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+38
+90-DAY OPERATING PLAN
+Outputs, gates and founder decisions
+Phase
+Required outputs
+Founder decision
+Days 1-15
+Counsel memo/plan; Requirement Card v0.2; source registry; 20 nodes; 4-6 buyer calls
+Is the model lawful and is the
+search box coherent?
+Days 16-30
+20-40 exact APNs; fatal screens; one primary/two backups; owner and utility candidates
+Which parcel deserves calls, and
+which are killed?
+Days 31-45
+Planning/utility/water call records; owner dialogue; written follow-ups
+Is there a studyable path and
+receptive seller?
+Days 46-60
+Seller authorization/access/exclusivity; title desktop; anonymous buyer fit check
+Negotiate option or remain in soft
+control?
+Days 61-75
+Counsel-led option terms; permissioned data room; buyer questions
+Is control truly transferable and long
+enough?
+Days 76-90
+Executed control only if gates clear; two buyer reviews or one proof budget; retrospective
+Advance, extend, assign, hold or
+kill?
+Day 90 go/no-go
+GO: counsel-approved structure, validated buyer card, exact APN, seller-authorized control path, written utility/use process and
+substantive buyer engagement.
+HOLD: promising parcel but one answer remains; no money unless a short, explicit test resolves it.
+KILL/REPLACE: seller terms, utility/use path, buyer fit, legal structure or founder schedule destroys the asymmetry.
+NO FORCED TIMELINE
+Do not set 'buy land by year-end' as the operating goal. Set 'reach controlled, buyer-reviewable position without exceeding $15,000' as the gate. Calendar
+pressure is exactly how a seller's deadline becomes your capital problem.
+
+
+=== PAGE 39 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+39
+ARIZONA CURRENT-STATE OVERLAY
+Facts the automation must refresh before every deal
+Fact as of 31 Aug 2026
+Operating consequence
+Source
+APS shows 2025 peak load of 8.7 GW and an uncommitted
+queue of 19 GW; it says existing infrastructure cannot serve
+every request
+A proximity screen cannot substitute for a credible, customer-backed utility process
+W1
+ACC says APS/SRP interest exceeds current capacity and
+utilities are separating speculative requests
+Buyer credibility, load profile, financial support and milestones matter before utility work
+W2
+SRP LCIP determines infrastructure; large customers pay
+upgrades upfront; E-67 uses >=20 MW and 80% minimum
+billing
+A land option alone will not enter or fund the mature service process
+W3
+ACC approved a cooperative large-load framework in August
+2026 with customer-funded infrastructure and transmission
+costs
+Rural co-ops are not a cheap capacity shortcut; process may be clearer but sponsor
+strength matters
+W4
+APS XHLF requires >=5 MW and 92% load factor under the
+current tariff; APS has proposed major extra-large-user
+changes
+Tariff/rate assumptions must be rechecked on the day of underwriting
+W5-W6
+Arizona parcel data are county-specific; AZGeo catalogs
+county layers
+Build county adapters and verify assessor/recorder authority rather than using a
+statewide point polygon
+W7
+ADWR maintains current well, basin and water-resource GIS
+Automate early water screens, then escalate rights/provider/hydrology
+W8
+MATERIAL CHANGE FROM JULY
+The prior screen's rural political and co-op assumptions are stale in places. The August cooperative framework and intervening local actions reinforce the
+need for daily source dates and written verification before money.
+
+
+=== PAGE 40 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+40
+LEGAL AND PROFESSIONAL GUARDRAILS
+Issue spotting only - obtain licensed advice
+Issue
+Current point
+Founder rule
+Broker/option activity
+A.R.S. 32-2101 defines sale broadly and includes options; 32-2121
+exemptions have conditions
+Get a written opinion on the exact LLC conduct, frequency and
+compensation [W13-W14]
+Wholesaling
+A.R.S. 44-5101 expressly covers residential property under five units
+Do not assume commercial industrial assignments are cleared;
+counsel sets disclosures [W15]
+Foreign LLC
+A.R.S. 29-3905 lists isolated transactions and owning property without more,
+but preserves other regulation/tax
+Ask whether Synchronicity or an SPV must register in Arizona
+[W16]
+Claims
+An option does not create utility capacity, entitlement or buyer interest
+Use exact evidence date and say 'controlled under option,' not
+'powered'
+Reports
+Copyright, ownership, reliance and assignment are different rights
+Request express buyer reliance/assignment or disclose
+limitation
+Outside capital
+Passive interests, notes, promotes or transaction compensation may trigger
+securities/broker issues
+No blind fund or casual investor SPV without securities, tax and
+corporate counsel
+Access/environment
+Testing can create insurance, indemnity, restoration and environmental
+exposure
+Use counsel-approved access and qualified professionals
+NON-NEGOTIABLE LANGUAGE
+Do not say powered, power available, utility-approved, shovel-ready, fully entitled, buyer-ready or energize-by unless a current parcel/load-specific
+document supports the exact statement. A disclaimer does not cure an unsupported pitch.
+
+
+=== PAGE 41 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+41
+RISK REGISTER
+Likelihood is not estimated; control the exposure and next
+test
+Risk
+Early signal
+Control
+Kill/transfer trigger
+No utility path
+Utility requires named customer/credit or lacks
+timeline
+Buyer discovery first; seller authorization; no study
+spend
+Buyer funds path or kill
+Option clock
+Seller wants short term or large hard fee
+Soft exclusivity; extensions; school calendar covenant
+Walk away
+Substitute parcel
+Buyer sees many similar sites
+Demand-specific scarcity, price discipline, exact
+evidence
+Do not extend without engagement
+Title/access
+Landlocked, easement, split authority or liens
+Recorder/title desktop before option fee
+Uncurable or expensive cure
+Use/politics
+Discretionary rezoning, opposition, referendum
+or water fight
+Written path, local counsel, low-water narrative
+Buyer will not carry risk
+Misrepresentation
+Pressure to describe 'capacity' or buyer interest
+Claim IDs, scripts, review and correction log
+Stop outreach
+Licensing/securities
+Success fee for another, passive investor money
+or public syndication
+Written counsel structure
+License/partner or stop
+Founder overload
+Missed calls, stale evidence, academic conflict
+One live deal; 6-10 hours/week
+Defer, delegate or kill
+Sunk cost
+Extending because prior spend feels
+unrecoverable
+Precommitted gates and written retrospective
+Do not rescue
+BASE-RATE REALITY
+Most node leads should die. Many APNs will never reach a seller conversation, most seller conversations will not produce acceptable control, and some
+options will expire. The model survives only if each failure is cheap and the occasional buyer-backed transfer is large enough to fund the next cycle.
+
+
+=== PAGE 42 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+42
+PROJECT SOURCE LEDGER
+Files reviewed for this blueprint
+ID
+Source
+Date
+Use / limitation
+P1
+Arizona Powered-Land Option-Flip Strategy - Viability
+Report
+1 Aug 2026
+Report-only value critique, capital stack, assignment revision and Arizona site
+updates
+P2
+Electric Land Gate Strategy Competitor Report
+29 Aug 2026
+Gate services, competitors, founder credibility and scale boundaries
+P3
+Electric Land Business Model Comparison
+29 Aug 2026
+Personalized option-led assignment recommendation and capital/time gates
+P4
+AZ_FINDINGS_SUMMARY.md
+29 Jul 2026
+255-point screen, 166 private signals, top-node rankings and limitations
+P5
+AZ_METHOD.md
+29 Jul 2026
+Sources, projections, capacity/territory gaps and failure logging
+P6
+AZ_VERIFICATION.md
+29 Jul 2026
+Reopened-file checks and reproducibility
+P7
+AZ_UTILITY_MAP.md
+29 Jul 2026
+Utility regimes and 181/255 overlap warning; mutable
+P8
+AZ_WATER_NOTES.md
+29 Jul 2026
+AMA/INA and regulatory-freedom caveat; not physical water proof
+P9
+AZ_COUNTIES_TO_CALL.md
+29 Jul 2026
+Original county hypotheses; subsequently stale in part
+P10
+DATA_STATUS.md
+29 Jul 2026
+Dataset success/failure provenance
+P11
+arizona-large-load-guide (1).md
+29 Jul 2026
+Arizona vocabulary, process, questions and red flags; mutable facts rechecked
+P12
+Synchronicity 100 Customer Electric Land Strategy
+29 Aug 2026
+Buyer universe, target order and founder credibility constraints; no prospect
+contacted
+P13
+az_top25.csv
+29 Jul 2026
+Node-lead fields and proxies; not exact purchasable parcels
+All project files are internally useful but are not interchangeable with parcel-specific professional proof. Where later official sources contradicted or changed a project-file assumption, the
+later source controls for this blueprint.
+
+
+=== PAGE 43 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+43
+CURRENT PRIMARY-SOURCE LEDGER
+Retrieved 31 August 2026
+ID
+Clickable source
+Use / limitation
+W1
+APS - Data Centers and Extra-Large Energy Users
+8.7 GW peak, 19 GW uncommitted queue, customer-funded infrastructure
+W2
+ACC - April 2026 Large Load Workshop
+Queues, speculative-project screening, cost-causer policy and Arizona
+pipeline
+W3
+SRP - Data Centers and SRP
+LCIP, upfront upgrade cost and E-67 minimum-billing facts
+W4
+ACC - Cooperative Large-Load Framework
+August 2026 process and customer-funded infrastructure/transmission
+W5
+APS - XHLF Tariff
+Current tariff eligibility and ESA/line-extension terms; mutable
+W6
+APS - 2025 Rate Case
+Proposed extra-large-user and formula-rate changes; not final rates
+W7
+AZGeo - Parcel Data Catalog
+Discovery catalog for county parcel layers
+W8
+ADWR - GIS Data and Maps
+Official groundwater, well and water-resource data
+W9
+FEMA - National Flood Hazard Layer
+Current effective flood hazard screening
+W10
+USFWS - IPaC
+Federal species and resource project-planning screen
+W11
+EPA - ECHO Web Services
+Official regulated-facility and compliance APIs
+W12
+EIA - Preliminary Monthly Generator Inventory
+Current generator additions, retirements and status leads
+
+
+=== PAGE 44 ===
+SYNCHRONICITY / ELECTRIC LAND
+Option-led assignment operating blueprint - 31 Aug 2026
+Decision tool only - not legal, brokerage, utility, engineering, environmental, tax or investment advice.
+44
+LEGAL SOURCES, METHOD AND FINAL DECISION
+What is verified, inferred and still unknown
+ID
+Clickable source
+Use
+W13
+A.R.S. 32-2101 - Definitions
+Issue spotting; obtain current Arizona counsel opinion on the
+contemplated facts
+W14
+A.R.S. 32-2121 - Applicability and exceptions
+Issue spotting; obtain current Arizona counsel opinion on the
+contemplated facts
+W15
+A.R.S. 44-5101 - Residential wholesaling disclosure
+Issue spotting; obtain current Arizona counsel opinion on the
+contemplated facts
+W16
+A.R.S. 29-3905 - Activities not constituting doing business
+Issue spotting; obtain current Arizona counsel opinion on the
+contemplated facts
+Method
+Compared the four prior strategy reports and the Arizona workpapers, preserving conflicts rather than averaging them.
+Rechecked mutable utility, regulator, parcel, water, environmental and statutory sources through 31 August 2026.
+Converted the option-led recommendation into a demand-first state machine, capital-gated founder workflow and AI system design.
+Used management scenarios only where no quote or transaction exists; labeled them illustrative and not forecasts.
+Still unknown
+The exact first parcel, owner, legal description, title/access and seller terms.
+A qualified buyer's live requirement, price basis, timing and willingness to fund the next proof.
+The serving utility and parcel/load-specific delivery, supply, upgrade, cost and timeline path.
+Current zoning/use, water/cooling, fiber-route, environmental and political facts for a selected APN.
+Arizona counsel's conclusion on the exact licensing, disclosure, entity, escrow, tax and marketing structure.
+FINAL DECISION
+Begin now - but begin with calls, source architecture and exact-APN conversion, not an option payment. The first parcel is the output of a demand-shaped
+and legally structured search. The first option is earned only after the parcel survives fatal screens and a buyer class values the next proof. The first
+expensive certainty should be funded by the larger company that can use it.

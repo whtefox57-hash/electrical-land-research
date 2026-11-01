@@ -1,0 +1,231 @@
+[
+  {
+    "id": "jerome-industrial-parkway-160",
+    "name": "Industrial Parkway — Jerome Township 160 acres",
+    "address": "Industrial Parkway, Jerome Township, Ohio 43064",
+    "state": "OH",
+    "acres": 160,
+    "usableAcres": null,
+    "price": null,
+    "priceText": "Contact broker; not published",
+    "apn": null,
+    "listingUrl": "https://property.jll.com/listings/industrial-parkway-not-tracked-ohio",
+    "availability": "Currently advertised for sale/lease on broker page; live seller availability and option terms unconfirmed",
+    "verifiedAt": "2026-10-29",
+    "powerClaim": "Broker indexed highlights claim 50 MW via AEP/FirstEnergy, multiple fiber providers and by-right data-center zoning. These are marketing statements, not utility/authority confirmations. Delivered capacity is unknown.",
+    "utility": "AEP/FirstEnergy/URE roles need parcel-specific reconciliation; broker references multiple systems.",
+    "buyerNames": [
+      "Cologix",
+      "365 Data Centers",
+      "EdgeConneX",
+      "Google"
+    ],
+    "matchRationale": [
+      "Cologix and 365 have Columbus-region development signals; metro connectivity and a 160-acre expansion footprint are a more specific fit than rural acreage alone.",
+      "EdgeConneX could evaluate a customer-led Ohio campus; no open mandate verified.",
+      "Google is a regional self-builder, but the marketed 50 MW first block is not proof of a Google capacity requirement."
+    ],
+    "blockers": [
+      "APNs, legal description and offered tract boundaries not yet obtained.",
+      "Actual tariff, collateral, deliverability and expansion beyond advertised first phase require utility confirmation.",
+      "Broker entitlement claim needs adopted approvals and site-plan verification.",
+      "Ohio paused new tax-exemption requests; this is not a statewide development ban. Local restrictions still need separate checking.",
+      "Option fee/purchase price may be incompatible with founder limits."
+    ],
+    "sources": [
+      {
+        "title": "JLL Industrial Parkway listing",
+        "url": "https://property.jll.com/listings/industrial-parkway-not-tracked-ohio",
+        "publisher": "JLL",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Ohio pause of new data-center tax exemptions, not a ban",
+        "url": "https://governor.ohio.gov/media/news-and-media/governor-dewine-announces-pause-of-data-center-tax-exemption",
+        "publisher": "Ohio Governor",
+        "date": "2026-05-27",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "aurora-connect470-26",
+    "name": "Lot 1 Connect 470 — Aurora 26.8 acres",
+    "address": "E Jewell Avenue at S Gun Club Road, Aurora, Colorado 80018",
+    "state": "CO",
+    "acres": 26.8,
+    "usableAcres": null,
+    "price": null,
+    "priceText": "Not published",
+    "apn": null,
+    "listingUrl": "https://www.loopnet.com/Listing/E-Jewell-Ave-Aurora-CO/34300319/",
+    "availability": "Listing expressly says currently available; contact JLL. No seller-confirmed option availability.",
+    "verifiedAt": "2026-10-29",
+    "powerClaim": "No verified MW. Brochure substation proximity is not capacity.",
+    "utility": null,
+    "buyerNames": [
+      "365 Data Centers",
+      "Cologix",
+      "H5 Data Centers"
+    ],
+    "matchRationale": [
+      "365 explicitly named Aurora in its May 2026 development pipeline, making the geography a real match; its existing LOI could also mean demand is already allocated.",
+      "Cologix and H5 have Denver-area ecosystems, but acquisition appetite for this suburb is unverified.",
+      "Broker concepts of a 249,480 square-foot building and up to 400,000 square feet describe potential development, not an existing delivered building."
+    ],
+    "blockers": [
+      "The 26.8-acre Lot 1 is not the entire 173.1-acre Connect 470 offering; do not combine acreage or assume assemblage.",
+      "Bare-land delivery may miss 365’s conversion-led schedule.",
+      "Airport District zoning is advertised; exact data-center use approval and aviation constraints need authority review.",
+      "Deliverable MW, diverse fiber paths, APN and water capacity are unverified."
+    ],
+    "sources": [
+      {
+        "title": "Lot 1 Connect 470 listing",
+        "url": "https://www.loopnet.com/Listing/E-Jewell-Ave-Aurora-CO/34300319/",
+        "publisher": "JLL via LoopNet",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Connect 470 broader land marketing",
+        "url": "https://platform.reverecre.com/project/9e0e4d2e-5912-46b4-bb98-df3c2435e082",
+        "publisher": "JLL via Revere",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "kc-nw128-163",
+    "name": "3101 NW 128th Street — Kansas City 163 acres",
+    "address": "3101 NW 128 Street, Kansas City, Missouri 64164",
+    "state": "MO",
+    "acres": 163,
+    "usableAcres": null,
+    "price": 8999950,
+    "priceText": "$8,999,950; record also lists $55,000 per acre (rounded). Reconfirm price.",
+    "apn": null,
+    "listingUrl": "https://properties.zoomprospector.com/kcsmartport/property/3101-NW-128-St-Kansas-City-Missouri/76B54032-8FE1-4268-B3EE-1C86F1CEED05",
+    "availability": "KC SmartPort states for sale; record updated October 19, 2026",
+    "verifiedAt": "2026-10-29",
+    "latitude": 39.3253,
+    "longitude": -94.6162,
+    "powerClaim": "Listing says adjacent to new substation, Evergy service, utilities available. No capacity verified or implied.",
+    "utility": "Evergy per marketing record; exact parcel service confirmation absent",
+    "buyerNames": [
+      "Google",
+      "Meta",
+      "Lincoln Rackhouse",
+      "Lightedge"
+    ],
+    "matchRationale": [
+      "Marketing record claims contiguity to Meta and Google technology parks; if boundaries prove it, this supports an expansion/assemblage hypothesis tied to named users.",
+      "163 acres is below Meta’s typical 500-acre co-op RFI; only adjacent expansion or a larger assemblage would resolve the mismatch.",
+      "Lincoln has a land-partner development model; Lightedge has Kansas City demand, although this tract is much larger than its recent 3 MW acquisition."
+    ],
+    "blockers": [
+      "Need official parcel map and title to verify claimed contiguity and owner.",
+      "Existing campuses may already have adequate expansion land and power rights.",
+      "Nearly $9 million asking price exceeds founder fee-simple resources; affordable assignable control has not been offered.",
+      "No written utility MW/ramp, diverse fiber routes, use approval or environmental clearance."
+    ],
+    "sources": [
+      {
+        "title": "KC SmartPort 3101 NW 128 Street marketing record",
+        "url": "https://properties.zoomprospector.com/kcsmartport/property/3101-NW-128-St-Kansas-City-Missouri/76B54032-8FE1-4268-B3EE-1C86F1CEED05",
+        "publisher": "KC SmartPort / Boulevard Commercial",
+        "date": "2026-10-19",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "chester-ng-datacenter",
+    "name": "NG Data Center — Chester, Virginia",
+    "address": "11751 Meadowville Lane, Chester, Virginia 23836",
+    "state": "VA",
+    "acres": null,
+    "usableAcres": null,
+    "buildingSqFt": 193055,
+    "price": null,
+    "priceText": "Contact broker; price not published",
+    "apn": null,
+    "listingUrl": "https://property.jll.com/listings/ng-data-center-11751-meadowville-ln-i-95-s-i-295-s-rt-10",
+    "availability": "JLL currently advertises whole-property sale or floor leases; seller confirmation still needed",
+    "verifiedAt": "2026-10-29",
+    "powerClaim": "No current delivered or expansion MW established in the opened broker listing.",
+    "utility": null,
+    "buyerNames": [
+      "TierPoint",
+      "365 Data Centers",
+      "H5 Data Centers",
+      "DāSTOR"
+    ],
+    "matchRationale": [
+      "Existing data-center structure is closer to TierPoint, H5 and 365 acquisition/reuse precedents than a raw-land option.",
+      "Chester/Richmond provides a Mid-Atlantic location; local customer, fiber and network economics still require confirmation.",
+      "DāSTOR is an exploratory regional expansion prospect, not a verified Richmond buyer."
+    ],
+    "blockers": [
+      "The listing headline says 193,055 square feet while sale prose says 192,595; reconcile exact area.",
+      "No plant-condition, firm power, tenant/vacancy or sale-price evidence reviewed.",
+      "Must establish reuse economics and ability to support the buyer’s actual liquid-cooling/rack-density target.",
+      "Existing facility purchase is a different transaction from small land-option origination; founder should seek buyer-backed exclusivity only."
+    ],
+    "sources": [
+      {
+        "title": "JLL NG Data Center sale/lease listing",
+        "url": "https://property.jll.com/listings/ng-data-center-11751-meadowville-ln-i-95-s-i-295-s-rt-10",
+        "publisher": "JLL",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "silver-spring-datacenter",
+    "name": "Silver Spring colocation data center — expansion/acquisition lead",
+    "address": "Silver Spring, Maryland; exact offered address must be reconciled with broker (not assumed from similarly named facilities)",
+    "state": "MD",
+    "acres": 11,
+    "usableAcres": null,
+    "buildingSqFt": 214815,
+    "price": null,
+    "priceText": "Not published; institutional acquisition scale",
+    "apn": null,
+    "listingUrl": "https://invest.jll.com/fr/fr/listings/special-purpose-facility/silver-spring-data-center",
+    "availability": "JLL advertises fee-simple sale on behalf of Sansone Group and Priseda; no seller contact made",
+    "verifiedAt": "2026-10-29",
+    "powerClaim": "Broker reports 18 MW contracted IT load, two 9 MW Pepco feeds and additional capacity opportunities. Do not add redundant feeds or equate contracted load with currently delivered independent MW. Future-feed timing in listing requires refresh.",
+    "utility": "Pepco per broker; service rights and ramp require provider documents",
+    "buyerNames": [
+      "H5 Data Centers",
+      "Netrality Data Centers",
+      "TierPoint",
+      "Lightedge"
+    ],
+    "matchRationale": [
+      "Operating, leased colocation infrastructure with unused data-hall space fits facility-acquisition and expansion strategies.",
+      "H5/Netrality would require evidence of network ecosystem; TierPoint/Lightedge would require customer retention, compliance and retrofit economics.",
+      "This is an acquisition/expansion comparable and partnership lead, not a cheap vacant parcel or an empty facility awaiting first construction."
+    ],
+    "blockers": [
+      "Exact address, parcels and offering perimeter need broker confirmation.",
+      "Current tenant commitments and redundancy changes limit free capacity.",
+      "Broker calls facility Tier IV while describing N+1 reconfiguration; certification/design claims need engineering review.",
+      "Price and institutional capital requirements probably exceed founder-only execution; control/assignment terms unknown.",
+      "Build probability must mean incremental expansion/retrofit, not initial facility construction, which has already occurred."
+    ],
+    "sources": [
+      {
+        "title": "JLL Silver Spring Data Center sale offering",
+        "url": "https://invest.jll.com/fr/fr/listings/special-purpose-facility/silver-spring-data-center",
+        "publisher": "JLL",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "layer-24-metadata",
+  "url": "https://services6.arcgis.com/qsfT0E2It2u5vqBg/ArcGIS/rest/services/FtHuachuca_interactive_map_2022_05_31_EBR/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:13.698461+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 14499,
+  "sha256": "7096af4050c2d627cbdb22cb143c59128584c940751d5ea2f1d30319900fb642",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

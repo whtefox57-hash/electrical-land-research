@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "crusoe",
+    "name": "Crusoe",
+    "parentGroup": "Crusoe; works with Lancium on certain campuses\u2014shared project exposure",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "North Dakota",
+      "US emerging power markets"
+    ],
+    "strategy": "Vertically integrated AI infrastructure developer building customer-led AI factories. Its current Texas program is a campus-scale business; an isolated cheap rural parcel is not equivalent to a commissionable AI factory.",
+    "scale": "Abilene expansion announced at 900 MW; existing adjacent campus 1.2 GW. Source labels total capacity, not a universal critical-IT threshold.",
+    "publishedRequirements": [
+      {
+        "fact": "March 2026 Abilene announcement describes two buildings, an onsite power plant and first-building energization targeted for mid-2027.",
+        "sourceUrl": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Earlier Abilene expansion used six additional buildings and a common high-performance network fabric; these are project examples, not open land-procurement specifications.",
+        "sourceUrl": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize parcels with enough usable land for both data buildings and power infrastructure; assess setbacks, fuel supply, air approvals and electrical separation early.",
+      "A small first phase needs a credible expansion and tenant story that competes with its existing campus pipeline.",
+      "A remote location can fit training, but backhaul construction and labor logistics may eliminate the apparent land-price saving."
+    ],
+    "differentiators": [
+      "Integrated power-plus-compute delivery rather than passive powered-land ownership.",
+      "Campus adjacency and reuse of delivery teams can create value that a standalone parcel cannot replicate.",
+      "Schedule and long-lead equipment readiness matter alongside nominal MW."
+    ],
+    "dealStructure": "Developer/customer infrastructure agreements and campus partnerships are evidenced. No public commitment to buy third-party option assignments or pay a specific origination fee was found.",
+    "acquisitionSignal": "Active large-campus development; announcements demonstrate execution demand but do not constitute a request for Bill\u2019s parcel.",
+    "searchBrief": "Search expandable industrial or power-campus positions in Texas and other proven energy markets, with a dated utility path, buildable pads, fuel/onsite-generation alternatives, and constructible diverse fiber. Ask whether a 20\u201350 MW phase is commercially interesting before paying for control.",
+    "rejectionTriggers": [
+      "Inference: 10\u201325 MW permanently capped with no broader expansion case.",
+      "Inference: power plant, fiber or labor timetable misses contracted customer delivery.",
+      "Inference: site only offers proximity to a transmission line."
+    ],
+    "buyerQuestions": [
+      "What is the smallest independently financeable first phase you would consider on a new campus?",
+      "Would you prefer to buy land, take assignment of an option, or partner with an infrastructure landowner?",
+      "What minimum information on fiber, cooling and onsite generation is required before site review?"
+    ],
+    "sources": [
+      {
+        "title": "New 900 MW Abilene AI factory for Microsoft",
+        "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+        "publisher": "Crusoe",
+        "date": "2026-03-27",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Abilene campus expands to 1.2 GW",
+        "url": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+        "publisher": "Crusoe",
+        "date": "2025-03-18",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "lancium",
+    "name": "Lancium",
+    "parentGroup": "Lancium; campus partnerships with Crusoe and QTS are not independent demand for the same project",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Abilene",
+      "Childress",
+      "Hall County"
+    ],
+    "strategy": "Energy infrastructure and campus developer that supplies electrical and civil infrastructure while specialist partners construct and operate data-center buildings. Its differentiation is a controlled, grid-compatible power campus rather than a conventional metro colocation building.",
+    "scale": "Abilene 1.2 GW interconnect; company describes multiple gigawatt-scale campuses. No public universal minimum-acreage requirement found.",
+    "publishedRequirements": [
+      {
+        "fact": "Lancium describes a 1.2 GW Abilene interconnect with ERCOT review and transmission-provider collaboration.",
+        "sourceUrl": "https://lancium.com/locations/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "At Hall County, Lancium owns the campus and provides electrical/civil infrastructure; QTS designs, builds and operates the data-center buildings.",
+        "sourceUrl": "https://q.com/news/qts-and-lancium-announce-data-center-campus-in-hall-county-texas/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Hall County plans include battery storage and solar resources; cooling is described as closed-loop without ongoing cooling-water consumption.",
+        "sourceUrl": "https://q.com/news/qts-and-lancium-announce-data-center-campus-in-hall-county-texas/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize large developable tracts where power integration, generation or storage siting creates a defensible advantage.",
+      "Grid-service flexibility and workload reliability must be engineered together; cheap interruptible mining power is not automatically suitable for AI tenants.",
+      "A small parcel should be considered an assemblage component or expansion position, not assumed to match the flagship campus model."
+    ],
+    "differentiators": [
+      "Campus owner/infrastructure role can differ from the party taking the ultimate building lease.",
+      "Renewable generation, storage and grid-support responsibilities affect land area and easements.",
+      "Community water independence and infrastructure funding are explicit parts of current project positioning."
+    ],
+    "dealStructure": "Campus ownership with developer/operator partnerships is evidenced. A developer-facing option could be an input to that structure, but assignment appetite and fee policy are unverified.",
+    "acquisitionSignal": "Current Texas campus rollout is an expansion signal. Existing controlled sites may reduce near-term need for a new small independent site.",
+    "searchBrief": "Search large Texas industrial or agricultural assemblages with a legitimate large-load service process, space for storage/generation, and a phased civil plan. Preserve separate documents for delivery capacity, energy supply and dispatch obligations; ask whether Lancium seeks land before utility study completion.",
+    "rejectionTriggers": [
+      "Inference: permanently small site without assemblage.",
+      "Inference: utility flexibility conditions incompatible with the tenant service level.",
+      "Inference: no feasible generation/storage or fiber footprint."
+    ],
+    "buyerQuestions": [
+      "What minimum campus expansion potential justifies a new market position?",
+      "Which electrical and civil rights must accompany land control?",
+      "Would you evaluate an option at intake stage or only after an ERCOT/utility milestone?"
+    ],
+    "sources": [
+      {
+        "title": "Clean Campus locations",
+        "url": "https://lancium.com/locations/",
+        "publisher": "Lancium",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Hall County campus partnership",
+        "url": "https://q.com/news/qts-and-lancium-announce-data-center-campus-in-hall-county-texas/",
+        "publisher": "QTS and Lancium",
+        "date": "2026-07-13",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "applied-digital",
+    "name": "Applied Digital",
+    "parentGroup": "Applied Digital Corporation",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "North Dakota",
+      "Southern United States"
+    ],
+    "strategy": "Develops large, standardized AI factory campuses, replicating design and delivery teams across markets. It expressly describes site fundamentals and community alignment, making it a better source of search rules than a generic data-center checklist.",
+    "scale": "Polaris Forge 1 full buildout: 400 MW critical IT; Delta Forge 2 lease: 210 MW critical IT. These are observed campus/lease blocks, not minimum land-acquisition thresholds.",
+    "publishedRequirements": [
+      {
+        "fact": "Published site fundamentals are large contiguous parcels, inexpensive expandable utility power and diverse scalable fiber.",
+        "sourceUrl": "https://www.applieddigital.com/ai-factories",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Delta Forge 2 uses a 15-year take-or-pay lease and proprietary waterless cooling; its 210 MW is critical IT, not grid supply.",
+        "sourceUrl": "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "October 2026 delivery of three 25 MW halls brought Polaris Forge 1 to 250 MW operating critical IT.",
+        "sourceUrl": "https://ir.applieddigital.com/news-events/press-releases/detail/161/applied-digital-brings-an-additional-75-mw-of-ai",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Search sites where a standardized multi-building plan can be repeated without unusual parcel geometry or phased rebuilding.",
+      "Stable long-run utility economics and growth rights may outweigh cheap acreage.",
+      "Community support should be evidenced through workforce, tax-base and infrastructure discussions, not an unsupported politics score."
+    ],
+    "differentiators": [
+      "Public distinction between critical IT and gross utility requirements.",
+      "Waterless architecture changes the water screen but does not eliminate fire, domestic or construction water needs.",
+      "Standardized procurement and phased hall delivery make practical construction sequencing important."
+    ],
+    "dealStructure": "Long-term tenant leases support developer-owned facilities. No public policy confirms willingness to acquire a founder\u2019s option; a land/control acquisition remains a separate negotiation.",
+    "acquisitionSignal": "Five-campus contracted model and recent deliveries show active expansion, but existing secured sites compete for capital and management attention.",
+    "searchBrief": "Look for contiguous multi-building sites in utility territories with documented expandable service, multiple fiber construction routes, and communities able to absorb a long construction program. Present the 20\u201325 MW pilot only as the first step in a substantially larger campus; seek a written lower-size screen before spending.",
+    "rejectionTriggers": [
+      "Inference: usable acreage cannot support repeatable multi-building layout.",
+      "Inference: no economic expansion beyond the initial load.",
+      "Inference: unproven customer demand or fiber route makes a distant rural campus uneconomic."
+    ],
+    "buyerQuestions": [
+      "What first-phase and ultimate critical-IT sizes are you currently underwriting?",
+      "What acreage and geometry does your current standard building/cooling layout require?",
+      "What site-control and utility milestones are needed for an acquisition committee review?"
+    ],
+    "sources": [
+      {
+        "title": "AI Factories\u2014site fundamentals",
+        "url": "https://www.applieddigital.com/ai-factories",
+        "publisher": "Applied Digital",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Delta Forge 2 210 MW lease",
+        "url": "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2",
+        "publisher": "Applied Digital",
+        "date": "2026-06-08",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Polaris Forge 1 adds 75 MW",
+        "url": "https://ir.applieddigital.com/news-events/press-releases/detail/161/applied-digital-brings-an-additional-75-mw-of-ai",
+        "publisher": "Applied Digital",
+        "date": "2026-10-02",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "terawulf",
+    "name": "TeraWulf",
+    "parentGroup": "TeraWulf Inc.; historical Abernathy JV with Fluidstack was announced for sale in 2026",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "New York",
+      "Kentucky",
+      "Maryland"
+    ],
+    "strategy": "Vertically integrated power-led developer whose strongest current pattern is industrial or generation-site reuse with substantial electrical infrastructure and long-duration AI leases. It prioritizes control of infrastructure and customer economics, rather than accumulating undeveloped MW claims.",
+    "scale": "Justified campus approximately 401 MW critical IT; Hawesville acquisition described more than 250 buildable acres and up to 480 MW gross power. These are project examples.",
+    "publishedRequirements": [
+      {
+        "fact": "Lake Mariner reused a retired coal-power site; Hawesville is a former industrial site with existing high-voltage infrastructure.",
+        "sourceUrl": "https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001083301-26-000092/wulf-20260331.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "July 2026 Anthropic agreement covered approximately 401 MW critical IT over 20 years, with phased delivery planned in 2027\u20132028.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The company announced a sale of its majority Abernathy JV interest to recycle capital into wholly owned projects.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A brownfield with transferable service rights and completed cleanup is more aligned than an agricultural site merely crossed by transmission.",
+      "Contaminated legacy assets can fit only if liability, remediation schedule and buildable areas are tightly bounded.",
+      "Partner capacity and credit support remain necessary even after power is proven; infrastructure ownership alone does not establish a paying tenant."
+    ],
+    "differentiators": [
+      "Generation-site redevelopment experience.",
+      "Preference for direct control of infrastructure/customer relationships evidenced by capital recycling.",
+      "Long-lived anchor leases make energization schedule and tenant credit central commercial factors."
+    ],
+    "dealStructure": "Direct property purchases and project-company/JV ownership are evidenced. Neither history proves a willingness to acquire unexercised options or assume unlimited environmental obligations.",
+    "acquisitionSignal": "New industrial-site acquisitions and contracted Kentucky development support current acquisition relevance. The minimum acceptable standalone campus is unpublished.",
+    "searchBrief": "Search remediated power or industrial properties with large net buildable acreage, documented import-service rights, existing substation potential and room for redundant equipment. Compare a redevelopment schedule against greenfield\u2014not just nominal installed generation. Founder should avoid taking environmental or demolition obligations before a funded sponsor accepts them.",
+    "rejectionTriggers": [
+      "Inference: prior generation export rights are mistaken for large-load import rights.",
+      "Inference: cleanup or title liabilities cannot be ring-fenced.",
+      "Inference: small final campus fails to justify a separate operating platform."
+    ],
+    "buyerQuestions": [
+      "Would a small first phase be considered if the site can ultimately reach several hundred MW?",
+      "What environmental indemnities and remediation completion tests do you require?",
+      "Do you prefer fee title, a long ground lease, or project-company acquisition?"
+    ],
+    "sources": [
+      {
+        "title": "Q1 2026 10-Q\u2014Hawesville and Lake Mariner",
+        "url": "https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001083301-26-000092/wulf-20260331.htm",
+        "publisher": "TeraWulf / SEC",
+        "date": "2026-05-08",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Anthropic lease and Abernathy sale announcement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+        "publisher": "TeraWulf / SEC",
+        "date": "2026-07-06",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "iren",
+    "name": "IREN",
+    "parentGroup": "IREN Limited",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Oklahoma",
+      "British Columbia",
+      "Australia",
+      "Spain"
+    ],
+    "strategy": "Vertically integrated AI cloud and data-center platform transitioning existing mining infrastructure and building large new campuses. Its disclosed US growth concentrates on large land/power positions, with customer contracts and GPU financing progressing together.",
+    "scale": "Childress: 750 MW site and four 50 MW IT Horizon deployments. Sweetwater: 2,000 MW across 2,200 acres; Oklahoma 1,600 MW over 2,000 acres. Site MW should not be treated as commissioned IT MW.",
+    "publishedRequirements": [
+      {
+        "fact": "IREN states its data centers are grid-connected for continuous reliable service, with renewable energy or renewable certificates.",
+        "sourceUrl": "https://www.iren.com/data-centers",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "FY26 results describe liquid-cooled 50 MW IT deployments at Childress, plus expansion across a pipeline exceeding 5 GW.",
+        "sourceUrl": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "September 2026 Sweetwater announcement describes conditional ERCOT Batch Zero treatment; approvals remain conditional.",
+        "sourceUrl": "https://iren.gcs-web.com/news-releases/news-release-details/irens-2gw-sweetwater-hub-included-base-load-ercot-batch-zero",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Need exceptionally scalable, controllable land and utility agreements rather than a one-off small plot.",
+      "Existing low-cost power infrastructure with an AI conversion path can have value if it meets uptime, cooling and fiber standards.",
+      "Bill\u2019s small Texas tract competes with already controlled Childress/Sweetwater land; geographic proximity alone is not an acquisition reason."
+    ],
+    "differentiators": [
+      "Own AI cloud contracts mean compute monetization and GPU capital matter as well as rent.",
+      "Company explicitly distinguishes IT deployments from total site utility power.",
+      "Conditional grid classifications should remain conditional in a buyer packet."
+    ],
+    "dealStructure": "Own/control large sites and develop or convert infrastructure. Public material does not provide an option-assignment acceptance policy or a standard minimum land price.",
+    "acquisitionSignal": "Active development in Texas and Oklahoma, but extensive existing pipeline creates a strong alternative to buying another small site.",
+    "searchBrief": "Search expandable US land positions with executed utility arrangements or a clear path to them, robust network access, and financeable phased liquid-cooling design. For a 20\u201330 MW candidate, first ask whether it serves a unique customer or network need; do not infer interest from IREN\u2019s legacy smaller Canadian sites.",
+    "rejectionTriggers": [
+      "Inference: no expansion path beyond a small first phase.",
+      "Inference: interruptible-only service fails continuous AI requirements.",
+      "Inference: tariff, collateral or fiber costs erase the cost advantage."
+    ],
+    "buyerQuestions": [
+      "Are you adding US sites or primarily deploying at the currently controlled pipeline?",
+      "What evidence makes a small standalone site strategically additive?",
+      "Which grid approvals and utility agreements must be assignable before you engage?"
+    ],
+    "sources": [
+      {
+        "title": "Data center locations and service posture",
+        "url": "https://www.iren.com/data-centers",
+        "publisher": "IREN",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "FY26 results",
+        "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results",
+        "publisher": "IREN",
+        "date": "2026-08-27",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Sweetwater conditional Batch Zero inclusion",
+        "url": "https://iren.gcs-web.com/news-releases/news-release-details/irens-2gw-sweetwater-hub-included-base-load-ercot-batch-zero",
+        "publisher": "IREN",
+        "date": "2026-09-08",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "core-scientific",
+    "name": "Core Scientific",
+    "parentGroup": "Core Scientific Inc.",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Oklahoma",
+      "Texas",
+      "US existing-campus markets"
+    ],
+    "strategy": "Develops high-density colocation, often adapting established power positions for large AI tenants. A local electrical and construction advantage must translate into serviceable data halls and reliable connectivity, not merely legacy cryptocurrency operation.",
+    "scale": "Muskogee marketing describes 100 MW total power on 65 acres; financing material describes a 70 MW data-center scope on 64 acres. Preserve scope/rounding differences; do not merge them into one IT figure.",
+    "publishedRequirements": [
+      {
+        "fact": "Muskogee site page emphasizes cost-effective power, low latency and expansion potential, and describes access to a high-capacity substation.",
+        "sourceUrl": "https://corescientific.com/high-density-data-centers/muskogee-ok/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "April 2026 financing disclosure identifies owned Muskogee land, an OG&E service agreement, two compute halls and a network hall.",
+        "sourceUrl": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-26-165121/d149019dex992.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The construction disclosure describes guaranteed-maximum-price contracting and certain tenant-funded/reimbursed construction costs.",
+        "sourceUrl": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-26-165121/d149019dex992.htm",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Brownfield or existing data-center sites with meaningful power/service rights may outrank entirely raw land.",
+      "A network hall and diverse routes must fit physically; fiber is a delivery workstream, not a broadband-availability checkbox.",
+      "A new site needs a clear advantage over the company\u2019s currently owned conversion portfolio and tenant requirements."
+    ],
+    "differentiators": [
+      "Tenant-directed fit-out and cost reimbursement can materially change who funds development.",
+      "Public disclosure allows facility-scale and construction-scope numbers to be checked separately.",
+      "Existing electrical relationships may matter more than nominal distance to substations."
+    ],
+    "dealStructure": "Owned real estate, utility service agreements and long-term colocation agreements are evidenced. The packet should identify what rights can transfer and what consents the tenant/utility require; no universal assignment appetite found.",
+    "acquisitionSignal": "AI conversion and construction activity demonstrates development capability but is not a blanket mandate for unstudied land.",
+    "searchBrief": "Search existing industrial/data-center assets with adequate structural and electrical layouts, a service agreement capable of large-load use, and fiber routes into tenant target markets. On a greenfield lead, identify the anchor workload and proposed capacity tranche first. Resolve whether quoted MW are utility input, usable IT, future entitlement or substation rating.",
+    "rejectionTriggers": [
+      "Inference: old mining infrastructure cannot achieve AI uptime or liquid-cooling needs.",
+      "Inference: load is not legally transferable to a new user or use.",
+      "Inference: speculative expansion is presented as approved capacity."
+    ],
+    "buyerQuestions": [
+      "What new-site acquisition criteria differ from your current conversion program?",
+      "Will a proposed customer support construction or utility deposits?",
+      "What MW metric and redundancy design should a preliminary site packet use?"
+    ],
+    "sources": [
+      {
+        "title": "Muskogee high-density data center",
+        "url": "https://corescientific.com/high-density-data-centers/muskogee-ok/",
+        "publisher": "Core Scientific",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Muskogee financing disclosure",
+        "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-26-165121/d149019dex992.htm",
+        "publisher": "Core Scientific / SEC",
+        "date": "2026-04-21",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "hut-8",
+    "name": "Hut 8",
+    "parentGroup": "Hut 8 Corp.; distinguish AI campus program from American Bitcoin exposure",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Louisiana"
+    ],
+    "strategy": "Power-first greenfield developer that secures land and power, signs an anchor offtake, then builds phased AI infrastructure. Its own published sequence makes customer commercialization a distinct gate after technical site readiness.",
+    "scale": "River Bend: 330 MW utility supporting 245 MW commercialized IT; 627-acre footprint plus 2,361 acres under option. Beacon Point: 1,000 MW utility on 525 acres. Project examples, not published minimums.",
+    "publishedRequirements": [
+      {
+        "fact": "River Bend publishes a sequence of development, anchor-tenant commercialization, construction and delivery.",
+        "sourceUrl": "https://www.hut8.com/data-centers/river-bend",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Beacon Point advertises a closed-loop design with no municipal cooling-water consumption and pre-funded utility infrastructure.",
+        "sourceUrl": "https://www.hut8.com/data-centers/beacon-point",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "River Bend separately identifies current footprint and land under option, demonstrating phased control rather than immediate ownership of all future acreage.",
+        "sourceUrl": "https://www.hut8.com/data-centers/river-bend",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A new site should allow large multi-phase growth and preserve future infrastructure corridors.",
+      "Tenant credit and bankable offtake are central; suitable power alone is insufficient to trigger construction.",
+      "Local infrastructure cost allocation and community water commitments can affect approval and corporate reputation."
+    ],
+    "differentiators": [
+      "Options are demonstrably part of campus expansion control.",
+      "Explicit utility-to-IT capacity distinction prevents overselling nominal MW.",
+      "Generation, engineering and construction partnerships are built into delivery."
+    ],
+    "dealStructure": "Land ownership/options with tenant leases and institutional delivery partners. This demonstrates use of options, not a commitment to pay an intermediary\u2019s assignment spread.",
+    "acquisitionSignal": "Recent Texas and Louisiana projects demonstrate active commercialization. Scale and existing pipeline make a permanently limited 20 MW site a weak match absent a special customer.",
+    "searchBrief": "Source contiguous industrial/power-capable campuses with legally secure expansion acreage, reliable utility delivery, realistic cooling and generation setbacks, and a clear tenant-compatible schedule. Offer a staged control plan whose term survives studies and customer negotiation. Do not present 1 GW as a casual project request when the actual first phase is smaller.",
+    "rejectionTriggers": [
+      "Inference: land cannot accommodate expansion or independent infrastructure.",
+      "Inference: anchor credit or tenant demand remains unfinanceable.",
+      "Inference: utility or permit timetable exceeds enforceable control."
+    ],
+    "buyerQuestions": [
+      "What minimum first-phase IT block is commercially relevant for a new campus?",
+      "Would you acquire or nominate an existing option, and what diligence remains your responsibility?",
+      "Which customer credit and utility milestones must precede construction approval?"
+    ],
+    "sources": [
+      {
+        "title": "River Bend campus and development model",
+        "url": "https://www.hut8.com/data-centers/river-bend",
+        "publisher": "Hut 8",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Beacon Point campus",
+        "url": "https://www.hut8.com/data-centers/beacon-point",
+        "publisher": "Hut 8",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "cipher-digital",
+    "name": "Cipher Digital",
+    "parentGroup": "Cipher Digital Inc., formerly Cipher Mining Inc. (effective February 20, 2026)",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Ohio"
+    ],
+    "strategy": "Industrial-scale HPC developer that deliberately secures new site options, leases capacity to major tenants and finances construction at project level. This is unusually direct public evidence of option-based site control, although it does not validate any proposed assignment fee.",
+    "scale": "Apollo option: approximately 288 acres, up to 900 MW near San Antonio. Earlier contracted HPC projects totaled 600 MW gross across two leases; no universal minimum-size requirement published.",
+    "publishedRequirements": [
+      {
+        "fact": "August 2026 update says Cipher acquired an option over Apollo within 25 miles of San Antonio; the site was submitted as a studied load in ERCOT Batch Zero.",
+        "sourceUrl": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-second-quarter-2026-business-update",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The same release specifically highlights flat buildable terrain and proximity supporting fiber connectivity.",
+        "sourceUrl": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-second-quarter-2026-business-update",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "February 2026 update documents the Cipher Digital rename and pivot toward HPC, with project funding tied to major leases.",
+        "sourceUrl": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-fourth-quarter-and-full-year-2025/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "An option with inexpensive land but no progressed load study will compare poorly to Apollo\u2019s documented development position.",
+      "Metro-adjacent network reach can improve an energy-rich site\u2019s value; it is not equivalent to a city-center edge latency promise.",
+      "A new small parcel needs either expansion acreage or a reason a specific tenant cannot be served elsewhere in Cipher\u2019s portfolio."
+    ],
+    "differentiators": [
+      "Demonstrated use of land options.",
+      "Flat terrain and fiber-market adjacency explicitly explained in a new-site announcement.",
+      "Project-level financing and tenant schedule can outweigh raw land acquisition cost."
+    ],
+    "dealStructure": "Option acquisition is evidenced; terms, seller, assignment origin and consideration are not disclosed in the cited release. Do not equate acquiring an option with buying Bill\u2019s existing option.",
+    "acquisitionSignal": "Direct current new-site acquisition evidence, stronger than merely an old facility expansion announcement.",
+    "searchBrief": "Look for Texas or other proven target-market sites with a substantial buildable footprint, expandable utility path, demonstrable fiber access and assignable study/control rights. Ask whether Cipher currently wants options before studies, after studies, or only after customer screening. A marketable packet needs a defined first phase and the utility evidence supporting the larger campus.",
+    "rejectionTriggers": [
+      "Inference: project size too small relative to institutional execution costs.",
+      "Inference: transmission proximity substituted for utility process progress.",
+      "Inference: option expires before the tenant and study process can conclude."
+    ],
+    "buyerQuestions": [
+      "What milestone made the Apollo option investable?",
+      "Do you accept assignment from third-party originators, and what scope of exclusivity is required?",
+      "Is a 20\u201350 MW phase useful if expansion beyond that is limited?"
+    ],
+    "sources": [
+      {
+        "title": "Q2 2026 update and Apollo option",
+        "url": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-second-quarter-2026-business-update",
+        "publisher": "Cipher Digital",
+        "date": "2026-08-04",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "FY25 results and rebrand",
+        "url": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-fourth-quarter-and-full-year-2025/",
+        "publisher": "Cipher Digital",
+        "date": "2026-02-24",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "riot-platforms",
+    "name": "Riot Platforms",
+    "parentGroup": "Riot Platforms Inc.",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Rockdale",
+      "Corsicana"
+    ],
+    "strategy": "A bitcoin-origin infrastructure owner now demonstrating actual leased AI data-center development. The most relevant acquisition evidence concerns gaining fee ownership beneath an existing powered campus, not indiscriminate greenfield expansion.",
+    "scale": "AMD initial 25 MW critical IT, with expansion rights up to 200 MW; separate 191 MW critical-IT frontier-lab lease. Existing portfolio headline power is utility capacity, not all operating AI IT.",
+    "publishedRequirements": [
+      {
+        "fact": "Riot purchased 200 acres beneath its occupied Rockdale site for $96 million and signed an initial AMD lease in January 2026.",
+        "sourceUrl": "https://www.riotplatforms.com/riot-announces-fee-simple-acquisition-of-land-and-first-data-center-lease-with-amd-at-the-rockdale-site/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The first AMD deployment used retrofit of an existing building and included explicit expansion options/rights.",
+        "sourceUrl": "https://www.riotplatforms.com/riot-announces-fee-simple-acquisition-of-land-and-first-data-center-lease-with-amd-at-the-rockdale-site/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "August 2026 results reported 241 MW contracted critical IT across AMD and another tenant, using existing approved Rockdale interconnection.",
+        "sourceUrl": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize land or rights that unlock an already powered campus; a generic rural site is less compelling than control that removes a known leasing obstacle.",
+      "A 25 MW first phase is possible, but the proven example includes substantial expansion and existing infrastructure.",
+      "Competing internal conversion opportunities may make new-site acquisitions unnecessary despite market demand."
+    ],
+    "differentiators": [
+      "Fee title can be a prerequisite to financeable hyperscale leasing even when a company already operates on the land.",
+      "Retrofit economics and ready infrastructure are important advantages.",
+      "Customer expansion rights can reserve future capacity without immediate construction."
+    ],
+    "dealStructure": "Fee-simple acquisition, modified-gross leases and customer expansion rights are evidenced. No public promise to acquire standalone small options found.",
+    "acquisitionSignal": "Now an evidenced AI developer rather than mining-only prospect; new external land appetite remains less certain than existing-campus growth.",
+    "searchBrief": "Search assets that offer reliable energized service, adaptable buildings or an expansion/control problem Riot can solve economically. For standalone raw land, require a demonstrable advantage over Rockdale/Corsicana before seeking an option. A small block alone should not be represented as aligned merely because AMD began at 25 MW.",
+    "rejectionTriggers": [
+      "Inference: no advantage over internally controlled approved power.",
+      "Inference: site cannot support tenant expansion rights.",
+      "Inference: control structure prevents financeable long-term leasing."
+    ],
+    "buyerQuestions": [
+      "Are you evaluating new external campuses or focusing on approved existing sites?",
+      "What real-estate rights must be fee owned?",
+      "Would a small retrofit with rapid delivery be considered outside the Texas platform?"
+    ],
+    "sources": [
+      {
+        "title": "Rockdale land purchase and AMD lease",
+        "url": "https://www.riotplatforms.com/riot-announces-fee-simple-acquisition-of-land-and-first-data-center-lease-with-amd-at-the-rockdale-site/",
+        "publisher": "Riot Platforms",
+        "date": "2026-01-16",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Q2 2026 results",
+        "url": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+        "publisher": "Riot Platforms",
+        "date": "2026-08-10",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "mara",
+    "name": "MARA",
+    "parentGroup": "MARA Holdings; Starwood Digital Ventures partnership\u2014avoid counting joint project demand twice",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "United States existing energy portfolio",
+      "France through Exaion"
+    ],
+    "strategy": "Energy/compute owner with a documented AI/HPC development partnership and acquired specialist capability. The clearest US strategy converts selected power-rich existing assets; this is different from a public mandate to buy ordinary raw land for AI.",
+    "scale": "Starwood partnership announced approximately 1 GW near-term IT potential and a path above 2.5 GW; these are portfolio ambitions, not commissioned capacity or site minimums.",
+    "publishedRequirements": [
+      {
+        "fact": "February 2026 partnership assigns development, tenant procurement and operations roles to Starwood Digital Ventures while MARA contributes selected sites.",
+        "sourceUrl": "https://www.mara.com/posts/mara-announces-strategic-partnership-with-starwood",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "June 2026 10-Q said sites had not advanced beyond pre-development and MARA was responsible for approved pursuit costs.",
+        "sourceUrl": "https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000022/mara-20260630.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The 10-Q also documents a controlling acquisition of Exaion, an HPC/private-cloud operator.",
+        "sourceUrl": "https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000022/mara-20260630.htm",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "New sites need to compete with MARA\u2019s existing power-rich conversion inventory.",
+      "The decision maker may be a joint development platform, not the bitcoin-mining operations team.",
+      "Ability to absorb pre-development costs and reach a bankable lease matters; partnership headlines should not be treated as funded construction at every site."
+    ],
+    "differentiators": [
+      "Partner-led engineering, leasing and operations.",
+      "Pre-development obligations are explicitly separate from construction and final contribution.",
+      "AI technical capability is supplemented by acquisition rather than assumed from mining hardware."
+    ],
+    "dealStructure": "Contribution of selected assets into a joint venture, with MARA potentially retaining up to 50%; no generic third-party option takeout terms disclosed.",
+    "acquisitionSignal": "Credible AI strategic entry, but cited filing still places the US conversion program at pre-development stage as of June 30, 2026.",
+    "searchBrief": "Search only differentiated power/industrial positions that could improve the joint platform\u2019s existing inventory, with carefully bounded environmental and utility exposure. Ask the platform whether it wants external sites at all before assembling land. Qualify tenant credit, reliability and cooling independently from bitcoin economics; curtailment acceptable to mining may defeat an AI service contract.",
+    "rejectionTriggers": [
+      "Inference: pitch depends only on cheap interruptible power.",
+      "Inference: site lacks a partner-approved customer and financing path.",
+      "Inference: founder would bear open-ended pursuit expenses."
+    ],
+    "buyerQuestions": [
+      "Which entity currently evaluates external land opportunities?",
+      "Are acquisitions outside the existing MARA portfolio in mandate?",
+      "What utility, environmental and tenant milestones are needed before a site is contributed or purchased?"
+    ],
+    "sources": [
+      {
+        "title": "Starwood strategic partnership",
+        "url": "https://www.mara.com/posts/mara-announces-strategic-partnership-with-starwood",
+        "publisher": "MARA",
+        "date": "2026-02-26",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Q2 2026 10-Q",
+        "url": "https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000022/mara-20260630.htm",
+        "publisher": "MARA / SEC",
+        "date": "2026-08-06",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "soluna",
+    "name": "Soluna",
+    "parentGroup": "Soluna Holdings; Metrobloks co-development at Kati 2\u2014shared project demand",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Renewable-rich US power markets"
+    ],
+    "strategy": "Renewable-powered compute developer with distinct Bitcoin and AI programs. Its specialty is monetizing constrained renewable energy, but AI campuses need a different reliability and commercial structure from flexible mining loads.",
+    "scale": "Kati 2 proposal: 100+ MW critical IT initial AI phase, expansion roadmap above 300 MW critical IT. Dorothy legacy 50 MW and 48 MW projects are mining, not proof of AI suitability.",
+    "publishedRequirements": [
+      {
+        "fact": "January 2026 MOU describes Kati 2 co-development: Soluna contributes site control, power entitlements and equipment; Metrobloks leads design, leasing and operations.",
+        "sourceUrl": "https://www.solunacomputing.com/news/metrobloks-project-kati/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The initial Kati 2 tenant interest was a nonbinding LOI and the parties intended to source third-party capital together.",
+        "sourceUrl": "https://www.solunacomputing.com/news/metrobloks-project-kati/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Company portfolio separately classifies operating Bitcoin facilities and planned AI developments, including Dorothy 3.",
+        "sourceUrl": "https://www.solunacomputing.com/projects/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Best search locations have a specific renewable generator relationship and controllable grid/behind-the-meter architecture, not merely regional wind resources.",
+      "An AI match requires firm service and an operations partner capable of meeting the tenant SLA.",
+      "Small rural land can fit a renewable compute use without being a good AI data-center exit; keep those buyer lanes separate."
+    ],
+    "differentiators": [
+      "Generator economics and curtailment reduction are part of the commercial proposition.",
+      "Co-development splits power/site origination from AI building and customer responsibilities.",
+      "Nonbinding tenant interest is materially weaker than a signed lease."
+    ],
+    "dealStructure": "Project-company co-development, infrastructure contribution and third-party capital are evidenced. A founder-controlled land option may be an input, but no standard option-acquisition policy is public.",
+    "acquisitionSignal": "Active AI development intent alongside operational mining assets; project pipeline should not be counted as commissioned AI capacity.",
+    "searchBrief": "Search near renewable assets with curtailment economics, a workable load service arrangement, expansion acreage and evidence of reliable AI-compatible supply. Test a 20\u201350 MW renewable compute block separately from a 100+ MW AI campus. Ask whether the developer wants a land-only position, power rights or an integrated generator partnership.",
+    "rejectionTriggers": [
+      "Inference: only intermittent surplus energy with no firm AI service solution.",
+      "Inference: generator has no incentive or authority to contract.",
+      "Inference: lease/financing remains speculative while founder bears studies."
+    ],
+    "buyerQuestions": [
+      "Would you evaluate a 20\u201350 MW site for AI, mining, or neither?",
+      "What generator arrangement and curtailment profile produce an investable project?",
+      "Which rights and documents would Soluna versus its AI development partner require?"
+    ],
+    "sources": [
+      {
+        "title": "Metrobloks Kati 2 co-development MOU",
+        "url": "https://www.solunacomputing.com/news/metrobloks-project-kati/",
+        "publisher": "Soluna",
+        "date": "2026-01-15",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Portfolio and project classifications",
+        "url": "https://www.solunacomputing.com/projects/",
+        "publisher": "Soluna",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "bitdeer",
+    "name": "Bitdeer",
+    "parentGroup": "Bitdeer Technologies Group / Bitdeer AI",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Ohio",
+      "Tennessee",
+      "Washington",
+      "Texas",
+      "Norway"
+    ],
+    "strategy": "Mining-origin operator with documented AI conversion projects and a contracted Norwegian AI campus. Site diligence must determine the intended business line, because its geographic power inventory contains mining, conversion and dedicated AI projects with different requirements.",
+    "scale": "Tydal AI lease: 121 MW critical IT supported by estimated 133 MW gross. US portfolio examples include 13 MW Wenatchee conversion and 570 MW Clarington pipeline; neither establishes an acquisition minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "August 2026 Tydal lease covers four halls over two delivery phases with tenant credit-support conditions.",
+        "sourceUrl": "https://bitdeer.gcs-web.com/news-releases/news-release-details/bitdeer-announces-47-billion-16-year-aihpc-data-center-lease",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "January operations report identifies Tennessee/Washington conversion plans and Ohio HPC/AI projects separately from mining facilities.",
+        "sourceUrl": "https://ir.bitdeer.com/news-releases/news-release-details/bitdeer-announces-january-2026-production-and-operations-update",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Clarington power timing was expressly exposed to neighboring-party litigation in the January update.",
+        "sourceUrl": "https://ir.bitdeer.com/news-releases/news-release-details/bitdeer-announces-january-2026-production-and-operations-update",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Existing electrical assets and adaptable structures can shorten delivery, but permits and neighboring land rights must be examined early.",
+      "A compact conversion may fit a specific deployment, while a new raw-land campus probably needs much greater scale.",
+      "Power price cannot compensate for financing or tenant-credit conditions that block construction."
+    ],
+    "differentiators": [
+      "Public operations tables distinguish facility type rather than equating all MW with AI.",
+      "Small existing conversions coexist with very large new projects.",
+      "Litigation, access and third-party rights can dominate the power timetable."
+    ],
+    "dealStructure": "Owned campus development with long-term colocation/services leases and conditional institutional credit support. No published option-assignment intake policy located.",
+    "acquisitionSignal": "Actual AI lease demonstrates capability; US pipeline maturity and legal status require project-level confirmation.",
+    "searchBrief": "Seek existing industrial/data-center facilities in Ohio, Tennessee or the Pacific Northwest with a feasible AI retrofit, or larger power positions with clean land rights. Require a utility agreement and legal schedule assessment. A small powered building is a more defensible test than assuming a new 20 MW rural greenfield campus matches Tydal economics.",
+    "rejectionTriggers": [
+      "Inference: litigation or third-party rights makes delivery uncertain.",
+      "Inference: shell cannot accommodate AI cooling or floor/electrical demands.",
+      "Inference: tenant credit support fails financing requirements."
+    ],
+    "buyerQuestions": [
+      "What US new-site minimum differs from conversion minimums?",
+      "Would you accept a site with utility service but no AI building permits?",
+      "What credit and financing milestone must precede a land purchase?"
+    ],
+    "sources": [
+      {
+        "title": "Tydal 121 IT MW lease",
+        "url": "https://bitdeer.gcs-web.com/news-releases/news-release-details/bitdeer-announces-47-billion-16-year-aihpc-data-center-lease",
+        "publisher": "Bitdeer",
+        "date": "2026-08-04",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "January 2026 operations and project classifications",
+        "url": "https://ir.bitdeer.com/news-releases/news-release-details/bitdeer-announces-january-2026-production-and-operations-update",
+        "publisher": "Bitdeer",
+        "date": "2026-02",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "whitefiber",
+    "name": "WhiteFiber",
+    "parentGroup": "WhiteFiber Inc.; majority-owned by Bit Digital as of Q2 2026\u2014do not count parent as separate exit",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "North Carolina",
+      "Canada",
+      "Other customer-led international deployments"
+    ],
+    "strategy": "AI cloud and colocation developer with a demonstrated industrial-building reuse model. Its most informative US precedent is a former textile facility that already had scale, electrical/cooling infrastructure and room for phased growth.",
+    "scale": "NC-1: approximately 970,000 square feet on 96 acres in the acquisition description. August 2026 results report 40 MW contracted IT; later gross expansion ambitions must not be confused with currently delivered IT.",
+    "publishedRequirements": [
+      {
+        "fact": "NC-1 acquisition materials describe retrofit of a former textile plant to Tier III standards, with an initial 24 MW phase and expansion dependent on Duke Energy agreements.",
+        "sourceUrl": "https://www.whitefiber.com/blog/nc-1-data-center",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current NC-1 specifications describe direct-to-chip cooling, 150 kW rack density and concurrently maintainable design.",
+        "sourceUrl": "https://www.whitefiber.com/nc-1",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Bit Digital\u2019s Q2 release confirms majority WhiteFiber ownership and a financing facility supporting growth.",
+        "sourceUrl": "https://bit-digital.com/news/bit-digital-inc-announces-second-quarter-2026-financial-results/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize industrial shells with genuinely reusable electrical, structural and cooling assets; demolition-only factories do not replicate NC-1.",
+      "Network routes linking AI campuses and customer environments may be as important as closeness to a major city.",
+      "An inexpensive parcel without building infrastructure must offer a major timing or power advantage to beat the conversion model."
+    ],
+    "differentiators": [
+      "Combines colocation infrastructure with its own GPU-cloud services.",
+      "Direct-to-chip liquid cooling and high-density engineering are explicit.",
+      "Parent financing creates related-party capital exposure; parent and subsidiary should not be modeled as independent buyers."
+    ],
+    "dealStructure": "Direct industrial property acquisition and phased retrofit are evidenced. No public assurance of acquiring a third-party land option. Owner leaseback, environmental responsibilities and retained equipment need separate underwriting.",
+    "acquisitionSignal": "Operating customer deployment and current expansion demonstrate capacity demand, but new sites must compete with NC-1\u2019s remaining growth potential.",
+    "searchBrief": "Search former mills or industrial campuses near North Carolina/other target network corridors, especially sites with documented usable electrical equipment and expansion rights. Verify the reuse value through engineering rather than using floor area alone. Ask whether WhiteFiber wants additional North Carolina capacity or a geographically distinct node before controlling another nearby property.",
+    "rejectionTriggers": [
+      "Inference: building replacement cost overwhelms saved delivery time.",
+      "Inference: utility expansion is merely aspirational.",
+      "Inference: no customer/network need beyond already controlled NC-1 capacity."
+    ],
+    "buyerQuestions": [
+      "Which shell characteristics made NC-1 preferable to greenfield?",
+      "What minimum immediate IT capacity and expansion potential justify acquisition?",
+      "Would existing industrial occupancy or a seller leaseback be acceptable?"
+    ],
+    "sources": [
+      {
+        "title": "NC-1 industrial campus acquisition",
+        "url": "https://www.whitefiber.com/blog/nc-1-data-center",
+        "publisher": "WhiteFiber",
+        "date": "2026-05-06",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "NC-1 technical specifications",
+        "url": "https://www.whitefiber.com/nc-1",
+        "publisher": "WhiteFiber",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Q2 results and WhiteFiber majority ownership",
+        "url": "https://bit-digital.com/news/bit-digital-inc-announces-second-quarter-2026-financial-results/",
+        "publisher": "Bit Digital",
+        "date": "2026-08-12",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "galaxy-digital",
+    "name": "Galaxy Digital / Helios",
+    "parentGroup": "Galaxy Digital Inc.; Helios development subsidiaries",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "West Texas",
+      "McGregor"
+    ],
+    "strategy": "Owner/developer of hyperscale AI campuses expanding from the Helios conversion into a broader multi-campus platform. The observed pattern combines large land control, approved utility power and tenant-backed capital expenditure.",
+    "scale": "Helios Phase I: 200 MW gross / 133 MW critical IT. CoreWeave total leases: 526 MW IT over 800 MW gross. Campus 2,200+ acres, with separate approved and under-study expansion capacity.",
+    "publishedRequirements": [
+      {
+        "fact": "July 2026 delivery announcement distinguishes gross and critical IT and identifies phased 15-year leases.",
+        "sourceUrl": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Q2 results disclose a McGregor industrial-park development agreement for 500 acres with an initial 74 MW support agreement and larger potential.",
+        "sourceUrl": "https://galaxydigital.gcs-web.com/news-releases/news-release-details/galaxy-announces-second-quarter-2026-financial-results",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Same results report two additional Texas site acquisitions whose capacity remains subject to ERCOT processes.",
+        "sourceUrl": "https://galaxydigital.gcs-web.com/news-releases/news-release-details/galaxy-announces-second-quarter-2026-financial-results",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Seek municipal industrial-park or large industrial land transactions where staged utility service and public infrastructure cooperation are practical.",
+      "A 74 MW initial agreement is evidence that first phases can be below gigawatt scale; it does not imply a permanently limited 20 MW campus is attractive.",
+      "Existing Helios expansion means a new site needs geographic, customer, utility or timetable differentiation."
+    ],
+    "differentiators": [
+      "Publishes separate measures for delivered IT, approved gross and prospective expansion.",
+      "Uses development agreements as well as straightforward real-estate acquisition.",
+      "Tenant leases and project financing are integral to construction rather than assumed after power proof."
+    ],
+    "dealStructure": "Direct acquisitions and development agreements, followed by long-term colocation leases. Public sources do not disclose a standard policy for buying small third-party options.",
+    "acquisitionSignal": "Current external site acquisitions provide a more direct acquisition signal than Helios operations alone.",
+    "searchBrief": "Source large Texas industrial park positions with staged power commitments and expansion rights, documenting how they improve on internal pipeline alternatives. Ask whether Galaxy would buy a study-stage option, require fee ownership or prefer a municipal development agreement. Separate parcel price from electrical infrastructure and collateral obligations.",
+    "rejectionTriggers": [
+      "Inference: no scale or differentiated utility market.",
+      "Inference: prospective MW treated as approved capacity.",
+      "Inference: power timing and customer delivery cannot be synchronized."
+    ],
+    "buyerQuestions": [
+      "What made the McGregor initial 74 MW position strategically attractive?",
+      "Would you evaluate land-only control before a binding service agreement?",
+      "What minimum expansion acreage and tenant visibility are required?"
+    ],
+    "sources": [
+      {
+        "title": "Helios Phase I delivery",
+        "url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+        "publisher": "Galaxy",
+        "date": "2026-07-06",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Q2 2026 results and new sites",
+        "url": "https://galaxydigital.gcs-web.com/news-releases/news-release-details/galaxy-announces-second-quarter-2026-financial-results",
+        "publisher": "Galaxy",
+        "date": "2026-08-05",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "nscale",
+    "name": "Nscale",
+    "parentGroup": "Nscale; individual projects may involve Ionic Digital or partner-operated facilities",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "West Virginia",
+      "North Carolina",
+      "Europe"
+    ],
+    "strategy": "Vertically integrated AI cloud infrastructure developer that also deploys through partners. Its site selection is tied to dense GPU clusters, rapid deployment, network performance and sustainable energy; platform capacity is not all owned real estate.",
+    "scale": "Ward County roughly 240 MW with proposed growth to 1.2 GW; Monarch first phase described as 1.35 GW AI computing capacity. Marketing does not consistently label every figure as IT or gross.",
+    "publishedRequirements": [
+      {
+        "fact": "Nscale publishes low-cost renewable energy, prefabrication, chip-agnostic design, high-density cooling and low-latency connectivity as infrastructure priorities.",
+        "sourceUrl": "https://www.nscale.com/ai-infrastructure",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Ward County partnership uses closed-loop direct-liquid cooling and rear-door heat exchangers.",
+        "sourceUrl": "https://www.nscale.com/ai-infrastructure",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "October 2026 update describes rapid conversion of a West Texas shell into an operating GPU facility.",
+        "sourceUrl": "https://www.nscale.com/press-releases/execution-at-scale",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize shells or powered sites that can accommodate standardized modules without long redesign.",
+      "Determine whether Nscale needs ownership, partner capacity or only a compute-service location; each implies a different land takeout route.",
+      "For remote training, fiber throughput and reliability may be decisive even when user-facing metro latency is less important."
+    ],
+    "differentiators": [
+      "Own-build and partner-run facility strategies coexist.",
+      "Prefabricated/chip-agnostic design encourages repeatable site layouts.",
+      "Closed-loop liquid cooling reduces some water requirements but adds heat-rejection/equipment-area constraints."
+    ],
+    "dealStructure": "Campus development partnerships and partner-run deployments are evidenced. A capacity purchase is not necessarily a land acquisition; option exit must be separately validated.",
+    "acquisitionSignal": "Current US construction and deployment support active growth, but large owned/partnered pipeline weakens a generic small-site pitch.",
+    "searchBrief": "Search power-rich industrial shells or expandable campuses with feasible dense GPU deployment, electrical/fiber readiness and modular construction access. Qualify first whether the acquisition team wants real estate or the commercial team wants delivered capacity. Obtain actual commissioning milestones, not only an aspirational total MW announcement.",
+    "rejectionTriggers": [
+      "Inference: land offer requires Nscale to solve every development dependency from scratch.",
+      "Inference: proposed site cannot accommodate modular cooling/power infrastructure.",
+      "Inference: no differentiated customer or network purpose."
+    ],
+    "buyerQuestions": [
+      "Would you buy a land option or prefer to lease developed capacity from a partner?",
+      "What minimum tranche can your current module design deploy economically?",
+      "Which fiber latency, throughput and diversity evidence is essential?"
+    ],
+    "sources": [
+      {
+        "title": "AI infrastructure and campus portfolio",
+        "url": "https://www.nscale.com/ai-infrastructure",
+        "publisher": "Nscale",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Execution at scale update",
+        "url": "https://www.nscale.com/press-releases/execution-at-scale",
+        "publisher": "Nscale",
+        "date": "2026-10-01",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "csquare",
+    "name": "Csquare (formerly Centersquare)",
+    "parentGroup": "Csquare Inc.; legacy Centersquare/Evoque/Cyxtera combined platform\u2014count once",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Chicago",
+      "Silicon Valley",
+      "New Jersey",
+      "Northern Virginia",
+      "Dallas",
+      "Phoenix",
+      "Atlanta",
+      "Other major metros"
+    ],
+    "strategy": "Enterprise colocation and interconnection platform whose published growth strategy emphasizes capacity inside its existing estate. This makes it an important negative control for buyer-first sourcing: active data-center growth does not necessarily mean demand for raw greenfield land.",
+    "scale": "Public materials describe 80 data centers on 64 sites in 21 metros and 500+ MW of power. Prospectus identifies up to approximately 670 MW potential internal expansion; this is not all approved new IT capacity.",
+    "publishedRequirements": [
+      {
+        "fact": "Prospectus prioritizes equipment optimization and under-roof expansion, with target build cost of approximately $4M\u2013$8M per MW and payback below five years.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2105398/000110465926080556/tm264837-13_s1a.htm",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Q2 release reports continued customer demand and growth capital, alongside divestiture of underperforming leased facilities.",
+        "sourceUrl": "https://investor.csquare.com/2026-08-06-Csquare-Reports-Record-Second-Quarter-2026-Results",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "July 2026 IPO and current Csquare branding supersede treating Centersquare as a separate company.",
+        "sourceUrl": "https://investor.csquare.com/2026-08-06-Csquare-Reports-Record-Second-Quarter-2026-Results",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Best acquisition leads are existing enterprise data-center buildings, expansion-adjacent land or facilities that strengthen a network-rich metro footprint.",
+      "A rural powered field lacks the enterprise/interconnection ecosystem and may require a development model contrary to the stated growth strategy.",
+      "Financial discipline and achievable utilization can outweigh large nominal MW or low acreage price."
+    ],
+    "differentiators": [
+      "Interconnection and existing customer expansion drive demand.",
+      "Under-roof development competes directly with external acquisition opportunities.",
+      "Portfolio optimization means it can sell weak sites while investing heavily elsewhere."
+    ],
+    "dealStructure": "Facility acquisition, leasing and internal development are evidenced; no general raw-land or option-assignment mandate found.",
+    "acquisitionSignal": "Strong capacity demand but low-confidence raw-land buyer fit unless a specific metro gap or adjacency need is established.",
+    "searchBrief": "Search within established Csquare metros for reusable data-center shells or adjacent expansion tracts with network ecosystems and existing customer demand. Present capital cost and time-to-bill against under-roof alternatives. Do not use its headline expansion MW to justify a distant speculative campus.",
+    "rejectionTriggers": [
+      "Inference: remote raw land outside current customer/network metros.",
+      "Inference: new build economics exceed internal expansion alternatives.",
+      "Inference: weak leasing demand despite abundant utility power."
+    ],
+    "buyerQuestions": [
+      "Are external greenfield sites currently in mandate?",
+      "Which metros lack internal expansion capacity?",
+      "What acquisition return and time-to-bill thresholds apply to a third-party shell or adjacent tract?"
+    ],
+    "sources": [
+      {
+        "title": "July 2026 prospectus",
+        "url": "https://www.sec.gov/Archives/edgar/data/2105398/000110465926080556/tm264837-13_s1a.htm",
+        "publisher": "Csquare / SEC",
+        "date": "2026-07-06",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Q2 2026 results and IPO",
+        "url": "https://investor.csquare.com/2026-08-06-Csquare-Reports-Record-Second-Quarter-2026-Results",
+        "publisher": "Csquare",
+        "date": "2026-08-06",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "element-critical",
+    "name": "Element Critical",
+    "parentGroup": "Platform backed by Mercuria, 26North, Arctos and Safanad",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Houston",
+      "Austin",
+      "Chicago",
+      "Other top US enterprise markets"
+    ],
+    "strategy": "Enterprise-focused colocation developer expanding AI inference and high-density capacity in established business markets. The evidence points toward metro customer ecosystems and facility acquisition/expansion, not generic remote bulk-compute sites.",
+    "scale": "Houston One new hall is designed for 10 MW with initial 4.5 MW delivery targeted by Q4 2026. This demonstrates smaller commercial blocks but is an expansion of an existing connected campus.",
+    "publishedRequirements": [
+      {
+        "fact": "Houston One expansion describes a 20,000-square-foot high-density hall and flexible customer configurations.",
+        "sourceUrl": "https://elementcritical.com/element-critical-adds-10mw-of-ai-ready-capacity-at-houston-one-campus/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The campus proposition includes low-latency connectivity and compliance-ready operation for enterprise users.",
+        "sourceUrl": "https://elementcritical.com/element-critical-adds-10mw-of-ai-ready-capacity-at-houston-one-campus/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "December 2025 new platform was anchored by Houston/Austin acquisitions and plans acquisition/development across major US markets.",
+        "sourceUrl": "https://elementcritical.com/element-critical-launches-new-data-center-platform-backed-by-mercuria-26north-arctos-and-safanad/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Favor metro industrial or data-center shells with nearby enterprise demand and network connectivity.",
+      "A 10\u201330 MW phase could align better here than at a gigawatt developer, but the local customer market must justify a new site.",
+      "Brownfield reuse or adjacency can improve time-to-market versus a remote greenfield parcel."
+    ],
+    "differentiators": [
+      "Targets enterprises needing AI-capable infrastructure rather than only frontier-model training.",
+      "Smaller phased halls and multi-user configuration.",
+      "New investment platform explicitly includes acquisitions as well as development."
+    ],
+    "dealStructure": "Acquisition of enterprise facilities and incremental campus development are evidenced. A land-option purchase or ground lease is possible only after direct mandate validation.",
+    "acquisitionSignal": "Active smaller-block development and a newly capitalized growth platform make this a useful buyer-discovery target in Houston/Austin.",
+    "searchBrief": "Search 10\u201350 MW-capable industrial/data-center positions around Houston or Austin where diverse fiber, workforce and enterprise users are reachable. Compare offered land with reusable-shell alternatives. Require a target customer and connectivity thesis; inexpensive rural Texas acreage does not automatically substitute for metro capacity.",
+    "rejectionTriggers": [
+      "Inference: location cannot serve target enterprise latency or network needs.",
+      "Inference: no documented local leasing demand.",
+      "Inference: shell/land development slower than current campus expansion."
+    ],
+    "buyerQuestions": [
+      "Which Houston/Austin submarkets need capacity beyond current campuses?",
+      "Would you consider a new 10\u201325 MW campus, and at what ultimate size?",
+      "Do you acquire raw land, powered shells or operating facilities at this stage?"
+    ],
+    "sources": [
+      {
+        "title": "Houston One 10 MW expansion",
+        "url": "https://elementcritical.com/element-critical-adds-10mw-of-ai-ready-capacity-at-houston-one-campus/",
+        "publisher": "Element Critical",
+        "date": "2025-11-19",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "New acquisition/development platform",
+        "url": "https://elementcritical.com/element-critical-launches-new-data-center-platform-backed-by-mercuria-26north-arctos-and-safanad/",
+        "publisher": "Element Critical",
+        "date": "2025-12-18",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "dartpoints",
+    "name": "DartPoints",
+    "parentGroup": "DartPoints; NOVA Infrastructure investment; legacy Immedion not a separate buyer",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Kentucky",
+      "South Carolina",
+      "Indiana",
+      "Ohio",
+      "North Carolina",
+      "Louisiana"
+    ],
+    "strategy": "Regional colocation/interconnection developer pursuing enterprise, inference and larger AI workloads. Its recent Lexington brownfield acquisition is one of the clearest observed matches for a 20\u201330 MW first-phase strategy.",
+    "scale": "Lexington: approximately 29.5 acres, 343,000 square feet overall and 81,000 square feet of raised floor; planned 20\u201330 MW initial phase, up to 70 MW later. Capacity metric not consistently labeled IT in the release.",
+    "publishedRequirements": [
+      {
+        "fact": "Lexington acquisition emphasizes an owned substation, existing data-center infrastructure and data-center zoning.",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/dartpoints-acquires-lexington-kentucky-data-center-campus-to-support-ai-neo-cloud-hyperscale-and-enterprise-demand-302782916.html",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Planned Lexington design supports up to 200 kW per rack, 415V distribution, air and direct-to-chip cooling with low-water heat rejection.",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/dartpoints-acquires-lexington-kentucky-data-center-campus-to-support-ai-neo-cloud-hyperscale-and-enterprise-demand-302782916.html",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "2025 expansion plan covered Greenville, Columbia, Columbus IN and Cincinnati with high-density capability and more than 25 MW additional utility capacity.",
+        "sourceUrl": "https://dartpoints.com/press/dartpoints-puts-new-capital-to-work-launches-multi-market-expansion-to-power-hpc-ai-and-large-enterprise-growth/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize pre-zoned brownfield sites with genuine reusable infrastructure and moderate expansion, rather than only huge training campuses.",
+      "Regional network position between major peering markets can matter more than a simple straight-line distance to one metro.",
+      "A new raw parcel must offer enough advantage to offset loss of existing building, zoning and substation readiness."
+    ],
+    "differentiators": [
+      "Observed 20\u201330 MW initial phase is close to Syncranicity\u2019s preferred lane.",
+      "Hybrid air/liquid design supports mixed tenant needs.",
+      "Local utility and economic-development engagement is part of acquisition rationale."
+    ],
+    "dealStructure": "Direct campus acquisition and phased redevelopment are evidenced; no published option-assignment or seller-financing policy.",
+    "acquisitionSignal": "Recent external brownfield acquisition gives a stronger current signal than a generic platform growth statement.",
+    "searchBrief": "Look across Southeast/Midwest secondary markets for former enterprise data centers or industrial shells with expandable substations, suitable floor loading, redundant carrier routes and a clear use approval. Screen for 20\u201330 MW initial service and expansion toward 50\u201370 MW as an analyst search hypothesis, not DartPoints\u2019 published minimum.",
+    "rejectionTriggers": [
+      "Inference: no practical path from existing infrastructure to higher-density operation.",
+      "Inference: isolated location lacks regional customer/interconnection demand.",
+      "Inference: redevelopment or environmental costs remove the speed advantage."
+    ],
+    "buyerQuestions": [
+      "Would another 20\u201330 MW first phase with 50\u201370 MW expansion fit the current mandate?",
+      "How much of Lexington\u2019s advantage came from zoning versus the owned substation and shell?",
+      "Would you review an assignable option before title, utility and building-engineering diligence is complete?"
+    ],
+    "sources": [
+      {
+        "title": "Lexington campus acquisition",
+        "url": "https://www.prnewswire.com/news-releases/dartpoints-acquires-lexington-kentucky-data-center-campus-to-support-ai-neo-cloud-hyperscale-and-enterprise-demand-302782916.html",
+        "publisher": "DartPoints press release",
+        "date": "2026-05-27",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Multi-market AI/HPC expansion",
+        "url": "https://dartpoints.com/press/dartpoints-puts-new-capital-to-work-launches-multi-market-expansion-to-power-hpc-ai-and-large-enterprise-growth/",
+        "publisher": "DartPoints",
+        "date": "2025-08-21",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "colovore",
+    "name": "Colovore",
+    "parentGroup": "King Street-backed Colovore platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Silicon Valley",
+      "Reno/Sparks",
+      "Chicago",
+      "Austin/Hutto",
+      "Dallas"
+    ],
+    "strategy": "Liquid-cooled metro-edge AI colocation specialist. This buyer\u2019s geography is dictated by customer/network reach and low-latency use cases; proving MW at a distant rural site does not solve that requirement.",
+    "scale": "Austin/Hutto marketed at 40 MW in five 8 MW halls; Reno/Sparks facilities marketed at 16 MW each. Public pages do not clearly distinguish every total MW figure as facility versus IT.",
+    "publishedRequirements": [
+      {
+        "fact": "Austin market page advertises liquid-cooled 5\u2013600+ kW rack capability, PUE 1.3/WUE 0 and a less-than-5 ms metro-edge latency proposition.",
+        "sourceUrl": "https://www.colovore.com/markets/austin",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Reno page positions facilities around Silicon Valley adjacency and low-latency access to West Coast users.",
+        "sourceUrl": "https://www.colovore.com/markets/reno",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Company history describes King Street backing and committed Reno/Chicago capacity supporting expansion.",
+        "sourceUrl": "https://www.colovore.com/company",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A smaller metro-adjacent tract can be more valuable to this buyer than a huge isolated site.",
+      "Latency claims must specify endpoints and measured route; the published marketing figure is not a guarantee from every parcel in Austin or Reno.",
+      "Liquid cooling shifts the land screen toward electrical density, heat rejection, equipment yard, noise and mechanical-service access."
+    ],
+    "differentiators": [
+      "High-density liquid cooling is the core product, not an optional add-on.",
+      "8 MW hall modules indicate a different scale rhythm from gigawatt campuses.",
+      "Low-water operations and proximity to AI application users are part of market positioning."
+    ],
+    "dealStructure": "Build-to-suit and owned/developed colocation facilities are evidenced. No public raw-land acquisition form or option assignment threshold found.",
+    "acquisitionSignal": "Current multi-market expansion gives a credible discovery target, but an announced campus may already satisfy local demand.",
+    "searchBrief": "Search industrial land or reusable shells in Hutto/Austin, Dallas, Reno/Sparks and other named markets with provable diverse fiber and relevant low-latency reach. Underwrite space for modular halls and cooling equipment. A 20\u201340 MW hypothesis is more appropriate than assuming the firm seeks hundreds of MW at any Texas location.",
+    "rejectionTriggers": [
+      "Inference: site cannot meet tenant network/latency requirements.",
+      "Inference: dense cooling/electrical equipment cannot fit under setbacks/noise limits.",
+      "Inference: existing campus already meets market demand with better delivery timing."
+    ],
+    "buyerQuestions": [
+      "Which markets and specific network endpoints are open for new site acquisition?",
+      "What usable acreage and equipment-yard geometry does an 8 MW hall require?",
+      "Would you buy raw land or only sites with a short permitted construction path?"
+    ],
+    "sources": [
+      {
+        "title": "Austin/Hutto market specifications",
+        "url": "https://www.colovore.com/markets/austin",
+        "publisher": "Colovore",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Reno market specifications",
+        "url": "https://www.colovore.com/markets/reno",
+        "publisher": "Colovore",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Company expansion history",
+        "url": "https://www.colovore.com/company",
+        "publisher": "Colovore",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "data-journey",
+    "name": "Data Journey",
+    "parentGroup": "Data Journey LLC/private platform; capitalization and site-specific subsidiaries require verification",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "North Carolina",
+      "Other US Tier 2 markets"
+    ],
+    "strategy": "Private developer/operator positioning around modular campuses, onsite generation and reuse of existing data-center assets. The public evidence supports a wider size range than the largest AI factories, but private-platform funding and execution claims need direct validation.",
+    "scale": "Current company page claims 400+ acres of entitled land and 384 MW grid power secured, with large Texas expansion potential. Treat these as company-reported portfolio claims, not parcel-specific utility confirmation or operating IT.",
+    "publishedRequirements": [
+      {
+        "fact": "Company describes behind-the-meter power, redundant distribution, modular expansion and carrier-neutral connectivity as its campus model.",
+        "sourceUrl": "https://www.datajourney.com/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Current site page lists Texas and Catawba County opportunities and emphasizes pre-enabled sites.",
+        "sourceUrl": "https://www.datajourney.com/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Greenidge SEC disclosure confirms a proposed Spartanburg purchase with cash plus profit participation terminated in August 2025; a deposit was forfeited.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1844971/000162828025051859/R10.htm",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Reusable small/midscale data-center or industrial assets may offer a better entry than raw agricultural land.",
+      "Onsite power feasibility requires gas supply, emissions permits, noise, backup strategy and operating-cost underwriting.",
+      "A signed purchase agreement is not reliable takeout until financing and closing conditions are satisfied; the failed transaction is relevant contrary evidence."
+    ],
+    "differentiators": [
+      "Modular build-to-scale model with behind-the-meter generation.",
+      "Private-company funding visibility is lower than for listed developers.",
+      "Historical transaction shows willingness to negotiate contingent economics but also meaningful closing risk."
+    ],
+    "dealStructure": "Direct acquisitions and a historical proposed cash-plus-profit-share purchase are evidenced. The Spartanburg transaction did not close with Data Journey; it must not be used as a completed assignment or profit-share success example.",
+    "acquisitionSignal": "Current marketing shows expansion intent; no public proof of interest in a particular new parcel or fully committed financing for it.",
+    "searchBrief": "Search reusable industrial/data-center sites in reachable Tier 2 Texas and Carolina markets with expandable service, fiber and lawful onsite-generation options. Before paying for control, ask for acquisition criteria, entity, funding source and diligence timetable. Treat proposed onsite generation as a separate project, not an automatic cure for absent utility capacity.",
+    "rejectionTriggers": [
+      "Inference: cannot demonstrate funding for acquisition and the first delivery phase.",
+      "Inference: generation air/fuel economics defeat the project.",
+      "Inference: site packet relies on broad portfolio marketing rather than written parcel-specific evidence."
+    ],
+    "buyerQuestions": [
+      "What size and geography of new acquisition are currently funded?",
+      "Would you buy an assignable option or require a fee-simple closing?",
+      "Which risks caused prior transactions to stop, and what evidence now clears your investment committee?"
+    ],
+    "sources": [
+      {
+        "title": "Company campus and infrastructure model",
+        "url": "https://www.datajourney.com/",
+        "publisher": "Data Journey",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Greenidge assets held for sale\u2014Data Journey termination",
+        "url": "https://www.sec.gov/Archives/edgar/data/1844971/000162828025051859/R10.htm",
+        "publisher": "Greenidge / SEC",
+        "date": "2025-09-30",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  }
+]

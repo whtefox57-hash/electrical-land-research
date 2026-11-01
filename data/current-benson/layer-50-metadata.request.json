@@ -1,0 +1,11 @@
+{
+  "name": "layer-50-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_Roads/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:37.740206+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 18582,
+  "sha256": "2d2446581df6f0275de0058ceda53073192d74a7b696caa9c07ae666d20021d3",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "layer-53-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Area%20Plans%20and%20MDPs/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:37.755430+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 13094,
+  "sha256": "ec09aa6ff2f296e13a15545a4083343f25d0f7ec5c3344d8b3e9d58780e5e6fe",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

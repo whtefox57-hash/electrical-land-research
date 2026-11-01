@@ -1,0 +1,8 @@
+{
+  "name": "assessor-page",
+  "url": "https://www.cochise.az.gov/178/Assessor",
+  "retrievedAt": "2026-09-05T17:58:12.495007+00:00",
+  "method": "GET",
+  "resultStatus": "BLOCKED",
+  "error": "HTTP Error 403: Forbidden"
+}

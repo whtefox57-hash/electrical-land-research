@@ -1,0 +1,162 @@
+{
+  "retrievedAt": "2026-09-05T19:21:40.322612+00:00",
+  "publisher": "San Joaquin County Department of Public Works",
+  "portalOwner": "SanJoaquinCountyPW",
+  "portalOrgId": "GQhSReJEO6f7tsvy",
+  "itemId": "03f97b03d2614a6b8505dd16962a0922",
+  "itemUrl": "https://www.arcgis.com/home/item.html?id=03f97b03d2614a6b8505dd16962a0922",
+  "countyPortalUrl": "https://opendata.sjgov.org/dataset/gis-parcel-viewer/resource/a94af792-9451-496d-ab26-3fd9c14172a7",
+  "datasetUrl": "https://san-joaquin-county-public-works-sjc-gis.hub.arcgis.com/datasets/sjc-gis::parcels",
+  "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0",
+  "sourceUpdated": "2026-09-02T21:13:43.764000+00:00",
+  "sourceDescription": "<p>Parcels within San Joaquin County limits. Updated: 09/2026</p>",
+  "coordinateReferenceSystem": "WGS84 longitude/latitude; output requested outSR=4326, service source NAD83 California zone 3 feet EPSG2227",
+  "queryUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+IN+%28%2701322013%27%2C%2701322058%27%2C%2705926084%27%2C%2705926086%27%2C%2700517015%27%2C%2700517016%27%2C%2706308023%27%2C%2706315041%27%29&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+  "independentCount": 8,
+  "featureCount": 8,
+  "uncertainties": [
+    "GIS tax parcel boundary is not a boundary survey or proof of title.",
+    "Parcel geometry acquisition only: no new county overlay research, category change, capital approval, or use-permission inference.",
+    "Geometry does not define the offered tract or net buildable area.",
+    "County-published LANDSIZE_ACRES is retained as a source attribute, not independently established survey acreage."
+  ],
+  "records": [
+    {
+      "recordId": "ca-sanjoaquin-05926084",
+      "apn": "05926084",
+      "objectId": 195597,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2705926084%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 14,
+      "bbox": [
+        -121.253855618708,
+        38.0575654511163,
+        -121.250810035687,
+        38.0648186067282
+      ],
+      "sourceAcres": 47.76,
+      "sourceAddress": "5149 E EIGHT MILE RD STOCKTON CA 95212"
+    },
+    {
+      "recordId": "ca-sanjoaquin-05926086",
+      "apn": "05926086",
+      "objectId": 195610,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2705926086%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 2,
+      "vertexCount": 18,
+      "bbox": [
+        -121.251244182066,
+        38.057585370758,
+        -121.248273222459,
+        38.0652150935476
+      ],
+      "sourceAcres": 46.6,
+      "sourceAddress": "STOCKTON CA 95212"
+    },
+    {
+      "recordId": "ca-sanjoaquin-06308023",
+      "apn": "06308023",
+      "objectId": 197720,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2706308023%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 5,
+      "bbox": [
+        -121.189555554783,
+        38.0980186825386,
+        -121.187235744905,
+        38.1015837671107
+      ],
+      "sourceAcres": 19.1,
+      "sourceAddress": "10400 E HARNEY LN LODI CA 95240"
+    },
+    {
+      "recordId": "ca-sanjoaquin-06315041",
+      "apn": "06315041",
+      "objectId": 199234,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2706315041%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 5,
+      "bbox": [
+        -121.189546958894,
+        38.1017335725782,
+        -121.187237238651,
+        38.1053051289727
+      ],
+      "sourceAcres": 19.54,
+      "sourceAddress": "10401 E HARNEY LN LODI CA 95240"
+    },
+    {
+      "recordId": "ca-sanjoaquin-01322058",
+      "apn": "01322058",
+      "objectId": 221584,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2701322058%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 2,
+      "vertexCount": 18,
+      "bbox": [
+        -121.265996664494,
+        38.1551227393039,
+        -121.262072220244,
+        38.1574851959044
+      ],
+      "sourceAcres": 16.05,
+      "sourceAddress": "19101 N ST RT 99 W FRONTAGE RD ACAMPO CA 95220"
+    },
+    {
+      "recordId": "ca-sanjoaquin-01322013",
+      "apn": "01322013",
+      "objectId": 222118,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2701322013%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 10,
+      "bbox": [
+        -121.266060741444,
+        38.1574818252949,
+        -121.263677894391,
+        38.1601401275206
+      ],
+      "sourceAcres": 14.04,
+      "sourceAddress": "4262 E WOODBRIDGE RD ACAMPO CA 95220"
+    },
+    {
+      "recordId": "ca-sanjoaquin-00517015",
+      "apn": "00517015",
+      "objectId": 224759,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2700517015%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 6,
+      "bbox": [
+        -121.274041148676,
+        38.1893175526789,
+        -121.271577638081,
+        38.1965424324224
+      ],
+      "sourceAcres": 40,
+      "sourceAddress": "3681 E PELTIER RD ACAMPO CA 95220"
+    },
+    {
+      "recordId": "ca-sanjoaquin-00517016",
+      "apn": "00517016",
+      "objectId": 224760,
+      "sourceUrl": "https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Parcels/FeatureServer/0/query?f=geojson&where=APN+%3D+%2700517016%27&outFields=APN%2COBJECTID%2CLINK%2CLANDSIZE_ACRES%2CFULL_ADDRESS%2CPROP_RETIRE_DATE%2CRETIRE_CODE&returnGeometry=true&outSR=4326",
+      "geometryType": "Polygon",
+      "ringCount": 1,
+      "vertexCount": 6,
+      "bbox": [
+        -121.276329484758,
+        38.1893216294901,
+        -121.273845440232,
+        38.1965412110621
+      ],
+      "sourceAcres": 40,
+      "sourceAddress": "3463 E PELTIER RD ACAMPO CA 95220"
+    }
+  ],
+  "geojsonSha256": "fbf270d476613300caf84b5c5de0e4a42fea3adc7d178fef77a924b91962c8d5"
+}

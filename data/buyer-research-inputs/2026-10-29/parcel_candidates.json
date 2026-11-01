@@ -1,0 +1,705 @@
+[
+  {
+    "id": "hinds-110",
+    "name": "Hinds 110",
+    "location": "Vernon / Wilbarger County, TX",
+    "state": "TX",
+    "address": "TBD FM 2072 / County Road 105 N, Vernon, TX 76384",
+    "acreage": 110,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.land.com/property/110-acres-in-wilbarger-county-texas/27899900/",
+    "sourceUrls": [
+      "https://www.land.com/property/110-acres-in-wilbarger-county-texas/27899900/",
+      "https://www.har.com/web/rosyarango/search/flyer/NTREIS-21317653?cid=ROSAURA&customer=1&openLang=",
+      "https://www.steavycarter.com/mls/21317653/",
+      "https://www.landsearch.com/properties/county-road-105-n-vernon-tx-76384/5375038"
+    ],
+    "status": "unverified current availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Direct Land.com and HAR retrieval show For Sale at $385,000. Other syndication shows $319,000 or archived/sold states; LandSearch direct URL redirects. Treat availability and current price as unresolved pending listing-broker confirmation. Land.com listing ID 27899900 is not an APN. LandSearch reports parcel100771 but county verification is absent.",
+    "powerClaim": "Seller reports 138 kV and 345 kV lines crossing, electricity and rural water. No deliverable capacity, fiber route, utility service offer or energization date established.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Applied Digital",
+      "Crusoe",
+      "IREN",
+      "Hut 8"
+    ],
+    "fitRationale": "A lower land-price rural Texas search candidate for power-oriented AI campuses if a genuine 10–50 MW phase, dry/closed-loop cooling and long-haul connectivity are supported. It is a weak match for urban interconnection-led colo. Existing buyer campuses may compete strongly for budget.",
+    "blockers": [
+      "Reconcile active/sold/archive and price conflicts.",
+      "Exact APN, owner, tract and access need county/title verification.",
+      "No written power path or diverse fiber.",
+      "Texas approval/timing and cooling questions remain.",
+      "A 110-acre tract may be too small for a developer requiring several hundred MW and extensive expansion."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask Davis Vernon Agency to reconcile current MLS status, asking price, exact county account/legal description and seller willingness to allow studies.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Potential low land-cost control; status hold",
+    "quotedPrices": [
+      319000,
+      352000,
+      385000
+    ],
+    "sourceRefs": [
+      "turn54view3",
+      "turn91view1",
+      "turn91view2",
+      "turn61search4"
+    ],
+    "matchCaution": "Current public examples for several named AI developers are hundreds of MW. A 10–50 MW Hinds phase is a discovery hypothesis; require buyer confirmation of minimum first phase, ultimate expansion and current geography before describing it as a good fit."
+  },
+  {
+    "id": "benson-12002003a",
+    "name": "Benson I-10 frontage / APN120-02-003A",
+    "location": "Benson / Cochise County, AZ",
+    "state": "AZ",
+    "address": "I-10 frontage road east of Benson, AZ",
+    "acreage": null,
+    "askingPrice": 550000,
+    "apn": "120-02-003A",
+    "listingUrl": "https://hcreinc.com/land",
+    "sourceUrls": [
+      "https://hcreinc.com/land",
+      "https://www.crexi.com/properties/1000514/arizona-103-acres"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Primary broker page advertises90ac/$550,000/cash terms. Crexi title says90ac while acreage field says103 and old marketing text says$432,000; reconcile tract area and price before using a per-acre value.",
+    "powerClaim": "Broker reports electricity to lot line, a200+gpm well and adjacent transmission station. These are unverified seller claims, not industrial water rights or MW.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Novva Data Centers",
+      "Crusoe",
+      "Applied Digital"
+    ],
+    "fitRationale": "Potential Southwest low-water compute site if the buyer accepts a Tucson/Benson location instead of Phoenix and if carrier routes and power costs work. Its acreage/price may make option economics easier than metro land, but Phoenix facilities are not evidence of a Benson mandate.",
+    "blockers": [
+      "RU-4 land-use path must be confirmed.",
+      "90/103ac and older survey/tract figures conflict.",
+      "Well rights, reliable yield and lawful industrial use unverified.",
+      "No proof of data-center load service or diverse fiber.",
+      "Seller currently advertises cash terms, not financing or an option."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Obtain broker-marked offered boundary, current survey/acreage and price, then county use determination and utility intake.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Potential low land-cost control; boundary/use hold",
+    "sourceRefs": [
+      "turn54view2",
+      "turn39search9"
+    ]
+  },
+  {
+    "id": "fish-hatchery-53",
+    "name": "Fish Hatchery Road Site",
+    "location": "Pine Ridge / Lexington County, SC",
+    "state": "SC",
+    "address": "Fish Hatchery Road, Pine Ridge, SC 29172",
+    "acreage": 53,
+    "askingPrice": 350000,
+    "apn": "006890-01-004",
+    "listingUrl": "https://www.centralsc.org/properties/fish-hatchery-road-site",
+    "sourceUrls": [
+      "https://www.centralsc.org/properties/fish-hatchery-road-site"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Central SC Alliance still publishes53ac at$350,000; original available date isSeptember12,2023. Current owner/broker confirmation required; portal is not a signed offer.",
+    "powerClaim": "No MW or electric provider shown. Portal identifies City of Cayce water and wastewater; availability/capacity not warranted.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DartPoints",
+      "DC BLOX"
+    ],
+    "fitRationale": "Budget-compatible land-price research lead for a Columbia-area regional enterprise/edge facility if customer demand exists. It is not a ready hyperscale campus. Nearby residential/commercial uses make generator noise and zoning more decisive than low land price.",
+    "blockers": [
+      "Use/rezoning, flood/wetland net acreage and residential buffers unknown.",
+      "No electric capacity/service path, carrier diversity or quantified utility allotment.",
+      "Stale original availability date requires reconfirmation.",
+      "No buyer demand evidence for another Columbia-area facility."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request current availability, site survey, wetland/flood maps and adopted zoning from Central SC before any utility study.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Low land price; fatal-screen first",
+    "sourceRefs": [
+      "turn54view0"
+    ],
+    "matchCaution": "Low price does not establish a regional data-center demand gap. This is a cheap falsification lead, not a high-quality developer match yet."
+  },
+  {
+    "id": "old-wire-51",
+    "name": "Old Wire Road / Charleston Highway",
+    "location": "West Columbia / Lexington County, SC",
+    "state": "SC",
+    "address": "Old Wire Road and Charleston Highway, West Columbia, SC 29172",
+    "acreage": 51,
+    "askingPrice": null,
+    "apn": "008098-04-026",
+    "listingUrl": "https://www.crexi.com/properties/272225/south-carolina-old-wire-road",
+    "sourceUrls": [
+      "https://www.crexi.com/properties/272225/south-carolina-old-wire-road",
+      "https://myelisting.com/listing/291697/old-wire-road-west-columbia-sc-29172/"
+    ],
+    "status": "unverified current availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Cached broker-marketing and regional portal show$850,000; direct Crexi now labels Off-Market / Sale Comp and Historical Flyer. Do not treat as active without broker confirmation.",
+    "powerClaim": "Historical marketing reports water and12-inch forced-main sewer; no MW evidence.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DartPoints",
+      "Element Critical"
+    ],
+    "fitRationale": "A compact Columbia metro regional-colo hypothesis only if a client anchor is secured. Historical marketing says only about25ac usable because of wetlands, reducing the apparent51ac campus size.",
+    "blockers": [
+      "Direct listing off-market.",
+      "Residential/RD zoning; DC entitlement unverified.",
+      "About26ac affected by wetlands according to marketing.",
+      "No current power or carrier route evidence."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask Colliers whether the tract can still be acquired and whether25ac net remains accurate; otherwise archive.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Hold: off-market conflict",
+    "sourceRefs": [
+      "turn91view0",
+      "turn51search2"
+    ]
+  },
+  {
+    "id": "metamora-37",
+    "name": "Metamora Industrial Park37.5ac",
+    "location": "Metamora / Fulton County, OH",
+    "state": "OH",
+    "address": "Buckeye Drive, Metamora, OH 43540",
+    "acreage": 37.5,
+    "askingPrice": null,
+    "apn": "02-003289-03.000",
+    "listingUrl": "https://properties.zoomprospector.com/ohio/property/Buckeye-Drive-Metamora-Ohio/DCCFDB92-9442-46B7-BCF6-8167C70129F4",
+    "sourceUrls": [
+      "https://properties.zoomprospector.com/ohio/property/Buckeye-Drive-Metamora-Ohio/DCCFDB92-9442-46B7-BCF6-8167C70129F4"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "JobsOhio portal says For Sale, available immediately, private single ownership; last updatedJuly10,2026. Price field$4,687,500 conflicts with$100,000/ac field.",
+    "powerClaim": "Portal identifies Toledo Edison and electric lines at site; utility-unit entry69KVA is internally suspect. No available MW verified.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "US Signal",
+      "LightEdge",
+      "EdgeConneX"
+    ],
+    "fitRationale": "Northwest Ohio/Detroit–Toledo corridor search candidate for a regional enterprise or edge developer rather than a gigawatt campus.34ac reportedly developable and industrial zoning could support a contained phase; metro latency and local customer coverage still determine demand.",
+    "blockers": [
+      "Reconcile price and electrical units.",
+      "No measured fiber latency/diverse paths or suitable load commitment.",
+      "37.5gross/34net leaves limited expansion.",
+      "Regional buyer may prefer acquisition of an existing data center."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Obtain corrected property sheet plus utility-written phase/date/cost response and two-route fiber proposal.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-backed land acquisition; cheap option unverified",
+    "sourceRefs": [
+      "turn43view2"
+    ],
+    "quotedPriceText": "$4,687,500 total-price field conflicts with $100,000/acre field, which implies $3,750,000 for 37.5 acres. Confirm current seller asking price."
+  },
+  {
+    "id": "maiden-enterprise-32",
+    "name": "Maiden Enterprise Park Lot1",
+    "location": "Maiden / Catawba County, NC",
+    "state": "NC",
+    "address": "1851 West Maiden Road, Maiden, NC 28650",
+    "acreage": 31.93,
+    "askingPrice": null,
+    "apn": "363706277708",
+    "listingUrl": "https://properties.zoomprospector.com/northcarolina/property/1851-West-Maiden-Rd-Maiden-North-Carolina/B1724418-8AE3-4B91-B5EE-B95EC2B9677C",
+    "sourceUrls": [
+      "https://properties.zoomprospector.com/northcarolina/property/1851-West-Maiden-Rd-Maiden-North-Carolina/B1724418-8AE3-4B91-B5EE-B95EC2B9677C"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "State portal displays For Sale. Direct snapshot$2,075,450/June19 update; search snapshot$2,298,960/September21 update. Use price-on-confirmation.31.9/31.93 rounding; adjacent lot22.57ac also mentioned.",
+    "powerClaim": "Portal states Town of Maiden service, currently3MW and possible5–8MW in12–24months. Those portal figures are not an executed utility commitment and do not establish10–50MW.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DartPoints",
+      "DC BLOX"
+    ],
+    "fitRationale": "A smaller modular/regional deployment hypothesis near established Catawba County data-center activity. More plausible for staged single-digit-MW service than bulk AI training; adjacency to Apple/Microsoft does not create demand or transferable power.",
+    "blockers": [
+      "Initial advertised power below the main10–50MW strategy.",
+      "Price/version conflict.",
+      "321ED-I zoning must specifically allow DC and generators.",
+      "Segra listed; two truly independent carrier routes unproven.",
+      "Expandability requires separate adjacent-lot control."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask Town of Maiden whether a specific buyer phase can exceed advertised3MW, and ask owner for current price and combined-lot terms.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Smaller power phase; sponsor-backed or buyer-funded",
+    "sourceRefs": [
+      "turn68view1",
+      "turn39search5"
+    ]
+  },
+  {
+    "id": "henson-road-50",
+    "name": "Henson Road Site",
+    "location": "Blacksburg / Cherokee County, SC",
+    "state": "SC",
+    "address": "Henson Road & N Shelby Street, Blacksburg, SC 29702",
+    "acreage": 49.95,
+    "askingPrice": null,
+    "apn": "153.00.00.040.001",
+    "listingUrl": "https://properties.zoomprospector.com/sccommerce/property/Henson-Road-%26-N-Shelby-Street-Blacksburg-South-Carolina/979AAD63-7237-4FD6-8C66-EACDBC2F9438",
+    "sourceUrls": [
+      "https://properties.zoomprospector.com/sccommerce/property/Henson-Road-%26-N-Shelby-Street-Blacksburg-South-Carolina/979AAD63-7237-4FD6-8C66-EACDBC2F9438"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "SC Commerce portal offers sale/build-to-suit,49.95ac gross and30ac contiguous developable. Advertised minimum$150,000/ac; total quoted price not supplied.",
+    "powerClaim": "Portal lists Broad River Electric primary and Duke secondary distribution; neither dual source topology nor MW is utility-verified. AT&T/Charter listed.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DC BLOX",
+      "Edged US"
+    ],
+    "fitRationale": "I-85 Charlotte–Greenville corridor infill hypothesis: regional access and an industrial setting suit a phased Southeast facility better than a remote farm. Existing listed diligence may reduce first-pass cost if current and assignable.",
+    "blockers": [
+      "Only30ac contiguous developable.",
+      "At$150k/ac, about$7.49M for49.95ac before costs if entire tract priced uniformly—calculation, not quoted price.",
+      "No utility load/cost/date commitment.",
+      "Claims of dual power do not prove independent substations.",
+      "Confirm DC use, noise, air permits and buyer anchor."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request the Palmetto diligence package and buyer-reliance rights, parcel-specific utility confirmation, and split/BTS economics.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-backed; expensive land basis",
+    "sourceRefs": [
+      "turn68view2",
+      "turn91view4"
+    ]
+  },
+  {
+    "id": "north-forsyth-313",
+    "name": "North Forsyth Industrial Park",
+    "location": "Tobaccoville / Forsyth County, NC",
+    "state": "NC",
+    "address": "King-Tobaccoville Road, Tobaccoville, NC 27050",
+    "acreage": 313,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-206023/north-forsyth-industrial-park-king-tobaccoville-road-tobaccoville-nc-27050",
+    "sourceUrls": [
+      "https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-206023/north-forsyth-industrial-park-king-tobaccoville-road-tobaccoville-nc-27050",
+      "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-77528/north-forsyth-industrial-park-tobaccoville-road-tobaccoville-nc-27050"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "CBRE markets68–313ac for immediate sale, price on request. Separate industrial brochure shows312ac and67/78/167ac tracts; reconcile precise offered split.",
+    "powerClaim": "CBRE reports Duke Energy230kV dual-circuit and100kV single-circuit lines by Reynolds Tobaccoville substation. Voltage/proximity alone provides no deliverable MW.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DC BLOX",
+      "Compass Datacenters",
+      "Prime Data Centers",
+      "T5 Data Centers",
+      "Stream Data Centers"
+    ],
+    "fitRationale": "A Southeast campus search that starts from developers needing scalable phases and industrial entitlement rather than cheap acreage. A68ac first purchase plus expansion control is a better hypothesis than demanding all313ac at once; no seller acceptance of phasing implied.",
+    "blockers": [
+      "No price or option/phase acceptance.",
+      "GI zoning needs DC-specific confirmation.",
+      "Power studies, tariff and date unknown.",
+      "Fiber corridors, usable acreage and cooling unresolved.",
+      "Need reason developer prefers this park over its current Carolinas pipeline."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request CBRE power-study status, exact parcels, current buildable-area study and68ac phase/expansion pricing.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Buyer-led campus opportunity; price unknown",
+    "sourceRefs": [
+      "turn54view1",
+      "turn51search0"
+    ]
+  },
+  {
+    "id": "cleveland-marginal-60",
+    "name": "Former power-plant redevelopment60ac",
+    "location": "Cleveland / Cuyahoga County, OH",
+    "state": "OH",
+    "address": "6800 S Marginal Avenue, Cleveland, OH 44103",
+    "acreage": 60,
+    "askingPrice": null,
+    "apn": "105-02-001",
+    "listingUrl": "https://crescorealestate.com/properties/6800-s-marginal-avenue/",
+    "sourceUrls": [
+      "https://crescorealestate.com/properties/6800-s-marginal-avenue/",
+      "https://www.crexi.com/properties/2321619/ohio-6800-s-marginal-avenue"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Primary CRESCO brokerage page currently offers60ac for sale. No asking price displayed.",
+    "powerClaim": "Brokerage calls it former FirstEnergy power-plant land and markets lake water access. A syndication says50+MW load study underway; this is not completed/import-capacity evidence. Lake access is not a water permit.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "TECfusions",
+      "Patmos",
+      "H5 Data Centers",
+      "Expedient"
+    ],
+    "fitRationale": "An urban reuse hypothesis for developers that can handle brownfield complexity and value metro fiber/workforce. This differs materially from greenfield rural training: nearby enterprise demand, fiber entry and environmental liability can dominate.",
+    "blockers": [
+      "Contamination, demolition, title/shoreline and cooling permits need professional review.",
+      "Former generation infrastructure does not establish load-import rights.",
+      "Price and seller liability allocation unknown.",
+      "A load study underway is not an approved service offer."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request PhaseI/II, closure/remediation obligations, demolition status, title/site plan, import service study and two fiber-route drawings.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-backed brownfield; no founder-funded cleanup",
+    "sourceRefs": [
+      "turn87view5",
+      "turn73search6"
+    ]
+  },
+  {
+    "id": "tupelo-705",
+    "name": "Tupelo705.5ac sale/ground lease",
+    "location": "Tupelo / Coal County, OK",
+    "state": "OK",
+    "address": "N3690 Road, Tupelo, OK 74572",
+    "acreage": 705.5,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.loopnet.com/Listing/N3690-rd-Tupelo-OK/42083606/",
+    "sourceUrls": [
+      "https://www.loopnet.com/Listing/N3690-rd-Tupelo-OK/42083606/"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Search-rendered broker listing offers sale or long-term ground lease, listedSeptember8,2026; direct page fetch restricted. Current broker confirmation still required. Acreage comes from assessor/GIS claim, subject to survey.",
+    "powerClaim": "Broker reports345kV crossing,138kV substation~0.91mi, gas~7.3mi away, no on-parcel fiber represented. Capacity and topology explicitly require utility/SPP verification.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Applied Digital",
+      "Hut 8",
+      "Crusoe"
+    ],
+    "fitRationale": "Large rural AI-campus hypothesis for buyers able to fund both fiber and utility development. The broker describes willingness to ground-lease, which is a useful transaction lead. No on-parcel fiber is represented; Atoka service about 19 miles away is only a regional proxy, not a measured required lateral. A carrier-engineered route and budget are needed. Gas is advertised about 7.3 miles away and matters only if the generation plan requires it.",
+    "blockers": [
+      "No fiber on parcel; routes/cost/date unknown.",
+      "Gas lateral long; only relevant if generation strategy needs it.",
+      "Drainage floodplain and net contiguous acres need exact map.",
+      "Tribal jurisdiction/tax and water rights need counsel.",
+      "Large-campus funding and early-phase anchor required."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask broker for parcel list, proposed ground-lease economics, utility correspondence and carrier construction quote; test buyer acceptance of lateral expense before control.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-backed rural campus; possible ground-lease structure",
+    "sourceRefs": [
+      "turn73search0"
+    ]
+  },
+  {
+    "id": "abilene-eastlake-1450",
+    "name": "East Lake Road1450ac",
+    "location": "Abilene / Jones County, TX",
+    "state": "TX",
+    "address": "E Lake Road, Abilene, TX 79601",
+    "acreage": 1450,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.land.com/property/1450-acres-in-jones-county-texas/26130363/",
+    "sourceUrls": [
+      "https://www.land.com/property/1450-acres-in-jones-county-texas/26130363/"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Listing displays For Sale, price on request; last updatedMarch17,2026. Broker must reconfirm offered tract and status.",
+    "powerClaim": "Seller reports substation/transmission on northwest portion, rural water and historical effluent-water access. No transferable effluent right or available MW proved.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Lancium",
+      "Crusoe",
+      "Vantage Data Centers"
+    ],
+    "fitRationale": "Expansion-scale Abilene cluster hypothesis for developers already assembling large training campuses. It could suit a very large land/energy program, but nearby existing campuses can consume grid, water, contractors and buyer capital; proximity can be competition rather than a positive.",
+    "blockers": [
+      "Very large acreage and unknown price exceed unsupported founder closeability.",
+      "No capacity/timing, exact APNs or environmental study.",
+      "Effluent access historical and use rights unresolved.",
+      "Existing regional power queues and buyer pipeline can negate adjacency appeal."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request exact-parcel power status and seller willingness to phase a small tract; approach only with a confirmed developer size/timing brief.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-led megacampus; no speculative fee-simple purchase",
+    "sourceRefs": [
+      "turn66view2"
+    ]
+  },
+  {
+    "id": "comanche-cr210-112",
+    "name": "CR210112ac",
+    "location": "Comanche County, TX",
+    "state": "TX",
+    "address": "TBD CR210, Comanche, TX 76442",
+    "acreage": 112,
+    "askingPrice": 2245800,
+    "apn": null,
+    "listingUrl": "https://www.land.com/property/112-acres-in-comanche-county-texas/27248663/",
+    "sourceUrls": [
+      "https://www.land.com/property/112-acres-in-comanche-county-texas/27248663/"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Displayed For Sale at$2,245,800; MLS21257998; page last updatedMay11,2026. Current broker confirmation required.",
+    "powerClaim": "Seller reports nearby electrical substation and electricity at property. No load capacity, service point, date or fiber disclosed.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Applied Digital",
+      "Hut 8",
+      "Prime Data Centers"
+    ],
+    "fitRationale": "Rural Texas campus hypothesis with extensive county-road frontage and enough gross acreage for a modest phased concept. At roughly$20,000/ac it needs a much better infrastructure proof than Hinds to justify the land premium; rurality alone does not match a buyer mandate.",
+    "blockers": [
+      "Power economics and fiber are absent.",
+      "~50ft elevation change means civil budget matters.",
+      "Stock tanks and net pad layout require screening.",
+      "Unknown zoning, APNs and control terms."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask broker for exact survey, owner authority, utility written correspondence and price basis; reject premium if it rests only on substation proximity.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Higher land-price rural comparator; not first spend",
+    "sourceRefs": [
+      "turn66view3"
+    ]
+  },
+  {
+    "id": "neely-119",
+    "name": "Neely Industrial Site",
+    "location": "Newberry County, SC",
+    "state": "SC",
+    "address": "SC Hwy34/121, Newberry, SC 29108",
+    "acreage": 119,
+    "askingPrice": null,
+    "apn": "294-2",
+    "listingUrl": "https://www.centralsc.org/properties/carlton-industrial-site",
+    "sourceUrls": [
+      "https://www.centralsc.org/properties/carlton-industrial-site"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Regional EDC displays119ac industrial land at$22,500/ac; whole-site calculation$2,677,500, not a separate seller quote. Older Carlton URL now titledNeely.",
+    "powerClaim": "EDC lists Newberry Electric Cooperative69kV potentially fed from two sources, nearby gas, onsite water/sewer, AT&T/Comcast. These are public marketing data, not committed load/fiber diversity.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DC BLOX",
+      "Edged US",
+      "Compass Datacenters",
+      "Prime Data Centers"
+    ],
+    "fitRationale": "Potential phased Southeast wholesale or regional campus with a more specific dual-source infrastructure question than generic transmission proximity.Industrial setting and water/sewer reduce some farm-conversion questions, subject to actual utility rights and buyer-serving geography.",
+    "blockers": [
+      "No utility written MW/date/tariff.",
+      "Two feeds may share upstream failure points.",
+      "Industrial zoning not a complete data-center approval.",
+      "~75ft elevation envelope/net layout need engineering.",
+      "No current seller option or subdivision consent."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Ask EDC for owner contact, exact subdivision/price terms and utility topology; ask buyers whether Newberry meets their latency/anchor-customer requirement.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Mid-price industrial site; phased-control hypothesis",
+    "sourceRefs": [
+      "turn87view2",
+      "turn91view5"
+    ]
+  },
+  {
+    "id": "dickert-70",
+    "name": "Dickert Rail Site",
+    "location": "Newberry County, SC",
+    "state": "SC",
+    "address": "US Hwy76 & Old Whitmire Highway, Newberry, SC 29108",
+    "acreage": 70,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.newberrycounty.gov/property/dickert-rail-site",
+    "sourceUrls": [
+      "https://www.newberrycounty.gov/property/dickert-rail-site"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "County lists70ac available, industrial zoning and$12,000–15,000/ac.Whole-site arithmetic$840,000–1,050,000; no single exact asking price.",
+    "powerClaim": "County reports12kV three-phase Newberry Electric Cooperative, onsite water/sewer and AT&T fiber/cable. No10–50MW capacity commitment.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DC BLOX",
+      "DartPoints"
+    ],
+    "fitRationale": "A potentially affordable option-search candidate for a small regional/modular campus if the developer wants a Newberry/Columbia service area. Existing industrial utility corridors and rectangular shape are useful starting points; rail is incidental, not a data-center demand signal.",
+    "blockers": [
+      "Distribution service does not establish required industrial MW.",
+      "Industrial/DC use and generator buffers need confirmation.",
+      "Only one named telecom provider; diverse routing unknown.",
+      "Current owner, exact APN and sale status reconfirmation needed."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request exact parcel and asking terms, then written co-op large-load intake and a small-phase buyer requirement before ordering studies.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Potential moderate land-cost control; validate buyer geography",
+    "sourceRefs": [
+      "turn87view0"
+    ]
+  },
+  {
+    "id": "i26-publicworks-65",
+    "name": "I-26 Public Works Site",
+    "location": "Newberry County, SC",
+    "state": "SC",
+    "address": "11494 Hwy34, Newberry, SC 29108",
+    "acreage": 65,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.newberrycounty.gov/property/i-26-public-works-site",
+    "sourceUrls": [
+      "https://www.newberrycounty.gov/property/i-26-public-works-site"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "County lists65ac at$15,000/ac, minimum20ac and subdividable20ac.Fulllot arithmetic$975,000; a20ac slice arithmetic$300,000 subject to actual boundaries and seller consent.",
+    "powerClaim": "County lists12.47/7.2kV co-op distribution, adjacent water/sewer and telecom to suit. No large-load MW or fiber build guarantee.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DartPoints",
+      "DC BLOX"
+    ],
+    "fitRationale": "A phased20–65ac control hypothesis aligned with a smaller first project and capital limits.Industrial zoning and I-26 access could support operations, but a buyer still needs local demand or suitable regional network reach.",
+    "blockers": [
+      "Fiber is to-suit, not on-net.",
+      "Electrical capacity, feeder economics and higher-voltage upgrade path unknown.",
+      "Irregular shape and~65ft elevation range.",
+      "20ac split may not support utility yard, setbacks and expansion together."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Obtain a20ac concept/split price and expansion-right terms; get co-op/carrier feasibility before proposing paid control.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Potential small phased land control; total-price arithmetic only",
+    "sourceRefs": [
+      "turn87view1"
+    ]
+  },
+  {
+    "id": "newberry-south-192",
+    "name": "Newberry South Industrial Site",
+    "location": "Newberry County, SC",
+    "state": "SC",
+    "address": "840 Havird Street / Hwy34 Bypass, Newberry, SC 29108",
+    "acreage": 192.45,
+    "askingPrice": null,
+    "apn": "345-14; 345-3 (EDC-reported; title verification needed)",
+    "listingUrl": "https://www.newberrycounty.gov/property/newberry-south-industrial-site",
+    "sourceUrls": [
+      "https://www.newberrycounty.gov/property/newberry-south-industrial-site",
+      "https://www.centralsc.org/properties/newberry-south-industrial-site"
+    ],
+    "status": "industrial park availability",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "County lists192.45ac available at$30,000/ac; regional EDC says192ac and minimum10ac.Whole-site arithmetic$5,773,500; phase pricing/availability unconfirmed.",
+    "powerClaim": "County identifies Duke24kV/100kV, water/sewer onsite and fiber about3500ft away. Available MW and fiber redundancy unknown.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "DC BLOX",
+      "Compass Datacenters",
+      "T5 Data Centers",
+      "Prime Data Centers"
+    ],
+    "fitRationale": "Southeast phased-campus hypothesis with a reported Palmetto diligence package. A30–60ac initial phase could fit a buyer better than the full park, if lawful split and expansion control work; no seller consent implied.",
+    "blockers": [
+      "Fiber extension needed; second route unknown.",
+      "Public portals show inconsistent water/sewer system figures.",
+      "Certified industrial site is not approved data-center design.",
+      "Utility service date and commercial terms absent.",
+      "Whole-site price requires sponsor."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Request all existing due-diligence reports and reliance rights, current utility capacity letters and phase-specific sale/expansion terms.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Sponsor-backed whole site; smaller carve-out hypothetical",
+    "sourceRefs": [
+      "turn87view3",
+      "turn78search4"
+    ]
+  },
+  {
+    "id": "rome-huffaker-192",
+    "name": "Huffaker Road192ac auction",
+    "location": "Rome / Floyd County, GA",
+    "state": "GA",
+    "address": "Huffaker Road, Rome, GA 30165",
+    "acreage": 192,
+    "askingPrice": null,
+    "apn": null,
+    "listingUrl": "https://www.tranzon.com/dg26081",
+    "sourceUrls": [
+      "https://www.tranzon.com/dg26081"
+    ],
+    "status": "marketed listing",
+    "evidenceDate": "2026-10-29",
+    "availabilityNote": "Live auction scheduledNov12–19,2026; seller may accept prior sale. $500,000 syndication figure is for MLS purposes only, not an asking price or valuation.",
+    "powerClaim": "Auctioneer reports two230kV and one115kV lines. Marketing labels this powered land; that label is unsupported without utility load rights/capacity.",
+    "powerVerified": false,
+    "availableMw": null,
+    "fitBuyerNames": [
+      "Microsoft",
+      "Compass Datacenters",
+      "T5 Data Centers",
+      "Prime Data Centers"
+    ],
+    "fitRationale": "Buyer-first adjacency lead: auctioneer says adjacent349ac belongs to Microsoft and is zoned for DC. That creates a specific expansion/land-buffer question for Microsoft, but adjacent ownership is not purchase interest. Another campus developer must establish an independent use case and utility rights.",
+    "blockers": [
+      "Agricultural zoning and topography.",
+      "No APN/title/map reconciliation yet.",
+      "10%buyer premium,10%nonrefundable deposit and Dec18,2026 as-is/no-contingency close conflict with low-risk option strategy.",
+      "Transmission corridors may constrain buildable area.",
+      "No current buyer interest."
+    ],
+    "controlFeasibility": "Unknown. No seller has offered Syncranicity an assignable option, exclusivity, or buyer-backed control.",
+    "nextProof": "Send no bid. Obtain auction package and ask whether seller considers pre-auction conditional terms only after a named funded buyer validates the tract.",
+    "fitEvidence": "Analyst sourcing hypothesis, not developer interest or a validated buyer requirement.",
+    "budgetTier": "Buyer-backed only; auction structure poor fit for speculative option",
+    "sourceRefs": [
+      "turn87view4",
+      "turn91view3",
+      "turn80search1"
+    ],
+    "matchCaution": "Microsoft adjacency is only an auctioneer assertion; verify ownership/boundaries and an actual expansion need. The auction timeline and deposits are incompatible with speculative low-cash control."
+  }
+]

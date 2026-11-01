@@ -1,0 +1,580 @@
+[
+  {
+    "id": "tract",
+    "name": "Tract",
+    "segment": "Powered-land developer",
+    "role": "COMPETITOR",
+    "stated": [
+      "Its Buckeye project page markets 2,019 acres and by-right data-center use."
+    ],
+    "revealed": [
+      "Announced acquisition of 2,069 acres in August 2024. The current project acreage differs and requires reconciliation."
+    ],
+    "inferred": [
+      "Entitlement and coordinated infrastructure create the product; raw proximity alone does not replicate it."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": {
+      "lon": -104.949838592451,
+      "lat": 39.712521516322,
+      "precision": "Approximate office address \u00b7 Census address match, not a project site",
+      "sourceUrl": "https://www.tract.com/get-in-touch/"
+    },
+    "projects": [
+      "Buckeye Technology Park"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "s project size with your addressable contract. A $10B campus may still buy only a $10k-$20k evidence assignment\n- and may be harder to sell than a $100M regional project.\n\n\n=== PAGE 4 ===\nSYNCHRONICITY | ELECTRIC-LAND CUSTOMER STRATEGY\nDecision-useful research as of 29 Aug 2026 | Public sources are not sponsor-verified\nPage 4\nThe gate strategy for a solo founder\nUse the attached Electric Land Gate Strategy doctrine: founder owns the decision record; experts own expert conclusions\nGate\nQuestion\nSolo-founder position\nSell now?\n0\nWhat exactly is the project and what kills it?\nLead the requirement sprint. It prevents speculative search and makes every later comparison defensible.\nYES\n1",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Official office address",
+        "url": "https://www.tract.com/get-in-touch/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Office location only; not a buying market or project boundary."
+      },
+      {
+        "title": "U.S. Census address geocoder",
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3200+Cherry+Creek+South+Drive%2C+Denver%2C+CO+80209&benchmark=Public_AR_Current&format=json",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Address interpolation; approximate locator."
+      },
+      {
+        "title": "Buckeye Technology Park",
+        "url": "https://www.tract.com/project/buckeye/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      },
+      {
+        "title": "Original Buckeye acquisition",
+        "url": "https://www.tract.com/news/tract-closes-acquisition-of-2069-acres-in-buckeye-arizona/",
+        "date": "August 28, 2024",
+        "limitation": "Original acquisition acreage, distinct from current project scope."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "atwell",
+    "name": "Atwell",
+    "segment": "Engineering / entitlement adviser",
+    "role": "PARTNER",
+    "stated": [
+      "Offers real-estate development, energy and engineering/construction services."
+    ],
+    "revealed": [],
+    "inferred": [
+      "A potential technical delivery partner; differentiated research must support professionals rather than imply engineering clearance."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": {
+      "lon": -83.254527466234,
+      "lat": 42.484361295788,
+      "precision": "Approximate office address \u00b7 Census address match, not a project site",
+      "sourceUrl": "https://atwell.com/locations/michigan/"
+    },
+    "projects": [
+      "Engineering and development services"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "w; \nformidable direct competitor later.\nAtwell / AECOM / Stantec / Black & \nVeatch / Kimley-Horn / Burns & \nMcDonnell\nSite feasibility, fatal-flaw diligence, \nutility outreach, \ncivil/geotech/environmental work, \npermitting, conceptual engineering, \npower/water.\nGates 2-8. Be the early client-side \norchestrator; do not imitate \nlicensed engineering.\nCBRE / JLL / Cushman & Wakefield / \nColliers\nSite selection, land \nacquisition/disposition, power \nprocurement, market intelligence, \nentitlements, financing and \ntransactions.\nGates 1, 4, 8-10. Avoid unlicensed brokerage; \ndifferentiate through transaction-\nneutral red-team evidence.\n\n=== PAGE 2 ===\nGate 0 - Project definition and kill",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Official office address",
+        "url": "https://atwell.com/locations/michigan/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Office location only; not a buying market or project boundary."
+      },
+      {
+        "title": "U.S. Census address geocoder",
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2+Towne+Square%2C+Southfield%2C+MI+48076&benchmark=Public_AR_Current&format=json",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Address interpolation; approximate locator."
+      },
+      {
+        "title": "Engineering and development services",
+        "url": "https://atwell.com/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "origis-energy",
+    "name": "Origis Energy",
+    "segment": "Energy developer",
+    "role": "PARTNER",
+    "stated": [
+      "Offers grid-scale generation, storage and asset operations."
+    ],
+    "revealed": [],
+    "inferred": [
+      "Energy-development expertise is not evidence of a data-center land buying mandate."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": {
+      "lon": -80.190761277904,
+      "lat": 25.766141182995,
+      "precision": "Approximate office address \u00b7 Census address match, not a project site",
+      "sourceUrl": "https://origisenergy.com/about-us/offices/"
+    },
+    "projects": [
+      "Generation and storage platform"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "",
+    "sources": [
+      {
+        "title": "Official office address",
+        "url": "https://origisenergy.com/about-us/offices/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Office location only; not a buying market or project boundary."
+      },
+      {
+        "title": "U.S. Census address geocoder",
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=800+Brickell+Avenue%2C+Miami%2C+FL+33131&benchmark=Public_AR_Current&format=json",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Address interpolation; approximate locator."
+      },
+      {
+        "title": "Generation and storage platform",
+        "url": "https://origisenergy.com/",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "lambda",
+    "name": "Lambda",
+    "segment": "AI compute operator",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": {
+      "lon": -121.923082249724,
+      "lat": 37.387248772396,
+      "precision": "Approximate headquarters address \u00b7 Census match; not a compute site",
+      "sourceUrl": "https://lambda.ai/contact"
+    },
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "d, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n66\nLambda\nRaised large infrastructure financing\nand assembled leadership for\ngigawatt-scale expansion.\nVP Infrastructure\n/ Real Estate\n0\nTranslate GPU, cooling, network, delivery-date and\ncapital needs into a signed site kill-criteria brief before\ntaking broker/developer calls.\n0.5%-2%\ncold, 12 mo.\n$0.25k-$0.75k\n10-16h\n$3.5k-$5.5k\n67\nVultr\nGlobal cloud platform across 36\nregions; a new owned/leased region\nmust start with precise requirements.\nVP Infrastructure\n/ Real Estate\n0\nCreate a region requirement and kill-criteria brief that\ndistinguishes latency/sovereignty needs from land and\npower preferences.\n0.5%-2%\ncold, 12 mo.\n$0.25k-$0.75k\n10-16h\n",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Lambda headquarters",
+        "url": "https://lambda.ai/contact",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Office only; no parcel buying mandate."
+      },
+      {
+        "title": "Census address match",
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2510+Zanker+Road%2C+San+Jose%2C+CA+95131&benchmark=Public_AR_Current&format=json",
+        "date": "Retrieved September 7, 2026",
+        "limitation": "Approximate address interpolation."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "bitdeer",
+    "name": "Bitdeer",
+    "segment": "Compute / mining operator",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "d, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n76\nBitdeer\nLarge global power/data-center\nportfolio and continuing development\nupdates.\nVP Infrastructure\n/ Real Estate\n8\nRed-team one U.S. expansion or conversion site and\ncreate the expert escalation sequence before\ncommitting conversion capital.\n1%-3%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n77\nRiot Platforms\nCorsicana AI/HPC evaluation and a\nfirst Rockdale data-center lease show\nconversion intent.\nVP Infrastructure\n/ Real Estate\n8\nCreate an independent Corsicana/Rockdale conversion\ndecision memo: evidence, fatal assumptions, expert\nwork and staged spend gates.\n1%-3%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n\n\n=== PAGE 13 ===\nSYNCHRONICITY | ELE",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "riot",
+    "name": "Riot",
+    "segment": "Compute / mining operator",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "d, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n77\nRiot Platforms\nCorsicana AI/HPC evaluation and a\nfirst Rockdale data-center lease show\nconversion intent.\nVP Infrastructure\n/ Real Estate\n8\nCreate an independent Corsicana/Rockdale conversion\ndecision memo: evidence, fatal assumptions, expert\nwork and staged spend gates.\n1%-3%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n\n\n=== PAGE 13 ===\nSYNCHRONICITY | ELECTRIC-LAND CUSTOMER STRATEGY\nDecision-useful research as of 29 Aug 2026 | Public sources are not sponsor-verified\nPage 13\n#\nProspect\nPublic signal\nBuyer\nGate\nExact solo-founder offer\nP(paid pilot)\nFounder cash / time\nFee received\n78\nGalaxy Digital\nHelios is a major AI/HPC campus\nbacked by proje",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "soluna",
+    "name": "Soluna",
+    "segment": "Renewable-powered compute",
+    "role": "CUSTOMER",
+    "stated": [
+      "Its CEO emphasizes dependable time to power and end-to-end site control."
+    ],
+    "revealed": [
+      "Announced closing on 397 acres in Briscoe County on August 24, 2026, adjacent to its Dorothy projects and owned wind farm."
+    ],
+    "inferred": [
+      "A nearby seller needs a specific advantage over Soluna\u2019s already controlled expansion land. Adjacency alone does not establish demand."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [
+      "tx-briscoe-silverton-unresolved"
+    ],
+    "location": null,
+    "projects": [
+      "Project Dorothy 3"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "d, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n80\nSoluna Holdings\nActive renewable-compute project\npipeline includes the 350MW Kati\nconcept.\nVP Infrastructure\n/ Real Estate\n8\nTest the next project against land, generation,\ninterconnection, permits, curtailment economics and\ncustomer timing; rank stop conditions.\n2%-5%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n81\nBitfarms\nPublic plan to convert a Washington\nsite to HPC/AI with T5 support.\nVP Infrastructure\n/ Real Estate\n8\nOwn the integrated conversion decision record:\nproperty, power, cooling-expert scope, entitlement,\ncapex assumptions and staged go/no-go gates.\n2%-5%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n82\nNscale\nU.S. West Virginia AI-fact",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Project Dorothy 3",
+        "url": "https://www.solunacomputing.com/news/dorothy-3-land-purchase/",
+        "date": "August 24, 2026",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "beale-infrastructure",
+    "name": "Beale Infrastructure",
+    "segment": "Data-center developer",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "ot)\nFounder cash / time\nFee received\n15\nBeale Infrastructure\nActive Kansas/Oklahoma projects\nfollow a failed Tucson process that\nexposed community and water risk.\nCEO/COO\n7\nProvide pre-hearing political durability monitoring for the\nnext campus, including claim-to-evidence mapping and\na commitment register.\n3%-7%\ncold, 12 mo.\n$0.5k-$1.5k setup\n8-15h + 2-4h/mo\n3-mo $4.5k-$9k\n16\nRelated Digital\nLaunched with a reported $45B\npipeline and a 1GW-plus Michigan\nproject.\nCDO / VP\nDevelopment\n9\nIndependently normalize Michigan and the next campus\ninto an executive evidence passport focused on\nunresolved dependencies, not marketing claims.\n0.5%-2%\ncold, 12 mo.\n$1k-$3k setup\n20-35h + 2-4h/mo\n",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "takanock",
+    "name": "Takanock",
+    "segment": "Data-center developer",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "h + 2-4h/mo\n$10k-$16k +\n$1k-$2.5k/mo\n14\nTakanock\nArizona projects combine onsite\ngeneration with visible political, aviation\nand environmental issues.\nCEO/COO\n7\nDeliver a weekly Baccara/Tallmadge issue watch:\nhearings, Air Force/aviation, Superfund, water, noise\nand commitments, each with source and owner.\n4%-8%\ncold, 12 mo.\n$0.5k-$1.5k setup\n8-15h + 2-4h/mo\n3-mo $4.5k-$9k\n\n\n=== PAGE 8 ===\nSYNCHRONICITY | ELECTRIC-LAND CUSTOMER STRATEGY\nDecision-useful research as of 29 Aug 2026 | Public sources are not sponsor-verified\nPage 8\n#\nProspect\nPublic signal\nBuyer\nGate\nExact solo-founder offer\nP(paid pilot)\nFounder cash / time\nFee received\n15\nBeale Infrastructure\nActive Kansas/Oklahoma pr",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "arizona-land-consulting",
+    "name": "Arizona Land Consulting",
+    "segment": "Land developer / adviser",
+    "role": "COMPETITOR",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "RESEARCH_PENDING",
+    "researchExcerpt": "",
+    "sources": [],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "segment": "Hyperscaler",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "2\nDoes the exact parcel survive fatal flaws?\nCore product. Fast APN-level screen with explicit stop/proceed/escalate output.\nYES\n3\nWhat will humans actually confirm?\nStrong differentiator. Script calls, preserve names/dates/quotes, request written follow-up and record refusals.\nYES\n4\nCan the site be controlled with diligence rights?\nCoordinate only after local real-estate counsel. Avoid brokerage, wholesaling and percentage-of-transaction compensation.\nLIMITED\n5\nIs there a credible power path by quantity, quality, price and date?\nFounder organizes evidence and questions. A qualified power expert owns the conclusion. Customer prepays the expert.\nEXPERT\n6\nDo physical, environmental a",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "segment": "Hyperscaler",
+    "role": "CUSTOMER",
+    "stated": [
+      "Says later Malaga buildings depend on customer demand and construction completion does not establish operability."
+    ],
+    "revealed": [
+      "Published a phased campus plan with community, utility and water-district participation."
+    ],
+    "inferred": [
+      "Distinguish land selection, construction authorization, energization and customer-ready capacity."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [
+      "Malaga phased campus"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "mo.\n$0.25k-$0.75k\n10-16h\n$3.5k-$5.5k\n85\nMicrosoft\nGlobal data-center build program with\nmature internal teams and formal\nprocurement.\nVP Infrastructure\n/ Real Estate\n8\nReach only via an approved developer or investor:\nprovide a project-specific external challenge record on a\nsecondary-market site.\n0.01%-0.05%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n86\nAmazon Web Services\nMassive global infrastructure footprint;\ndirect solo-founder site-selection sale is\nnear-zero probability.\nVP Infrastructure\n/ Real Estate\n8\nServe indirectly through a campus developer:\nindependent evidence QA against AWS-specific\nrequirements under NDA.\n0.01%-0.05%\ncold, 12 mo.\n$1.5k-$4k\n30-45h\n$12k-$20k\n87\nGoogle",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Malaga phased campus",
+        "url": "https://local.microsoft.com/blog/malaga-datacenter-project-overview/",
+        "date": "Project overview retrieved September 7, 2026",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "vantage",
+    "name": "Vantage",
+    "segment": "Data-center developer",
+    "role": "CUSTOMER",
+    "stated": [
+      "Describes customer demand signals, market selection, power, fiber, zoning, standard campus layout and local welcome as selection inputs.",
+      "Names flood, aviation/rail exposure, neighborhood impacts and contamination among risks to investigate."
+    ],
+    "revealed": [],
+    "inferred": [
+      "Use customer-specific deadlines and disqualifiers before a weighted comparison. Its stated risk preferences are not universal legal exclusions."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [
+      "Published site-selection process"
+    ],
+    "evidenceGrade": "FIRST_PARTY_PUBLIC_SOURCE",
+    "researchExcerpt": "ix touches; credible sample; no brand advantage.\nToo fragile alone\nCold + 5 warm channels\n3-6 planning range\n$35k-$90k\nIntroductions from local counsel, engineers, utilities, land-use professionals or portfolio sponsors.\nTestable\nReference-led year two\n8-15 assignments\n$100k-$250k\nTwo proof points, repeatable template, recurring evidence work and strict scope control.\nViable micro-firm\n100 active customers\nOperationally impossible\nNot modeled\nWould require staff, vendor management, software and institutional controls.\nReject\n\n\n=== PAGE 3 ===\nSYNCHRONICITY | ELECTRIC-LAND CUSTOMER STRATEGY\nDecision-useful research as of 29 Aug 2026 | Public sources are not sponsor-verified\nPage 3\nHo",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      },
+      {
+        "title": "Published site-selection process",
+        "url": "https://blog.vantage-dc.com/2020/04/09/the-art-and-science-of-data-center-site-selection/",
+        "date": "April 9, 2020",
+        "limitation": "First-party publication. Plans are not completed capacity or a buying mandate."
+      }
+    ],
+    "updatedAt": "2026-09-07T18:30:00Z"
+  },
+  {
+    "id": "edgecore",
+    "name": "EdgeCore",
+    "segment": "Data-center developer",
+    "role": "CUSTOMER",
+    "stated": [],
+    "revealed": [],
+    "inferred": [
+      "Potential learning target. No confirmed buying mandate or parcel match."
+    ],
+    "serviceOpportunity": "Test whether a source-linked parcel/control/utility evidence package resolves an actual diligence bottleneck.",
+    "unknowns": [
+      "Current requirement card",
+      "Decision-maker and procurement path",
+      "Willingness to pay",
+      "Exact geography and power date"
+    ],
+    "recordIds": [],
+    "location": null,
+    "projects": [],
+    "evidenceGrade": "INHERITED_PROJECT_RESEARCH",
+    "researchExcerpt": "h + 2-4h/mo\n$10k-$16k +\n$1k-$2.5k/mo\n32\nEdgeCore Digital\nInfrastructure\nGigascale strategy and a new Louisa\nCounty, Virginia campus create\nongoing site-risk needs.\nSVP Capacity /\nSite Selection\n7\nMonitor Louisa approvals, conditions and community\ncommitments; maintain a source-linked record for\ninternal and external handoffs.\n0.5%-2%\ncold, 12 mo.\n$0.5k-$1.5k setup\n8-15h + 2-4h/mo\n3-mo $4.5k-$9k\n33\nFlexential\n2026 plan includes a 110-acre\nDallas-area campus and a fifth\nAtlanta-area facility.\nSVP Capacity /\nSite Selection\n2\nApply a fixed-scope parcel kill screen to the next\nsecondary-market acquisition, then route surviving\nissues to local experts.\n0.5%-2%\ncold, 12 mo.\n$0.75k-$2k\n20-",
+    "sources": [
+      {
+        "title": "Original project customer/competitor research",
+        "url": "/?view=operations&tab=files",
+        "date": "Uploaded project report",
+        "limitation": "Unverified historical prospect hypotheses; numerical conversion estimates are not adopted."
+      }
+    ],
+    "updatedAt": "2026-09-07T15:58:00Z"
+  }
+]

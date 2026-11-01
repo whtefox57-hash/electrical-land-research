@@ -1,0 +1,490 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-09-04",
+  "method": "Research priority = rounded sum of factor weight × value/5 × evidence multiplier (V0 0, V1 .35, V2 .65, V3 .85, V4 1). Unknown earns zero. The next-test factor is an analyst judgment. This is not a probability, valuation, power score or spending authorization. Priority tier additionally requires current sourced polygon and all nine core county checks at full-polygon scope. Shared assemblage files are not independent opportunities. Prior rejections are strategy-specific and may be reopened with new evidence.",
+  "records": [
+    {
+      "id": "ca-sanjoaquin-01322058",
+      "name": "Acampo — parcel 58",
+      "recordType": "PARCEL",
+      "apn": "013-220-58",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "A documented industrial land-use history makes this worth targeted review, but it is one half of the same Acampo assemblage, not a separate independent opportunity. The access condition, neighboring homes, agricultural mitigation, utility service and data-center treatment remain open. Hold option money.",
+      "thesis": "Re-use the historical industrial conversion only if a low-water, buyer-sized concept can satisfy current land-use rules, all access/mitigation conditions, noise buffers, lawful water/fire supply and a real utility service path. Do not equate warehouse or truck/RV approval with data-center entitlement.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Address",
+          "value": "19101 N Highway 99 West Frontage Road",
+          "status": "PROJECT IDENTIFICATION",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Assemblage",
+          "value": "Shared 30.09-acre project with 013-220-13; individual acreage not reconstructed",
+          "status": "ONE OPPORTUNITY / TWO PARCEL FILES",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Historical zone",
+          "value": "I-W in prior official approval review",
+          "status": "HISTORICAL — not a DC approval",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Asking price",
+          "value": "UNKNOWN / obtain current quote; prior captured listing withheld price",
+          "status": "UNVERIFIED CURRENT PRICE",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN; ordinary service is not multi-MW proof",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-POWER"
+          ]
+        },
+        {
+          "label": "Third APN discrepancy",
+          "value": "013-220-39 appears in prior marketing, not the two-APN approval",
+          "status": "CONFLICT",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Specific access and layout restrictions",
+          "body": "The earlier staff-report review identifies a private right-of-way condition through -58 benefiting -13, required before a building permit. Recorded completion and present compliance are not established. The prior review also identifies close residences, agricultural mitigation and opposition to the historical use. Resolve compliance and reserve buffer space before any preliminary data-center layout.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ]
+        },
+        {
+          "title": "Environmental and water scope",
+          "body": "The earlier truck-use initial study described Zone X with 0.2% annual-chance designation, private well/septic and on-site retention; no public water, sewer or storm drainage was established. Those findings are historical and for a different use. Do not label this flood-free, water-secure or Phase-I-cleared.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ]
+        },
+        {
+          "title": "Current policy",
+          "body": "September county direction starts a six-month policy study and leaves a possible October 45-day moratorium for later consideration. No current moratorium is established by that announcement.",
+          "sourceIds": [
+            "SJ-POLICY"
+          ]
+        },
+        {
+          "title": "Desktop source status",
+          "body": "Current CEQAnet, planning, policy and GIS resource pages were inspected. The original staff-report and initial-study PDF links were located but not successfully re-retrieved. Parcel-level access and environmental statements above are explicitly inherited from the September 2 packet. No current full-polygon GIS clearance is claimed.",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PLAN",
+            "SJ-GIS",
+            "SJ-STAFF",
+            "SJ-STUDY",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "Official historical project identifiers; current offering and third APN unresolved."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Industrial history, but no DC approval and changing policy."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No exact-parcel load-serving commitment."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "Prior sale/lease marketing only; price and consent not current."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Historical studies identify physical conditions and an unresolved access obligation."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Specific planning/title questions are available, but policy and multi-party dependencies increase burden."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "Two official project APNs and combined acreage are identified; marketing adds -39 and no current surveyed offering was obtained.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "FOUND",
+          "result": "The historical project was handled by the County for the unincorporated Acampo site. Current boundary remains to be reconfirmed.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-CEQA"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "Historical I-W approval is identified; proposed data-center classification is still unknown.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Original adopted designations and conditions must be applied to a new proposed use.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-STAFF",
+            "SJ-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "County GIS portal identified, but no new full-polygon overlay extraction is available.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "SJ-GIS"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "FOUND",
+          "result": "Earlier review reports Zone X, 0.2% annual-chance designation and on-site retention.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Historical truck-use study, not a current flood map determination, survey elevation or buyer flood clearance."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "FOUND",
+          "result": "Historical approval review identifies access via Highway 99 West Frontage Road and a cross-parcel private ROW condition.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Road adjacency and a permit condition do not establish current recorded compliance or adequate industrial access."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Whether the -58-to--13 easement has been recorded and conditions satisfied is unresolved. Obtain instrument and compliance sign-off.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "FOUND",
+          "result": "County policy study / possible future moratorium found. Track the actual later agenda/order rather than assuming adoption.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-POLICY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Prior review identifies wells, septic and retention, not a proven lawful data-center or fire-water supply.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "FOUND",
+          "result": "The prior staff-report review identifies close homes and opposition; site-specific buffers/noise analysis remain necessary.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Regional transmission improvements and marketing service claims do not establish parcel MW, tariff, schedule or cost.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-POWER",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-POLICY",
+          "title": "Board direction on large-scale AI data centers",
+          "url": "https://www.sjgov.org/department/bos/board-news/board-news-detail/2026/09/02/sjc-board-moves-to-address-impacts-of-large-scale-ai-data-centers",
+          "publisher": "San Joaquin County Board of Supervisors",
+          "date": "2026-09-01",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Policy study and possible future moratorium, not evidence that a moratorium is already effective."
+        },
+        {
+          "id": "SJ-CEQA",
+          "title": "Notice of Determination, SCH 2024080214",
+          "url": "https://ceqanet.lci.ca.gov/2024080214/4",
+          "publisher": "California CEQAnet / San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Specific historical truck/RV/industrial project record; does not approve a data center or establish current title."
+        },
+        {
+          "id": "SJ-PLAN",
+          "title": "Planning Division and contacts",
+          "url": "https://www.sjgov.org/department/cdd/planning",
+          "publisher": "San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Current contact and planning resources. Corinne King is listed as Deputy Director of Planning; main number 209-468-2193."
+        },
+        {
+          "id": "SJ-GIS",
+          "title": "County GIS data download portal",
+          "url": "https://sjmap.org/GISDataDownload.htm",
+          "publisher": "San Joaquin County GIS",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official GIS source discovery, not a completed current parcel overlay intersection."
+        },
+        {
+          "id": "SJ-STAFF",
+          "title": "Staff report, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Staff%20Report.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-10-17",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "The earlier project report reviewed this file. Fresh PDF retrieval failed here; individual conditions below remain inherited pending the original PDF and compliance records."
+        },
+        {
+          "id": "SJ-STUDY",
+          "title": "Initial study, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Initial%20Study.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-07-10",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "Earlier report reviewed a different proposed use. Fresh PDF retrieval failed; not a new environmental, flood or well assessment."
+        },
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        },
+        {
+          "id": "ACA-LIST",
+          "title": "Acampo sale / long-term lease listing",
+          "url": "https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "publisher": "LoopNet / Rotner & Associates",
+          "date": "2026-03-26",
+          "retrievedAt": "Prior capture 2026-09-02",
+          "kind": "MARKETING",
+          "limitation": "Prior captured listing, not reverified current. Prior dossier says asking price withheld and lists a third APN, -39. Do not carry forward an unrelated $9.8M price."
+        },
+        {
+          "id": "SJ-POWER",
+          "title": "Northern San Joaquin 230 kV Transmission Project",
+          "url": "https://ia.cpuc.ca.gov/environment/info/ascent/NSJTP/index.html",
+          "publisher": "California Public Utilities Commission",
+          "date": "",
+          "retrievedAt": "Prior capture 2026-09-02; refresh required",
+          "kind": "OFFICIAL",
+          "limitation": "Regional project context. Neither regional modeled capacity nor a line voltage is parcel load headroom. Current NTP status not reverified in this packet."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-01322058-a1",
+          "order": 1,
+          "title": "Resolve data-center classification and policy schedule",
+          "contact": "San Joaquin County Planning — assigned planner / Corinne King office",
+          "channel": "209-468-2193; planning@sjgov.org",
+          "question": "For APNs 013-220-13 and -58, distinguish the existing I-W/truck/RV approvals from the approval needed for an 8–15 MW initial low-water data center. What adopted rules apply today, and what effect would a future moratorium have on a complete application?",
+          "decision": "Determine whether any bounded entitlement window exists. No assumption of grandfathering.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a2",
+          "order": 2,
+          "title": "Retrieve recorded access and condition-compliance evidence",
+          "contact": "Seller / title company; County case planner",
+          "channel": "Request existing records for PA-2300130 and related AUPs",
+          "question": "Provide the recorded ROW benefiting -13 through -58, condition-compliance records, agricultural mitigation satisfaction, current approved plans, leases and legal descriptions. Explain why marketing includes -39.",
+          "decision": "Prove the assemblage and clear blocking title/use obligations.",
+          "costEstimate": "Request existing files at $0; formal title/legal quotes require approval.",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a3",
+          "order": 3,
+          "title": "Confirm current offering and cooperation",
+          "contact": "Rotner & Associates / current listing representative",
+          "channel": "Use listing contact: https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "question": "Are both approved parcels still offered together for sale or long-term lease? What are current terms, included APNs, occupancy, termination rights and owner-authorization conditions?",
+          "decision": "Determine whether low-cost transferable control is realistic.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a4",
+          "order": 4,
+          "title": "Confirm exact serving utility and study-entry conditions",
+          "contact": "PG&E new-business / large-load intake, subject to exact territory confirmation",
+          "channel": "Use current PG&E official new-service contact; prior packet lists 1-877-743-7782 (reverify before use)",
+          "question": "For the two exact APNs and an 8–15 MW first-phase working hypothesis, what study, authorization, tariff, customer-credit and deposit requirements apply? Separate regional upgrades from parcel service.",
+          "decision": "Identify a sponsor-backed next proof, not a capacity reservation.",
+          "costEstimate": "No deposit or paid study authorized.",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    }
+  ],
+  "revisions": []
+}

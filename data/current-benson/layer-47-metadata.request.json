@@ -1,0 +1,11 @@
+{
+  "name": "layer-47-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/BensonZoning/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:33.147631+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 20934,
+  "sha256": "02cd075d092fa18fd75457d881db36537903173a60f08150d441004a593edede",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

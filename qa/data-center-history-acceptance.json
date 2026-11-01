@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "scope": "Isolated production Worker; Sites owner-only gateway remains the authorization boundary",
+  "checks": [
+    "Saved research workflow available to owner-authorized service calls",
+    "Unresearched entries are not counted as reviewed",
+    "Active reservations prevent duplicate investigations",
+    "Partial research remains incomplete and reads back from durable storage",
+    "Stale writes cannot replace saved research",
+    "Unknown inventory IDs are rejected",
+    "Cross-origin browser requests rejected"
+  ]
+}

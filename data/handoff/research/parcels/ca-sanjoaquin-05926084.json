@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-09-04",
+  "method": "Research priority = rounded sum of factor weight × value/5 × evidence multiplier (V0 0, V1 .35, V2 .65, V3 .85, V4 1). Unknown earns zero. The next-test factor is an analyst judgment. This is not a probability, valuation, power score or spending authorization. Priority tier additionally requires current sourced polygon and all nine core county checks at full-polygon scope. Shared assemblage files are not independent opportunities. Prior rejections are strategy-specific and may be reopened with new evidence.",
+  "records": [
+    {
+      "id": "ca-sanjoaquin-05926084",
+      "name": "Eight Mile Road — 059-260-84",
+      "recordType": "PARCEL",
+      "apn": "059-260-84",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "5149 E Eight Mile Road",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "94.36 acres combined; prior asking $4.0M",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "059-260-86",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-05926084-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "Agricultural preservation and conversion timing are early strategy gates; proximity to transmission cannot rescue them.",
+        "reopen": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    }
+  ],
+  "revisions": []
+}

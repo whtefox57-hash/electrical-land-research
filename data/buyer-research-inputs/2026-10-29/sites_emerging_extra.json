@@ -1,0 +1,319 @@
+[
+  {
+    "retrieved": "2026-10-29",
+    "status": "HOLD / RESEARCH",
+    "ownerVerified": false,
+    "controlAvailable": null,
+    "conditionalBuildProbability": null,
+    "probabilityNote": "Suitable power alone does not resolve actual buyer mandate, site control, approvals, financing or procurement. No buyer interest has been established; do not present a modeled percentage as measured probability.",
+    "id": "em-grant-thornton-12",
+    "name": "Grant Street Data Center \u2014 Thornton / Denver metro",
+    "address": "12121 Grant St, Thornton, CO 80241",
+    "market": "Denver metro / Thornton",
+    "state": "CO",
+    "type": "Existing data center and office acquisition with expansion / retrofit",
+    "acres": 12.07,
+    "acreageBasis": "Current primary broker listing; not survey-verified",
+    "buildingSf": 267177,
+    "askingPriceUsd": 28000000,
+    "priceDescription": "$28 million advertised by Marcus & Millichap",
+    "parcelIds": [
+      "1573-34-0-04-021"
+    ],
+    "parcelStatus": "Parcel identifier from broker-hosted LoopNet listing; not checked against county title/GIS.",
+    "listingUrl": "https://www.marcusmillichap.com/properties/301209/grant-st-data-center",
+    "availability": "Live primary broker sale listing inspected 2026-10-29. Owner has not confirmed availability or an exclusive contract.",
+    "power": {
+      "verifiedAvailableMw": null,
+      "utility": null,
+      "claim": "Broker reports 3.5 MW in use and electrical/cooling equipment sized for 7 MW. This is infrastructure sizing, not 7 MW vacant transferable IT load or a utility commitment."
+    },
+    "advertisedFacts": [
+      "Current primary listing identifies 12.07 acres, 267,177 SF and $28 million asking price; older press figures differ slightly.",
+      "Broker names five telecom carriers and dark fiber routes to 1500 Champa.",
+      "Existing office/data-center mix has income; tenant encumbrances and actual vacant white space remain to be reviewed."
+    ],
+    "buyerMatches": [
+      {
+        "developerId": "radiusdc",
+        "developer": "RadiusDC",
+        "why": "Specific platform extension hypothesis: the offered building advertises dark fiber to RadiusDC\u2019s own 1500 Champa hub. RadiusDC\u2019s current Denver page says that hub is fully leased and the company is actively evaluating Denver expansion. A linked Thornton satellite with existing DC infrastructure answers an identified metro-capacity gap more directly than generic rural land.",
+        "remainingConditions": [
+          "Secure transferable fiber rights, physical route diversity and measured RTT to 1500 Champa.",
+          "Confirm that a 3.5\u20137 MW utility-sized building fits the buyer\u2019s next deployment and that vacant/convertible areas support enough critical IT load.",
+          "Inspect leases, structural limits, risers, cooling and the economics of a mixed office/DC conversion.",
+          "Thornton jurisdiction and permitted use must be verified separately; Denver city rules cannot simply be applied to this parcel."
+        ]
+      }
+    ],
+    "capitalFit": "Institutional $28 million acquisition; propose a sourced acquisition/retrofit to RadiusDC, not a cheap-land assignment.",
+    "nextAction": "Request rent roll, actual DC/vacant area schedule, utility service documents, fiber IRUs, building plans and current transaction status; ask RadiusDC whether a Champa-connected satellite meets its active expansion requirement.",
+    "contact": {
+      "name": "Max Rist / Brandon Kramer",
+      "organization": "Marcus & Millichap / Kramer Group",
+      "phone": "303-328-2042 / 303-328-2020",
+      "email": "max.rist@marcusmillichap.com",
+      "sourceUrl": "https://www.marcusmillichap.com/properties/301209/grant-st-data-center"
+    },
+    "sources": [
+      {
+        "title": "Primary current sale listing and network routes",
+        "url": "https://www.marcusmillichap.com/properties/301209/grant-st-data-center",
+        "publisher": "Marcus & Millichap",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Denver hub fully leased; active expansion search",
+        "url": "https://www.radius-dc.com/insights-resources/denver-colorado",
+        "publisher": "RadiusDC",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Advertised parcel ID and available spaces",
+        "url": "https://www.loopnet.com/Listing/12121-Grant-St-Thornton-CO/40756136/",
+        "publisher": "Marcus & Millichap via LoopNet",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "retrieved": "2026-10-29",
+    "status": "HOLD / RESEARCH",
+    "ownerVerified": false,
+    "controlAvailable": null,
+    "conditionalBuildProbability": null,
+    "probabilityNote": "Suitable power alone does not resolve actual buyer mandate, site control, approvals, financing or procurement. No buyer interest has been established; do not present a modeled percentage as measured probability.",
+    "id": "em-tract-adjacent-buckeye-18",
+    "name": "Johnson Road / Lower Buckeye Road \u2014 Tract-adjacent corner",
+    "address": "Johnson Road & Lower Buckeye Road, Buckeye, AZ",
+    "market": "Buckeye / Phoenix West Valley",
+    "state": "AZ",
+    "type": "Industrial/commercial land; adjacent-campus strategic acquisition hypothesis",
+    "acres": 18.26,
+    "acreageBasis": "Primary seller/broker listing; parcel boundary and adjacency not independently surveyed",
+    "buildingSf": null,
+    "askingPriceUsd": 2150000,
+    "priceDescription": "$2,150,000 on opened active listing. Earlier indexed snippet showed $1,950,000; current opened price used and must be reconfirmed.",
+    "parcelIds": [],
+    "parcelStatus": "No APN verified. Website property ID 26211 is not treated as a tax parcel number.",
+    "listingUrl": "https://insightland.com/listing/johnson-rd-lower-buckeye-rd-18-26-ac/",
+    "availability": "Broker labels Active and For Sale; owner/agent offering. No direct owner confirmation.",
+    "power": {
+      "verifiedAvailableMw": null,
+      "utility": null,
+      "claim": "Listing mentions infrastructure work for neighboring Tract campus. It establishes no service entitlement, capacity or shared substation rights for the offered land."
+    },
+    "advertisedFacts": [
+      "RU-43 zoning with Business Commerce general-plan designation is advertised. Data-center entitlement is not established.",
+      "Broker describes direct adjacency to Tract\u2019s 2,019-acre Buckeye Technology Park.",
+      "Hard-corner position and planned road improvements are advertised; no evidence of Tract purchasing this parcel."
+    ],
+    "buyerMatches": [
+      {
+        "developerId": "tract",
+        "developer": "Tract",
+        "why": "Buyer-specific adjacency is the reason to test this parcel. Its 18.26 acres is far below Tract\u2019s observed independent master-campus scale, but may have strategic value for campus edge expansion, access, utility corridors, substations or ancillary functions. This is an adjacent-land acquisition hypothesis, not evidence Tract would construct a standalone data center here.",
+        "remainingConditions": [
+          "Compare cadastral boundaries and Tract\u2019s actual development plan to establish a needed function.",
+          "Obtain Tract confirmation that the parcel solves an access, infrastructure or campus-envelope constraint.",
+          "Verify rezoning, road dedication, setbacks, net usable acres and utility easements.",
+          "Model probability of data-center construction separately from probability of an ancillary land purchase."
+        ]
+      }
+    ],
+    "capitalFit": "Potential strategic adjacency or option transaction only if Tract identifies a specific need. Do not spend diligence capital based on neighbor identity alone.",
+    "nextAction": "Obtain APNs and concept plan; overlay Tract boundary and proposed infrastructure; test whether the offered corner fills an identifiable campus gap.",
+    "contact": {
+      "name": "Joe Werner / Tony Bagneschi",
+      "organization": "Insight Land & Investments",
+      "phone": "602-385-0567 / 602-385-1511",
+      "sourceUrl": "https://insightland.com/listing/johnson-rd-lower-buckeye-rd-18-26-ac/"
+    },
+    "sources": [
+      {
+        "title": "Active owner/agent corner offering adjacent to Tract",
+        "url": "https://insightland.com/listing/johnson-rd-lower-buckeye-rd-18-26-ac/",
+        "publisher": "Insight Land & Investments",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "retrieved": "2026-10-29",
+    "status": "HOLD / RESEARCH",
+    "ownerVerified": false,
+    "controlAvailable": null,
+    "conditionalBuildProbability": null,
+    "probabilityNote": "Suitable power alone does not resolve actual buyer mandate, site control, approvals, financing or procurement. No buyer interest has been established; do not present a modeled percentage as measured probability.",
+    "id": "em-ovilla-waxahachie-600",
+    "name": "South-of-Dallas data center land \u2014 Ovilla Road",
+    "address": "Ovilla Road, unincorporated Waxahachie, Ellis County, TX 75167",
+    "market": "South Dallas / Waxahachie",
+    "state": "TX",
+    "type": "Large greenfield campus land offered for sale",
+    "acres": 600,
+    "acreageBasis": "600 acres / over 600 acres in CBRE-authored 2023 brochure; still-live CBRE listing does not restate area. Exact offered boundary and any subdivision since brochure require confirmation.",
+    "buildingSf": null,
+    "askingPriceUsd": null,
+    "priceDescription": "Contact broker for pricing",
+    "parcelIds": [
+      "291292"
+    ],
+    "parcelStatus": "Showcase advertisement supplies APN 291292, unverified and potentially only one of an assemblage. Reconcile with Project Venus and other South Dallas offerings to avoid duplicate parcel count.",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-124710/dallas-data-center-development-opportunity-south-of-dallas-waxahachie-tx-75167",
+    "availability": "Current primary CBRE page states For Sale \u2014 Available Immediately. Old brochure is indexed but direct CBRE PDF returned404. Availability and exact offered acreage require broker confirmation.",
+    "power": {
+      "verifiedAvailableMw": null,
+      "utility": "Oncor (advertised)",
+      "claim": "CBRE advertises ERCOT-approved 138/345 kV infrastructure upgrades. Approval is not a site-specific energized MW allocation or firm delivery date."
+    },
+    "advertisedFacts": [
+      "Current CBRE page advertises 10+ adjacent fiber networks; older syndicated material says 20+, so lower current primary figure retained.",
+      "Water agreement and TPDES sewer permit are advertised but not examined.",
+      "Current page advertises no floodplain; no independent flood/wetland or environmental verification."
+    ],
+    "buyerMatches": [
+      {
+        "developerId": "cleanarc",
+        "developer": "CleanArc",
+        "why": "Specific discovery candidate for the company\u2019s published southern-Dallas growth area and Tier 1 Adjacent strategy. Advertised multiple nearby fiber networks create a credible route-engineering question to Infomart/2323 Bryan. Qualification depends on demonstrating CleanArc\u2019s approximately2ms round-trip target, which has NOT been demonstrated by the listing.",
+        "remainingConditions": [
+          "Commission actual carrier path/RTT feasibility to the hub CleanArc specifies; fiber count and geographic proximity do not prove latency.",
+          "Confirm target southern-Dallas customer requirement and that this offering is not already its controlled pipeline.",
+          "Reconcile exact parcels and current availability before treating this as new inventory.",
+          "Scope enough first-phase IT power, affordable waterless/liquid-cooling design and utility ramp."
+        ]
+      },
+      {
+        "developerId": "ta-digital",
+        "developer": "TA Digital Group / TA Realty",
+        "why": "The advertised 600-acre geometry allows testing TA\u2019s published 100 MW\u20131 GW campus product rather than its 20\u2013100 MW infill product. DFW\u2019s mature network ecosystem is relevant to its Tier1 development strategy; this is a product-fit inference, not evidence TA currently seeks Waxahachie land.",
+        "remainingConditions": [
+          "Establish an actual DFW tenant mandate and remaining appetite beyond TA\u2019s controlled pipeline.",
+          "Demonstrate first-phase service and expansion economics in the published campus range.",
+          "Preserve separate utility approaches, phased buildable areas and a financeable tenant delivery schedule."
+        ]
+      }
+    ],
+    "capitalFit": "Large institutional assemblage. A buyer-funded option or landowner partnership would need to precede substantial diligence spending.",
+    "nextAction": "Ask CBRE for updated survey/APN schedule, current marketing status, ESA/interconnection evidence, exact fiber routes and written price; then run CleanArc hub RTT and TA tenant-product screens.",
+    "contact": {
+      "name": "Brant Bernet / Chris Herrmann / Phoebe Bernet",
+      "organization": "CBRE",
+      "phone": "214-477-5718 / 214-477-5716 / 214-206-6869",
+      "email": "brant.bernet@cbre.com",
+      "sourceUrl": "https://images1.showcase.com/d2/oUBgWVGz5WnQ1xhUS-eII6G-BwvCTTSWYEOpANk8_V0/document.pdf"
+    },
+    "sources": [
+      {
+        "title": "Live available-immediately sale listing",
+        "url": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-124710/dallas-data-center-development-opportunity-south-of-dallas-waxahachie-tx-75167",
+        "publisher": "CBRE",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "CBRE brochure: Ovilla Road, 600+ acres (indexed, direct URL404)",
+        "url": "https://www.cbre.com/resources/fileassets/US-SMPL-124710/eb5cfd28/edc198a1-c065-4570-b7eb-9ccf5742f6f6.pdf",
+        "publisher": "CBRE",
+        "date": "2023",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Syndicated acreage/APN advertisement",
+        "url": "https://www.showcase.com/ovilla-rd-waxahachie-tx-75167/32878577/",
+        "publisher": "CBRE via Showcase",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Published ~2ms strategy and southern-Dallas growth area",
+        "url": "https://www.cleanarcdatacenters.com/locations/",
+        "publisher": "CleanArc",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Published infill and campus products",
+        "url": "https://www.tadigitalgroup.com/solutions",
+        "publisher": "TA Digital Group",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "em-amgeneral-mishawaka",
+    "name": "Former AM General plant \u2014 Mishawaka",
+    "address": "12900 McKinley Highway, Mishawaka, IN 46545",
+    "market": "South Bend / Mishawaka",
+    "state": "IN",
+    "type": "Industrial conversion building offered for sale or lease",
+    "acres": 32,
+    "acreageBasis": "Broker-reported site",
+    "buildingSf": 783665,
+    "askingPriceUsd": null,
+    "priceDescription": "Negotiable",
+    "parcelIds": [],
+    "parcelStatus": "Address and offered property identified; APN/title not verified",
+    "listingUrl": "https://cressy.com/astro-property/?property_id=25447",
+    "availability": "Primary broker page describes 100% available, sale and lease offerings; inspected 2026-10-29. Broker date field showed update 2026-07-06. Not a seller confirmation.",
+    "power": {
+      "verifiedAvailableMw": null,
+      "utility": null,
+      "claim": "Broker says 34.5 kV dual-feed, 11 substations, 10 MW former peak usage and potential 50 MW in approximately 24 months. None establishes current transferable capacity."
+    },
+    "advertisedFacts": [
+      "Former automotive manufacturing plant; broker lists edge data centers as one possible use.",
+      "Large manufacturing shell with docks, office/mezzanine areas and substantial prior industrial utilities."
+    ],
+    "buyerMatches": [
+      {
+        "developerId": "giga-energy",
+        "developer": "Giga Energy",
+        "why": "Asset-type fit, not simply an Indiana match: this is a dormant automotive plant with prior high-voltage infrastructure and substantial existing yard/shell. Giga explicitly originates dormant industrial/commercial assets and builds modular facilities on either its own or customer-owned land. A segregated first-phase modular deployment could test whether reusing service infrastructure saves schedule and cost.",
+        "remainingConditions": [
+          "Compare reusable electrical infrastructure and pad areas with Giga pod design; a large obsolete factory may add demolition cost rather than value.",
+          "Confirm utility service rights, staged energization, flexible-load terms and customer SLA compatibility.",
+          "Establish Giga\u2019s current Midwest/customer mandate; no expressed buyer interest is known.",
+          "Verify industrial contamination, cooling, fiber diversity and the value of remaining building improvements."
+        ]
+      }
+    ],
+    "capitalFit": "Too large to assume a founder-funded acquisition. Explore buyer-funded diligence or a seller-backed assignable right only after actual buyer interest.",
+    "nextAction": "Merge Giga pairing into existing em-amgeneral-mishawaka record, do not add a duplicate site. Request a phased conversion concept and service documents before presenting to Giga.",
+    "contact": {
+      "name": "Noah Davey / Christian Davey",
+      "organization": "NAI Cressy",
+      "phone": "574-485-1530 / 574-485-1534",
+      "sourceUrl": "https://cressy.com/astro-property/?property_id=25447"
+    },
+    "sources": [
+      {
+        "title": "Former AM General sale/lease listing",
+        "url": "https://cressy.com/astro-property/?property_id=25447",
+        "publisher": "NAI Cressy",
+        "date": "2026-07-06",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Published dormant-asset origination and staged development practice",
+        "url": "https://www.gigaenergy.com/site-origination-development",
+        "publisher": "Giga Energy",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ],
+    "retrieved": "2026-10-29",
+    "status": "HOLD / RESEARCH",
+    "ownerVerified": false,
+    "controlAvailable": null,
+    "conditionalBuildProbability": null,
+    "probabilityNote": "Requires root scenario model: suitable power assumption alone does not resolve customer mandate, availability, approvals, financing or control. No buyer has expressed interest.",
+    "mergeExistingSiteId": "em-amgeneral-mishawaka"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "Anonymous API requests rejected",
+    "Production inventory matches the complete current 3000+ record register",
+    "Full directory payload includes records, sources and acquisition evidence",
+    "Directory page renders through the production Worker",
+    "State filter and pagination",
+    "Record specifications and provenance",
+    "Unknown record returns404",
+    "Filtered geographic export",
+    "CSV export retains measurement basis"
+  ]
+}

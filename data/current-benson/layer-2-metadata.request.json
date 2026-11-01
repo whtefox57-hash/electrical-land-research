@@ -1,0 +1,11 @@
+{
+  "name": "layer-2-metadata",
+  "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/ArcGIS/rest/services/CWS_Service_Area/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.414780+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12806,
+  "sha256": "b192ae73e332f425073d0a3be35826d7fc4a1887f96bd5435180f65760e9987c",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

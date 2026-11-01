@@ -1,0 +1,1928 @@
+{
+  "schema_version": "1.0",
+  "research_as_of": "2026-10-30",
+  "purpose": "Field-level enrichment evidence for Syncranicity national data center register; these are campus/transaction records, not extra facilities to inflate the census count.",
+  "methodology": {
+    "missing": "Null and empty lists mean not established in this research pass, not zero or no event.",
+    "matching": "Attach only after address/parcel/campus identity verification. A broad company-city match is insufficient.",
+    "power": "Capacity is not measured consumption. IT load, utility/substation capacity and unspecified power are distinct. Dated plans are not current operating load.",
+    "transactions": "Preserve announcement vs closing date, aggregate deals, improved property vs vacant land and seller/developer chain. Reported company can be a parent, not the deed grantee.",
+    "approvals": "Distinguish recommendation, scoping, land-sale authorization, adopted zoning, site plan and air permits. One approval does not establish full entitlement.",
+    "source_check": "Primary company, SEC and government sources prioritized. One Goodyear price is explicitly secondary."
+  },
+  "sources": {
+    "ms_mount_approval": {
+      "url": "https://rcedc.org/village-of-mount-pleasant-approves-agreements-with-microsoft/",
+      "title": "Village of Mount Pleasant approves agreements with Microsoft",
+      "publisher": "Racine County Economic Development Corporation",
+      "date": "2023-04-03",
+      "type": "economic_development_authority"
+    },
+    "ms_mount_close": {
+      "url": "https://rcedc.org/village-of-mount-pleasant-racine-county-complete-land-purchase-agreement-with-microsoft/",
+      "title": "Village and County complete land purchase agreement with Microsoft",
+      "publisher": "RCEDC",
+      "date": "2023-05-31",
+      "type": "economic_development_authority"
+    },
+    "ms_mount_release": {
+      "url": "https://www.mtpleasantwi.gov/DocumentCenter/View/3142/_Microsoft-News-Release_Village_March-30-2023?bidId=",
+      "title": "Microsoft agreements news release",
+      "publisher": "Village of Mount Pleasant",
+      "date": "2023-03-30",
+      "type": "government"
+    },
+    "prp_manassas": {
+      "url": "https://prpra.com/prp-sells-manassas-data-center-development/",
+      "title": "PRP Sells Manassas Data Center Development",
+      "publisher": "PRP Real Assets (seller)",
+      "date": "2024-11-14",
+      "type": "transaction_party"
+    },
+    "dlr_dulles": {
+      "url": "https://www.digitalrealty.com/about/newsroom/press-releases/122524/digital-realty-to-acquire-424-acres-in-loudoun-county-virginia",
+      "title": "Digital Realty to acquire 424 acres in Loudoun County",
+      "publisher": "Digital Realty",
+      "date": "2018-09-24",
+      "type": "company"
+    },
+    "mwaa_dulles": {
+      "url": "https://www.mwaa.com/news/airports-authority-announces-sale-424-acres-western-lands-dulles-international",
+      "title": "Airports Authority announces sale of Western Lands",
+      "publisher": "Metropolitan Washington Airports Authority",
+      "date": "2018-09",
+      "type": "government_seller"
+    },
+    "dlr_4q24": {
+      "url": "https://investor.digitalrealty.com/news-releases/news-release-details/digital-realty-reports-fourth-quarter-2024-results",
+      "title": "Digital Realty Reports Fourth Quarter 2024 Results",
+      "publisher": "Digital Realty",
+      "date": "2025-02-13",
+      "type": "company_earnings"
+    },
+    "qts_2018_acquisitions": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1577368/000155837019000991/R10.htm",
+      "title": "QTS 2018 10-K: Acquisitions note",
+      "publisher": "QTS Realty Trust / SEC EDGAR",
+      "date": "2019",
+      "type": "sec_filing"
+    },
+    "edge_mesa_2025": {
+      "url": "https://edgecore.com/resources/press-releases/edgecore-digital-infrastructure-announces-expansion-of-its-metro-phoenix-data-center-market-to-over-450-mw",
+      "title": "EdgeCore expands Metro Phoenix market to over 450 MW",
+      "publisher": "EdgeCore",
+      "date": "2025-05-20",
+      "type": "company"
+    },
+    "edge_mesa_current": {
+      "url": "https://edgecore.com/locations/phoenix-data-center",
+      "title": "Phoenix Data Centers",
+      "publisher": "EdgeCore",
+      "date": null,
+      "type": "company"
+    },
+    "mesa_minutes": {
+      "url": "https://mesa.legistar.com/View.ashx?GUID=6702B520-E33B-4A2C-8269-38E3398DE258&ID=1390767&M=M",
+      "title": "Planning and Zoning Board minutes, March 11 2026",
+      "publisher": "City of Mesa",
+      "date": "2026-03-11",
+      "type": "government_minutes"
+    },
+    "louisa_sale": {
+      "url": "https://www.louisacounty.gov/m/newsflash/home/detail/470",
+      "title": "Louisa County Sale of Shannon Hill Regional Business Park",
+      "publisher": "Louisa County",
+      "date": "2025-06-24",
+      "type": "government_seller"
+    },
+    "edge_louisa": {
+      "url": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus",
+      "title": "EdgeCore Louisa County 1.1+ GW campus",
+      "publisher": "EdgeCore",
+      "date": "2025-06-25",
+      "type": "company"
+    },
+    "edge_culpeper": {
+      "url": "https://edgecore.com/resources/press-releases/edgecore-digital-infrastructure-announces-new-hyperscale-data-center-market-in-culpeper-virginia",
+      "title": "EdgeCore announces Culpeper market",
+      "publisher": "EdgeCore",
+      "date": "2024-07-18",
+      "type": "company"
+    },
+    "edge_culpeper_current": {
+      "url": "https://edgecore.com/locations/culpeper-data-centers",
+      "title": "Culpeper Data Centers",
+      "publisher": "EdgeCore",
+      "date": null,
+      "type": "company"
+    },
+    "edge_reno": {
+      "url": "https://edgecore.com/resources/press-releases/edgecore-digital-infrastructure-announces-development-of-reno-nevada-data-center-campus",
+      "title": "EdgeCore announces Reno campus",
+      "publisher": "EdgeCore",
+      "date": "2023-08-10",
+      "type": "company"
+    },
+    "databank_msp_purchase": {
+      "url": "https://www.databank.com/resources/press-releases/databank-announces-groundbreaking-on-its-third-data-center-in-minnesota/",
+      "title": "Groundbreaking on DataBank MSP3",
+      "publisher": "DataBank",
+      "date": "2020-11-19",
+      "type": "company"
+    },
+    "databank_msp_open": {
+      "url": "https://www.databank.com/resources/press-releases/databank-announces-the-grand-opening-of-its-fourth-minneapolis-metro-data-center/",
+      "title": "MSP3 grand opening",
+      "publisher": "DataBank",
+      "date": "2021-11-04",
+      "type": "company"
+    },
+    "databank_msp_current": {
+      "url": "https://www.databank.com/data-centers/minneapolis/brooklyn-park-campus/",
+      "title": "Brooklyn Park campus",
+      "publisher": "DataBank",
+      "date": null,
+      "type": "company"
+    },
+    "brooklyn_2020_packet": {
+      "url": "https://www.brooklynpark.org/wp-content/uploads/2020/09/ccep092820rm-compressed.pdf",
+      "title": "City Council September 28 2020 packet, Item 6.2",
+      "publisher": "City of Brooklyn Park",
+      "date": "2020-09-28",
+      "type": "government_agenda_and_staff_report"
+    },
+    "databank_orangeburg": {
+      "url": "https://www.databank.com/resources/press-releases/databank-announces-expansion-plans-in-the-new-york-city-metro-area-with-data-center-campus/",
+      "title": "DataBank announces NYC metro campus",
+      "publisher": "DataBank",
+      "date": "2021-10-05",
+      "type": "company"
+    },
+    "databank_nyc_current": {
+      "url": "https://www.databank.com/data-centers/new-york-city/",
+      "title": "New York City Data Centers",
+      "publisher": "DataBank",
+      "date": null,
+      "type": "company"
+    },
+    "orangetown_planning": {
+      "url": "https://www.orangetown.com/groups/board/planning-board/",
+      "title": "Planning Board documents",
+      "publisher": "Town of Orangetown",
+      "date": null,
+      "type": "government_document_index"
+    },
+    "databank_atl4": {
+      "url": "https://www.databank.com/resources/press-releases/databank-acquires-land-in-atlanta-for-new-data-center-campus/",
+      "title": "DataBank acquires Atlanta land",
+      "publisher": "DataBank",
+      "date": "2022-05-17",
+      "type": "company"
+    },
+    "databank_atl4_wire": {
+      "url": "https://www.prnewswire.com/news-releases/databank-acquires-land-in-atlanta-for-new-data-center-campus-301548545.html",
+      "title": "DataBank 18-acre Atlanta acquisition release",
+      "publisher": "DataBank via PR Newswire",
+      "date": "2022-05-17",
+      "type": "company"
+    },
+    "databank_atl95": {
+      "url": "https://www.databank.com/resources/press-releases/databank-acquires-nearly-100-acres-of-land-in-atlanta-for-new-data-center-campus/",
+      "title": "DataBank acquires nearly 100 Atlanta acres",
+      "publisher": "DataBank",
+      "date": "2023-10-31",
+      "type": "company"
+    },
+    "goodyear_agreement": {
+      "url": "https://public.destinyhosted.com/goodydocs/2023/CC/20230306_1463/1358_RES_2023-2295_w-Development_Agreement.pdf",
+      "title": "Resolution 2023-2295 and third amendment to Project 10-11 development agreement",
+      "publisher": "City of Goodyear",
+      "date": "2023-03-06",
+      "type": "government_resolution"
+    },
+    "goodyear_packet": {
+      "url": "https://public.destinyhosted.com/goodydocs/2023/CC/20230306_1463/AGENDApacket__03-06-23_0558_1463.pdf",
+      "title": "Goodyear City Council March 6 2023 packet",
+      "publisher": "City of Goodyear",
+      "date": "2023-03-06",
+      "type": "government_agenda_and_staff_report"
+    },
+    "microsoft_az": {
+      "url": "https://local.microsoft.com/communities/americas/greater-phoenix/",
+      "title": "Microsoft in Arizona",
+      "publisher": "Microsoft",
+      "date": null,
+      "type": "company"
+    },
+    "goodyear_price_report": {
+      "url": "https://ktar.com/arizona-news/goodyear-approves-accelerated-construction-schedule-for-microsoft-project",
+      "title": "Goodyear approves accelerated construction schedule",
+      "publisher": "KTAR",
+      "date": "2019-02-25",
+      "type": "secondary_news"
+    },
+    "mclaren_city": {
+      "url": "https://santaclara.legistar.com/LegislationDetail.aspx?FullText=1&GUID=0AAF32D6-CBC9-4288-B6AC-20E730199C61&ID=6439879&Options=&Search=",
+      "title": "Santa Clara File 23-1350: McLaren generators, PLN23-00308",
+      "publisher": "City of Santa Clara",
+      "date": "2023",
+      "type": "government_staff_report"
+    },
+    "mclaren_air_nod": {
+      "url": "https://files.ceqanet.lci.ca.gov/246839-6/attachment/uIFd--cPjvaJ5HShM7D9ZUQN_hFKOQj9atMQ2y73hwSDMhrCJ9h9kyHcx5CtT3eDZeD_QHG-IH95YJEU0",
+      "title": "McLaren modified project CEQA determination and Authority to Construct",
+      "publisher": "Bay Area Air Quality Management District / CEQAnet",
+      "date": "2024-08-19",
+      "type": "government_determination"
+    },
+    "h5_quincy": {
+      "url": "https://h5datacenters.com/quincy-colocation.html",
+      "title": "Quincy Colocation",
+      "publisher": "H5 Data Centers",
+      "date": null,
+      "type": "company"
+    }
+  },
+  "records": [
+    {
+      "id": "ev-microsoft-mount-pleasant-315",
+      "campus_name": "Microsoft Mount Pleasant — original 315-acre acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Microsoft",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Mount Pleasant",
+        "state": "WI",
+        "county": "Racine",
+        "country": "US"
+      },
+      "match_terms": [
+        "Microsoft",
+        "Mount Pleasant",
+        "MKE",
+        "Fairwater"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2023-05",
+          "date_precision": "month",
+          "acres": 315,
+          "price_usd": 50085000,
+          "price_basis": "approved_purchase_agreement_price",
+          "price_note": "Closing report rounded consideration to approximately $50 million; $50,085,000 is the approved agreement amount.",
+          "buyer_reported": "Microsoft Corporation",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": "Village of Mount Pleasant",
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "ms_mount_approval",
+            "ms_mount_close"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 315,
+          "scope": "original 2023 acquired parcel, not whole later campus",
+          "as_of": "2023",
+          "source_ids": [
+            "ms_mount_approval"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [
+        {
+          "authority": "Mount Pleasant Village Board",
+          "date": "2023-03-30",
+          "case_id": null,
+          "type": "purchase, development and implementation agreements",
+          "outcome": "approved_by_village",
+          "source_ids": [
+            "ms_mount_release",
+            "ms_mount_approval"
+          ],
+          "notes": "Racine County approvals were still pending at this announcement; closing was later reported. No claim that this was the complete permit set."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "East part of Area III in Tax Increment District 5; municipality-controlled land.",
+          "source_ids": [
+            "ms_mount_approval"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "The $1 billion development commitment is separate from the land price."
+      ]
+    },
+    {
+      "id": "ev-iron-mountain-manassas-point",
+      "campus_name": "Iron Mountain Manassas Point",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Iron Mountain",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Manassas area",
+        "state": "VA",
+        "county": "Prince William",
+        "country": "US"
+      },
+      "match_terms": [
+        "Iron Mountain",
+        "Manassas Point",
+        "Bethlehem"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2024-11-14",
+          "date_precision": "announcement_date",
+          "acres": 40,
+          "price_usd": 113500000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Iron Mountain Inc.",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": "PRP",
+          "transaction_kind": "entitled_development_site_acquisition",
+          "source_ids": [
+            "prp_manassas"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 40,
+          "scope": "three assembled industrial parcels",
+          "as_of": "2024",
+          "source_ids": [
+            "prp_manassas"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 300,
+          "basis": "substation_capacity",
+          "stage": "planned",
+          "scope": "on-site substation, not IT load",
+          "as_of": "2024-11-14",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "prp_manassas"
+          ]
+        }
+      ],
+      "approvals": [
+        {
+          "authority": "Prince William County",
+          "date": null,
+          "case_id": null,
+          "type": "parcel consolidation and allowable building height",
+          "outcome": "approvals_reported_by_seller",
+          "source_ids": [
+            "prp_manassas"
+          ],
+          "notes": "PRP reports approvals for a three-story design. Government decision and conditions not yet obtained."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "Three separately owned industrial parcels assembled by PRP in 2022–2023 and planned for 1.1 million square feet before sale.",
+          "source_ids": [
+            "prp_manassas"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-digital-realty-dulles-western-lands",
+      "campus_name": "Digital Realty Digital Dulles / Western Lands",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Digital Realty",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Sterling",
+        "state": "VA",
+        "county": "Loudoun",
+        "country": "US"
+      },
+      "match_terms": [
+        "Digital Dulles",
+        "Digital Western Lands",
+        "Digital Realty",
+        "Old Ox"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2018-09-24",
+          "date_precision": "agreement_announcement",
+          "acres": 424,
+          "price_usd": 236500000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Digital Realty",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": "Metropolitan Washington Airports Authority",
+          "transaction_kind": "land_purchase_agreement",
+          "source_ids": [
+            "dlr_dulles",
+            "mwaa_dulles"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 424,
+          "scope": "Western Lands transaction footprint",
+          "as_of": "2018",
+          "source_ids": [
+            "dlr_dulles",
+            "mwaa_dulles"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [
+        {
+          "authority": "Metropolitan Washington Airports Authority Board",
+          "date": "2018-09",
+          "case_id": null,
+          "type": "public seller sale authorization",
+          "outcome": "approved_sale",
+          "source_ids": [
+            "mwaa_dulles"
+          ],
+          "notes": "Sale approval is not zoning or construction permission."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "Undeveloped airport-adjacent land on Route 606; Airports Authority sought sale or lease because it anticipated no future airport use.",
+          "source_ids": [
+            "mwaa_dulles"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-digital-realty-charlotte-2024",
+      "campus_name": "Digital Realty Charlotte — 2024 land acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Digital Realty",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Charlotte",
+        "state": "NC",
+        "county": "Mecklenburg",
+        "country": "US"
+      },
+      "match_terms": [
+        "Digital Realty",
+        "Charlotte",
+        "Moores Chapel",
+        "12899"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2024-Q4",
+          "date_precision": "quarter",
+          "acres": 156,
+          "price_usd": 160000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Digital Realty",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 156,
+          "scope": "2024 acquired land, later expansion excluded",
+          "as_of": "2024-Q4",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 400,
+          "basis": "IT_capacity",
+          "stage": "development_potential",
+          "scope": "2024 land acquisition",
+          "as_of": "2024-Q4",
+          "qualifier": "up_to",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-digital-realty-richardson-2024",
+      "campus_name": "Digital Realty Richardson — 6.7-acre expansion",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Digital Realty",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Richardson",
+        "state": "TX",
+        "county": null,
+        "country": "US"
+      },
+      "match_terms": [
+        "Digital Realty",
+        "Richardson"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2024-Q4",
+          "date_precision": "quarter",
+          "acres": 6.7,
+          "price_usd": 15000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Digital Realty",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "adjacent_expansion_land_acquisition",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 6.7,
+          "scope": "incremental parcel, not full Richardson campus",
+          "as_of": "2024-Q4",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 100,
+          "basis": "IT_capacity",
+          "stage": "development_potential",
+          "scope": "incremental capacity, not current use",
+          "as_of": "2024-Q4",
+          "qualifier": "up_to",
+          "source_ids": [
+            "dlr_4q24"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-qts-manassas",
+      "campus_name": "QTS Manassas — historical land acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "QTS",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Manassas",
+        "state": "VA",
+        "county": "Prince William",
+        "country": "US"
+      },
+      "match_terms": [
+        "QTS",
+        "Manassas"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2018",
+          "date_precision": "year",
+          "acres": 118,
+          "price_usd": 37000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "multiple_land_acquisitions",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 118,
+          "scope": "acquisition footprint; not a per-building land allocation",
+          "as_of": "2018",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Annual aggregate of multiple acquisitions. Do not assign all $37m to a single deed or building."
+      ]
+    },
+    {
+      "id": "ev-qts-atlanta-metro",
+      "campus_name": "QTS Atlanta — historical land acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "QTS",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Atlanta",
+        "state": "GA",
+        "county": "Fulton",
+        "country": "US"
+      },
+      "match_terms": [
+        "QTS",
+        "Atlanta"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2018-10",
+          "date_precision": "month",
+          "acres": 55,
+          "price_usd": 80100000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_buildings_and_ground_lease_asset",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 55,
+          "scope": "acquisition footprint; not a per-building land allocation",
+          "as_of": "2018-10",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [],
+      "predevelopment": [
+        {
+          "description": "Adjacent to existing Atlanta-Metro data center; acquisition included buildings and a below-market ground lease asset.",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Consideration is not a pure vacant-land price."
+      ]
+    },
+    {
+      "id": "ev-qts-phoenix",
+      "campus_name": "QTS Phoenix — historical land acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "QTS",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ",
+        "county": "Maricopa",
+        "country": "US"
+      },
+      "match_terms": [
+        "QTS",
+        "Phoenix"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2017-07",
+          "date_precision": "month",
+          "acres": 84,
+          "price_usd": 25000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 84,
+          "scope": "acquisition footprint; not a per-building land allocation",
+          "as_of": "2017-07",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-qts-hillsboro",
+      "campus_name": "QTS Hillsboro — historical land acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "QTS",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Hillsboro",
+        "state": "OR",
+        "county": "Washington",
+        "country": "US"
+      },
+      "match_terms": [
+        "QTS",
+        "Hillsboro"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2017-10",
+          "date_precision": "month",
+          "acres": 92,
+          "price_usd": 26000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 92,
+          "scope": "acquisition footprint; not a per-building land allocation",
+          "as_of": "2017-10",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-qts-ashburn-2017",
+      "campus_name": "QTS Ashburn — two 2017 land acquisitions",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "QTS",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Ashburn",
+        "state": "VA",
+        "county": "Loudoun",
+        "country": "US"
+      },
+      "match_terms": [
+        "QTS",
+        "Ashburn"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2017-08",
+          "date_precision": "month",
+          "acres": 24,
+          "price_usd": 17000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        },
+        {
+          "date": "2017-10",
+          "date_precision": "month",
+          "acres": 28,
+          "price_usd": 36000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "QTS Realty Trust (reporting parent)",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 24,
+          "scope": "August 2017 acquisition",
+          "as_of": "2017-08",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        },
+        {
+          "acres": 28,
+          "scope": "October 2017 acquisition",
+          "as_of": "2017-10",
+          "source_ids": [
+            "qts_2018_acquisitions"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Campus/deed association for these separate acquisitions requires verification before attachment to a particular Ashburn facility. Do not simply combine them as one building."
+      ]
+    },
+    {
+      "id": "ev-edgecore-mesa-north",
+      "campus_name": "EdgeCore Mesa North",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "EdgeCore",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Mesa",
+        "state": "AZ",
+        "county": "Maricopa",
+        "country": "US"
+      },
+      "match_terms": [
+        "EdgeCore",
+        "Mesa North",
+        "Everton",
+        "Elliot"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2025-05-20",
+          "date_precision": "announcement_date",
+          "acres": 43.87,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "EdgeCore Digital Infrastructure",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "edge_mesa_2025"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 43.87,
+          "scope": "additional parcel acquired in 2025",
+          "as_of": "2025-05-20",
+          "source_ids": [
+            "edge_mesa_2025"
+          ]
+        },
+        {
+          "acres": 43.8,
+          "scope": "2026 major site plan boundary",
+          "as_of": "2026-03-11",
+          "source_ids": [
+            "mesa_minutes"
+          ]
+        },
+        {
+          "acres": 84,
+          "scope": "combined Phoenix campus on current operator page; not North parcel only",
+          "as_of": "2026-10-30",
+          "source_ids": [
+            "edge_mesa_current"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 250,
+          "basis": "data_center_capacity_basis_unspecified",
+          "stage": "planned_at_announcement",
+          "scope": "new tranche of Mesa land",
+          "as_of": "2025-05-20",
+          "qualifier": "more_than",
+          "source_ids": [
+            "edge_mesa_2025"
+          ]
+        },
+        {
+          "mw": 496,
+          "basis": "critical_IT_load",
+          "stage": "operator_advertised",
+          "scope": "combined 84-acre Mesa campus",
+          "as_of": "2026-10-30",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "edge_mesa_current"
+          ]
+        }
+      ],
+      "approvals": [
+        {
+          "authority": "City of Mesa Planning and Zoning Board",
+          "date": "2026-03-11",
+          "case_id": "ZON25-00535 / PZ 26012",
+          "type": "major site plan modification",
+          "outcome": "approved_6_0",
+          "source_ids": [
+            "mesa_minutes"
+          ],
+          "notes": "Minutes show unanimous approval, with one member excused, for 1,236,960 square feet on 43.8 acres. Obtain staff conditions for the full condition list."
+        }
+      ],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-edgecore-louisa-shannon-hill",
+      "campus_name": "EdgeCore Louisa / Shannon Hill",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "EdgeCore",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Louisa County",
+        "state": "VA",
+        "county": "Louisa",
+        "country": "US"
+      },
+      "match_terms": [
+        "EdgeCore",
+        "Louisa",
+        "Shannon Hill"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2025-06-24",
+          "date_precision": "announcement_date",
+          "acres": 697,
+          "price_usd": 42000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "EdgeCore Digital Infrastructure",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": "Louisa County",
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "louisa_sale"
+          ]
+        },
+        {
+          "date": "2018",
+          "date_precision": "year",
+          "acres": 697,
+          "price_usd": 2600000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Louisa County",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "prior_public_sector_land_acquisition",
+          "source_ids": [
+            "louisa_sale"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 697,
+          "scope": "purchased regional business park",
+          "as_of": "2025",
+          "source_ids": [
+            "louisa_sale"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 1100,
+          "basis": "power_capacity_basis_unspecified",
+          "stage": "planned_at_announcement",
+          "scope": "campus",
+          "as_of": "2025-06-25",
+          "qualifier": "more_than",
+          "source_ids": [
+            "edge_louisa"
+          ]
+        }
+      ],
+      "approvals": [
+        {
+          "authority": "Louisa County",
+          "date": "2019",
+          "case_id": null,
+          "type": "business park zoning",
+          "outcome": "zoned_for_technology_uses_including_data_centers",
+          "source_ids": [
+            "louisa_sale"
+          ],
+          "notes": "County says it zoned the park in 2019. This is not verification of all later building, air or utility permits."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "County assembled and prepared a technology business park; invested $29.5m in utility infrastructure serving the park and wider corridor. County cites water-efficient cooling, buffers and community engagement in selecting buyer.",
+          "source_ids": [
+            "louisa_sale"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "The county infrastructure investment is not part of the reported $42m purchase consideration."
+      ]
+    },
+    {
+      "id": "ev-edgecore-culpeper",
+      "campus_name": "EdgeCore Culpeper",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "EdgeCore",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Culpeper",
+        "state": "VA",
+        "county": "Culpeper",
+        "country": "US"
+      },
+      "match_terms": [
+        "EdgeCore",
+        "Culpeper",
+        "Cielo"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2024-07-18",
+          "date_precision": "announcement_date",
+          "acres": 120,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "EdgeCore Digital Infrastructure",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "edge_culpeper"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 120,
+          "scope": "acquisition announcement",
+          "as_of": "2024-07-18",
+          "source_ids": [
+            "edge_culpeper"
+          ]
+        },
+        {
+          "acres": 93,
+          "scope": "current advertised campus phase",
+          "as_of": "2026-10-30",
+          "source_ids": [
+            "edge_culpeper_current"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 216,
+          "basis": "critical_IT_load",
+          "stage": "initial_planned_capacity_at_announcement",
+          "scope": "2024 campus plan",
+          "as_of": "2024-07-18",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "edge_culpeper"
+          ]
+        },
+        {
+          "mw": 432,
+          "basis": "critical_IT_load",
+          "stage": "expansion_potential_at_announcement",
+          "scope": "2024 campus plan",
+          "as_of": "2024-07-18",
+          "qualifier": "up_to",
+          "source_ids": [
+            "edge_culpeper"
+          ]
+        },
+        {
+          "mw": 196,
+          "basis": "critical_IT_load",
+          "stage": "operator_advertised",
+          "scope": "current two-building phase",
+          "as_of": "2026-10-30",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "edge_culpeper_current"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [
+        {
+          "description": "Within the 690-acre Culpeper Technology Zone; operator cites power, fiber connectivity, tax incentives and proximity to Ashburn.",
+          "source_ids": [
+            "edge_culpeper"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Current operator page differs from the 2024 acquisition plan. Preserve both dated values; do not treat them as additive."
+      ]
+    },
+    {
+      "id": "ev-edgecore-reno-2023",
+      "campus_name": "EdgeCore Reno — 2023 acquisition announcement",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "EdgeCore",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Reno market",
+        "state": "NV",
+        "county": null,
+        "country": "US"
+      },
+      "match_terms": [
+        "EdgeCore",
+        "Reno"
+      ],
+      "match_policy": "manual_match_required: verify which Reno-area campus and parcels correspond to this 2023 transaction before attachment",
+      "land_transactions": [
+        {
+          "date": "2023-08-10",
+          "date_precision": "announcement_date",
+          "acres": 136,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "EdgeCore Digital Infrastructure",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "edge_reno"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 136,
+          "scope": "2023 announced acquisition",
+          "as_of": "2023-08-10",
+          "source_ids": [
+            "edge_reno"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 400,
+          "basis": "critical_IT_load",
+          "stage": "planned_at_announcement",
+          "scope": "2023 campus announcement",
+          "as_of": "2023-08-10",
+          "qualifier": "more_than",
+          "source_ids": [
+            "edge_reno"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Announcement location wording is not precise enough for parcel geocoding. Later Reno phases must not inherit these figures automatically."
+      ]
+    },
+    {
+      "id": "ev-databank-msp3",
+      "campus_name": "DataBank MSP3 / Brooklyn Park",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "DataBank",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Brooklyn Park",
+        "state": "MN",
+        "county": "Hennepin",
+        "country": "US",
+        "address": "8111 Oxbow Creek Drive North"
+      },
+      "match_terms": [
+        "DataBank",
+        "MSP3",
+        "Brooklyn Park",
+        "8111 Oxbow"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2020",
+          "date_precision": "year",
+          "acres": 14,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "DataBank",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": "Scannell Properties (reported; affiliated legal owner not identified)",
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "databank_msp_purchase"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 14,
+          "scope": "campus",
+          "as_of": "2026-10-30",
+          "source_ids": [
+            "databank_msp_current"
+          ]
+        },
+        {
+          "acres": 14.4,
+          "scope": "approximate site in July 2020 applicant letter",
+          "as_of": "2020",
+          "source_ids": [
+            "brooklyn_2020_packet"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 9,
+          "basis": "critical_IT_load",
+          "stage": "operator_advertised",
+          "scope": "MSP3 building",
+          "as_of": "2026-10-30",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "databank_msp_current"
+          ]
+        },
+        {
+          "mw": 1.5,
+          "basis": "critical_IT_load",
+          "stage": "initial_deployment",
+          "scope": "MSP3 opening",
+          "as_of": "2021-11-04",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "databank_msp_open"
+          ]
+        }
+      ],
+      "approvals": [
+        {
+          "authority": "Brooklyn Park Planning Commission",
+          "date": "2020-09-09",
+          "case_id": "Site Plan Review 20-119 (Council packet)",
+          "type": "site plan recommendation",
+          "outcome": "recommended_approval_7_0",
+          "source_ids": [
+            "brooklyn_2020_packet"
+          ],
+          "notes": "September 28 Council packet proposed approval; final Council vote was not established from this packet. A later second building requires a conditional use permit."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "NorthPark Business Center planned development overlay. Earlier 200,000+ square foot building approval had expired; new site plan checked consistency with the approved development plan and existing AUAR traffic assumptions.",
+          "source_ids": [
+            "brooklyn_2020_packet"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-databank-orangeburg",
+      "campus_name": "DataBank Orangeburg Campus / LGA3",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "DataBank",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Orangeburg",
+        "state": "NY",
+        "county": "Rockland",
+        "country": "US"
+      },
+      "match_terms": [
+        "DataBank",
+        "Orangeburg",
+        "LGA3",
+        "LGA4"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2021-10-05",
+          "date_precision": "announcement_date",
+          "acres": 34,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "DataBank",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "databank_orangeburg"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 34,
+          "scope": "campus",
+          "as_of": "2021-10-05",
+          "source_ids": [
+            "databank_orangeburg"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 45,
+          "basis": "utility_substation_capacity",
+          "stage": "reported_at_acquisition",
+          "scope": "utility-owned substation",
+          "as_of": "2021-10-05",
+          "qualifier": "up_to",
+          "source_ids": [
+            "databank_orangeburg"
+          ]
+        },
+        {
+          "mw": 30,
+          "basis": "critical_IT_load",
+          "stage": "operator_advertised",
+          "scope": "campus",
+          "as_of": "2026-10-30",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "databank_nyc_current"
+          ]
+        }
+      ],
+      "approvals": [
+        {
+          "authority": "Town of Orangetown Planning Board",
+          "date": "2026-09-23",
+          "case_id": "73.15-1-19 / Data Center Phase 2",
+          "type": "environmental review scoping",
+          "outcome": "adopted_DEIS_scoping_document_listed",
+          "source_ids": [
+            "orangetown_planning"
+          ],
+          "notes": "Document index lists an adopted scoping document. Scoping is not final project approval. Phase 1 approvals not obtained in this pass."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "Acquisition included a utility-owned substation capable of up to 45 MW, allowing DataBank to control its underlying real estate.",
+          "source_ids": [
+            "databank_orangeburg"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ev-databank-atl4",
+      "campus_name": "DataBank ATL4 / initial Lithia Springs Campus",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "DataBank",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Lithia Springs",
+        "state": "GA",
+        "county": "Douglas",
+        "country": "US",
+        "address": "200 Selig Drive"
+      },
+      "match_terms": [
+        "DataBank",
+        "ATL4",
+        "200 Selig"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2022-05-17",
+          "date_precision": "announcement_date",
+          "acres": 18,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "DataBank",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_and_existing_building_acquisition",
+          "source_ids": [
+            "databank_atl4",
+            "databank_atl4_wire"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 18,
+          "scope": "initial property; excludes separate 95-acre acquisition",
+          "as_of": "2022-05-17",
+          "source_ids": [
+            "databank_atl4"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 40,
+          "basis": "critical_IT_load",
+          "stage": "planned_at_announcement",
+          "scope": "ATL4",
+          "as_of": "2022-05-17",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "databank_atl4"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [
+        {
+          "description": "Existing building on property beside a Georgia Power substation; planned dark-fiber link to ATL2/ATL3.",
+          "source_ids": [
+            "databank_atl4"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Company website calls the improvement an existing building; its syndicated release calls it an existing data center facility. Do not code this as raw vacant land."
+      ]
+    },
+    {
+      "id": "ev-databank-lithia-springs-95",
+      "campus_name": "DataBank Lithia Springs — 95-acre acquisition",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "DataBank",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Lithia Springs",
+        "state": "GA",
+        "county": "Douglas",
+        "country": "US"
+      },
+      "match_terms": [
+        "DataBank",
+        "Lithia Springs",
+        "ATL5",
+        "ATL6"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2023-10-31",
+          "date_precision": "announcement_date",
+          "acres": 95,
+          "price_usd": null,
+          "price_basis": "not_found",
+          "buyer_reported": "DataBank",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "databank_atl95"
+          ]
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 95,
+          "scope": "new acquisition near existing ATL4 site",
+          "as_of": "2023-10-31",
+          "source_ids": [
+            "databank_atl95"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 180,
+          "basis": "substation_power_capacity",
+          "stage": "planned_at_announcement",
+          "scope": "new campus",
+          "as_of": "2023-10-31",
+          "qualifier": "exact_reported",
+          "source_ids": [
+            "databank_atl95"
+          ]
+        },
+        {
+          "mw": 120,
+          "basis": "critical_IT_load",
+          "stage": "planned_full_deployment",
+          "scope": "new campus",
+          "as_of": "2023-10-31",
+          "qualifier": "up_to",
+          "source_ids": [
+            "databank_atl95"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Different acquisition from the 18-acre ATL4 property. Do not apply its price or acreage to ATL4."
+      ]
+    },
+    {
+      "id": "ev-microsoft-goodyear-phx10-11",
+      "campus_name": "Microsoft Goodyear Project PHX 10-11",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Microsoft",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Goodyear",
+        "state": "AZ",
+        "county": "Maricopa",
+        "country": "US"
+      },
+      "match_terms": [
+        "Microsoft",
+        "PHX10",
+        "PHX11",
+        "PHX 10-11",
+        "Goodyear"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [
+        {
+          "date": "2018",
+          "date_precision": "year",
+          "acres": 279,
+          "price_usd": 48000000,
+          "price_basis": "reported_consideration",
+          "buyer_reported": "Microsoft Corporation",
+          "buyer_recorded_deed_entity": null,
+          "seller_reported": null,
+          "transaction_kind": "land_acquisition",
+          "source_ids": [
+            "goodyear_agreement",
+            "goodyear_price_report"
+          ],
+          "price_evidence_grade": "secondary_news_not_deed_verified"
+        }
+      ],
+      "site_areas": [
+        {
+          "acres": 279,
+          "scope": "original Project 10-11 property",
+          "as_of": "2018",
+          "source_ids": [
+            "goodyear_agreement"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [
+        {
+          "authority": "City of Goodyear",
+          "date": "2018-12-17",
+          "case_id": "Ordinance 2018-1418",
+          "type": "rezoning",
+          "outcome": "adopted_as_recited_in_2023_staff_report",
+          "source_ids": [
+            "goodyear_packet"
+          ]
+        },
+        {
+          "authority": "City of Goodyear",
+          "date": "2023-03-06",
+          "case_id": "Resolution 2023-2295",
+          "type": "third amendment to infrastructure development agreement",
+          "outcome": "approving_resolution",
+          "source_ids": [
+            "goodyear_agreement"
+          ],
+          "notes": "Microsoft bears design/construction responsibilities for required public infrastructure; this is not a complete permit inventory."
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "Property between Broadway Road and MC-85, east of Bullard Avenue and west of Litchfield Road.",
+          "source_ids": [
+            "goodyear_agreement"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Reported $48m land price needs deed verification. No MW is inferred from generator counts or corporate spending."
+      ]
+    },
+    {
+      "id": "ev-vantage-mclaren",
+      "campus_name": "Vantage McLaren / CA21–CA23",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "Vantage Data Centers",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Santa Clara",
+        "state": "CA",
+        "county": "Santa Clara",
+        "country": "US",
+        "address": "737 Mathew Street"
+      },
+      "match_terms": [
+        "Vantage",
+        "McLaren",
+        "CA21",
+        "CA22",
+        "CA23",
+        "737 Mathew"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [],
+      "site_areas": [
+        {
+          "acres": 8.97,
+          "scope": "three-building campus",
+          "as_of": "2023",
+          "source_ids": [
+            "mclaren_city"
+          ]
+        }
+      ],
+      "power": [],
+      "approvals": [
+        {
+          "authority": "Santa Clara Architectural Committee",
+          "date": "2019-02-06",
+          "case_id": null,
+          "type": "original data-center project approval",
+          "outcome": "approved_as_recited_in_city_report",
+          "source_ids": [
+            "mclaren_city"
+          ],
+          "notes": "Existing heavy industrial zoning; project replaced industrial warehouse, manufacturing and office improvements."
+        },
+        {
+          "authority": "City of Santa Clara",
+          "date": "2024-06-12",
+          "case_id": "PLN23-00308",
+          "type": "CEQA addendum for four additional emergency generators",
+          "outcome": "adopted",
+          "source_ids": [
+            "mclaren_air_nod"
+          ]
+        },
+        {
+          "authority": "Bay Area Air Quality Management District",
+          "date": "2024-08-19",
+          "case_id": null,
+          "type": "Authority to Construct, modified emergency-generator project",
+          "outcome": "issued",
+          "source_ids": [
+            "mclaren_air_nod"
+          ]
+        }
+      ],
+      "predevelopment": [
+        {
+          "description": "Heavy Industrial zoning and General Plan designation, with industrial uses on all sides; prior warehouse, manufacturing and office buildings demolished for three data center buildings and substation.",
+          "source_ids": [
+            "mclaren_city"
+          ]
+        }
+      ],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Land purchase price/date and recorded purchaser not found. Backup-generator MW and the 100 MW jurisdiction threshold are not recorded as facility IT demand."
+      ]
+    },
+    {
+      "id": "ev-h5-quincy",
+      "campus_name": "H5 Quincy",
+      "record_scope": "campus_or_acquisition_evidence_not_a_new_facility_count",
+      "operator_reported": "H5 Data Centers",
+      "operator_legal_entity": null,
+      "location": {
+        "city": "Quincy",
+        "state": "WA",
+        "county": "Grant",
+        "country": "US",
+        "address": "1711 M Street NE"
+      },
+      "match_terms": [
+        "H5",
+        "Quincy",
+        "1711 M"
+      ],
+      "match_policy": "review exact campus/address before attachment; never spread campus acreage, MW or consideration across each building",
+      "land_transactions": [],
+      "site_areas": [
+        {
+          "acres": 63,
+          "scope": "campus",
+          "as_of": "2026-10-30",
+          "source_ids": [
+            "h5_quincy"
+          ]
+        }
+      ],
+      "power": [
+        {
+          "mw": 40,
+          "basis": "critical_load_design_capacity",
+          "stage": "designed",
+          "scope": "campus",
+          "as_of": "2026-10-30",
+          "qualifier": "up_to",
+          "source_ids": [
+            "h5_quincy"
+          ]
+        }
+      ],
+      "approvals": [],
+      "predevelopment": [],
+      "unknown_fields": [
+        "recorded deed grantee",
+        "original marketed listing",
+        "parcel boundary at acquisition",
+        "original listing price",
+        "actual metered demand"
+      ],
+      "notes": [
+        "Operator evidence only in this pass. Original land transaction and approval records remain unverified."
+      ]
+    }
+  ]
+}

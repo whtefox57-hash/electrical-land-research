@@ -1,0 +1,11 @@
+{
+  "name": "layer-46-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Zoning/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:27.029431+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 34126,
+  "sha256": "cf2c441e0913636abe95b5e2301326e3b6b7a9358a78c2a3ef82dc4c9c08075a",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

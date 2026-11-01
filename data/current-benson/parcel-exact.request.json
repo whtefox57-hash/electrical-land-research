@@ -1,0 +1,11 @@
+{
+  "name": "parcel-exact",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0/query?f=geojson&where=apn+IN+%28%2712002003A%27%2C%27120-02-003A%27%29&outFields=%2A&outSR=4326&returnGeometry=true",
+  "retrievedAt": "2026-09-05T17:56:38.434632+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 1851,
+  "sha256": "5083ef55d7bcc6e47169043487c3c06fccd4da48d840e15f442a784ee4c62787",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

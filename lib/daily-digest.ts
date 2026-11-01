@@ -1,0 +1,4 @@
+import {z} from 'zod';
+const item=z.object({name:z.string().max(500),state:z.string().max(30).optional(),reason:z.string().max(4000),source:z.string().url().optional()}).passthrough();
+export const dailyDigestSchema=z.object({summary:z.string().max(6000),newIds:z.array(z.string()).max(200).default([]),updatedIds:z.array(z.string()).max(200).default([]),rejected:z.array(item).max(300).default([]),holds:z.array(item).max(300).default([]),statesReviewed:z.array(z.string().regex(/^[A-Z]{2}$/)).max(50).default([]),coverage:z.array(z.object({source:z.string().max(300),status:z.string().max(100),detail:z.string().max(10000),url:z.string().url().nullable().optional()}).passthrough()).max(200).default([])}).passthrough();
+export function parseDailyDigest(v:any){return v==null?undefined:dailyDigestSchema.parse(v);}

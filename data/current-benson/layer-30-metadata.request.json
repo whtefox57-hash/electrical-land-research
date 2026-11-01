@@ -1,0 +1,11 @@
+{
+  "name": "layer-30-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes6/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:26.057771+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12446,
+  "sha256": "caef2920396eca48518eb20fc10a9ef476a2c38826ad570a51b921b011477018",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

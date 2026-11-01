@@ -1,0 +1,11 @@
+{
+  "name": "layer-25-metadata",
+  "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:15.991362+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 18287,
+  "sha256": "fcda4fe5b3b3b4ce4ac01913f4417e00a7173a79b3951bdec96bec929696e067",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

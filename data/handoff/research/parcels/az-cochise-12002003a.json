@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-09-04",
+  "method": "Research priority = rounded sum of factor weight × value/5 × evidence multiplier (V0 0, V1 .35, V2 .65, V3 .85, V4 1). Unknown earns zero. The next-test factor is an analyst judgment. This is not a probability, valuation, power score or spending authorization. Priority tier additionally requires current sourced polygon and all nine core county checks at full-polygon scope. Shared assemblage files are not independent opportunities. Prior rejections are strategy-specific and may be reopened with new evidence.",
+  "records": [
+    {
+      "id": "az-cochise-12002003a",
+      "name": "Benson — I-10 / N Aacco Trail",
+      "recordType": "PARCEL",
+      "apn": "120-02-003A",
+      "state": "AZ",
+      "county": "Cochise",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "First low-cost investigation: reconcile the legal offering and the road corridor before considering control. Acreage, public-road/easement status and usable contiguous area remain unresolved. The existing power and well signals are not service commitments.",
+      "thesis": "A buyer-specific low-water industrial concept would need enough legally usable contiguous land after roads, easements, drainage and setbacks; an affordable transferable control agreement; a permitted-use path; and written utility intake. The working load hypothesis is not a buyer mandate.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Acreage conflict",
+          "value": "115.45 assessor / 106.92 prior GIS / 90, 103 and 13 marketing acres",
+          "status": "CONFLICT",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ]
+        },
+        {
+          "label": "Owner name in prior record",
+          "value": "Fenner L.L.C.",
+          "status": "INHERITED — authority unknown",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ]
+        },
+        {
+          "label": "Road corridor",
+          "value": "N Aacco Trail; approximately 50-foot easement reported",
+          "status": "USER REPORT — public status/width unverified",
+          "sourceIds": [
+            "BEN-CALL"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "SSVEC"
+          ]
+        },
+        {
+          "label": "Well lead",
+          "value": "55-909771; yield, quality and industrial-use rights unknown",
+          "status": "INHERITED",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ]
+        },
+        {
+          "label": "Spending posture",
+          "value": "$0 new third-party fees incurred in this research; prior exposure not reconstructed",
+          "status": "NO NEW AUTHORIZATION",
+          "sourceIds": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Land and buildable-area test",
+          "body": "Do not choose the largest acreage number or subtract an assumed road strip from marketing acreage. First establish the deed parcel and offered portion. A 50-foot corridor is only a reported width, and there is no confirmed corridor length. Gross acreage, net developable area and largest contiguous construction envelope are separate measurements. I-10 and rail adjacency can constrain access and construction; neither establishes a usable entrance or siding.",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ]
+        },
+        {
+          "title": "County-first review performed and its limit",
+          "body": "The current planning page and official viewer were identified, along with the county parcel/tax GIS layer. Layer discovery is completed; a new exact-feature export and complete overlay intersection were not obtained. Preserve the earlier report values as inherited, not freshly verified. The 2026 comprehensive plan and data-center ordinance materials need a current, use-specific applicability review.",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-GIS",
+            "CO-VIEW",
+            "CO-PARCEL"
+          ]
+        },
+        {
+          "title": "Power, water and conflicting reports",
+          "body": "Prior reports differ on well retrieval and the substation relationship to the parcel. The file keeps the well and substation as leads, not proven on-site infrastructure. Obtain the original well record, survey/parcel overlay and exact utility territory response. No MW, well yield, fire-flow supply, rail service or utility schedule is established.",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "SSVEC"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "Exact APN and multiple inherited records, but unresolved legal offering."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "County process is identifiable; project-specific permission is open."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No parcel/load utility artifact."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Marketing signals only; seller consent and option terms not verified."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "Known road/acreage contradictions, no net contiguous envelope."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 5,
+          "grade": "V2",
+          "rationale": "A narrowly targeted record request can resolve a large part of the land thesis."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "The APN is known, but the legal acreage and marketed portion are inconsistent.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "County Planning is the identified route; a current complete-polygon jurisdiction result is not captured.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-VIEW"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Use classification and the current code/ordinance applicability require original parcel-specific documentation.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-VIEW"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Review the newly listed 2026 comprehensive plan against the entire parcel; old plan labels are not silently carried forward.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "Official GIS/parcel layer identified; no complete current overlay intersection exported.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "CO-GIS",
+            "CO-PARCEL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Research-browser retrieval failed. A working portal alone does not clear this gate."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "CONFLICT",
+          "result": "N Aacco Trail and an approximately 50-foot corridor were reported. Maintenance, public rights, boundaries and access permissions differ and must be established separately.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-CALL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Road instrument, rail/right-of-way boundaries, utility reservations and all other title exceptions remain unassembled.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-CALL",
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Current planning cases and adopted/pending data-center rules require a use-specific final check.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "An inherited well identifier is available; no sustainable lawful industrial supply or fire-water solution is proven.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Potential SSVEC intake route only; no written APN/load-specific service path, cost or timeline.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SSVEC",
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "CO-PLAN",
+          "title": "Planning & Zoning Division",
+          "url": "https://cochise.az.gov/231/Planning-Zoning-Division",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Current process and contact page; not a parcel-specific land-use approval."
+        },
+        {
+          "id": "CO-GIS",
+          "title": "Geographic Information Systems",
+          "url": "https://www.cochise.az.gov/220/Geographic-Information-Systems",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official source registry. Availability of layers does not establish that each layer has been queried for this parcel."
+        },
+        {
+          "id": "CO-VIEW",
+          "title": "Official interactive zoning viewer",
+          "url": "https://cochise.maps.arcgis.com/apps/webappviewer/index.html?id=0e9f91241bf247b8901686355ff6e144",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Dynamic map linked by County Planning. Complete current parcel/overlay extraction did not succeed in this research session."
+        },
+        {
+          "id": "CO-PARCEL",
+          "title": "County parcel/tax GIS layer",
+          "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0",
+          "publisher": "Cochise County GIS",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Layer metadata identified. Exact-feature query was blocked in the research browser; geometry is not claimed as freshly retrieved."
+        },
+        {
+          "id": "BEN-PRIOR",
+          "title": "Benson hostile and precontact due-diligence reports",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Inherited AI research, not a substitute for the underlying county, deed, survey, well or utility document. Conflicts are retained."
+        },
+        {
+          "id": "BEN-CALL",
+          "title": "Founder report of county conversations",
+          "url": "",
+          "publisher": "Founder / county staff as reported by founder",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "USER_REPORT",
+          "limitation": "Oral information: 115.45 versus 106.92 acres, road N Aacco Trail, unmaintained road and approximately 50-foot easement. Width and public status not independently established."
+        },
+        {
+          "id": "SSVEC",
+          "title": "SSVEC official website",
+          "url": "https://www.ssvec.org/",
+          "publisher": "SSVEC",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Potential utility contact, not exact parcel territory or available MW confirmation."
+        }
+      ],
+      "actions": [
+        {
+          "id": "az-cochise-12002003a-a1",
+          "order": 1,
+          "title": "Resolve legal parcel, offered portion and road record",
+          "contact": "Cochise Planning / GIS, then assessor/recorder",
+          "channel": "County Planning: 520-432-9300; planning@cochise.az.gov",
+          "question": "For APN 120-02-003A, which deed, survey and recorded road instrument explain 115.45 versus 106.92 acres and N Aacco Trail? Does the 50-foot number describe a recorded public right-of-way, private easement or merely a GIS attribute?",
+          "decision": "Kill or continue the land-layout thesis without paying for an option.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a2",
+          "order": 2,
+          "title": "Obtain source documents already held by seller",
+          "contact": "Current listing broker / Fenner L.L.C. authorized representative",
+          "channel": "Use the existing verified listing contact; do not guess an email",
+          "question": "Provide the current legal description, all APNs offered, survey, title exceptions, road/easement instruments and authorization to make public-record and utility inquiries. Is 90/103/13 acres a legal split, excluded area, or alternate marketing?",
+          "decision": "Define the contract asset and seller cooperation.",
+          "costEstimate": "Request existing documents at $0; any title/survey quote needs approval.",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a3",
+          "order": 3,
+          "title": "Get a written use-path answer, not a generic zoning answer",
+          "contact": "Cochise Planning",
+          "channel": "520-432-9300; planning@cochise.az.gov",
+          "question": "After the boundary/road exhibit is assembled, which current provisions apply to this specific electricity-intensive industrial use, including generators, cooling, noise, water and setbacks? Please identify the governing section and any additional overlays.",
+          "decision": "Bound the entitlement route and layout exclusions.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a4",
+          "order": 4,
+          "title": "Confirm utility process only after owner authority / geometry",
+          "contact": "SSVEC large-load / engineering intake",
+          "channel": "Official SSVEC contact route: https://www.ssvec.org/",
+          "question": "Does SSVEC serve this exact APN? Can an authorized option holder request a preliminary large-load screen, and what owner authorization, customer credit, studies and deposits are needed? No capacity promise is requested.",
+          "decision": "Determine whether a sponsor-funded studyable path exists.",
+          "costEstimate": "No paid application or deposit authorized.",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": {
+        "lon": -110.235361,
+        "lat": 31.969801,
+        "precision": "PRIOR_REPORT_LOCATOR_NOT_CURRENT_SURVEY"
+      },
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": true
+    }
+  ],
+  "revisions": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "layer-21-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Hubbard%20Encroachment%20Area/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:13.384426+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 9066,
+  "sha256": "3fed37ca7a9e5a1a42dd97137a942db2cc31af44b11b428aa7e308e75d6fca6a",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

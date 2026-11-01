@@ -1,0 +1,11 @@
+{
+  "name": "layer-3-metadata",
+  "url": "https://services6.arcgis.com/l7uujk4hHifqabRB/arcgis/rest/services/Arizona_Utility_Company_Boundaries_VIEW/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.415312+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 8319,
+  "sha256": "76838e96e49c4af60def899c7f78d7b2293a57eb193e2a19e7547777ce7d227a",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

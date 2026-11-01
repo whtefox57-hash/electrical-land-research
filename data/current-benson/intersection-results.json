@@ -1,0 +1,1189 @@
+[
+  {
+    "title": "Well Registry 2024",
+    "name": "layer-1",
+    "status": "VERIFIED_FINDING",
+    "count": 2,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 142201.29713661075,
+      "ymin": 3466610.930667869,
+      "xmax": 684891.9136982599,
+      "ymax": 4097772.0819535777,
+      "spatialReference": {
+        "wkid": 26912,
+        "latestWkid": 26912
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1788594418821,
+      "schemaLastEditDate": 1788591887232,
+      "dataLastEditDate": 1788594418821
+    },
+    "attributes": [
+      {
+        "OBJECTID": 181504,
+        "PROGRAM": "55",
+        "REGISTRY_ID": "628012",
+        "OWNER_NAME": "  SAN PEDRO RANCH,",
+        "RGR_PUMP_DATA": "NO",
+        "WELLTYPE": "NON-EXEMPT",
+        "WELL_TYPE_GROUP": "NON-EXEMPT",
+        "DLIC_NUM": "0",
+        "APPROVED": null,
+        "INSTALLED": 210384000000,
+        "WELL_DEPTH": 265,
+        "WATER_LEVEL": 190,
+        "CASING_DEPTH": 265,
+        "CASING_DIAMETER": 10,
+        "CASING_TYPE": "STEEL - PERFORATED OR SLOTTED CASING",
+        "PUMP_TYPE": "NO PUMP CODE LISTED",
+        "PUMP_POWER": "NO POWER CODE LISTED",
+        "PUMPRATE": 75,
+        "TESTEDRATE": 75,
+        "DRAW_DOWN": 0,
+        "COMPLETION_REPORT_STATUS": null,
+        "DRILL_LOG": null,
+        "WELL_CANCELLED": null,
+        "CADASTRAL": "D17021007DBA",
+        "COUNTY": "COCHISE",
+        "WATERSHED": "SAN PEDRO RIVER",
+        "BASIN_NAME": "UPPER SAN PEDRO",
+        "SUBBASIN_NAME": "SIERRA VISTA",
+        "AMA": "NOT WITHIN ANY AMA OR INA",
+        "QUAD_CODE": "D",
+        "WHOLE_TOWNSHIP": "17",
+        "HALF_TOWNSHIP": "0",
+        "NORTHSOUTH": "S",
+        "WHOLE_RANGE": "21",
+        "HALF_RANGE": "0",
+        "EASTWEST": "E",
+        "SECTION": "7",
+        "QUARTER_160_ACRE": "D",
+        "QACRE160DIR": "SE",
+        "QUARTER_40_ACRE": "B",
+        "QACRE40DIR": "NW",
+        "QUARTER_10_ACRE": "A",
+        "QACRE10DIR": "NE",
+        "UTM_X_METERS": 572198.1,
+        "UTM_Y_METERS": 3537372,
+        "APPLICATION_DATE": 392860800000,
+        "ADDRESS1": "RT 1 BOX 149",
+        "ADDRESS2": null,
+        "CITY": "ST DAVID",
+        "STATE": "AZ",
+        "ZIP": "85630",
+        "ZIP4": null,
+        "WATER_USE": "IRRIGATION, STOCK, DOMESTIC",
+        "SITE_USE": "WATER PRODUCTION"
+      },
+      {
+        "OBJECTID": 207925,
+        "PROGRAM": "55",
+        "REGISTRY_ID": "909771",
+        "OWNER_NAME": "  FENNER,  LLC",
+        "RGR_PUMP_DATA": "NO",
+        "WELLTYPE": "NON-EXEMPT",
+        "WELL_TYPE_GROUP": "NON-EXEMPT",
+        "DLIC_NUM": "25",
+        "APPROVED": 1221827938000,
+        "INSTALLED": 1229040000000,
+        "WELL_DEPTH": 700,
+        "WATER_LEVEL": 136,
+        "CASING_DEPTH": 700,
+        "CASING_DIAMETER": 7,
+        "CASING_TYPE": "STEEL - PERFORATED OR SLOTTED CASING",
+        "PUMP_TYPE": null,
+        "PUMP_POWER": null,
+        "PUMPRATE": null,
+        "TESTEDRATE": null,
+        "DRAW_DOWN": null,
+        "COMPLETION_REPORT_STATUS": null,
+        "DRILL_LOG": "X",
+        "WELL_CANCELLED": null,
+        "CADASTRAL": "D17021007DBB",
+        "COUNTY": "COCHISE",
+        "WATERSHED": "SAN PEDRO RIVER",
+        "BASIN_NAME": "UPPER SAN PEDRO",
+        "SUBBASIN_NAME": "SIERRA VISTA",
+        "AMA": "NOT WITHIN ANY AMA OR INA",
+        "QUAD_CODE": "D",
+        "WHOLE_TOWNSHIP": "17",
+        "HALF_TOWNSHIP": "0",
+        "NORTHSOUTH": "S",
+        "WHOLE_RANGE": "21",
+        "HALF_RANGE": "0",
+        "EASTWEST": "E",
+        "SECTION": "7",
+        "QUARTER_160_ACRE": "D",
+        "QACRE160DIR": "SE",
+        "QUARTER_40_ACRE": "B",
+        "QACRE40DIR": "NW",
+        "QUARTER_10_ACRE": "B",
+        "QACRE10DIR": "NW",
+        "UTM_X_METERS": 571997.1,
+        "UTM_Y_METERS": 3537371,
+        "APPLICATION_DATE": 1221827938000,
+        "ADDRESS1": "3040 N BEAR CANYON RD",
+        "ADDRESS2": null,
+        "CITY": "TUCSON",
+        "STATE": "AZ",
+        "ZIP": "85749",
+        "ZIP4": "8771",
+        "WATER_USE": "IRRIGATION, COMMERCIAL, DOMESTIC, MUNICIPAL USES, INDUSTRIAL, STOCK",
+        "SITE_USE": null
+      }
+    ],
+    "countVerification": {
+      "count": 2
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Utility - Water Company Service Area",
+    "name": "layer-2",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 143212.89769999962,
+      "ymin": 3466476.5581,
+      "xmax": 679653.8315000003,
+      "ymax": 4096781.8451000005,
+      "spatialReference": {
+        "wkid": 26912,
+        "latestWkid": 26912
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1787344722520,
+      "schemaLastEditDate": 1787344722520,
+      "dataLastEditDate": 1787344722520
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Utility - Electric Service Area",
+    "name": "layer-3",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -12780990.1778,
+      "ymin": 3675956.2673000023,
+      "xmax": -12138938.9537,
+      "ymax": 4439230.631800003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1782414929169,
+      "schemaLastEditDate": 1782414929169,
+      "dataLastEditDate": 1782414929169
+    },
+    "attributes": [
+      {
+        "OBJECTID": 70,
+        "NAME": "SULPHUR SPRINGS VALLEY ELECTRIC COOPERATIVE",
+        "Shape__Area": 21530302112.710938,
+        "Shape__Length": 889466.4910923814
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Utility - Telephone Company",
+    "name": "layer-4",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.551692,
+      "ymin": 31.280556,
+      "xmax": -108.936702,
+      "ymax": 32.518688,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1675708934215,
+      "schemaLastEditDate": 1532044997834,
+      "dataLastEditDate": 1532044997834
+    },
+    "attributes": [
+      {
+        "OBJECTID": 12,
+        "GID": 2,
+        "COMPANY": "CENTURY LINK",
+        "FeatureName": "CENTURY LINK",
+        "Shape__Area": null,
+        "Shape__Length": null,
+        "TS": "2011-11-17 16:33:59"
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Roads - Dedicated Right of Way",
+    "name": "layer-15",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18522.059055119753,
+      "ymin": 6326.849737532437,
+      "xmax": 457822.2158792652,
+      "ymax": 404341.82513123006,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]",
+        "wkt2": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1786043715548,
+      "schemaLastEditDate": 1786043715548,
+      "dataLastEditDate": 1786043715548
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Roads - County Maintained",
+    "name": "layer-16",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18368.165354330093,
+      "ymin": 6345.849737532437,
+      "xmax": 457758.9895013124,
+      "ymax": 404327.9783464596,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1780933948344,
+      "schemaLastEditDate": 1780933948344,
+      "dataLastEditDate": 1780933948344
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Fort Huachuca Hubbard Encroachment Area",
+    "name": "layer-21",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.551692,
+      "ymin": 31.280556,
+      "xmax": -108.936702,
+      "ymax": 32.518688,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1546028619993,
+      "schemaLastEditDate": 1546028619993,
+      "dataLastEditDate": 1546028619993
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Fort Huachuca High Noise or Accident Potential Zone",
+    "name": "layer-22",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 606363.9527559057,
+      "ymin": 208450.16666666415,
+      "xmax": 680724.2824803151,
+      "ymax": 219210.84383201852,
+      "spatialReference": {
+        "wkid": 2867,
+        "latestWkid": 2867
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1654063824212,
+      "schemaLastEditDate": 1654063824212,
+      "dataLastEditDate": 1654063824212
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Fort Huachuca Electronic Range",
+    "name": "layer-23",
+    "status": "VERIFIED_FINDING",
+    "count": 3,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -12342768.385200001,
+      "ymin": 3675948.365453321,
+      "xmax": -12197171.2052,
+      "ymax": 3816027.2726962385,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1763674786918,
+      "schemaLastEditDate": 1763674577644,
+      "dataLastEditDate": 1763674786918
+    },
+    "attributes": [
+      {
+        "FID": 1,
+        "Shape__Area": 6648290389.609375,
+        "Shape__Length": 388961.6283546377,
+        "Active": "No",
+        "Note": "Historical version showing portion within Cochise County only. Last edited 20090107."
+      },
+      {
+        "FID": 2,
+        "Shape__Area": 9423449078.601562,
+        "Shape__Length": 487797.33176303795,
+        "Active": "No",
+        "Note": "Historical version obtained from City of Sierra Vista on 20251120 using the City's ArcGIS OnLine REST service https://services6.arcgis.com/qsfT0E2It2u5vqBg/arcgis/rest/services/Buffalo_Soldier_Testing_Range/FeatureServer/0"
+      },
+      {
+        "FID": 3,
+        "Shape__Area": 11344536395.96875,
+        "Shape__Length": 520092.9657392202,
+        "Active": "Yes",
+        "Note": "Updated 20251120."
+      }
+    ],
+    "countVerification": {
+      "count": 3
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Fort Huachuca - Airfield Safety Zones",
+    "name": "layer-24",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 610821.6507080508,
+      "ymin": 201123.3950354748,
+      "xmax": 698028.406177928,
+      "ymax": 252785.0451972361,
+      "spatialReference": {
+        "wkid": 2867,
+        "latestWkid": 2867
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1654063822235,
+      "schemaLastEditDate": 1654063822235,
+      "dataLastEditDate": 1654063822235
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Floodplain - Flood Hazard Areas",
+    "name": "layer-25",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -19018759.0796,
+      "ymin": -1617292.3216999993,
+      "xmax": 16233965.037100002,
+      "ymax": 9591931.763300002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1781716671123,
+      "schemaLastEditDate": 1781716667231,
+      "dataLastEditDate": 1773249706873
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Floodplain - FIRM Panels",
+    "name": "layer-26",
+    "status": "VERIFIED_FINDING",
+    "count": 2,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.49999986409672,
+      "ymin": 31.24999973894609,
+      "xmax": -109.00000012365648,
+      "ymax": 32.499999996836024,
+      "spatialReference": {
+        "wkid": 4269,
+        "latestWkid": 4269
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1637621677274,
+      "schemaLastEditDate": 1637621677274,
+      "dataLastEditDate": 1637621677274
+    },
+    "attributes": [
+      {
+        "FID": 223,
+        "DFIRM_ID": "04003C",
+        "VERSION_ID": "1.1.1.0",
+        "FIRM_ID": "04003C_223",
+        "ST_FIPS": "04",
+        "PCOMM": "003C",
+        "PANEL": "1251",
+        "SUFFIX": "F",
+        "FIRM_PAN": "04003C1251F",
+        "PANEL_TYP": "Countywide, Panel Printed",
+        "PRE_DATE": 253392451200000,
+        "EFF_DATE": 1219881600000,
+        "SCALE": "6000",
+        "PNP_REASON": " ",
+        "BASE_TYP": "Orthophoto",
+        "SOURCE_CIT": "04003C_STUDY1",
+        "Shape__Area": 0.0009765622100985638,
+        "Shape__Length": 0.12499998143819013
+      },
+      {
+        "FID": 264,
+        "DFIRM_ID": "04003C",
+        "VERSION_ID": "1.1.1.0",
+        "FIRM_ID": "04003C_264",
+        "ST_FIPS": "04",
+        "PCOMM": "003C",
+        "PANEL": "1253",
+        "SUFFIX": "F",
+        "FIRM_PAN": "04003C1253F",
+        "PANEL_TYP": "Countywide, Panel Printed",
+        "PRE_DATE": 253392451200000,
+        "EFF_DATE": 1219881600000,
+        "SCALE": "6000",
+        "PNP_REASON": " ",
+        "BASE_TYP": "Orthophoto",
+        "SOURCE_CIT": "04003C_STUDY1",
+        "Shape__Area": 0.0009765629570210876,
+        "Shape__Length": 0.1250000292498651
+      }
+    ],
+    "countVerification": {
+      "count": 2
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Floodplain - Base Flood Elevation",
+    "name": "layer-27",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.3446411660602,
+      "ymin": 31.334034665696755,
+      "xmax": -109.51168815185412,
+      "ymax": 32.42558235855549,
+      "spatialReference": {
+        "wkid": 4269,
+        "latestWkid": 4269
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1637623856902,
+      "schemaLastEditDate": 1637623856902,
+      "dataLastEditDate": 1637623856902
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "District -  Water",
+    "name": "layer-30",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18311.81299212575,
+      "ymin": 6318.786417320371,
+      "xmax": 458605.9028871394,
+      "ymax": 404938.07513123006,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise_County_Low_Distortion_Projection\",GEOGCS[\"GCS_North_American_Datum_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"Geodetic_Reference_System_of_1980\",6378137.0,298.257222100892]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.3166666666667],UNIT[\"Foot (International)\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1771362527561,
+      "schemaLastEditDate": 1677796506129,
+      "dataLastEditDate": 1677796506129
+    },
+    "attributes": [
+      {
+        "objectid": 17,
+        "gid": 20,
+        "schname": "POMERENE/BUHS (64)",
+        "firename": "NONE",
+        "cityname": "NONE",
+        "hospname": "SAN PEDRO VALLEY (02)",
+        "sanname": "NONE",
+        "litename": "NONE",
+        "fldname": "NONE",
+        "wtrname": "NONE",
+        "irrname": "NONE",
+        "rdname": "NONE",
+        "tax_area_code": 6400,
+        "jtedname": "",
+        "sqmi": "33.25",
+        "geom": "3F0027003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003",
+        "comfacname": "",
+        "revitname": "",
+        "globalid": "94b97fc0-b7f6-4626-91eb-01a432104411",
+        "Shape__Area": 927078041.3538132,
+        "Shape__Length": 126904.2892470714
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "District - Sanitation",
+    "name": "layer-31",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18311.81299212575,
+      "ymin": 6318.786417320371,
+      "xmax": 458605.9028871394,
+      "ymax": 404938.07513123006,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise_County_Low_Distortion_Projection\",GEOGCS[\"GCS_North_American_Datum_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"Geodetic_Reference_System_of_1980\",6378137.0,298.257222100892]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.3166666666667],UNIT[\"Foot (International)\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1771362543911,
+      "schemaLastEditDate": 1677796533947,
+      "dataLastEditDate": 1677796533947
+    },
+    "attributes": [
+      {
+        "objectid": 17,
+        "gid": 20,
+        "schname": "POMERENE/BUHS (64)",
+        "firename": "NONE",
+        "cityname": "NONE",
+        "hospname": "SAN PEDRO VALLEY (02)",
+        "sanname": "NONE",
+        "litename": "NONE",
+        "fldname": "NONE",
+        "wtrname": "NONE",
+        "irrname": "NONE",
+        "rdname": "NONE",
+        "tax_area_code": 6400,
+        "jtedname": "",
+        "sqmi": "33.25",
+        "geom": "3F0027003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003",
+        "comfacname": "",
+        "revitname": "",
+        "globalid": "94b97fc0-b7f6-4626-91eb-01a432104411",
+        "Shape__Area": 927078041.3538132,
+        "Shape__Length": 126904.2892470714
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "District - Fire",
+    "name": "layer-37",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18311.81299212575,
+      "ymin": 6318.786417320371,
+      "xmax": 458605.9028871394,
+      "ymax": 404938.07513123006,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise_County_Low_Distortion_Projection\",GEOGCS[\"GCS_North_American_Datum_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"Geodetic_Reference_System_of_1980\",6378137.0,298.257222100892]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.3166666666667],UNIT[\"Foot (International)\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1771362542466,
+      "schemaLastEditDate": 1677796525238,
+      "dataLastEditDate": 1677796525238
+    },
+    "attributes": [
+      {
+        "objectid": 17,
+        "gid": 20,
+        "schname": "POMERENE/BUHS (64)",
+        "firename": "NONE",
+        "cityname": "NONE",
+        "hospname": "SAN PEDRO VALLEY (02)",
+        "sanname": "NONE",
+        "litename": "NONE",
+        "fldname": "NONE",
+        "wtrname": "NONE",
+        "irrname": "NONE",
+        "rdname": "NONE",
+        "tax_area_code": 6400,
+        "jtedname": "",
+        "sqmi": "33.25",
+        "geom": "3F0027003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003F003",
+        "comfacname": "",
+        "revitname": "",
+        "globalid": "94b97fc0-b7f6-4626-91eb-01a432104411",
+        "Shape__Area": 927078041.3538132,
+        "Shape__Length": 126904.2892470714
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "AMA (Active Managment Area)",
+    "name": "layer-43",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 141448.28050000034,
+      "ymin": 3466438.6270000003,
+      "xmax": 685535.0783000002,
+      "ymax": 4099221.1646999996,
+      "spatialReference": {
+        "wkid": 26912,
+        "latestWkid": 26912
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1768324766672,
+      "schemaLastEditDate": 1768324766672,
+      "dataLastEditDate": 1768324766672
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Zoning - County",
+    "name": "layer-46",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 6233.47900262475,
+      "ymin": 6316.995406821369,
+      "xmax": 458609.1217191592,
+      "ymax": 404936.2142388448,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]",
+        "wkt2": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1784842376043,
+      "schemaLastEditDate": 1784842370649,
+      "dataLastEditDate": 1784842370649
+    },
+    "attributes": [
+      {
+        "objectid": 500,
+        "zoning": "RU-4",
+        "jurisdicti": "COUNTY",
+        "comments": "",
+        "type_zoning": "RURAL",
+        "area": null,
+        "acreage": 3389.46201536,
+        "globalid": "e5e2d1ee-d498-4960-9ae3-bac59bfa85a7",
+        "conditional": null,
+        "prefix": "RU",
+        "bos_approval": null,
+        "docket": null,
+        "ordinance": null,
+        "url": null,
+        "Shape__Area": 160028266993.35312,
+        "Shape__Length": 5830943.628046822
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Zoning - Benson",
+    "name": "layer-47",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 39466.37007873811,
+      "ymin": 182950.06955379632,
+      "xmax": 79083.61351706242,
+      "ymax": 251773.80446193222,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise_County_Low_Distortion_Projection\",GEOGCS[\"GCS_North_American_Datum_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"Geodetic_Reference_System_of_1980\",6378137.0,298.257222100892]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.3166666666667],UNIT[\"Foot (International)\",0.3048]]",
+        "wkt2": "PROJCRS[\"Cochise_County_Low_Distortion_Projection\",BASEGEOGCRS[\"GCS_North_American_Datum_1983\",DATUM[\"D_North_American_1983\",ELLIPSOID[\"Geodetic_Reference_System_of_1980\",6378137.0,298.257222100892]],PRIMEM[\"Greenwich\",0.0],CS[ellipsoidal,2],ANGLEUNIT[\"Degree\",0.0174532925199433]],CONVERSION[\"Transverse_Mercator\",METHOD[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0,LENGTHUNIT[\"Foot (International)\",0.3048]],PARAMETER[\"False_Northing\",0.0,LENGTHUNIT[\"Foot (International)\",0.3048]],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.3166666666667]],CS[Cartesian,2],AXIS[\"Easting (X)\",east,ORDER[1]],AXIS[\"Northing (Y)\",north,ORDER[2]],LENGTHUNIT[\"Foot (International)\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1780680252682,
+      "schemaLastEditDate": 1780680252682,
+      "dataLastEditDate": 1780680252682
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Special Use Permits",
+    "name": "layer-48",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -12294222.302145254,
+      "ymin": 3676102.145393878,
+      "xmax": -12139106.056211898,
+      "ymax": 3817220.106026478,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1786641207321,
+      "schemaLastEditDate": 1786641116171,
+      "dataLastEditDate": 1786641207321
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0,
+      "serverGens": {
+        "minServerGen": 13574887,
+        "serverGen": 13574887
+      }
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Sections (Plats and Surveys)",
+    "name": "layer-49",
+    "status": "VERIFIED_FINDING",
+    "count": 2,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 18350.48622047156,
+      "ymin": 6318.786417320372,
+      "xmax": 458605.9028871394,
+      "ymax": 404938.07513123006,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1788217132521,
+      "schemaLastEditDate": 1756841916424,
+      "dataLastEditDate": 1788212597974
+    },
+    "attributes": [
+      {
+        "objectid": 793,
+        "gid": 643,
+        "township": "17",
+        "range": "21",
+        "section_": "07",
+        "trs": "T17S R21E S07",
+        "geom": "",
+        "globalid": "8b06597c-c052-4056-a06f-9275a7b04ac0",
+        "Shape__Area": 27999210.91505432,
+        "Shape__Length": 21148.763669861888
+      },
+      {
+        "objectid": 794,
+        "gid": 644,
+        "township": "17",
+        "range": "21",
+        "section_": "08",
+        "trs": "T17S R21E S08",
+        "geom": "",
+        "globalid": "1866b325-235f-4b65-b6f7-2b3264273496",
+        "Shape__Area": 28057276.744642258,
+        "Shape__Length": 21188.28280211291
+      }
+    ],
+    "countVerification": {
+      "count": 2
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Roads",
+    "name": "layer-50",
+    "status": "VERIFIED_FINDING",
+    "count": 3,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -19488.31197640251,
+      "ymin": 5919.576376175409,
+      "xmax": 467515.350018294,
+      "ymax": 426299.6562009658,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]",
+        "wkt2": "PROJCRS[\"Cochise County\",BASEGEOGCRS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",ELLIPSOID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],CS[ellipsoidal,2],AXIS[\"Latitude (lat)\",north,ORDER[1]],AXIS[\"Longitude (lon)\",east,ORDER[2]],ANGLEUNIT[\"Degree\",0.0174532925199433]],CONVERSION[\"Transverse_Mercator\",METHOD[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0,LENGTHUNIT[\"Foot\",0.3048]],PARAMETER[\"False_Northing\",0.0,LENGTHUNIT[\"Foot\",0.3048]],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667]],CS[Cartesian,2],AXIS[\"Easting (X)\",east,ORDER[1]],AXIS[\"Northing (Y)\",north,ORDER[2]],LENGTHUNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1787600864548,
+      "schemaLastEditDate": 1787600864548,
+      "dataLastEditDate": 1787600864548
+    },
+    "attributes": [
+      {
+        "OBJECTID": 5211,
+        "TARGET_FID": 829544,
+        "dateupdate": 946684800000,
+        "rcl_nguid": "RCL79583@Cochise911.az.gov",
+        "fromaddr_l": 1932,
+        "toaddr_l": 2322,
+        "fromaddr_r": 1933,
+        "toaddr_r": 2323,
+        "parity_l": "E",
+        "parity_r": "O",
+        "st_premod": null,
+        "st_predir": "East",
+        "st_pretyp": null,
+        "st_presep": null,
+        "st_name": "4th",
+        "st_postyp": "Street",
+        "st_posdir": null,
+        "st_posmod": null,
+        "incmuni_l": "Unincorporated",
+        "incmuni_r": "Unincorporated",
+        "uninccom_l": "Benson",
+        "uninccom_r": "Benson",
+        "postcode_l": "85602",
+        "postcode_r": "85602",
+        "postcomm_l": "Benson",
+        "postcomm_r": "Benson",
+        "roadclass": null,
+        "oneway": null,
+        "speedlimit": null,
+        "valid_l": null,
+        "valid_r": null,
+        "psap_idleft": null,
+        "psap_idright": null,
+        "external_nguid": "79583",
+        "fullrdname": "EAST 4TH STREET",
+        "feature_status": null,
+        "SHAPE_Leng": null,
+        "RCLGridID": 16,
+        "GRIDNAME": "BENSON",
+        "cityname": null,
+        "acres": null,
+        "sqmi": null,
+        "RCLGridID_1": 0,
+        "Shape__Length": 4642.595244496124
+      },
+      {
+        "OBJECTID": 8880,
+        "TARGET_FID": 833225,
+        "dateupdate": 946684800000,
+        "rcl_nguid": "RCL14312@Cochise911.az.gov",
+        "fromaddr_l": 400,
+        "toaddr_l": 498,
+        "fromaddr_r": 401,
+        "toaddr_r": 499,
+        "parity_l": "E",
+        "parity_r": "O",
+        "st_premod": null,
+        "st_predir": "North",
+        "st_pretyp": null,
+        "st_presep": null,
+        "st_name": "Aacco",
+        "st_postyp": "Trail",
+        "st_posdir": null,
+        "st_posmod": null,
+        "incmuni_l": "Unincorporated",
+        "incmuni_r": "Unincorporated",
+        "uninccom_l": "Benson",
+        "uninccom_r": "Benson",
+        "postcode_l": "85602",
+        "postcode_r": "85602",
+        "postcomm_l": "Benson",
+        "postcomm_r": "Benson",
+        "roadclass": null,
+        "oneway": null,
+        "speedlimit": null,
+        "valid_l": null,
+        "valid_r": null,
+        "psap_idleft": null,
+        "psap_idright": null,
+        "external_nguid": "14312",
+        "fullrdname": "NORTH AACCO TRAIL",
+        "feature_status": null,
+        "SHAPE_Leng": null,
+        "RCLGridID": 16,
+        "GRIDNAME": "BENSON",
+        "cityname": null,
+        "acres": null,
+        "sqmi": null,
+        "RCLGridID_1": 0,
+        "Shape__Length": 383.70745457350944
+      },
+      {
+        "OBJECTID": 19989,
+        "TARGET_FID": 864486,
+        "dateupdate": 946684800000,
+        "rcl_nguid": "RCL3198069@Cochise911.az.gov",
+        "fromaddr_l": 500,
+        "toaddr_l": 598,
+        "fromaddr_r": 501,
+        "toaddr_r": 599,
+        "parity_l": "E",
+        "parity_r": "O",
+        "st_premod": null,
+        "st_predir": "North",
+        "st_pretyp": null,
+        "st_presep": null,
+        "st_name": "Aacco",
+        "st_postyp": "Trail",
+        "st_posdir": null,
+        "st_posmod": null,
+        "incmuni_l": "Unincorporated",
+        "incmuni_r": "Unincorporated",
+        "uninccom_l": "Benson",
+        "uninccom_r": "Benson",
+        "postcode_l": "85602",
+        "postcode_r": "85602",
+        "postcomm_l": "Benson",
+        "postcomm_r": "Benson",
+        "roadclass": null,
+        "oneway": null,
+        "speedlimit": null,
+        "valid_l": null,
+        "valid_r": null,
+        "psap_idleft": null,
+        "psap_idright": null,
+        "external_nguid": "3198070",
+        "fullrdname": "NORTH AACCO TRAIL",
+        "feature_status": null,
+        "SHAPE_Leng": null,
+        "RCLGridID": 16,
+        "GRIDNAME": "BENSON",
+        "cityname": null,
+        "acres": null,
+        "sqmi": null,
+        "RCLGridID_1": 0,
+        "Shape__Length": 532.9593160099746
+      }
+    ],
+    "countVerification": {
+      "count": 3
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Master Development Plan",
+    "name": "layer-53",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.551692,
+      "ymin": 31.280556,
+      "xmax": -108.936702,
+      "ymax": 32.518688,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1714421143978,
+      "schemaLastEditDate": 1714420799508,
+      "dataLastEditDate": 1714421143978
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Incorporated Limits (Cochise County)",
+    "name": "layer-55",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": 22109.727362204343,
+      "ymin": 6354.158136479557,
+      "xmax": 319802.14698162675,
+      "ymax": 351438.4658792615,
+      "spatialReference": {
+        "wkt": "PROJCS[\"Cochise County\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",240000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-109.75],PARAMETER[\"Scale_Factor\",1.000195],PARAMETER[\"Latitude_Of_Origin\",31.31666666666667],UNIT[\"Foot\",0.3048]]"
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1781021262708,
+      "schemaLastEditDate": 1761853441196,
+      "dataLastEditDate": 1761853441196
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Comp Plan Growth Areas",
+    "name": "layer-58",
+    "status": "NO_FEATURE_IN_QUERY",
+    "count": 0,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.45133869999997,
+      "ymin": 31.33399330000003,
+      "xmax": -109.18514109999995,
+      "ymax": 32.41308340000006,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1784842366854,
+      "schemaLastEditDate": 1770754336326,
+      "dataLastEditDate": 1770754336326
+    },
+    "attributes": [],
+    "countVerification": {
+      "count": 0
+    },
+    "queryResultComplete": true
+  },
+  {
+    "title": "Comp Plan Designation",
+    "name": "layer-59",
+    "status": "VERIFIED_FINDING",
+    "count": 1,
+    "exceededTransferLimit": false,
+    "fullPolygonScope": true,
+    "layerExtent": {
+      "xmin": -110.46087649999998,
+      "ymin": 31.332352900000046,
+      "xmax": -109.04788779999996,
+      "ymax": 32.42766340000003,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "layerLastEdit": {
+      "lastEditDate": 1784842365178,
+      "schemaLastEditDate": 1770756149894,
+      "dataLastEditDate": 1770756149894
+    },
+    "attributes": [
+      {
+        "objectid": 1,
+        "gid": 1,
+        "desig": "RURAL",
+        "cat": "D",
+        "cat_desig": "D-RURAL",
+        "ts": "2018-06-25 19:43:59",
+        "featurename": "D-RURAL",
+        "globalid": "a96c0b72-1261-433d-a8f4-caa40f484da8",
+        "Shape__Area": 1.3415567362667389,
+        "Shape__Length": 12.533582152123188
+      }
+    ],
+    "countVerification": {
+      "count": 1
+    },
+    "queryResultComplete": true
+  }
+]

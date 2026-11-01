@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-09-04",
+  "method": "Research priority = rounded sum of factor weight × value/5 × evidence multiplier (V0 0, V1 .35, V2 .65, V3 .85, V4 1). Unknown earns zero. The next-test factor is an analyst judgment. This is not a probability, valuation, power score or spending authorization. Priority tier additionally requires current sourced polygon and all nine core county checks at full-polygon scope. Shared assemblage files are not independent opportunities. Prior rejections are strategy-specific and may be reopened with new evidence.",
+  "records": [
+    {
+      "id": "tx-milam-r22018",
+      "name": "Rockdale — Hwy 77 partial offering",
+      "recordType": "PARCEL",
+      "apn": "R22018 (property ID; offered portion unresolved)",
+      "state": "TX",
+      "county": "Milam",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "Retain this earlier primary lead, but do not treat a marketed approximately 189-acre tract as a verified standalone cadastral parcel. Resolve the offered-part survey, governing jurisdiction and access first. No utility capacity or seller option receptivity is established.",
+      "thesis": "A legally defined, controllable large tract near an industrial market could justify further work only if development jurisdiction, road rights, flood/drainage constraints and a parcel-specific utility intake path survive the screen.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Offering",
+          "value": "Approximately 189 acres, TBD S Hwy 77",
+          "status": "MARKETING",
+          "sourceIds": [
+            "ROC-LIST"
+          ]
+        },
+        {
+          "label": "Property identifier",
+          "value": "R22018 from prior scan; exact offered-part boundary not obtained",
+          "status": "INHERITED",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "MILAM-CAD"
+          ]
+        },
+        {
+          "label": "Asking terms",
+          "value": "Obtain current written quote and included legal description",
+          "status": "UNKNOWN",
+          "sourceIds": [
+            "ROC-LIST"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "County-first falsification",
+          "body": "The Milam Appraisal District and the broker offering were identified. The present cadastral parcel record, parent-versus-offered acreage reconciliation and polygon export were not obtained. Marketing language such as unrestricted is not proof of no floodplain, subdivision, extraterritorial, road, title, water or environmental constraints.",
+          "sourceIds": [
+            "MILAM-CAD",
+            "ROC-LIST",
+            "ROC-PRIOR"
+          ]
+        },
+        {
+          "title": "Commercial test",
+          "body": "A prior primary-lead label is preserved as history, not carried forward as proof. Obtain the seller-provided survey and low-cost cooperation before evaluating paid control. Buyer mandate, utility territory, MW, timing and large-load deposits remain unknown.",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "ROC-LIST"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Prior property ID and current marketing, unresolved tract boundary."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "No official project-use classification."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No parcel-specific utility path."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Marketed offering, no verified option cooperation."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Large tract / road signal but no formal constraint screen."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "One survey/legal-description request can materially change the decision."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "Prior property ID and marketed 189-acre partial tract have not been reconciled to the current legal parcel.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "ROC-LIST",
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "City limits, ETJ / other applicable authorities and county permit requirements have not been resolved for the full offered polygon.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Broker descriptions are not a government permitted-use determination.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "ROC-LIST"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "Official appraisal entry point found; no complete county constraint result was exported.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Highway frontage is a marketing signal, not proof of an authorized heavy-industrial access point.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "ROC-LIST"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "ROC-LIST",
+          "title": "TBD S Hwy 77, approximately 189 acres",
+          "url": "https://www.longhornrealty.com/property-search/detail/44/2219551/tbd-s-hwy-77-rockdale-tx-76567/",
+          "publisher": "Longhorn Realty",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "MARKETING",
+          "limitation": "Marketing identifies an offering, not current cadastral geometry, title, legal unrestricted use, access permits or utility capacity."
+        },
+        {
+          "id": "MILAM-CAD",
+          "title": "Milam Appraisal District",
+          "url": "https://milamad.org/",
+          "publisher": "Milam Appraisal District",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official appraisal/property-search entry point. R22018 exact current record and offered partial tract not freshly resolved."
+        },
+        {
+          "id": "ROC-PRIOR",
+          "title": "Prior national scan: Rockdale R22018",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Prior scan called this a primary lead. It identified property ID R22018 and an approximately 189-acre partial offering; the parent/offer distinction is still unresolved."
+        }
+      ],
+      "actions": [
+        {
+          "id": "tx-milam-r22018-a1",
+          "order": 1,
+          "title": "Resolve property ID and offered legal tract",
+          "contact": "Milam Appraisal District and current broker",
+          "channel": "Official property-search/contact route: https://milamad.org/",
+          "question": "Does R22018 identify the entire parent or the approximately 189-acre offering? Provide the current parcel ID, survey/legal description, any proposed split and current ownership record.",
+          "decision": "Define the asset and remove the parent/partial-tract ambiguity.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "tx-milam-r22018-a2",
+          "order": 2,
+          "title": "Obtain authority and cheap diligence rights",
+          "contact": "Current Hwy 77 listing broker / owner",
+          "channel": "https://www.longhornrealty.com/property-search/detail/44/2219551/tbd-s-hwy-77-rockdale-tx-76567/",
+          "question": "Which restrictions, recorded easements, leases and access permits affect the offered tract? Will the owner provide the survey/title documents and authorize a no-cost utility/process inquiry?",
+          "decision": "Test controllability before commissioning technical reports.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "tx-milam-r22018-a3",
+          "order": 3,
+          "title": "Verify development authority and overlays using the survey",
+          "contact": "Milam County development / floodplain office; City of Rockdale only if applicable",
+          "channel": "Resolve the correct office from official county/city directories after the polygon is established",
+          "question": "Which jurisdiction(s), floodplain/development permits, subdivision rules, public/private road rights and water districts cover this polygon? Please identify the controlling map and instrument.",
+          "decision": "Determine which legal restrictions apply; do not assume county land is unrestricted.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    }
+  ],
+  "revisions": []
+}

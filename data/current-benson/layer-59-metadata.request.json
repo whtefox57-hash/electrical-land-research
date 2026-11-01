@@ -1,0 +1,11 @@
+{
+  "name": "layer-59-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/CompPlanDesignation/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:48.589445+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 15213,
+  "sha256": "96d9a6b797aefde00c36605e0a7a36d5f17a289d6ed0d637700bbe8ce3cf8975",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "planning-page",
+  "url": "https://cochise.az.gov/231/Planning-Zoning-Division",
+  "retrievedAt": "2026-09-05T17:58:17.144643+00:00",
+  "method": "GET",
+  "resultStatus": "BLOCKED",
+  "error": "HTTP Error 403: Forbidden"
+}

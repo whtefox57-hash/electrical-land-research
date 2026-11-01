@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "producerId": "research-session-2026-09-05",
+  "runId": "benson-gis-20260905-02051401f3cf",
+  "producedAt": "2026-09-05T18:03:46.096097+00:00",
+  "title": "Benson official full-polygon GIS investigation \u2014 September 5, 2026",
+  "recordIds": [
+    "az-cochise-12002003a"
+  ],
+  "original": "# Benson APN 120-02-003A \u2014 official GIS review\n\nProduced September 5, 2026. Retain **Priority** for research; **capital HOLD**. The exact county polygon and material map findings are now recovered. This is a partial completed GIS investigation, not a cleared development site or a supported hard kill.\n\n## Decision-changing findings\n\n1. **The county source itself contains the acreage discrepancy.** Exact APN query matched one feature, OBJECTID 54676, with `apn=12002003A`, `parcel_size=115.45`, and `acres=106.92`. The owner-of-record field is `FENNER L L C`, tax year 2027, account type Agricultural. The legal-text field is explicitly shortened. These are published tax/GIS attributes, not title, authority, price or an established offered portion. Do not attribute the 8.53-acre difference to the road without documentary proof. [County parcel layer](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0)\n\n2. **County GIS supports RU-4 and the unincorporated research route.** The full-polygon intersection returns one county zoning feature marked `RU-4`, `COUNTY`; no incorporated-limit or Benson zoning feature was returned. Road records also label the location unincorporated. This supports using Cochise County Planning; a current parcel-specific legal-use determination remains open. [County zoning](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Zoning/FeatureServer/0), [incorporated limits](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Incorp/FeatureServer/0)\n\n3. **The road concern is real as a mapping fact.** Two `NORTH AACCO TRAIL` centerline features and one `EAST 4TH STREET` feature intersect the full parcel polygon. No width, recorded public right, deed instrument or maintenance conclusion is contained in those road attributes. The dedicated-right-of-way and county-maintained-road layers returned zero intersecting features; neither is proof that the road lacks an easement or public rights. The reported 50-foot width remains unverified. [Roads](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_Roads/FeatureServer/0), [dedicated ROW](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_ROW/FeatureServer/0), [maintenance](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/MaintainedRoadSegmented/FeatureServer/0)\n\n4. **A military electronic-range overlay needs interpretation.** The parcel query intersects the county-published Fort Huachuca Electronic Range layer, including its `Active=Yes` feature, noted as updated November 20, 2025. Two historical `Active=No` features also return and must not be counted as additional current restrictions. Other queried Fort Huachuca airfield safety/high-noise/Hubbard layers returned no intersecting features. The electronic-range result is a consultation/applicability question, not an automatic development prohibition. [Electronic range](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fort%20Huachuca%20Electronic%20Range/FeatureServer/0)\n\n5. **Two registry well points intersect, with different evidentiary limits.** The ADWR 2024 layer returns 55-909771, named to Fenner LLC, with pump/test-rate fields null, plus 55-628012, named to San Pedro Ranch. These are mapped registry records, not proof of surveyed location, present ownership, working condition, available production, industrial rights or permitted withdrawals. The older well's numeric pump/test fields must not be substituted for the Fenner well's unknown yield. Water-company service polygons did not intersect; fire/water/sanitation tax-district attributes read NONE. None of those negatives establishes inability to obtain service or absence of emergency response. [ADWR well registry layer](https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Well_Registry_2024/FeatureServer/0)\n\n6. **Utility and telecom polygons remain signals.** The county-linked electric-area view returns SULPHUR SPRINGS VALLEY ELECTRIC COOPERATIVE. Telephone mapping returns CENTURY LINK with an older 2011 attribute timestamp. Neither proves exact serving arrangements, available load MW, a service date, carrier routes, route diversity or fiber construction cost. Available load MW remains UNKNOWN. [Electric-area view](https://services6.arcgis.com/l7uujk4hHifqabRB/arcgis/rest/services/Arizona_Utility_Company_Boundaries_VIEW/FeatureServer/0), [telephone area](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Telephone%20Company/FeatureServer/0)\n\n7. **Plan and flood evidence require limited conclusions.** The mapped plan designation is D-RURAL and the feature carries a 2018 timestamp; its data-last-edit metadata predates the county's stated March 10, 2026 plan adoption. Do not call that feature a verified 2026 future-land-use designation. Two FIRM panels intersect: 04003C1251F and 04003C1253F, with an August 28, 2008 effective-date field. The reduced flood-hazard layer and base-flood-elevation layer return no intersecting features. This does not establish flood-free land, complete current NFHL coverage, absence of washes or a drainage solution. [Plan layer](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/CompPlanDesignation/FeatureServer/0), [FIRM panels](https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/S_FIRM_PAN/FeatureServer/1), [County Planning](https://cochise.az.gov/231/Planning-Zoning-Division)\n\n## Work performed and scope\n\nThe official county assessor page links the Cochise GIS hub. The official Planning page links the zoning application with item ID `0e9f91241bf247b8901686355ff6e144`; its configuration identifies webmap `0515fb4693ee45e68f3b23d11308268a`. That published webmap's complete operational-layer inventory, including source URLs, IDs, styling/popups and filters, was saved. Twenty-six selected published layers were queried against the **whole recovered polygon**, not its locator or bounding-box centroid. Raw requests, metadata, responses, hashes and retrieval times are retained. A second count query checks each returned result count. Layers not queried remain NOT_REVIEWED; the inventory is the full linked webmap inventory, not a claim to catalog every record held by the county.\n\nThe exact parcel result is exported in EPSG:4326. The source layer uses a custom Cochise low-distortion projection in international feet. A separate EPSG:26912 response supports an independent planar calculation of approximately **106.80 GIS acres**, versus the source's **106.92 acres** attribute. Preserve both; a roughly 0.12-acre map/attribute difference is additional QA uncertainty, not a deed correction. Net developable acreage and largest contiguous buildable acreage remain **UNKNOWN**. Road width, recorded interests, setbacks, drainage and other restrictions are incomplete, so a precise net figure would be misleading.\n\nCounty-wide Planning describes the 2026 plan as adopted March 10, 2026 and states it does not itself rezone parcels or approve projects. The linked municipal-code site rendered a dynamic template instead of substantive code text in the research browser. Search located an Ordinance 26-09/data-center lead, but the actual adopted text and parcel applicability were not recovered here. No current use permission or moratorium status is concluded from search snippets.\n\n## Next decisive work\n\n- Retrieve the full deed/legal description and recorded N Aacco Trail right-of-way/easement instrument. Reconcile whether 115.45 is tax/legal acreage and 106.92 is mapped acreage, and whether 90/103/13 acres are marketing variants or legal offered portions. County sections layer identifies T17S R21E S07 and a touch/intersection with S08; a section result is a document-search lead, not a survey.\n- Verify the legal text of Ordinance 26-09 and any later amendment, RU-4 treatment of the actual proposed use, and applicability of the active electronic-range overlay. Prioritize original county records before a targeted Planning question.\n- Retrieve current FEMA/NFHL/panel and local drainage material, recorded corridor width and actual build setbacks. Then produce gross, constraint-union and largest-contiguous-area scenarios with assumptions visible.\n- Resolve the two well records, exact utility intake and fire-water/service requirements. Do not seek a paid utility study merely to identify or retain this research lead.\n\nNo messages, applications, payments, agreements or account registrations were made. This review recommends no option payment and no irreversible rejection.",
+  "findings": [
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Exact APN geometry and acreage conflict: One exact APN feature recovered: OBJECTID 54676; parcel_size 115.45, acres 106.92; FENNER L L C owner-of-record; independent UTM area approximately 106.80 acres. Limit: Tax/GIS fields and mapped boundary are not surveyed title, authority, present market price, or the offered portion.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0/query?f=geojson&where=apn+IN+%28%2712002003A%27%2C%27120-02-003A%27%29&outFields=%2A&outSR=4326&returnGeometry=true",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Mapped RU-4 and jurisdiction route: Full-polygon query returns one county RU-4 zoning feature; zero city-incorporated-limit/Benson zoning features; road attributes label Unincorporated. Limit: Supports County Planning as research route; no data-center permission or jurisdiction legal opinion.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Zoning/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "N Aacco Trail mapped intersection: Two North Aacco Trail road features and one East 4th Street feature intersect the whole parcel polygon. Limit: Road centerlines do not establish surveyed easement location, width, public rights or legal access. Reported 50-foot width is still user-reported.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_Roads/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Road records remain incomplete: Dedicated-ROW and county-maintained-road dataset queries each returned zero features. Limit: Query results complete by independent counts; completeness of all recorded easements/public rights is not established. Not proof that easement or access rights are absent.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_ROW/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Active Electronic Range overlap: One Active=Yes Fort Huachuca Electronic Range feature updated 20251120 intersects, alongside two inactive historical features. Limit: Mapped overlap requires applicable code and consultation review; not an automatic hard failure.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Fort%20Huachuca%20Electronic%20Range/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Two mapped ADWR well registry points: Registry IDs 55-909771 and 55-628012 intersect; Fenner record 909771 has pump/test-rate fields null. Limit: Mapped registry locations and old recorded attributes do not prove working wells, sustainable yield, title/control or present industrial withdrawal rights.",
+      "sourceUrl": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Well_Registry_2024/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "SSVEC territory signal: One SULPHUR SPRINGS VALLEY ELECTRIC COOPERATIVE polygon intersects the parcel. Limit: Service-area map is not exact-parcel utility confirmation, available MW or schedule. Available load MW remains null.",
+      "sourceUrl": "https://services6.arcgis.com/l7uujk4hHifqabRB/arcgis/rest/services/Arizona_Utility_Company_Boundaries_VIEW/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Telephone service-area signal: CENTURY LINK mapped telephone territory intersects, with 2011 feature timestamp. Limit: Not provider confirmation, fiber routes, diversity, available capacity or cost.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Telephone%20Company/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Plan designation freshness conflict: Published map returns D-RURAL with 2018 feature timestamp and data-last-edit metadata before the county-stated March 10, 2026 plan adoption. Limit: Current 2026 future-land-use applicability is not established.",
+      "sourceUrl": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/CompPlanDesignation/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Panel identifiers and limited flood query: Two FIRM panels 04003C1251F and 04003C1253F intersect; reduced flood-hazard and base-flood-elevation layers each return zero. Limit: No flood-free or drainage-clearance conclusion; verify current NFHL, panel coverage and local washes/drainage.",
+      "sourceUrl": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Tax district and water-service mapping: Tax mapping attributes fire/water/sanitation district names as NONE, while water-company service area query returns zero. Limit: Does not prove no emergency response or impossibility of services; provider/authority determination remains open.",
+      "sourceUrl": "https://services.arcgis.com/C34zQ7veRS0V1t04/ArcGIS/rest/services/CWS_Service_Area/FeatureServer/0",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    },
+    {
+      "recordId": "az-cochise-12002003a",
+      "text": "Current data-center code applicability: County-linked code page rendered a dynamic template rather than substantive ordinance text. Ordinance 26-09 identified as a research lead but its adopted text not recovered in this run. Limit: No present moratorium or allowed-use conclusion. Search snippets are insufficient.",
+      "sourceUrl": "https://cochisecounty.municipalcodeonline.com/book?type=ordinances",
+      "sourceDate": "2026-09-05T18:03:46.096097+00:00"
+    }
+  ]
+}

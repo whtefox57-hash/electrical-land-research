@@ -1,0 +1,11 @@
+{
+  "name": "viewer-app",
+  "url": "https://www.arcgis.com/sharing/rest/content/items/0e9f91241bf247b8901686355ff6e144/data?f=json",
+  "retrievedAt": "2026-09-05T17:56:38.435273+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 50035,
+  "sha256": "20299c76ef575759e9b51129d9a163055b989b8d4619cbd23308b187a4fa3562",
+  "contentType": "application/json;charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

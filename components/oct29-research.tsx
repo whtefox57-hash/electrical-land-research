@@ -1,0 +1,4 @@
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import report from '@/data/research-oct29.json';
+export function October29Research(){return <section className="option-research"><header className="option-hero"><div><div className="option-eyebrow">LATEST RESEARCH · 29 OCTOBER 2026</div><h1>Month-end option shortlist</h1><p>Hinds first. Conditional control only; no site cleared for nonrefundable payment.</p><div className="option-links"><a href="/?view=active">Open Hinds dossier →</a><a href="/research-oct22">Previous October 22 review →</a></div></div></header><article className="panel stack oct29-report"><ReactMarkdown remarkPlugins={[remarkGfm]} components={{a:({children,href})=><a href={href} target="_blank" rel="noopener noreferrer">{children} ↗</a>,table:({children})=><div className="option-table"><table>{children}</table></div>}}>{report.markdown}</ReactMarkdown></article></section>}

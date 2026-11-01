@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "as_of": "2026-09-07T18:24:09.225Z",
+  "source": {
+    "publisher": "U.S. Energy Information Administration",
+    "route": "Inventory of Operable Generators",
+    "period": "2026-06",
+    "total_rows": 28237,
+    "fetched_rows": 28237,
+    "complete": true
+  },
+  "rules": {
+    "available_mw": "MUST_REMAIN_NULL_UNLESS_EXACT_PARCEL_UTILITY_ARTIFACT",
+    "status": "NODE_LEAD_ONLY"
+  },
+  "count": 3975
+}

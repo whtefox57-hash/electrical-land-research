@@ -1,0 +1,58 @@
+[
+  {
+    "evidence_id": "ev-databank-msp3",
+    "record_ids": [
+      "compute-current-databank-brooklyn-park-mn"
+    ],
+    "status": "matched",
+    "rationale": "Operator, MSP3 alias and 8111 Oxbow Creek address match; attached to Brooklyn Park campus history"
+  },
+  {
+    "evidence_id": "ev-vantage-mclaren",
+    "record_ids": [
+      "compute_atlas-c32faba0445fe0c2"
+    ],
+    "status": "matched",
+    "rationale": "737 Mathew Street and CA2 identity match McLaren campus; attached at campus scope"
+  },
+  {
+    "evidence_id": "ev-h5-quincy",
+    "record_ids": [
+      "compute-current-h5-data-centers-quincy-campus-wa"
+    ],
+    "status": "matched",
+    "rationale": "1711 M St NE and Intuit acquisition reference match Quincy campus"
+  },
+  {
+    "evidence_id": "ev-edgecore-louisa-shannon-hill",
+    "record_ids": [
+      "compute-current-edgecore-shannon-hill-louisa-va"
+    ],
+    "status": "matched",
+    "rationale": "Exact Shannon Hill Regional Business Park campus and 697-acre scope match"
+  },
+  {
+    "evidence_id": "ev-edgecore-culpeper",
+    "record_ids": [
+      "compute_atlas-4cfa0c87ebfea000"
+    ],
+    "status": "matched",
+    "rationale": "EdgeCore Culpeper campus and original120-acre announcement match; later campus expansion remains separately noted"
+  },
+  {
+    "evidence_id": "ev-databank-orangeburg",
+    "record_ids": [
+      "compute_atlas-b48250630b0049a1"
+    ],
+    "status": "matched",
+    "rationale": "DataBank LGA3 Orangeburg campus identity matches;2021acquired acreage and planned capacities remain historical, not current building specifications"
+  },
+  {
+    "evidence_id": "ev-iron-mountain-manassas-point",
+    "record_ids": [
+      "datacentersexposed-a1a9576ab5e7148d"
+    ],
+    "status": "matched",
+    "rationale": "Exact Manassas Point campus name and Prince William location; transaction party source supplies operator identity"
+  }
+]

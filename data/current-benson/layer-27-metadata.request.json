@@ -1,0 +1,11 @@
+{
+  "name": "layer-27-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Base_Flood_Elevation/FeatureServer/1?f=json",
+  "retrievedAt": "2026-09-05T17:58:26.037555+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 8870,
+  "sha256": "4e61ce8a51fd7420053779236d6cdc4bcfa2c03314c28cc021af63833d8a1e59",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

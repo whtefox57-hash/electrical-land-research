@@ -1,0 +1,768 @@
+[
+  {
+    "id": "eia-66923-szw-s",
+    "name": "SunZia Wind South \u2014 infrastructure node",
+    "state": "NM",
+    "county": "Lincoln",
+    "summary": "Generation signal only. Available load MW unknown. Exact controllable land has not been established.",
+    "recordType": "NODE",
+    "apn": "",
+    "origin": "Project Node Scout \u00b7 EIA June 2026",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Generation is a discovery signal, not a utility service commitment.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Generation signal",
+        "value": "2561.2 MW generator SZW-S",
+        "status": "GENERATION ONLY \u00b7 not load headroom",
+        "sourceIds": [
+          "NODE-SCOUT"
+        ]
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "NODE-SCOUT",
+        "title": "Project Node Scout \u2014 EIA generator inventory",
+        "url": "https://syncranicity.vercel.app/api/node-scout?limit=250",
+        "publisher": "Project service citing U.S. EIA",
+        "date": "2026-06 inventory",
+        "retrievedAt": "2026-09-07T18:24:09.225Z",
+        "kind": "GENERATION_SIGNAL",
+        "limitation": "Plant coordinate and generator values inherited from project endpoint. Not parcel geometry, land availability or a load-service study."
+      }
+    ],
+    "actions": [],
+    "geometry": null,
+    "geometrySource": "",
+    "location": {
+      "lon": -105.592542,
+      "lat": 34.351782,
+      "precision": "EIA-reported plant coordinate via project Node Scout; approximate infrastructure locator"
+    },
+    "kill": null,
+    "history": [],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "NODE ONLY \u00b7 source period 2026-06",
+    "capital_status": "HOLD",
+    "opportunityId": "eia-66923-szw-s",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Lincoln County \u2014 exact parcel authority not established",
+      "land": {
+        "kind": "NODE",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": [
+          {
+            "node_id": "EIA-66923-SZW-S",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "SunZia Wind South",
+            "generator": "SZW-S",
+            "state": "NM",
+            "county": "Lincoln",
+            "lat": 34.351782,
+            "lon": -105.592542,
+            "generation_net_summer_mw": 2561.2,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 2561.2 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          }
+        ]
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify an exact privately controllable tract; do not infer available load capacity."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "eia-63479-gen1",
+    "name": "Traverse Wind Project, LLC \u2014 infrastructure node",
+    "state": "OK",
+    "county": "Custer",
+    "summary": "Generation signal only. Available load MW unknown. Exact controllable land has not been established.",
+    "recordType": "NODE",
+    "apn": "",
+    "origin": "Project Node Scout \u00b7 EIA June 2026",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Generation is a discovery signal, not a utility service commitment.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Generation signal",
+        "value": "999 MW generator GEN1",
+        "status": "GENERATION ONLY \u00b7 not load headroom",
+        "sourceIds": [
+          "NODE-SCOUT"
+        ]
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "NODE-SCOUT",
+        "title": "Project Node Scout \u2014 EIA generator inventory",
+        "url": "https://syncranicity.vercel.app/api/node-scout?limit=250",
+        "publisher": "Project service citing U.S. EIA",
+        "date": "2026-06 inventory",
+        "retrievedAt": "2026-09-07T18:24:09.225Z",
+        "kind": "GENERATION_SIGNAL",
+        "limitation": "Plant coordinate and generator values inherited from project endpoint. Not parcel geometry, land availability or a load-service study."
+      }
+    ],
+    "actions": [],
+    "geometry": null,
+    "geometrySource": "",
+    "location": {
+      "lon": -98.834712,
+      "lat": 35.710953,
+      "precision": "EIA-reported plant coordinate via project Node Scout; approximate infrastructure locator"
+    },
+    "kill": null,
+    "history": [],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "NODE ONLY \u00b7 source period 2026-06",
+    "capital_status": "HOLD",
+    "opportunityId": "eia-63479-gen1",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Custer County \u2014 exact parcel authority not established",
+      "land": {
+        "kind": "NODE",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": [
+          {
+            "node_id": "EIA-63479-GEN1",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Traverse Wind Project, LLC",
+            "generator": "GEN1",
+            "state": "OK",
+            "county": "Custer",
+            "lat": 35.710953,
+            "lon": -98.834712,
+            "generation_net_summer_mw": 999,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 999 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          }
+        ]
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify an exact privately controllable tract; do not infer available load capacity."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "eia-1082-4",
+    "name": "Walter Scott Jr Energy Center \u2014 infrastructure node",
+    "state": "IA",
+    "county": "Pottawattamie",
+    "summary": "Generation signal only. Available load MW unknown. Exact controllable land has not been established.",
+    "recordType": "NODE",
+    "apn": "",
+    "origin": "Project Node Scout \u00b7 EIA June 2026",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Generation is a discovery signal, not a utility service commitment.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Generation signal",
+        "value": "805.8 MW generator 4; 705.9 MW generator 3",
+        "status": "GENERATION ONLY \u00b7 not load headroom",
+        "sourceIds": [
+          "NODE-SCOUT"
+        ]
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "NODE-SCOUT",
+        "title": "Project Node Scout \u2014 EIA generator inventory",
+        "url": "https://syncranicity.vercel.app/api/node-scout?limit=250",
+        "publisher": "Project service citing U.S. EIA",
+        "date": "2026-06 inventory",
+        "retrievedAt": "2026-09-07T18:24:09.225Z",
+        "kind": "GENERATION_SIGNAL",
+        "limitation": "Plant coordinate and generator values inherited from project endpoint. Not parcel geometry, land availability or a load-service study."
+      }
+    ],
+    "actions": [],
+    "geometry": null,
+    "geometrySource": "",
+    "location": {
+      "lon": -95.8408,
+      "lat": 41.18,
+      "precision": "EIA-reported plant coordinate via project Node Scout; approximate infrastructure locator"
+    },
+    "kill": null,
+    "history": [],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "NODE ONLY \u00b7 source period 2026-06",
+    "capital_status": "HOLD",
+    "opportunityId": "eia-1082-4",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Pottawattamie County \u2014 exact parcel authority not established",
+      "land": {
+        "kind": "NODE",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": [
+          {
+            "node_id": "EIA-1082-4",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Walter Scott Jr Energy Center",
+            "generator": "4",
+            "state": "IA",
+            "county": "Pottawattamie",
+            "lat": 41.18,
+            "lon": -95.8408,
+            "generation_net_summer_mw": 805.8,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 805.8 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          },
+          {
+            "node_id": "EIA-1082-3",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Walter Scott Jr Energy Center",
+            "generator": "3",
+            "state": "IA",
+            "county": "Pottawattamie",
+            "lat": 41.18,
+            "lon": -95.8408,
+            "generation_net_summer_mw": 705.9,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 705.9 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          }
+        ]
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify an exact privately controllable tract; do not infer available load capacity."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "eia-6664-1",
+    "name": "Louisa \u2014 infrastructure node",
+    "state": "IA",
+    "county": "Louisa",
+    "summary": "Generation signal only. Available load MW unknown. Exact controllable land has not been established.",
+    "recordType": "NODE",
+    "apn": "",
+    "origin": "Project Node Scout \u00b7 EIA June 2026",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Generation is a discovery signal, not a utility service commitment.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Generation signal",
+        "value": "745.6 MW generator 1",
+        "status": "GENERATION ONLY \u00b7 not load headroom",
+        "sourceIds": [
+          "NODE-SCOUT"
+        ]
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "NODE-SCOUT",
+        "title": "Project Node Scout \u2014 EIA generator inventory",
+        "url": "https://syncranicity.vercel.app/api/node-scout?limit=250",
+        "publisher": "Project service citing U.S. EIA",
+        "date": "2026-06 inventory",
+        "retrievedAt": "2026-09-07T18:24:09.225Z",
+        "kind": "GENERATION_SIGNAL",
+        "limitation": "Plant coordinate and generator values inherited from project endpoint. Not parcel geometry, land availability or a load-service study."
+      }
+    ],
+    "actions": [],
+    "geometry": null,
+    "geometrySource": "",
+    "location": {
+      "lon": -91.0931,
+      "lat": 41.3181,
+      "precision": "EIA-reported plant coordinate via project Node Scout; approximate infrastructure locator"
+    },
+    "kill": null,
+    "history": [],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "NODE ONLY \u00b7 source period 2026-06",
+    "capital_status": "HOLD",
+    "opportunityId": "eia-6664-1",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Louisa County \u2014 exact parcel authority not established",
+      "land": {
+        "kind": "NODE",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": [
+          {
+            "node_id": "EIA-6664-1",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Louisa",
+            "generator": "1",
+            "state": "IA",
+            "county": "Louisa",
+            "lat": 41.3181,
+            "lon": -91.0931,
+            "generation_net_summer_mw": 745.6,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 745.6 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          }
+        ]
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify an exact privately controllable tract; do not infer available load capacity."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "eia-6077-2",
+    "name": "Gerald Gentleman \u2014 infrastructure node",
+    "state": "NE",
+    "county": "Lincoln",
+    "summary": "Generation signal only. Available load MW unknown. Exact controllable land has not been established.",
+    "recordType": "NODE",
+    "apn": "",
+    "origin": "Project Node Scout \u00b7 EIA June 2026",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Generation is a discovery signal, not a utility service commitment.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Generation signal",
+        "value": "700 MW generator 2; 665 MW generator 1",
+        "status": "GENERATION ONLY \u00b7 not load headroom",
+        "sourceIds": [
+          "NODE-SCOUT"
+        ]
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "NODE-SCOUT",
+        "title": "Project Node Scout \u2014 EIA generator inventory",
+        "url": "https://syncranicity.vercel.app/api/node-scout?limit=250",
+        "publisher": "Project service citing U.S. EIA",
+        "date": "2026-06 inventory",
+        "retrievedAt": "2026-09-07T18:24:09.225Z",
+        "kind": "GENERATION_SIGNAL",
+        "limitation": "Plant coordinate and generator values inherited from project endpoint. Not parcel geometry, land availability or a load-service study."
+      }
+    ],
+    "actions": [],
+    "geometry": null,
+    "geometrySource": "",
+    "location": {
+      "lon": -101.1408,
+      "lat": 41.0808,
+      "precision": "EIA-reported plant coordinate via project Node Scout; approximate infrastructure locator"
+    },
+    "kill": null,
+    "history": [],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "NODE ONLY \u00b7 source period 2026-06",
+    "capital_status": "HOLD",
+    "opportunityId": "eia-6077-2",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Lincoln County \u2014 exact parcel authority not established",
+      "land": {
+        "kind": "NODE",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": [
+          {
+            "node_id": "EIA-6077-2",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Gerald Gentleman",
+            "generator": "2",
+            "state": "NE",
+            "county": "Lincoln",
+            "lat": 41.0808,
+            "lon": -101.1408,
+            "generation_net_summer_mw": 700,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 700 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          },
+          {
+            "node_id": "EIA-6077-1",
+            "status": "NODE_LEAD_ONLY",
+            "signal": "LARGE_OPERABLE_GENERATOR",
+            "plant": "Gerald Gentleman",
+            "generator": "1",
+            "state": "NE",
+            "county": "Lincoln",
+            "lat": 41.0808,
+            "lon": -101.1408,
+            "generation_net_summer_mw": 665,
+            "available_mw": null,
+            "source_period": "2026-06",
+            "why_now": [
+              "EIA reports 665 MW net summer generation capacity; this is not available load capacity"
+            ],
+            "critical_unknowns": {
+              "exact_apn": true,
+              "owner_authority": true,
+              "serving_utility": true,
+              "available_capacity": true,
+              "land_use": true,
+              "water": true,
+              "politics": true,
+              "alternate_use_floor": true
+            },
+            "next_cheapest_test": "Identify authoritative county parcel source around node; no option spend."
+          }
+        ]
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify an exact privately controllable tract; do not infer available load capacity."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  }
+]

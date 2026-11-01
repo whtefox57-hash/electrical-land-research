@@ -1,0 +1,166 @@
+{
+  "preparedAt": "2026-09-05",
+  "sourcePackAsOf": "2026-09-04",
+  "sourcePackSchemaVersion": 2,
+  "baselineRecordCount": 14,
+  "counts": {
+    "activeParcelTypedRecords": 4,
+    "unresolvedLeads": 4,
+    "archivedRecords": 6
+  },
+  "allGeometryFieldsNull": true,
+  "locatorRecordIds": [
+    "az-cochise-12002003a"
+  ],
+  "records": [
+    {
+      "id": "az-cochise-12002003a",
+      "name": "Benson \u2014 I-10 / N Aacco Trail",
+      "recordType": "PARCEL",
+      "lifecycle": "ACTIVE",
+      "apn": "120-02-003A"
+    },
+    {
+      "id": "ca-sanjoaquin-01322013",
+      "name": "Acampo \u2014 parcel 13",
+      "recordType": "PARCEL",
+      "lifecycle": "ACTIVE",
+      "apn": "013-220-13"
+    },
+    {
+      "id": "ca-sanjoaquin-01322058",
+      "name": "Acampo \u2014 parcel 58",
+      "recordType": "PARCEL",
+      "lifecycle": "ACTIVE",
+      "apn": "013-220-58"
+    },
+    {
+      "id": "tx-milam-r22018",
+      "name": "Rockdale \u2014 Hwy 77 partial offering",
+      "recordType": "PARCEL",
+      "lifecycle": "ACTIVE",
+      "apn": "R22018 (property ID; offered portion unresolved)"
+    },
+    {
+      "id": "ga-burke-079062-part",
+      "name": "Waynesboro \u2014 offered part of 079-062",
+      "recordType": "UNRESOLVED_LEAD",
+      "lifecycle": "ACTIVE",
+      "apn": "079-062 (PART)"
+    },
+    {
+      "id": "pa-schuylkill-mcadoo-unresolved",
+      "name": "McAdoo \u2014 approximately 110-acre lead",
+      "recordType": "UNRESOLVED_LEAD",
+      "lifecycle": "ACTIVE",
+      "apn": ""
+    },
+    {
+      "id": "tx-briscoe-silverton-unresolved",
+      "name": "Silverton / Briscoe \u2014 catalyst lead",
+      "recordType": "UNRESOLVED_LEAD",
+      "lifecycle": "ACTIVE",
+      "apn": ""
+    },
+    {
+      "id": "legacy-mason-unresolved",
+      "name": "Mason County / Meadowland reference",
+      "recordType": "UNRESOLVED_LEAD",
+      "lifecycle": "ACTIVE",
+      "apn": ""
+    },
+    {
+      "id": "ca-sanjoaquin-05926084",
+      "name": "Eight Mile Road \u2014 059-260-84",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "059-260-84"
+    },
+    {
+      "id": "ca-sanjoaquin-05926086",
+      "name": "Eight Mile Road \u2014 059-260-86",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "059-260-86"
+    },
+    {
+      "id": "ca-sanjoaquin-00517015",
+      "name": "Peltier Road \u2014 005-170-15",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "005-170-15"
+    },
+    {
+      "id": "ca-sanjoaquin-00517016",
+      "name": "Peltier Road \u2014 005-170-16",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "005-170-16"
+    },
+    {
+      "id": "ca-sanjoaquin-06308023",
+      "name": "Harney Lane \u2014 063-080-23",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "063-080-23"
+    },
+    {
+      "id": "ca-sanjoaquin-06315041",
+      "name": "Harney Lane \u2014 063-150-41",
+      "recordType": "PARCEL",
+      "lifecycle": "REJECTED",
+      "apn": "063-150-41"
+    }
+  ],
+  "opportunityGrouping": {
+    "acampo": [
+      "ca-sanjoaquin-01322013",
+      "ca-sanjoaquin-01322058"
+    ]
+  },
+  "automationsChanged": false,
+  "siteDeployed": false,
+  "newParcelResearchPerformed": false,
+  "sha256": {
+    "BUILD_PROMPT.md": "af53af078aefcadec7ae2065715cc3cbe96257b65a85d7a09eec01c82a26f9f2",
+    "COUNTY_GIS_WORKFLOW_V3.md": "a768fb6698e4a727e58fcbf3df7d4c8c619663be58e6b4523209d02ec2d41f13",
+    "PARCEL_DEEP_SCAN_TASK_AMENDMENT.md": "07369e2c5641f05d44d30b9d71cd0b4d9e9ada7f2d932e71a2990b39d70c4402",
+    "README.md": "4f394465e10b31f20757216e8cabc16792b0d6c068b79961b7123771af20bd0b",
+    "reference/SYNCRANICITY_IMPLEMENTATION_MATRIX.md": "ae622daaf102e40b6b94a12253465c474efa0cff568bf793420eaa62e735fbf4",
+    "reference/SYNCRANICITY_OPERATOR_MANUAL.md": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc",
+    "reference/Updated_gameplan_8_31_2026.pdf": "ca93ea78962fb5925ab17edd8d04e72e7d1f8c8e7dca70817fbb290614a22e09",
+    "research/COUNTY_FIRST_WORKFLOW.md": "2dd020dacb77e2c34502c0f37f37e101cb8ca9a1de65aad3601c55397404b8ae",
+    "research/RANKING.md": "47cb88b3c6234810b8cf896ce0737544c9e7edf1db29d7ab261edf0b38c331fd",
+    "research/RESEARCH_COVERAGE_AND_FAILURES.json": "9d1ee344859e068e8d4dcae6b940cb91b1856e2270dda7bb67c9457e52ae7143",
+    "research/next-actions.json": "e0bb6848133c72f0e130fc42a231a73bacec8e8c371308cb54f1157a474e406c",
+    "research/parcels/az-cochise-12002003a.json": "48a2e039d89b68163a9b2e70c44d6a6d6e67b7d3a977af70dfeb470c3f618f4c",
+    "research/parcels/az-cochise-12002003a.md": "43f5a5f0178cada8fc99490040bedede86dd911f131ad75f88967d63c1cf74ba",
+    "research/parcels/ca-sanjoaquin-00517015.json": "bc2c6d5cb2dd6eef63ca6258eb7d69de62bef3b1530034c2b141b31a5c1503ac",
+    "research/parcels/ca-sanjoaquin-00517015.md": "79a7822fac2bd04efd9a3c18b81fafedf221e6a78a47fbcafb93e2431d5dea22",
+    "research/parcels/ca-sanjoaquin-00517016.json": "703643893875f750c78d5e43db6554e9fc287ca5def808e28631f6c8eccc47eb",
+    "research/parcels/ca-sanjoaquin-00517016.md": "9a660ec28e71dc0ef61e9a6336a207aa2e81806e60419aeb1a596cb7d4cc02eb",
+    "research/parcels/ca-sanjoaquin-01322013.json": "7d6d6146ac9800ee8611f5ac0463d202cf593a6ccf58ffce9e64b4b21981e620",
+    "research/parcels/ca-sanjoaquin-01322013.md": "db61a461d2943e2526f33e598349997e6227abfb8a627e35f0f3cfd2cd8ac47e",
+    "research/parcels/ca-sanjoaquin-01322058.json": "f103856c891dd95213e282e0d1f22cf45cc75dbdeb055494360e4f76f8e54c15",
+    "research/parcels/ca-sanjoaquin-01322058.md": "490039a3625604b8e9619ce77bfcf07ed1aafc4916d0eeddf1ab3ff909bf36ed",
+    "research/parcels/ca-sanjoaquin-05926084.json": "66359483db297d636ff6856c55952f26a396794b512dc30fd9540fa9f1971f10",
+    "research/parcels/ca-sanjoaquin-05926084.md": "96b13105d9dbe10b809ef744174b34fde1f16ca5dda30b23916dc1b6c03dad2b",
+    "research/parcels/ca-sanjoaquin-05926086.json": "c85ff65f370406472428f13da4477d4a9136d2f783aa3754b088ca346d5bb04f",
+    "research/parcels/ca-sanjoaquin-05926086.md": "f4bc2c549511d12a207872c06c83859f15e2ecc3e351df1e6fb7cc1ef75bffc1",
+    "research/parcels/ca-sanjoaquin-06308023.json": "2e710968181d1a20bf7ee3d9e3567f3edcb6836a7b5aa6170076c9ca86355fc3",
+    "research/parcels/ca-sanjoaquin-06308023.md": "abe5a79ae3bd94fa06a20e3b8e790c68779eda61be0de32b7360ba8be9b7aa55",
+    "research/parcels/ca-sanjoaquin-06315041.json": "63b70e6fe8a90caf2741c139d9a282a2ddf23fc2bcb91e788eaac7cb7d4afa57",
+    "research/parcels/ca-sanjoaquin-06315041.md": "b0b9ecfc0bae70ec8eba85ead8d1c7fc9486525ba6ac6ba8ecca738910df3bf3",
+    "research/parcels/ga-burke-079062-part.json": "295464ef28d27450a0ea80bc44273d4990a648d3663f20f61d69feb3cf52823e",
+    "research/parcels/ga-burke-079062-part.md": "b845887bed819432a7a7ef38ab7508b15b719a861d9aae9aa10d775d55776903",
+    "research/parcels/legacy-mason-unresolved.json": "d8cb8cb6d4e99db40c9b73631e29f6e3da38d8a5fb4df8ef31d377437f3af833",
+    "research/parcels/legacy-mason-unresolved.md": "dce8ee747ee8cfee26790a6aca3f1c9815bc10c8ca37f51fce9e3c53110c0393",
+    "research/parcels/pa-schuylkill-mcadoo-unresolved.json": "0235855d5aa132d1b487d2b8223365d0c0a0389c9babcf32ce4077f31d2ef7d0",
+    "research/parcels/pa-schuylkill-mcadoo-unresolved.md": "95ff70e0507949f5899dc581b867fee3486ba5bedbb81180fe60581cca1b0f5e",
+    "research/parcels/tx-briscoe-silverton-unresolved.json": "475c6aa73cca6d9ea4a8a869887f8c863126320171dd495e47bf8d9fab84d02c",
+    "research/parcels/tx-briscoe-silverton-unresolved.md": "fe900196fa77ad51059254f8f94f63d1a393d72ce4dda88f16b8fd48ad088c0c",
+    "research/parcels/tx-milam-r22018.json": "4137a60df3dcbfcf7bc65ad84e5b57d8efa3adfb25b460596997087bfcd06d31",
+    "research/parcels/tx-milam-r22018.md": "00313800c248989b3c77c92d865ae5f5439e6f4736e80c4b6d44e4a02255ee32",
+    "research/research-pack.json": "93365d7c5d683c6186a67c787f356eccafd9de614ad02164715d2a6a80fbda17"
+  }
+}

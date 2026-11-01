@@ -1,0 +1,11 @@
+{
+  "name": "layer-58-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_CompPlanGrowthAreas/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:43.234482+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 9334,
+  "sha256": "265c060fe802eec1fd77f8626558482ac344cffd21b5edf9f66ea69713fac421",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

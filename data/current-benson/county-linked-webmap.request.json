@@ -1,0 +1,11 @@
+{
+  "name": "county-linked-webmap",
+  "url": "https://www.arcgis.com/sharing/rest/content/items/0515fb4693ee45e68f3b23d11308268a/data?f=json",
+  "retrievedAt": "2026-09-05T17:57:09.826286+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 267967,
+  "sha256": "7658383515e9cf162a88c6c7f682e7313ffcff79626abaa72dfeb79dbc62c47f",
+  "contentType": "application/json;charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

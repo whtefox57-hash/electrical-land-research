@@ -1,0 +1,4124 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-09-04",
+  "method": "Research priority = rounded sum of factor weight × value/5 × evidence multiplier (V0 0, V1 .35, V2 .65, V3 .85, V4 1). Unknown earns zero. The next-test factor is an analyst judgment. This is not a probability, valuation, power score or spending authorization. Priority tier additionally requires current sourced polygon and all nine core county checks at full-polygon scope. Shared assemblage files are not independent opportunities. Prior rejections are strategy-specific and may be reopened with new evidence.",
+  "records": [
+    {
+      "id": "az-cochise-12002003a",
+      "name": "Benson — I-10 / N Aacco Trail",
+      "recordType": "PARCEL",
+      "apn": "120-02-003A",
+      "state": "AZ",
+      "county": "Cochise",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "First low-cost investigation: reconcile the legal offering and the road corridor before considering control. Acreage, public-road/easement status and usable contiguous area remain unresolved. The existing power and well signals are not service commitments.",
+      "thesis": "A buyer-specific low-water industrial concept would need enough legally usable contiguous land after roads, easements, drainage and setbacks; an affordable transferable control agreement; a permitted-use path; and written utility intake. The working load hypothesis is not a buyer mandate.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Acreage conflict",
+          "value": "115.45 assessor / 106.92 prior GIS / 90, 103 and 13 marketing acres",
+          "status": "CONFLICT",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ]
+        },
+        {
+          "label": "Owner name in prior record",
+          "value": "Fenner L.L.C.",
+          "status": "INHERITED — authority unknown",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ]
+        },
+        {
+          "label": "Road corridor",
+          "value": "N Aacco Trail; approximately 50-foot easement reported",
+          "status": "USER REPORT — public status/width unverified",
+          "sourceIds": [
+            "BEN-CALL"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "SSVEC"
+          ]
+        },
+        {
+          "label": "Well lead",
+          "value": "55-909771; yield, quality and industrial-use rights unknown",
+          "status": "INHERITED",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ]
+        },
+        {
+          "label": "Spending posture",
+          "value": "$0 new third-party fees incurred in this research; prior exposure not reconstructed",
+          "status": "NO NEW AUTHORIZATION",
+          "sourceIds": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Land and buildable-area test",
+          "body": "Do not choose the largest acreage number or subtract an assumed road strip from marketing acreage. First establish the deed parcel and offered portion. A 50-foot corridor is only a reported width, and there is no confirmed corridor length. Gross acreage, net developable area and largest contiguous construction envelope are separate measurements. I-10 and rail adjacency can constrain access and construction; neither establishes a usable entrance or siding.",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ]
+        },
+        {
+          "title": "County-first review performed and its limit",
+          "body": "The current planning page and official viewer were identified, along with the county parcel/tax GIS layer. Layer discovery is completed; a new exact-feature export and complete overlay intersection were not obtained. Preserve the earlier report values as inherited, not freshly verified. The 2026 comprehensive plan and data-center ordinance materials need a current, use-specific applicability review.",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-GIS",
+            "CO-VIEW",
+            "CO-PARCEL"
+          ]
+        },
+        {
+          "title": "Power, water and conflicting reports",
+          "body": "Prior reports differ on well retrieval and the substation relationship to the parcel. The file keeps the well and substation as leads, not proven on-site infrastructure. Obtain the original well record, survey/parcel overlay and exact utility territory response. No MW, well yield, fire-flow supply, rail service or utility schedule is established.",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "SSVEC"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "Exact APN and multiple inherited records, but unresolved legal offering."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "County process is identifiable; project-specific permission is open."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No parcel/load utility artifact."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Marketing signals only; seller consent and option terms not verified."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "Known road/acreage contradictions, no net contiguous envelope."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 5,
+          "grade": "V2",
+          "rationale": "A narrowly targeted record request can resolve a large part of the land thesis."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "The APN is known, but the legal acreage and marketed portion are inconsistent.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-PRIOR",
+            "BEN-CALL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "County Planning is the identified route; a current complete-polygon jurisdiction result is not captured.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-VIEW"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Use classification and the current code/ordinance applicability require original parcel-specific documentation.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN",
+            "CO-VIEW"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Review the newly listed 2026 comprehensive plan against the entire parcel; old plan labels are not silently carried forward.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "Official GIS/parcel layer identified; no complete current overlay intersection exported.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "CO-GIS",
+            "CO-PARCEL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Research-browser retrieval failed. A working portal alone does not clear this gate."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "CONFLICT",
+          "result": "N Aacco Trail and an approximately 50-foot corridor were reported. Maintenance, public rights, boundaries and access permissions differ and must be established separately.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-CALL"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Road instrument, rail/right-of-way boundaries, utility reservations and all other title exceptions remain unassembled.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-CALL",
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Current planning cases and adopted/pending data-center rules require a use-specific final check.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "CO-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "An inherited well identifier is available; no sustainable lawful industrial supply or fire-water solution is proven.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Potential SSVEC intake route only; no written APN/load-specific service path, cost or timeline.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SSVEC",
+            "BEN-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "CO-PLAN",
+          "title": "Planning & Zoning Division",
+          "url": "https://cochise.az.gov/231/Planning-Zoning-Division",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Current process and contact page; not a parcel-specific land-use approval."
+        },
+        {
+          "id": "CO-GIS",
+          "title": "Geographic Information Systems",
+          "url": "https://www.cochise.az.gov/220/Geographic-Information-Systems",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official source registry. Availability of layers does not establish that each layer has been queried for this parcel."
+        },
+        {
+          "id": "CO-VIEW",
+          "title": "Official interactive zoning viewer",
+          "url": "https://cochise.maps.arcgis.com/apps/webappviewer/index.html?id=0e9f91241bf247b8901686355ff6e144",
+          "publisher": "Cochise County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Dynamic map linked by County Planning. Complete current parcel/overlay extraction did not succeed in this research session."
+        },
+        {
+          "id": "CO-PARCEL",
+          "title": "County parcel/tax GIS layer",
+          "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0",
+          "publisher": "Cochise County GIS",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Layer metadata identified. Exact-feature query was blocked in the research browser; geometry is not claimed as freshly retrieved."
+        },
+        {
+          "id": "BEN-PRIOR",
+          "title": "Benson hostile and precontact due-diligence reports",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Inherited AI research, not a substitute for the underlying county, deed, survey, well or utility document. Conflicts are retained."
+        },
+        {
+          "id": "BEN-CALL",
+          "title": "Founder report of county conversations",
+          "url": "",
+          "publisher": "Founder / county staff as reported by founder",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "USER_REPORT",
+          "limitation": "Oral information: 115.45 versus 106.92 acres, road N Aacco Trail, unmaintained road and approximately 50-foot easement. Width and public status not independently established."
+        },
+        {
+          "id": "SSVEC",
+          "title": "SSVEC official website",
+          "url": "https://www.ssvec.org/",
+          "publisher": "SSVEC",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Potential utility contact, not exact parcel territory or available MW confirmation."
+        }
+      ],
+      "actions": [
+        {
+          "id": "az-cochise-12002003a-a1",
+          "order": 1,
+          "title": "Resolve legal parcel, offered portion and road record",
+          "contact": "Cochise Planning / GIS, then assessor/recorder",
+          "channel": "County Planning: 520-432-9300; planning@cochise.az.gov",
+          "question": "For APN 120-02-003A, which deed, survey and recorded road instrument explain 115.45 versus 106.92 acres and N Aacco Trail? Does the 50-foot number describe a recorded public right-of-way, private easement or merely a GIS attribute?",
+          "decision": "Kill or continue the land-layout thesis without paying for an option.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a2",
+          "order": 2,
+          "title": "Obtain source documents already held by seller",
+          "contact": "Current listing broker / Fenner L.L.C. authorized representative",
+          "channel": "Use the existing verified listing contact; do not guess an email",
+          "question": "Provide the current legal description, all APNs offered, survey, title exceptions, road/easement instruments and authorization to make public-record and utility inquiries. Is 90/103/13 acres a legal split, excluded area, or alternate marketing?",
+          "decision": "Define the contract asset and seller cooperation.",
+          "costEstimate": "Request existing documents at $0; any title/survey quote needs approval.",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a3",
+          "order": 3,
+          "title": "Get a written use-path answer, not a generic zoning answer",
+          "contact": "Cochise Planning",
+          "channel": "520-432-9300; planning@cochise.az.gov",
+          "question": "After the boundary/road exhibit is assembled, which current provisions apply to this specific electricity-intensive industrial use, including generators, cooling, noise, water and setbacks? Please identify the governing section and any additional overlays.",
+          "decision": "Bound the entitlement route and layout exclusions.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "az-cochise-12002003a-a4",
+          "order": 4,
+          "title": "Confirm utility process only after owner authority / geometry",
+          "contact": "SSVEC large-load / engineering intake",
+          "channel": "Official SSVEC contact route: https://www.ssvec.org/",
+          "question": "Does SSVEC serve this exact APN? Can an authorized option holder request a preliminary large-load screen, and what owner authorization, customer credit, studies and deposits are needed? No capacity promise is requested.",
+          "decision": "Determine whether a sponsor-funded studyable path exists.",
+          "costEstimate": "No paid application or deposit authorized.",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": {
+        "lon": -110.235361,
+        "lat": 31.969801,
+        "precision": "PRIOR_REPORT_LOCATOR_NOT_CURRENT_SURVEY"
+      },
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": true
+    },
+    {
+      "id": "ca-sanjoaquin-01322013",
+      "name": "Acampo — parcel 13",
+      "recordType": "PARCEL",
+      "apn": "013-220-13",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "A documented industrial land-use history makes this worth targeted review, but it is one half of the same Acampo assemblage, not a separate independent opportunity. The access condition, neighboring homes, agricultural mitigation, utility service and data-center treatment remain open. Hold option money.",
+      "thesis": "Re-use the historical industrial conversion only if a low-water, buyer-sized concept can satisfy current land-use rules, all access/mitigation conditions, noise buffers, lawful water/fire supply and a real utility service path. Do not equate warehouse or truck/RV approval with data-center entitlement.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Address",
+          "value": "4262 E Woodbridge Road",
+          "status": "PROJECT IDENTIFICATION",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Assemblage",
+          "value": "Shared 30.09-acre project with 013-220-58; individual acreage not reconstructed",
+          "status": "ONE OPPORTUNITY / TWO PARCEL FILES",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Historical zone",
+          "value": "I-W in prior official approval review",
+          "status": "HISTORICAL — not a DC approval",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Asking price",
+          "value": "UNKNOWN / obtain current quote; prior captured listing withheld price",
+          "status": "UNVERIFIED CURRENT PRICE",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN; ordinary service is not multi-MW proof",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-POWER"
+          ]
+        },
+        {
+          "label": "Third APN discrepancy",
+          "value": "013-220-39 appears in prior marketing, not the two-APN approval",
+          "status": "CONFLICT",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Specific access and layout restrictions",
+          "body": "The earlier staff-report review identifies a private right-of-way condition through -58 benefiting -13, required before a building permit. Recorded completion and present compliance are not established. The prior review also identifies close residences, agricultural mitigation and opposition to the historical use. Resolve compliance and reserve buffer space before any preliminary data-center layout.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ]
+        },
+        {
+          "title": "Environmental and water scope",
+          "body": "The earlier truck-use initial study described Zone X with 0.2% annual-chance designation, private well/septic and on-site retention; no public water, sewer or storm drainage was established. Those findings are historical and for a different use. Do not label this flood-free, water-secure or Phase-I-cleared.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ]
+        },
+        {
+          "title": "Current policy",
+          "body": "September county direction starts a six-month policy study and leaves a possible October 45-day moratorium for later consideration. No current moratorium is established by that announcement.",
+          "sourceIds": [
+            "SJ-POLICY"
+          ]
+        },
+        {
+          "title": "Desktop source status",
+          "body": "Current CEQAnet, planning, policy and GIS resource pages were inspected. The original staff-report and initial-study PDF links were located but not successfully re-retrieved. Parcel-level access and environmental statements above are explicitly inherited from the September 2 packet. No current full-polygon GIS clearance is claimed.",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PLAN",
+            "SJ-GIS",
+            "SJ-STAFF",
+            "SJ-STUDY",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "Official historical project identifiers; current offering and third APN unresolved."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Industrial history, but no DC approval and changing policy."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No exact-parcel load-serving commitment."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "Prior sale/lease marketing only; price and consent not current."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Historical studies identify physical conditions and an unresolved access obligation."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Specific planning/title questions are available, but policy and multi-party dependencies increase burden."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "Two official project APNs and combined acreage are identified; marketing adds -39 and no current surveyed offering was obtained.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "FOUND",
+          "result": "The historical project was handled by the County for the unincorporated Acampo site. Current boundary remains to be reconfirmed.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-CEQA"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "Historical I-W approval is identified; proposed data-center classification is still unknown.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Original adopted designations and conditions must be applied to a new proposed use.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-STAFF",
+            "SJ-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "County GIS portal identified, but no new full-polygon overlay extraction is available.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "SJ-GIS"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "FOUND",
+          "result": "Earlier review reports Zone X, 0.2% annual-chance designation and on-site retention.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Historical truck-use study, not a current flood map determination, survey elevation or buyer flood clearance."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "FOUND",
+          "result": "Historical approval review identifies access via Highway 99 West Frontage Road and a cross-parcel private ROW condition.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Road adjacency and a permit condition do not establish current recorded compliance or adequate industrial access."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Whether the -58-to--13 easement has been recorded and conditions satisfied is unresolved. Obtain instrument and compliance sign-off.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "FOUND",
+          "result": "County policy study / possible future moratorium found. Track the actual later agenda/order rather than assuming adoption.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-POLICY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Prior review identifies wells, septic and retention, not a proven lawful data-center or fire-water supply.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "FOUND",
+          "result": "The prior staff-report review identifies close homes and opposition; site-specific buffers/noise analysis remain necessary.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Regional transmission improvements and marketing service claims do not establish parcel MW, tariff, schedule or cost.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-POWER",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-POLICY",
+          "title": "Board direction on large-scale AI data centers",
+          "url": "https://www.sjgov.org/department/bos/board-news/board-news-detail/2026/09/02/sjc-board-moves-to-address-impacts-of-large-scale-ai-data-centers",
+          "publisher": "San Joaquin County Board of Supervisors",
+          "date": "2026-09-01",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Policy study and possible future moratorium, not evidence that a moratorium is already effective."
+        },
+        {
+          "id": "SJ-CEQA",
+          "title": "Notice of Determination, SCH 2024080214",
+          "url": "https://ceqanet.lci.ca.gov/2024080214/4",
+          "publisher": "California CEQAnet / San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Specific historical truck/RV/industrial project record; does not approve a data center or establish current title."
+        },
+        {
+          "id": "SJ-PLAN",
+          "title": "Planning Division and contacts",
+          "url": "https://www.sjgov.org/department/cdd/planning",
+          "publisher": "San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Current contact and planning resources. Corinne King is listed as Deputy Director of Planning; main number 209-468-2193."
+        },
+        {
+          "id": "SJ-GIS",
+          "title": "County GIS data download portal",
+          "url": "https://sjmap.org/GISDataDownload.htm",
+          "publisher": "San Joaquin County GIS",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official GIS source discovery, not a completed current parcel overlay intersection."
+        },
+        {
+          "id": "SJ-STAFF",
+          "title": "Staff report, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Staff%20Report.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-10-17",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "The earlier project report reviewed this file. Fresh PDF retrieval failed here; individual conditions below remain inherited pending the original PDF and compliance records."
+        },
+        {
+          "id": "SJ-STUDY",
+          "title": "Initial study, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Initial%20Study.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-07-10",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "Earlier report reviewed a different proposed use. Fresh PDF retrieval failed; not a new environmental, flood or well assessment."
+        },
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        },
+        {
+          "id": "ACA-LIST",
+          "title": "Acampo sale / long-term lease listing",
+          "url": "https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "publisher": "LoopNet / Rotner & Associates",
+          "date": "2026-03-26",
+          "retrievedAt": "Prior capture 2026-09-02",
+          "kind": "MARKETING",
+          "limitation": "Prior captured listing, not reverified current. Prior dossier says asking price withheld and lists a third APN, -39. Do not carry forward an unrelated $9.8M price."
+        },
+        {
+          "id": "SJ-POWER",
+          "title": "Northern San Joaquin 230 kV Transmission Project",
+          "url": "https://ia.cpuc.ca.gov/environment/info/ascent/NSJTP/index.html",
+          "publisher": "California Public Utilities Commission",
+          "date": "",
+          "retrievedAt": "Prior capture 2026-09-02; refresh required",
+          "kind": "OFFICIAL",
+          "limitation": "Regional project context. Neither regional modeled capacity nor a line voltage is parcel load headroom. Current NTP status not reverified in this packet."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-01322013-a1",
+          "order": 1,
+          "title": "Resolve data-center classification and policy schedule",
+          "contact": "San Joaquin County Planning — assigned planner / Corinne King office",
+          "channel": "209-468-2193; planning@sjgov.org",
+          "question": "For APNs 013-220-13 and -58, distinguish the existing I-W/truck/RV approvals from the approval needed for an 8–15 MW initial low-water data center. What adopted rules apply today, and what effect would a future moratorium have on a complete application?",
+          "decision": "Determine whether any bounded entitlement window exists. No assumption of grandfathering.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322013-a2",
+          "order": 2,
+          "title": "Retrieve recorded access and condition-compliance evidence",
+          "contact": "Seller / title company; County case planner",
+          "channel": "Request existing records for PA-2300130 and related AUPs",
+          "question": "Provide the recorded ROW benefiting -13 through -58, condition-compliance records, agricultural mitigation satisfaction, current approved plans, leases and legal descriptions. Explain why marketing includes -39.",
+          "decision": "Prove the assemblage and clear blocking title/use obligations.",
+          "costEstimate": "Request existing files at $0; formal title/legal quotes require approval.",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322013-a3",
+          "order": 3,
+          "title": "Confirm current offering and cooperation",
+          "contact": "Rotner & Associates / current listing representative",
+          "channel": "Use listing contact: https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "question": "Are both approved parcels still offered together for sale or long-term lease? What are current terms, included APNs, occupancy, termination rights and owner-authorization conditions?",
+          "decision": "Determine whether low-cost transferable control is realistic.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322013-a4",
+          "order": 4,
+          "title": "Confirm exact serving utility and study-entry conditions",
+          "contact": "PG&E new-business / large-load intake, subject to exact territory confirmation",
+          "channel": "Use current PG&E official new-service contact; prior packet lists 1-877-743-7782 (reverify before use)",
+          "question": "For the two exact APNs and an 8–15 MW first-phase working hypothesis, what study, authorization, tariff, customer-credit and deposit requirements apply? Separate regional upgrades from parcel service.",
+          "decision": "Identify a sponsor-backed next proof, not a capacity reservation.",
+          "costEstimate": "No deposit or paid study authorized.",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-01322058",
+      "name": "Acampo — parcel 58",
+      "recordType": "PARCEL",
+      "apn": "013-220-58",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "A documented industrial land-use history makes this worth targeted review, but it is one half of the same Acampo assemblage, not a separate independent opportunity. The access condition, neighboring homes, agricultural mitigation, utility service and data-center treatment remain open. Hold option money.",
+      "thesis": "Re-use the historical industrial conversion only if a low-water, buyer-sized concept can satisfy current land-use rules, all access/mitigation conditions, noise buffers, lawful water/fire supply and a real utility service path. Do not equate warehouse or truck/RV approval with data-center entitlement.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Address",
+          "value": "19101 N Highway 99 West Frontage Road",
+          "status": "PROJECT IDENTIFICATION",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Assemblage",
+          "value": "Shared 30.09-acre project with 013-220-13; individual acreage not reconstructed",
+          "status": "ONE OPPORTUNITY / TWO PARCEL FILES",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Historical zone",
+          "value": "I-W in prior official approval review",
+          "status": "HISTORICAL — not a DC approval",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Asking price",
+          "value": "UNKNOWN / obtain current quote; prior captured listing withheld price",
+          "status": "UNVERIFIED CURRENT PRICE",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN; ordinary service is not multi-MW proof",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-POWER"
+          ]
+        },
+        {
+          "label": "Third APN discrepancy",
+          "value": "013-220-39 appears in prior marketing, not the two-APN approval",
+          "status": "CONFLICT",
+          "sourceIds": [
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Specific access and layout restrictions",
+          "body": "The earlier staff-report review identifies a private right-of-way condition through -58 benefiting -13, required before a building permit. Recorded completion and present compliance are not established. The prior review also identifies close residences, agricultural mitigation and opposition to the historical use. Resolve compliance and reserve buffer space before any preliminary data-center layout.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ]
+        },
+        {
+          "title": "Environmental and water scope",
+          "body": "The earlier truck-use initial study described Zone X with 0.2% annual-chance designation, private well/septic and on-site retention; no public water, sewer or storm drainage was established. Those findings are historical and for a different use. Do not label this flood-free, water-secure or Phase-I-cleared.",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ]
+        },
+        {
+          "title": "Current policy",
+          "body": "September county direction starts a six-month policy study and leaves a possible October 45-day moratorium for later consideration. No current moratorium is established by that announcement.",
+          "sourceIds": [
+            "SJ-POLICY"
+          ]
+        },
+        {
+          "title": "Desktop source status",
+          "body": "Current CEQAnet, planning, policy and GIS resource pages were inspected. The original staff-report and initial-study PDF links were located but not successfully re-retrieved. Parcel-level access and environmental statements above are explicitly inherited from the September 2 packet. No current full-polygon GIS clearance is claimed.",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PLAN",
+            "SJ-GIS",
+            "SJ-STAFF",
+            "SJ-STUDY",
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "Official historical project identifiers; current offering and third APN unresolved."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Industrial history, but no DC approval and changing policy."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No exact-parcel load-serving commitment."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "Prior sale/lease marketing only; price and consent not current."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Historical studies identify physical conditions and an unresolved access obligation."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 2,
+          "grade": "V2",
+          "rationale": "Specific planning/title questions are available, but policy and multi-party dependencies increase burden."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "Two official project APNs and combined acreage are identified; marketing adds -39 and no current surveyed offering was obtained.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "ACA-LIST",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "FOUND",
+          "result": "The historical project was handled by the County for the unincorporated Acampo site. Current boundary remains to be reconfirmed.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-CEQA"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "Historical I-W approval is identified; proposed data-center classification is still unknown.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-CEQA",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Original adopted designations and conditions must be applied to a new proposed use.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-STAFF",
+            "SJ-PLAN"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "County GIS portal identified, but no new full-polygon overlay extraction is available.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "SJ-GIS"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "FOUND",
+          "result": "Earlier review reports Zone X, 0.2% annual-chance designation and on-site retention.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Historical truck-use study, not a current flood map determination, survey elevation or buyer flood clearance."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "FOUND",
+          "result": "Historical approval review identifies access via Highway 99 West Frontage Road and a cross-parcel private ROW condition.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "Road adjacency and a permit condition do not establish current recorded compliance or adequate industrial access."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Whether the -58-to--13 easement has been recorded and conditions satisfied is unresolved. Obtain instrument and compliance sign-off.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "FOUND",
+          "result": "County policy study / possible future moratorium found. Track the actual later agenda/order rather than assuming adoption.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "SJ-POLICY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Prior review identifies wells, septic and retention, not a proven lawful data-center or fire-water supply.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STUDY"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "FOUND",
+          "result": "The prior staff-report review identifies close homes and opposition; site-specific buffers/noise analysis remain necessary.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR",
+            "SJ-STAFF"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Regional transmission improvements and marketing service claims do not establish parcel MW, tariff, schedule or cost.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-POWER",
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-POLICY",
+          "title": "Board direction on large-scale AI data centers",
+          "url": "https://www.sjgov.org/department/bos/board-news/board-news-detail/2026/09/02/sjc-board-moves-to-address-impacts-of-large-scale-ai-data-centers",
+          "publisher": "San Joaquin County Board of Supervisors",
+          "date": "2026-09-01",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Policy study and possible future moratorium, not evidence that a moratorium is already effective."
+        },
+        {
+          "id": "SJ-CEQA",
+          "title": "Notice of Determination, SCH 2024080214",
+          "url": "https://ceqanet.lci.ca.gov/2024080214/4",
+          "publisher": "California CEQAnet / San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Specific historical truck/RV/industrial project record; does not approve a data center or establish current title."
+        },
+        {
+          "id": "SJ-PLAN",
+          "title": "Planning Division and contacts",
+          "url": "https://www.sjgov.org/department/cdd/planning",
+          "publisher": "San Joaquin County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Current contact and planning resources. Corinne King is listed as Deputy Director of Planning; main number 209-468-2193."
+        },
+        {
+          "id": "SJ-GIS",
+          "title": "County GIS data download portal",
+          "url": "https://sjmap.org/GISDataDownload.htm",
+          "publisher": "San Joaquin County GIS",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official GIS source discovery, not a completed current parcel overlay intersection."
+        },
+        {
+          "id": "SJ-STAFF",
+          "title": "Staff report, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Staff%20Report.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-10-17",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "The earlier project report reviewed this file. Fresh PDF retrieval failed here; individual conditions below remain inherited pending the original PDF and compliance records."
+        },
+        {
+          "id": "SJ-STUDY",
+          "title": "Initial study, PA-2300130",
+          "url": "https://www.sjgov.org/commdev/cgi-bin/cdyn.exe/file/APD%20Documents/PA-2300130/Initial%20Study.pdf",
+          "publisher": "San Joaquin County CDD",
+          "date": "2024-07-10",
+          "retrievedAt": "Not re-retrieved; prior review 2026-09-02",
+          "kind": "OFFICIAL",
+          "limitation": "Earlier report reviewed a different proposed use. Fresh PDF retrieval failed; not a new environmental, flood or well assessment."
+        },
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        },
+        {
+          "id": "ACA-LIST",
+          "title": "Acampo sale / long-term lease listing",
+          "url": "https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "publisher": "LoopNet / Rotner & Associates",
+          "date": "2026-03-26",
+          "retrievedAt": "Prior capture 2026-09-02",
+          "kind": "MARKETING",
+          "limitation": "Prior captured listing, not reverified current. Prior dossier says asking price withheld and lists a third APN, -39. Do not carry forward an unrelated $9.8M price."
+        },
+        {
+          "id": "SJ-POWER",
+          "title": "Northern San Joaquin 230 kV Transmission Project",
+          "url": "https://ia.cpuc.ca.gov/environment/info/ascent/NSJTP/index.html",
+          "publisher": "California Public Utilities Commission",
+          "date": "",
+          "retrievedAt": "Prior capture 2026-09-02; refresh required",
+          "kind": "OFFICIAL",
+          "limitation": "Regional project context. Neither regional modeled capacity nor a line voltage is parcel load headroom. Current NTP status not reverified in this packet."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-01322058-a1",
+          "order": 1,
+          "title": "Resolve data-center classification and policy schedule",
+          "contact": "San Joaquin County Planning — assigned planner / Corinne King office",
+          "channel": "209-468-2193; planning@sjgov.org",
+          "question": "For APNs 013-220-13 and -58, distinguish the existing I-W/truck/RV approvals from the approval needed for an 8–15 MW initial low-water data center. What adopted rules apply today, and what effect would a future moratorium have on a complete application?",
+          "decision": "Determine whether any bounded entitlement window exists. No assumption of grandfathering.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a2",
+          "order": 2,
+          "title": "Retrieve recorded access and condition-compliance evidence",
+          "contact": "Seller / title company; County case planner",
+          "channel": "Request existing records for PA-2300130 and related AUPs",
+          "question": "Provide the recorded ROW benefiting -13 through -58, condition-compliance records, agricultural mitigation satisfaction, current approved plans, leases and legal descriptions. Explain why marketing includes -39.",
+          "decision": "Prove the assemblage and clear blocking title/use obligations.",
+          "costEstimate": "Request existing files at $0; formal title/legal quotes require approval.",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a3",
+          "order": 3,
+          "title": "Confirm current offering and cooperation",
+          "contact": "Rotner & Associates / current listing representative",
+          "channel": "Use listing contact: https://www.loopnet.com/Listing/19101-N-Highway-99-Acampo-CA/39924284/",
+          "question": "Are both approved parcels still offered together for sale or long-term lease? What are current terms, included APNs, occupancy, termination rights and owner-authorization conditions?",
+          "decision": "Determine whether low-cost transferable control is realistic.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "ca-sanjoaquin-01322058-a4",
+          "order": 4,
+          "title": "Confirm exact serving utility and study-entry conditions",
+          "contact": "PG&E new-business / large-load intake, subject to exact territory confirmation",
+          "channel": "Use current PG&E official new-service contact; prior packet lists 1-877-743-7782 (reverify before use)",
+          "question": "For the two exact APNs and an 8–15 MW first-phase working hypothesis, what study, authorization, tariff, customer-credit and deposit requirements apply? Separate regional upgrades from parcel service.",
+          "decision": "Identify a sponsor-backed next proof, not a capacity reservation.",
+          "costEstimate": "No deposit or paid study authorized.",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "tx-milam-r22018",
+      "name": "Rockdale — Hwy 77 partial offering",
+      "recordType": "PARCEL",
+      "apn": "R22018 (property ID; offered portion unresolved)",
+      "state": "TX",
+      "county": "Milam",
+      "origin": "Recovered prior Syncranicity lead; updated desktop review",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "Retain this earlier primary lead, but do not treat a marketed approximately 189-acre tract as a verified standalone cadastral parcel. Resolve the offered-part survey, governing jurisdiction and access first. No utility capacity or seller option receptivity is established.",
+      "thesis": "A legally defined, controllable large tract near an industrial market could justify further work only if development jurisdiction, road rights, flood/drainage constraints and a parcel-specific utility intake path survive the screen.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Offering",
+          "value": "Approximately 189 acres, TBD S Hwy 77",
+          "status": "MARKETING",
+          "sourceIds": [
+            "ROC-LIST"
+          ]
+        },
+        {
+          "label": "Property identifier",
+          "value": "R22018 from prior scan; exact offered-part boundary not obtained",
+          "status": "INHERITED",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "MILAM-CAD"
+          ]
+        },
+        {
+          "label": "Asking terms",
+          "value": "Obtain current written quote and included legal description",
+          "status": "UNKNOWN",
+          "sourceIds": [
+            "ROC-LIST"
+          ]
+        },
+        {
+          "label": "Available load MW",
+          "value": "UNKNOWN",
+          "status": "CRITICAL UNKNOWN",
+          "sourceIds": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "County-first falsification",
+          "body": "The Milam Appraisal District and the broker offering were identified. The present cadastral parcel record, parent-versus-offered acreage reconciliation and polygon export were not obtained. Marketing language such as unrestricted is not proof of no floodplain, subdivision, extraterritorial, road, title, water or environmental constraints.",
+          "sourceIds": [
+            "MILAM-CAD",
+            "ROC-LIST",
+            "ROC-PRIOR"
+          ]
+        },
+        {
+          "title": "Commercial test",
+          "body": "A prior primary-lead label is preserved as history, not carried forward as proof. Obtain the seller-provided survey and low-cost cooperation before evaluating paid control. Buyer mandate, utility territory, MW, timing and large-load deposits remain unknown.",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "ROC-LIST"
+          ]
+        }
+      ],
+      "factors": [
+        {
+          "label": "Exact transaction definition",
+          "weight": 20,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Prior property ID and current marketing, unresolved tract boundary."
+        },
+        {
+          "label": "Use / entitlement path",
+          "weight": 15,
+          "value": 1,
+          "grade": "V1",
+          "rationale": "No official project-use classification."
+        },
+        {
+          "label": "Parcel-specific power evidence",
+          "weight": 25,
+          "value": null,
+          "grade": "V0",
+          "rationale": "No parcel-specific utility path."
+        },
+        {
+          "label": "Control receptivity and economics",
+          "weight": 15,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Marketed offering, no verified option cooperation."
+        },
+        {
+          "label": "Access / civil fit",
+          "weight": 10,
+          "value": 2,
+          "grade": "V1",
+          "rationale": "Large tract / road signal but no formal constraint screen."
+        },
+        {
+          "label": "Value of the next low-cost test",
+          "weight": 15,
+          "value": 4,
+          "grade": "V2",
+          "rationale": "One survey/legal-description request can materially change the decision."
+        }
+      ],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "CONFLICT",
+          "result": "Prior property ID and marketed 189-acre partial tract have not been reconciled to the current legal parcel.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "ROC-PRIOR",
+            "ROC-LIST",
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "City limits, ETJ / other applicable authorities and county permit requirements have not been resolved for the full offered polygon.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Broker descriptions are not a government permitted-use determination.",
+          "scope": "COUNTY_GENERAL",
+          "sourceIds": [
+            "ROC-LIST"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "BLOCKED",
+          "result": "Official appraisal entry point found; no complete county constraint result was exported.",
+          "scope": "NOT_RUN",
+          "sourceIds": [
+            "MILAM-CAD"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Highway frontage is a marketing signal, not proof of an authorized heavy-industrial access point.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "ROC-LIST"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "ROC-LIST",
+          "title": "TBD S Hwy 77, approximately 189 acres",
+          "url": "https://www.longhornrealty.com/property-search/detail/44/2219551/tbd-s-hwy-77-rockdale-tx-76567/",
+          "publisher": "Longhorn Realty",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "MARKETING",
+          "limitation": "Marketing identifies an offering, not current cadastral geometry, title, legal unrestricted use, access permits or utility capacity."
+        },
+        {
+          "id": "MILAM-CAD",
+          "title": "Milam Appraisal District",
+          "url": "https://milamad.org/",
+          "publisher": "Milam Appraisal District",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official appraisal/property-search entry point. R22018 exact current record and offered partial tract not freshly resolved."
+        },
+        {
+          "id": "ROC-PRIOR",
+          "title": "Prior national scan: Rockdale R22018",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Prior scan called this a primary lead. It identified property ID R22018 and an approximately 189-acre partial offering; the parent/offer distinction is still unresolved."
+        }
+      ],
+      "actions": [
+        {
+          "id": "tx-milam-r22018-a1",
+          "order": 1,
+          "title": "Resolve property ID and offered legal tract",
+          "contact": "Milam Appraisal District and current broker",
+          "channel": "Official property-search/contact route: https://milamad.org/",
+          "question": "Does R22018 identify the entire parent or the approximately 189-acre offering? Provide the current parcel ID, survey/legal description, any proposed split and current ownership record.",
+          "decision": "Define the asset and remove the parent/partial-tract ambiguity.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "tx-milam-r22018-a2",
+          "order": 2,
+          "title": "Obtain authority and cheap diligence rights",
+          "contact": "Current Hwy 77 listing broker / owner",
+          "channel": "https://www.longhornrealty.com/property-search/detail/44/2219551/tbd-s-hwy-77-rockdale-tx-76567/",
+          "question": "Which restrictions, recorded easements, leases and access permits affect the offered tract? Will the owner provide the survey/title documents and authorize a no-cost utility/process inquiry?",
+          "decision": "Test controllability before commissioning technical reports.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        },
+        {
+          "id": "tx-milam-r22018-a3",
+          "order": 3,
+          "title": "Verify development authority and overlays using the survey",
+          "contact": "Milam County development / floodplain office; City of Rockdale only if applicable",
+          "channel": "Resolve the correct office from official county/city directories after the polygon is established",
+          "question": "Which jurisdiction(s), floodplain/development permits, subdivision rules, public/private road rights and water districts cover this polygon? Please identify the controlling map and instrument.",
+          "decision": "Determine which legal restrictions apply; do not assume county land is unrestricted.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": true,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ga-burke-079062-part",
+      "name": "Waynesboro — offered part of 079-062",
+      "recordType": "UNRESOLVED_LEAD",
+      "apn": "079-062 (PART)",
+      "state": "GA",
+      "county": "Burke",
+      "origin": "Earlier project lead preserved; identification work still required",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "The earlier scan identifies part of a parent parcel, not a independently verified offered polygon. Do not assume a legal split, all-parent availability or public access.",
+      "thesis": "Recover the original identified offering and official cadastral record before scoring or mapping it as a serious parcel.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Identification",
+          "value": "Unresolved offered parcel / geometry",
+          "status": "NOT AN ACQUISITION-READY LEAD",
+          "sourceIds": [
+            "BURKE",
+            "LEGACY"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why this is unranked",
+          "body": "The earlier scan identifies part of a parent parcel, not a independently verified offered polygon. Do not assume a legal split, all-parent availability or public access. Missing evidence is not a failed site. No coordinates, parcel boundary, power availability or asking price are synthesized.",
+          "sourceIds": [
+            "BURKE",
+            "LEGACY"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "BURKE",
+          "title": "Burke County government",
+          "url": "https://burkecounty-ga.gov/",
+          "publisher": "Burke County",
+          "date": "",
+          "retrievedAt": "2026-09-04",
+          "kind": "OFFICIAL",
+          "limitation": "Official county portal. Exact parcel, zoning/overlay data, offered-part boundary and utility service remain unverified."
+        },
+        {
+          "id": "LEGACY",
+          "title": "Earlier national scans and parcel map discussions",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-01 to 2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Names and leads retained, not treated as current listings or exact identified acquisition parcels. Missing identifiers were not invented."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ga-burke-079062-part-a1",
+          "order": 1,
+          "title": "Recover source listing and exact government identifier",
+          "contact": "Research task, then correct county assessor / GIS office",
+          "channel": "Start with the original project source and official county portal",
+          "question": "Recover the original listing/survey, all offered APNs, current source URL and county geometry. If only a parent part is offered, obtain its legal description.",
+          "decision": "Either create an identifiable parcel file or retire this geographic lead without expenditure.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "pa-schuylkill-mcadoo-unresolved",
+      "name": "McAdoo — approximately 110-acre lead",
+      "recordType": "UNRESOLVED_LEAD",
+      "apn": "",
+      "state": "PA",
+      "county": "Schuylkill",
+      "origin": "Earlier project lead preserved; identification work still required",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "Earlier marketing lead retained. Exact APNs, the offered polygon and controlling municipality were not recovered. Mining history, drainage, slopes and applicable zoning are review topics, not established defects.",
+      "thesis": "Recover the original identified offering and official cadastral record before scoring or mapping it as a serious parcel.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Identification",
+          "value": "Unresolved offered parcel / geometry",
+          "status": "NOT AN ACQUISITION-READY LEAD",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why this is unranked",
+          "body": "Earlier marketing lead retained. Exact APNs, the offered polygon and controlling municipality were not recovered. Mining history, drainage, slopes and applicable zoning are review topics, not established defects. Missing evidence is not a failed site. No coordinates, parcel boundary, power availability or asking price are synthesized.",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "LEGACY",
+          "title": "Earlier national scans and parcel map discussions",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-01 to 2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Names and leads retained, not treated as current listings or exact identified acquisition parcels. Missing identifiers were not invented."
+        }
+      ],
+      "actions": [
+        {
+          "id": "pa-schuylkill-mcadoo-unresolved-a1",
+          "order": 1,
+          "title": "Recover source listing and exact government identifier",
+          "contact": "Research task, then correct county assessor / GIS office",
+          "channel": "Start with the original project source and official county portal",
+          "question": "Recover the original listing/survey, all offered APNs, current source URL and county geometry. If only a parent part is offered, obtain its legal description.",
+          "decision": "Either create an identifiable parcel file or retire this geographic lead without expenditure.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "tx-briscoe-silverton-unresolved",
+      "name": "Silverton / Briscoe — catalyst lead",
+      "recordType": "UNRESOLVED_LEAD",
+      "apn": "",
+      "state": "TX",
+      "county": "Briscoe",
+      "origin": "Earlier project lead preserved; identification work still required",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "An infrastructure/company catalyst is not a purchasable parcel. No seller-controlled offering or exact APN/deed was recovered.",
+      "thesis": "Recover the original identified offering and official cadastral record before scoring or mapping it as a serious parcel.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Identification",
+          "value": "Unresolved offered parcel / geometry",
+          "status": "NOT AN ACQUISITION-READY LEAD",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why this is unranked",
+          "body": "An infrastructure/company catalyst is not a purchasable parcel. No seller-controlled offering or exact APN/deed was recovered. Missing evidence is not a failed site. No coordinates, parcel boundary, power availability or asking price are synthesized.",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "LEGACY",
+          "title": "Earlier national scans and parcel map discussions",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-01 to 2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Names and leads retained, not treated as current listings or exact identified acquisition parcels. Missing identifiers were not invented."
+        }
+      ],
+      "actions": [
+        {
+          "id": "tx-briscoe-silverton-unresolved-a1",
+          "order": 1,
+          "title": "Recover source listing and exact government identifier",
+          "contact": "Research task, then correct county assessor / GIS office",
+          "channel": "Start with the original project source and official county portal",
+          "question": "Recover the original listing/survey, all offered APNs, current source URL and county geometry. If only a parent part is offered, obtain its legal description.",
+          "decision": "Either create an identifiable parcel file or retire this geographic lead without expenditure.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "legacy-mason-unresolved",
+      "name": "Mason County / Meadowland reference",
+      "recordType": "UNRESOLVED_LEAD",
+      "apn": "",
+      "state": "State unresolved",
+      "county": "Mason",
+      "origin": "Earlier project lead preserved; identification work still required",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "ACTIVE",
+      "summary": "Earlier user/project lead retained without inventing a parcel identity or assuming that a referenced buyer has a mandate. APN, offering and geometry require recovery.",
+      "thesis": "Recover the original identified offering and official cadastral record before scoring or mapping it as a serious parcel.",
+      "moneyVerdict": "HOLD — no paid option/control authorized",
+      "facts": [
+        {
+          "label": "Identification",
+          "value": "Unresolved offered parcel / geometry",
+          "status": "NOT AN ACQUISITION-READY LEAD",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why this is unranked",
+          "body": "Earlier user/project lead retained without inventing a parcel identity or assuming that a referenced buyer has a mandate. APN, offering and geometry require recovery. Missing evidence is not a failed site. No coordinates, parcel boundary, power availability or asking price are synthesized.",
+          "sourceIds": [
+            "LEGACY",
+            "LEGACY"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "LEGACY",
+          "title": "Earlier national scans and parcel map discussions",
+          "url": "",
+          "publisher": "Syncranicity project conversation",
+          "date": "2026-09-01 to 2026-09-04",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Names and leads retained, not treated as current listings or exact identified acquisition parcels. Missing identifiers were not invented."
+        }
+      ],
+      "actions": [
+        {
+          "id": "legacy-mason-unresolved-a1",
+          "order": 1,
+          "title": "Recover source listing and exact government identifier",
+          "contact": "Research task, then correct county assessor / GIS office",
+          "channel": "Start with the original project source and official county portal",
+          "question": "Recover the original listing/survey, all offered APNs, current source URL and county geometry. If only a parent part is offered, obtain its legal description.",
+          "decision": "Either create an identifiable parcel file or retire this geographic lead without expenditure.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": null,
+      "history": [
+        {
+          "at": "2026-09-04",
+          "action": "RECOVERED_AND_REVIEWED",
+          "note": "Original lead retained. Fresh sources, inherited claims and unsuccessful retrievals separated."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-05926084",
+      "name": "Eight Mile Road — 059-260-84",
+      "recordType": "PARCEL",
+      "apn": "059-260-84",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "5149 E Eight Mile Road",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "94.36 acres combined; prior asking $4.0M",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "059-260-86",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-05926084-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "Agricultural preservation and conversion timing are early strategy gates; proximity to transmission cannot rescue them.",
+        "reopen": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-05926086",
+      "name": "Eight Mile Road — 059-260-86",
+      "recordType": "PARCEL",
+      "apn": "059-260-86",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "5149 E Eight Mile Road",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "94.36 acres combined; prior asking $4.0M",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "059-260-84",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-05926086-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "Agricultural preservation and conversion timing are early strategy gates; proximity to transmission cannot rescue them.",
+        "reopen": "A written current County conversion/preservation-contract path, title confirmation, buyer-specific industrial fit and utility intake within a capped control window."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior September 2 report identified AG-40 and explicit Williamson Act enrollment, groundwater-only context and no established industrial/utility path."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-00517015",
+      "name": "Peltier Road — 005-170-15",
+      "recordType": "PARCEL",
+      "apn": "005-170-15",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "3463 / 3681 E Peltier Road",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "80 acres combined; prior asking $6.0M",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "005-170-16",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-00517015-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A separate validated ordinary/agricultural buyer thesis, or newly documented industrial designation, legal layout and utility path.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "A large nearby farm is not an industrial lead merely because its price and acreage are known.",
+        "reopen": "A separate validated ordinary/agricultural buyer thesis, or newly documented industrial designation, legal layout and utility path."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-00517016",
+      "name": "Peltier Road — 005-170-16",
+      "recordType": "PARCEL",
+      "apn": "005-170-16",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "3463 / 3681 E Peltier Road",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "80 acres combined; prior asking $6.0M",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "005-170-15",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-00517016-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A separate validated ordinary/agricultural buyer thesis, or newly documented industrial designation, legal layout and utility path.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "A large nearby farm is not an industrial lead merely because its price and acreage are known.",
+        "reopen": "A separate validated ordinary/agricultural buyer thesis, or newly documented industrial designation, legal layout and utility path."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior report identified AG-40 productive vineyard land and a seasonal creek, with no industrial conversion or utility path."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-06308023",
+      "name": "Harney Lane — 063-080-23",
+      "recordType": "PARCEL",
+      "apn": "063-080-23",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "10401 Harney Lane",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "38.64 acres combined; individual acreages unresolved",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "063-150-41",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-06308023-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A valid smaller-load requirement or adjoining industrial assemblage, resolution of the agricultural contract, and written use and utility paths.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "Active agricultural contracts, use conversion and buyer-specific usable scale must be screened before option economics.",
+        "reopen": "A valid smaller-load requirement or adjoining industrial assemblage, resolution of the agricultural contract, and written use and utility paths."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    },
+    {
+      "id": "ca-sanjoaquin-06315041",
+      "name": "Harney Lane — 063-150-41",
+      "recordType": "PARCEL",
+      "apn": "063-150-41",
+      "state": "CA",
+      "county": "San Joaquin",
+      "origin": "Prior September 2 strategy rejection retained, not a new physical-site failure",
+      "updatedAt": "2026-09-04",
+      "lifecycle": "REJECTED",
+      "summary": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence. Retain in the learning library; current primary facts must be refreshed before reopening.",
+      "thesis": "Rejected for the current early-stage data-center option strategy. This does not assert that all lawful uses or all future development are impossible.",
+      "moneyVerdict": "ARCHIVED FOR THIS STRATEGY — no option money",
+      "facts": [
+        {
+          "label": "Address / group",
+          "value": "10401 Harney Lane",
+          "status": "PRIOR REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Group scale and price",
+          "value": "38.64 acres combined; individual acreages unresolved",
+          "status": "HISTORICAL MARKETING — not current quote",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Paired APN",
+          "value": "063-080-23",
+          "status": "SAME GROUP / not independent opportunity",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        },
+        {
+          "label": "Identifier normalization",
+          "value": "Prior table abbreviates second Harney identifier as -150-41; prefix expanded from 063. Verify against assessor before any use.",
+          "status": "IDENTIFIER RECHECK REQUIRED",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rejection rationale and evidence quality",
+          "body": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence. The archived finding is inherited from page 12 of the original packet; it has not been promoted into a new title, zoning or survey conclusion. Prices, leases and agricultural-contract status are time-sensitive.",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ]
+        }
+      ],
+      "factors": [],
+      "checks": [
+        {
+          "id": "identity",
+          "topic": "APN, boundary and acreage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "jurisdiction",
+          "topic": "Governing jurisdiction / annexation",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "zoning",
+          "topic": "Current zoning and proposed-use treatment",
+          "status": "FOUND",
+          "result": "AG-40 in the prior analyst report; current government parcel record not re-retrieved.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "plan",
+          "topic": "Future land use / comprehensive plan",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "overlays",
+          "topic": "Local overlay and special-district inventory",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "flood",
+          "topic": "Floodplain, floodway and drainage",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "roads",
+          "topic": "Roads, right-of-way and access",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "easements",
+          "topic": "Recorded/mapped easements and encumbrances",
+          "status": "UNKNOWN",
+          "result": "Current title, contracts and encumbrances require primary documents; this archive is not a title opinion.",
+          "scope": "PRIOR_REPORT",
+          "sourceIds": [
+            "SJ-PRIOR"
+          ],
+          "checkedAt": "2026-09-04",
+          "coverageNote": "The source scope is narrower than a current complete-polygon clearance."
+        },
+        {
+          "id": "cases",
+          "topic": "Pending cases, ordinances and moratoria",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "water",
+          "topic": "Water, wells, fire supply and wastewater",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "environment",
+          "topic": "Wetlands, habitat, contamination and soils",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "neighbors",
+          "topic": "Neighbors, buffers, noise, lighting and layout",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "power",
+          "topic": "Exact utility, study path, load MW and timing",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        },
+        {
+          "id": "seller",
+          "topic": "Owner authority, contracts and controllability",
+          "status": "UNKNOWN",
+          "result": "Not resolved for the complete legal parcel.",
+          "scope": "NOT_RUN",
+          "sourceIds": [],
+          "checkedAt": "",
+          "coverageNote": "A missing, unreadable or unqueried layer is not a clean result."
+        }
+      ],
+      "sources": [
+        {
+          "id": "SJ-PRIOR",
+          "title": "San Joaquin Unincorporated Parcel Option Screen and accompanying JSON",
+          "url": "",
+          "publisher": "Syncranicity project File Library",
+          "date": "2026-09-02",
+          "retrievedAt": "2026-09-04",
+          "kind": "PRIOR_REPORT",
+          "limitation": "Retained prior dossier including pages 5, 12 and 14. Listings, zoning, contracts and title facts in rejected alternatives need fresh primary-source verification before reopening."
+        }
+      ],
+      "actions": [
+        {
+          "id": "ca-sanjoaquin-06315041-a1",
+          "order": 1,
+          "title": "Reopen only on material new evidence",
+          "contact": "Research / correct government authority and seller",
+          "channel": "No routine call or spending task scheduled",
+          "question": "A valid smaller-load requirement or adjoining industrial assemblage, resolution of the agricultural contract, and written use and utility paths.",
+          "decision": "Prevent repeatedly researching the same rejected strategy without a changed premise.",
+          "costEstimate": "$0 desktop / no fee authorized",
+          "approvalRequired": false,
+          "done": false
+        }
+      ],
+      "geometry": null,
+      "geometrySource": "",
+      "location": null,
+      "kill": {
+        "kind": "PRIOR_STRATEGY_REJECTION_NOT_PHYSICAL_IMPOSSIBILITY",
+        "reason": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence.",
+        "evidence": "San_Joaquin_Unincorporated_Parcel_Option_Screen_2026-09-02.pdf, page 12; primary facts need re-verification.",
+        "lesson": "Active agricultural contracts, use conversion and buyer-specific usable scale must be screened before option economics.",
+        "reopen": "A valid smaller-load requirement or adjoining industrial assemblage, resolution of the agricultural contract, and written use and utility paths."
+      },
+      "history": [
+        {
+          "at": "2026-09-02",
+          "action": "PRIOR_STRATEGY_REJECTION",
+          "note": "Prior report identified AG-40, a grape contract through 2027 and scale below its default 40-acre search floor, with no industrial/power evidence."
+        },
+        {
+          "at": "2026-09-04",
+          "action": "ARCHIVE_RECOVERED",
+          "note": "Original reason and reopening criteria preserved. No unsupported fresh hard-kill finding added."
+        }
+      ],
+      "notes": "",
+      "mapVisible": false
+    }
+  ],
+  "revisions": []
+}

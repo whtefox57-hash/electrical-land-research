@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "goodman",
+    "name": "Goodman",
+    "parentGroup": "Goodman Group; DataBank JV creates shared exposure, not an independent exit from DataBank",
+    "role": "Developer / owner / capital partner",
+    "usRelevance": "high",
+    "regions": [
+      "Los Angeles",
+      "Silicon Valley",
+      "Major North American metros",
+      "Europe",
+      "Asia Pacific"
+    ],
+    "strategy": "Develops powered shells and completed facilities in supply-constrained metropolitan markets. US acquisitions favor existing industrial real estate with access to demand and network infrastructure; a cheap remote tract does not reproduce that thesis. This is a genuine land-acquisition and development counterparty with a demonstrated operator-JV route.",
+    "scale": "Vernon LAX02: 32 MW IT and 49.5 MW secured power, explicitly distinct metrics. San Jose acquired site: 45.8 acres and up to 97.3 MW power, not identified as IT load.",
+    "publishedRequirements": [
+      {
+        "fact": "Targets major metro/edge locations where availability, low latency and network access support cloud and AI inference; offers powered-shell through operational delivery.",
+        "sourceUrl": "https://us.goodman.com/data-centers",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "April 2026 DataBank JV will develop a 32 MW facility in Vernon, California, with staged delivery; partners intend additional capacity-constrained US sites.",
+        "sourceUrl": "https://ce.goodman.com/about-goodman/media-centre/news/2026/databank-and-goodman-group-partner-to-open-new-landmark-data-center-in-los-angeles",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "October 2025 acquisition of 45.8-acre San Jose infill site supports data-center redevelopment alongside warehouse/manufacturing uses.",
+        "sourceUrl": "https://www.goodman.com/investor-centre/announcements-media/2025/goodman-acquires-prime-silicon-valley-site-for-data-center-redevelopment",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: favor urban industrial redevelopment with a credible utility schedule, entitlements and a feasible high-density building envelope, rather than selecting primarily on dollars per acre.",
+      "Inference: a parcel that preserves industrial rental income during planning could fit the mixed digital/industrial strategy, but environmental liabilities and tenant termination costs need quantification."
+    ],
+    "differentiators": [
+      "A land developer can supply the site and development capability while a partner such as DataBank operates the capacity.",
+      "Silicon Valley and Vernon comparables demonstrate infill redevelopment; their prices/capacities are not universal acquisition thresholds."
+    ],
+    "dealStructure": "Demonstrated direct land acquisition and operator JV. Acceptance of an assignable option from an independent originator is unverified.",
+    "acquisitionSignal": "US JV explicitly seeks additional capacity-constrained markets; this is a stronger acquisition signal than a generic global footprint.",
+    "searchBrief": "Search industrial infill in Los Angeles/Vernon and Silicon Valley with expandable rights, actual power schedule, network route evidence and an interim-use cash-flow story. Do not substitute Vernon, Texas for Vernon, California.",
+    "rejectionTriggers": [
+      "Inference: remote land with no metro-latency/customer advantage.",
+      "Inference: inability to clear existing uses or demolish/redevelop economically."
+    ],
+    "buyerQuestions": [
+      "Which US metros are open for new land acquisition outside the existing JV pipeline?",
+      "Would Goodman purchase controlled rights before full entitlements, and what are the minimum documented power and planning milestones?",
+      "Is a compact urban parcel acceptable independently or only as an assemblage?"
+    ],
+    "sources": [
+      {
+        "title": "US data center overview",
+        "url": "https://us.goodman.com/data-centers",
+        "publisher": "Goodman",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "DataBank and Goodman form Los Angeles JV",
+        "url": "https://ce.goodman.com/about-goodman/media-centre/news/2026/databank-and-goodman-group-partner-to-open-new-landmark-data-center-in-los-angeles",
+        "publisher": "Goodman",
+        "date": "2026-04-07",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "San Jose infill acquisition",
+        "url": "https://www.goodman.com/investor-centre/announcements-media/2025/goodman-acquires-prime-silicon-valley-site-for-data-center-redevelopment",
+        "publisher": "Goodman",
+        "date": "2025-10-28",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "stt-gdc",
+    "name": "STTGDC (ST Telemedia Global Data Centres)",
+    "parentGroup": "KKR–Singtel consortium; current ownership completion reported September 2026",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Singapore",
+      "India",
+      "Japan",
+      "South Korea",
+      "Southeast Asia",
+      "United Kingdom",
+      "Germany",
+      "Italy"
+    ],
+    "strategy": "International colocation and hyperscale platform. Its operating geography and recent capacity allocations support an Asia/Europe mandate; US customers or financial sponsors do not establish a US land-acquisition program. Retain as an international watch, not a current Syncranicity US takeout.",
+    "scale": "Singapore 2026 award: 50 MW new data-center capacity; page does not label it IT versus facility load. Published worldwide portfolio figure is IT load and includes development.",
+    "publishedRequirements": [
+      {
+        "fact": "Current published country footprint includes Asia and Europe and does not list US sites.",
+        "sourceUrl": "https://www.sttgdc.com/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Singapore 50 MW development will incorporate liquid cooling and energy-efficient IT, target Green Mark DC Platinum, and use eligible green-energy pathways for more than half its power.",
+        "sourceUrl": "https://www.sttgdc.com/newsroom/stt-gdc-to-develop-50mw-sustainable-ai-ready-data-centre-capacity-singapore",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: in Singapore, government allocation and an accepted low-carbon energy route are acquisition gates, not merely bonus factors.",
+      "Inference: in other markets, identify hyperscaler deployment geography and local delivery partners before sourcing land; Singapore-specific standards should not be imposed universally."
+    ],
+    "differentiators": [
+      "Allocated urban capacity in Singapore is fundamentally different from acquiring inexpensive unrestricted rural acreage.",
+      "Multiple country platforms mean commercial and regulatory approval paths are local; a global contact is not a validated land buyer for every jurisdiction."
+    ],
+    "dealStructure": "Develops and operates through local platforms and partners. No public US land intake or option-assignment mandate verified.",
+    "acquisitionSignal": "2026 Singapore allocation and Tokyo financing show active development within disclosed markets, not US expansion.",
+    "searchBrief": "For the US pipeline, require written confirmation of a US acquisition mandate first. If qualified internationally, source local approved industrial land paired with compliant energy procurement and diversified metro connectivity.",
+    "rejectionTriggers": [
+      "Inference: US geography absent a newly confirmed mandate.",
+      "Inference: a Singapore proposal without required allocation/green-energy approvals."
+    ],
+    "buyerQuestions": [
+      "Does any current investment vehicle have authority to acquire US development sites?",
+      "Which country team owns land procurement and which approvals must precede site control?",
+      "Are liquid-cooling and green-energy requirements campus-specific or portfolio-wide?"
+    ],
+    "sources": [
+      {
+        "title": "Global footprint and ownership news",
+        "url": "https://www.sttgdc.com/",
+        "publisher": "STTGDC",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Singapore 50MW award",
+        "url": "https://www.sttgdc.com/newsroom/stt-gdc-to-develop-50mw-sustainable-ai-ready-data-centre-capacity-singapore",
+        "publisher": "STTGDC",
+        "date": "2026-08-21",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "gds",
+    "name": "GDS Holdings",
+    "parentGroup": "GDS Holdings; minority investment in DayOne, which is separately operated and not consolidated",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Mainland China: Shanghai",
+      "Beijing",
+      "Shenzhen",
+      "Guangzhou",
+      "Chengdu",
+      "Chongqing"
+    ],
+    "strategy": "Chinese high-performance data-center developer serving cloud, internet, enterprise and financial customers. Its disclosed siting model combines low-latency established markets with larger new clusters. It is not evidence of demand for American land. DayOne must be distinguished from the mainland operating business and not treated as an unrelated source of buyer diversification.",
+    "scale": "Reports net service floor area and power-density characteristics; no universal acreage or MW minimum for acquiring land was verified.",
+    "publishedRequirements": [
+      {
+        "fact": "2025 annual report describes high-performance facilities in Chinese low-latency established markets and large new-market clusters, with carrier/cloud neutrality and multiple critical-system redundancies.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1526125/000110465926051006/gds-20251231x20f.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "GDS ceased consolidating DayOne at year-end 2024 and retains a minority equity investment in the independent Singapore-headquartered platform.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1526125/000110465926051006/gds-20251231x20f.htm",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: Chinese cloud availability-zone demand, connectivity and regulatory viability dominate the search box; inexpensive US electricity does not solve those customer needs.",
+      "Inference: site underwriting should distinguish central low-latency nodes from expansion clusters rather than applying one rural-campus template."
+    ],
+    "differentiators": [
+      "Mainland China operating platform rather than a general global land aggregator.",
+      "Potential overlap with DayOne investment exposure makes two company names less than two completely independent capital pools."
+    ],
+    "dealStructure": "Develops/operates Chinese facilities and uses asset-financing transactions. No US land acquisition or assignable-option channel verified.",
+    "acquisitionSignal": "Current investor material confirms development activity in China, not a US acquisition mandate.",
+    "searchBrief": "No defensible US parcel match at this stage. Ask about mandate before spending time or money on US site packages. An international search would require a qualified local partner and region-specific legal diligence.",
+    "rejectionTriggers": [
+      "Inference: US parcel outside documented operating mandate.",
+      "Inference: location cannot meet Chinese customers’ latency/residency or deployment requirements."
+    ],
+    "buyerQuestions": [
+      "Is there any direct US development mandate distinct from minority holdings?",
+      "Which entity actually signs site contracts in any proposed country?",
+      "What precise latency clusters and minimum phased capacity does the customer requirement specify?"
+    ],
+    "sources": [
+      {
+        "title": "2025 Form 20-F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1526125/000110465926051006/gds-20251231x20f.htm",
+        "publisher": "GDS / SEC",
+        "date": "2026",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Investor FAQs",
+        "url": "https://investors.gds-services.com/shareholder-services/investor-faqs",
+        "publisher": "GDS",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "dayone",
+    "name": "DayOne",
+    "parentGroup": "Independent platform formerly GDS International; GDS minority equity exposure",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Singapore",
+      "Johor",
+      "Batam",
+      "Finland",
+      "Asian hyperscale markets"
+    ],
+    "strategy": "Builds hyperscale campuses using regional connectivity and local partners. Finnish development shows geographic expansion can follow renewable energy, heat reuse and customer demand, but does not establish a US mandate. Treat as an international comparator until the acquisition team confirms an American search.",
+    "scale": "Finland portfolio lists 281 MW across Lahti and Kouvola; capacity basis is not explicitly IT/facility in the cited page. RFS is stated as 2026 onward.",
+    "publishedRequirements": [
+      {
+        "fact": "Finland campuses integrate zero-freshwater cooling, renewable electricity, heat-recovery cooperation with Lahti Energy and local development partnership with Hyperco.",
+        "sourceUrl": "https://dayonedc.com/market/finland",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Kouvola city reports the Hyperco–DayOne JV is constructing a campus whose end user is TikTok.",
+        "sourceUrl": "https://www.kouvola.fi/ajankohtaiset/korian-datakeskushankkeessa-juhlitaan-harjannostajaisia/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: practical waste-heat recipients and local utility/municipal alignment improve Nordic site economics and consent prospects. Heat reuse requires a real offtake connection, not just a nearby building.",
+      "Inference: named end-user and local developer alignment can matter more than a generic claim of strong AI demand."
+    ],
+    "differentiators": [
+      "Recent European expansion is anchored in a local-development JV and customer-specific infrastructure.",
+      "Zero freshwater use is a Finnish project design, not a verified universal requirement for every DayOne development."
+    ],
+    "dealStructure": "Local development JV demonstrated. Ability or willingness to purchase a US originator’s option is unverified.",
+    "acquisitionSignal": "Finland expansion is real, but verified sources provide no US acquisition program.",
+    "searchBrief": "Keep US matching on hold. International search would prioritize renewable-grid nodes with permitting readiness, long-haul fiber, a local delivery partner and feasible heat reuse, then test a specific customer requirement.",
+    "rejectionTriggers": [
+      "Inference: geographic mandate mismatch.",
+      "Inference: heat-reuse or zero-water story cannot be engineered economically where essential to the local proposal."
+    ],
+    "buyerQuestions": [
+      "Does the investment committee permit US acquisitions in the present fund?",
+      "Is an anchor tenant required before land acquisition?",
+      "Which power, heat-network and local-partner obligations must the seller deliver?"
+    ],
+    "sources": [
+      {
+        "title": "Finland market",
+        "url": "https://dayonedc.com/market/finland",
+        "publisher": "DayOne",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Kouvola project construction update",
+        "url": "https://www.kouvola.fi/ajankohtaiset/korian-datakeskushankkeessa-juhlitaan-harjannostajaisia/",
+        "publisher": "City of Kouvola",
+        "date": "2026-05-11",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "airtrunk",
+    "name": "AirTrunk",
+    "parentGroup": "Blackstone and CPP Investments backed; do not conflate with other Blackstone portfolio developers",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Australia",
+      "Japan",
+      "Hong Kong",
+      "Singapore",
+      "Malaysia",
+      "India",
+      "Asia Pacific and Middle East"
+    ],
+    "strategy": "Large hyperscale platform oriented to Asia Pacific and the Middle East. Recent projects use contracted anchors, adjacent campus expansion and large-scale financing. It is a useful benchmark for what a bankable campus looks like, but US financial sponsors do not create evidence of US site demand.",
+    "scale": "Johor JHB1: 150+ MW contracted campus; adjacent JHB2: 270+ MW greenfield development. These are project figures, not a published minimum and not explicitly IT load in the cited IFC summary.",
+    "publishedRequirements": [
+      {
+        "fact": "IFC financing disclosure covers a fully contracted 150+ MW Johor campus and a 270+ MW adjacent greenfield campus.",
+        "sourceUrl": "https://disclosures.ifc.org/project-detail/SII/52336/airtrunk-johor",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "October 2026 financing supports continued SYD3 Western Sydney expansion; company describes itself as an APME specialist.",
+        "sourceUrl": "https://airtrunk.com/news/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: aggregation of contiguous land that supports repeat development phases is more valuable than a disconnected small site.",
+      "Inference: matching regional hyperscaler demand and preleasing is central to funding, even if power is proven. A utility letter alone does not make another campus commercially necessary."
+    ],
+    "differentiators": [
+      "Institutional campus finance and customer contracting, rather than a speculative rural-option exit.",
+      "Expansion near existing developments can capture shared delivery capability and operating scale."
+    ],
+    "dealStructure": "Greenfield development and institutional financing with existing sponsor backing. No public US land-intake mandate or third-party option purchasing program verified.",
+    "acquisitionSignal": "Active growth in Malaysia, India and Australia; no verified US expansion signal in reviewed primary sources.",
+    "searchBrief": "No defensible US parcel match. If mandate changes, seek explicit customer geography and first-phase/ultimate-load instructions before reusing this campus-scale analog.",
+    "rejectionTriggers": [
+      "Inference: US parcel outside documented regional strategy.",
+      "Inference: insufficient contiguous expansion land for a customer campus requirement."
+    ],
+    "buyerQuestions": [
+      "Is the US within the approved acquisition geography at all?",
+      "What customer commitment is required before a new site is acquired?",
+      "Would a small phased parcel be considered or is adjacent-campus expansion preferred?"
+    ],
+    "sources": [
+      {
+        "title": "AirTrunk Johor investment disclosure",
+        "url": "https://disclosures.ifc.org/project-detail/SII/52336/airtrunk-johor",
+        "publisher": "International Finance Corporation",
+        "date": "2026-09-30",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "AirTrunk news",
+        "url": "https://airtrunk.com/news/",
+        "publisher": "AirTrunk",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "nextdc",
+    "name": "NEXTDC",
+    "parentGroup": "ASX-listed NEXTDC",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Australia",
+      "Sydney",
+      "Other Australian metros",
+      "Selected Asia Pacific markets"
+    ],
+    "strategy": "Australian platform serving sovereign, government, enterprise and hyperscale customers. It combines metro connectivity with very large planned campuses. Announced order books and campuses concern its operating geography; they should not be converted into demand for US land.",
+    "scale": "Sydney S4: 365 MW IT, 124,000 m² technical space, target Tier IV certification. Sydney S7: 550+ MW IT in planning. These are specific designs, not universal acquisition floors.",
+    "publishedRequirements": [
+      {
+        "fact": "S4 is located on multiple network interconnects in Horsley Park and targets Tier IV certification.",
+        "sourceUrl": "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "S7 Eastern Creek plans 550+ MW IT capacity, with sovereign data residency and proximity to Sydney infrastructure/connectivity hubs.",
+        "sourceUrl": "https://www.nextdc.com/data-centres/sydney-data-centres/s7-sydney",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: a credible redundant network hub and Australian sovereign-demand thesis are essential to site differentiation; cheap power in a different country is not a substitute.",
+      "Inference: campus capital requirements and contracted demand can make phased JV structures relevant, while execution schedules remain contingent on development approvals."
+    ],
+    "differentiators": [
+      "Tier IV target at S4 creates a stronger redundancy/layout requirement than a generic industrial DC shell.",
+      "Public S7 capacity is expressly IT load; it must not be treated as an equal amount of utility-service capacity."
+    ],
+    "dealStructure": "Develops and operates owned facilities; public financing material discusses project JV evaluation. No US option-purchase mandate verified.",
+    "acquisitionSignal": "Current large Sydney planning/development program is significant but geographically outside the founder’s US search.",
+    "searchBrief": "Do not assign a US parcel without a written mandate change. International mapping would focus on network-rich Australian industrial corridors with staged utility delivery, sovereign demand and sufficient campus expansion space.",
+    "rejectionTriggers": [
+      "Inference: US site cannot satisfy Australian sovereign-residency demand.",
+      "Inference: single-path utility/network layout incompatible with the specified reliability design."
+    ],
+    "buyerQuestions": [
+      "Which additional acquisition markets are approved rather than merely being considered?",
+      "Does the customer require Australia-based capacity?",
+      "What first-stage capacity and independent-feed configuration must a seller substantiate?"
+    ],
+    "sources": [
+      {
+        "title": "S4 Sydney",
+        "url": "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney",
+        "publisher": "NEXTDC",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "S7 Sydney",
+        "url": "https://www.nextdc.com/data-centres/sydney-data-centres/s7-sydney",
+        "publisher": "NEXTDC",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "1H26 results",
+        "url": "https://www.nextdc.com/news/asx-release-1h26-record-results",
+        "publisher": "NEXTDC",
+        "date": "2026",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "princeton-digital-group",
+    "name": "Princeton Digital Group",
+    "parentGroup": "Princeton Digital Group; institutional investors, with separate local project vehicles",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Singapore",
+      "Japan",
+      "India",
+      "Indonesia",
+      "China",
+      "Malaysia",
+      "South Korea"
+    ],
+    "strategy": "Asia-focused hyperscale developer with explicit purchases of powered land. Strong example of buying reduced development uncertainty, but no verified US procurement mandate. Its acquisitions emphasize the correct regional cloud market, secured power and scalable layouts, rather than merely being near transmission.",
+    "scale": "Published project examples include 72 MW Chennai, 90 MW Hyderabad, 120 MW Mumbai MU2 and 150 MW Mumbai MU1; capacity basis varies by page and should not be assumed to be uniform IT load.",
+    "publishedRequirements": [
+      {
+        "fact": "Company announced acquisition of powered land supporting 500 MW across Malaysia, India and Indonesia in September 2024.",
+        "sourceUrl": "https://princetondg.com/newsroom/princeton-digital-group-to-expand-portfolio-by-nearly-50-percent-with-acquisition-of-500-mw-of-powered-land-for-ai-ready-data-centers-in-asia/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current campus descriptions identify IT/ITES parks, data-center clusters, hybrid-cooling designs, transport access, and Hyderabad outside active flight paths.",
+        "sourceUrl": "https://princetondg.com/where-we-operate/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: control that includes approvals and actual power rights is more aligned than a bare option with proximity claims.",
+      "Inference: airport access is useful for operations but flight-path exposure is separately assessed; highway proximity should not crowd out the specific cloud-cluster and customer requirements."
+    ],
+    "differentiators": [
+      "Powered-land buying is directly demonstrated, although in Asian markets.",
+      "Multistory Mumbai campuses show that acreage alone is an inadequate screen; permitted building volume and cooling/service yards change usable capacity."
+    ],
+    "dealStructure": "Direct powered-land acquisition and campus development. US option assignment and founder origination economics are unverified.",
+    "acquisitionSignal": "2026 company updates report additional Jakarta and Indian capacity acquisitions, within disclosed Asian countries.",
+    "searchBrief": "US parcel matching remains unqualified. A relevant overseas search would pair local land rights and development approvals with a customer-driven campus size, heat-rejection design and constructible diverse fiber.",
+    "rejectionTriggers": [
+      "Inference: unapproved US geography.",
+      "Inference: land cannot accommodate expansion and hybrid cooling despite ample nameplate power."
+    ],
+    "buyerQuestions": [
+      "Is there a US development mandate outside the publicly described Asian footprint?",
+      "Does PDG acquire land only after power agreements/approvals are assignable?",
+      "Which market-specific cluster, flight-path and building-height limits are non-negotiable?"
+    ],
+    "sources": [
+      {
+        "title": "500MW powered-land acquisition",
+        "url": "https://princetondg.com/newsroom/princeton-digital-group-to-expand-portfolio-by-nearly-50-percent-with-acquisition-of-500-mw-of-powered-land-for-ai-ready-data-centers-in-asia/",
+        "publisher": "Princeton Digital Group",
+        "date": "2024-09-19",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Operating and planned locations",
+        "url": "https://princetondg.com/where-we-operate/",
+        "publisher": "Princeton Digital Group",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current expansion announcements",
+        "url": "https://princetondg.com/",
+        "publisher": "Princeton Digital Group",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "kao-data",
+    "name": "Kao Data",
+    "parentGroup": "Kao Data; institutional developer platform",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "United Kingdom",
+      "Harlow / London–Cambridge corridor",
+      "Greater Manchester"
+    ],
+    "strategy": "Specialist AI/HPC developer built around UK compute customers and connected innovation corridors. Company evidence supports advanced GPU workloads and specific UK locations, not a general US acquisition mandate. Academic/enterprise proximity and operational network access distinguish its sites from generic rural powered land.",
+    "scale": "Harlow: 15-acre campus, 71 MW ITE planned across four facilities and potential further expansion; Manchester KMAN-01: 33 MW project. Neither sets a universal minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "Harlow combines carrier neutrality, NVIDIA DGX-ready infrastructure, renewable electricity, an SLA-backed PUE of 1.2 and HVO-fueled generators.",
+        "sourceUrl": "https://kaodata.com/locations/harlow/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "June 2026 agreement places a 22 MW Nebius deployment at Harlow, including inference, with direct-to-chip liquid cooling and a ten-year term.",
+        "sourceUrl": "https://kaodata.com/discover/news/nebius-chooses-kao-datas-harlow-campus-for-major-ai-infrastructure-deployment/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: proximity to actual AI research and commercial users can support underwriting, but a nearby university alone is not an anchor customer.",
+      "Inference: screen cooling architecture, supplier network and commissioning delivery alongside power because customer-ready density is the product."
+    ],
+    "differentiators": [
+      "Demonstrated 22 MW AI customer deal is close to the founder’s preferred load scale, but in a different geographic market.",
+      "Compute specialization and network-rich clusters matter more than copying Harlow’s 15-acre footprint in Texas."
+    ],
+    "dealStructure": "Develops/operates campuses and signs long-term colocation agreements. No US land-intake or unexercised-option acquisition route verified.",
+    "acquisitionSignal": "Current development pipeline is UK-focused, including Harlow and Manchester; no reviewed US expansion signal.",
+    "searchBrief": "No defensible US parcel match until mandate confirmed. A UK search would seek well-connected brownfield/industrial sites near AI customer ecosystems and renewable supply with high-density delivery potential.",
+    "rejectionTriggers": [
+      "Inference: US location outside the evidenced UK customer strategy.",
+      "Inference: inadequate network density or cannot deliver the required liquid-cooling layout."
+    ],
+    "buyerQuestions": [
+      "Is US entry under consideration in an approved investment program?",
+      "Would a new site require a named AI customer or can capacity be speculative?",
+      "How does the siting team trade latency to customer clusters against electricity cost?"
+    ],
+    "sources": [
+      {
+        "title": "Harlow campus",
+        "url": "https://kaodata.com/locations/harlow/",
+        "publisher": "Kao Data",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Nebius 22MW deployment",
+        "url": "https://kaodata.com/discover/news/nebius-chooses-kao-datas-harlow-campus-for-major-ai-infrastructure-deployment/",
+        "publisher": "Kao Data",
+        "date": "2026-06-08",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Manchester campus",
+        "url": "https://kaodata.com/locations/manchester/",
+        "publisher": "Kao Data",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "atlasedge",
+    "name": "AtlasEdge",
+    "parentGroup": "Liberty Global / DigitalBridge JV",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "European growth markets",
+      "Lisbon",
+      "Vienna",
+      "Germany",
+      "Brussels",
+      "Manchester",
+      "Barcelona"
+    ],
+    "strategy": "European platform shifting toward larger scalable sites in selected growth markets. The current strategy must replace any old assumption that all small urban facilities are equally attractive. Its evidence shows portfolio pruning and renewed landbank ambitions, not a US site-buying program.",
+    "scale": "Public design supports deployments below 10 MW and larger campuses; Lisbon plans 30 MW over three phases. More than 500 MW powered-landbank target is portfolio-wide, not one-site minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "May 2026 sale of nine sites supports a focus on larger locations with long-term growth potential in next-wave European markets.",
+        "sourceUrl": "https://atlasedge.com/atlasedge-completes-sale-of-selected-data-centre-sites-accelerating-focus-on-scalable-high-growth-markets/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Published approach includes 2N facilities, liquid-to-chip or air cooling, and renewable electricity for new construction.",
+        "sourceUrl": "https://atlasedge.com/boilerplate/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: a site needs expansion optionality and a local customer-growth thesis; old edge branding alone is insufficient evidence that a small land parcel fits.",
+      "Inference: Lisbon’s subsea connectivity makes route access commercially significant, and should be modeled as an engineered path rather than a city-level broadband statistic."
+    ],
+    "differentiators": [
+      "2026 disposal program changes which portfolio analogs remain useful.",
+      "2N architecture and modular initial phases allow phased land use but require room and redundant infrastructure rights."
+    ],
+    "dealStructure": "Acquisition, modular development and asset sales demonstrated. No public US land intake or assignment policy verified.",
+    "acquisitionSignal": "Growing European campuses and portfolio repositioning; US mandate not established.",
+    "searchBrief": "For US sourcing, hold until acquisition geography confirmed. International work would focus on scalable European metro sites with low-cost renewable supply, customer proximity and redundant carrier paths.",
+    "rejectionTriggers": [
+      "Inference: US geography without a mandate.",
+      "Inference: small landlocked building or parcel cannot support intended expansion."
+    ],
+    "buyerQuestions": [
+      "Which minimum expansion capability distinguishes the new strategy from divested sites?",
+      "Are any US cities approved for new development?",
+      "Can the first phase be under 10 MW and what power/land rights must be secured for later stages?"
+    ],
+    "sources": [
+      {
+        "title": "Selected-site sale completion",
+        "url": "https://atlasedge.com/atlasedge-completes-sale-of-selected-data-centre-sites-accelerating-focus-on-scalable-high-growth-markets/",
+        "publisher": "AtlasEdge",
+        "date": "2026-05-05",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "About AtlasEdge",
+        "url": "https://atlasedge.com/boilerplate/",
+        "publisher": "AtlasEdge",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Lisbon campus",
+        "url": "https://atlasedge.com/data-centres/lisbon/",
+        "publisher": "AtlasEdge",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "atnorth",
+    "name": "atNorth",
+    "parentGroup": "atNorth; Nordic-focused platform; confirm current capital decision entity in outreach",
+    "role": "Developer / operator",
+    "usRelevance": "low",
+    "regions": [
+      "Iceland",
+      "Finland",
+      "Sweden",
+      "Denmark",
+      "Norway"
+    ],
+    "strategy": "Nordic high-density colocation and build-to-suit platform separating metro sites from large compute campuses. Its newest projects combine scalable grid delivery, local energy partners and practical heat reuse. A US power-ready parcel has no demonstrated fit unless the company first confirms a new geographic mandate.",
+    "scale": "FIN05 Salo: 28.6 hectares, 75 MW secured first-phase power and pathway to 230 MW; company does not label this figure IT load in the release.",
+    "publishedRequirements": [
+      {
+        "fact": "October 2026 FIN05 announcement specifies a development-ready Salo site, Fingrid substation connection, proximity to Helsinki/talent, long-term local PPAs and potential grid flexibility.",
+        "sourceUrl": "https://www.atnorth.com/news/atnorth-to-develop-new-data-center-in-salo-finland/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Company explicitly categorizes Nordic locations as metro sites and mega sites.",
+        "sourceUrl": "https://www.atnorth.com/nordic-data-centers/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: a heat customer, utility flexibility case and local planning readiness can be part of site differentiation, not peripheral ESG copy.",
+      "Inference: metro and mega-site customers likely tolerate different latency/cost tradeoffs; first qualify workload rather than extrapolating from average portfolio capacity."
+    ],
+    "differentiators": [
+      "Specific 2026 Salo announcement identifies local partner work to deliver planning readiness and a power roadmap.",
+      "Heat reuse is a site-specific engineering and commercial agreement, not a benefit automatically earned by a cold climate."
+    ],
+    "dealStructure": "Build-to-suit and local site-development partnerships. A US option acquisition route is not verified.",
+    "acquisitionSignal": "Active Nordic expansion, but no US land mandate established in reviewed primary sources.",
+    "searchBrief": "Keep outside the active US buyer shortlist. If international work is later authorized, map heat networks, local PPA counterparts, transmission delivery dates and real customer latency limits before identifying parcels.",
+    "rejectionTriggers": [
+      "Inference: US site outside Nordic strategy.",
+      "Inference: claimed power roadmap or heat-reuse connection has no deliverable engineering path."
+    ],
+    "buyerQuestions": [
+      "Is US expansion permitted by the current investment mandate?",
+      "What distinguishes the acquisition search box for metro versus mega sites?",
+      "Which local heat or grid-flexibility obligations must exist before closing?"
+    ],
+    "sources": [
+      {
+        "title": "Salo FIN05 announcement",
+        "url": "https://www.atnorth.com/news/atnorth-to-develop-new-data-center-in-salo-finland/",
+        "publisher": "atNorth",
+        "date": "2026-10-05",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Nordic locations",
+        "url": "https://www.atnorth.com/nordic-data-centers/",
+        "publisher": "atNorth",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "metrobloks",
+    "name": "metrobloks",
+    "parentGroup": "Metrobloks; Lincoln Property Company JV overlaps Lincoln-related exposure",
+    "role": "Developer / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Major US metros",
+      "Kansas City",
+      "Urban European metros"
+    ],
+    "strategy": "Urban AI and inference developer with one of the clearest public property-submission briefs. This is a strong reverse-engineering starting point because acreage, floor-area ratio, height, exchange distance, power and deal flexibility are actually published, rather than deduced from one announcement.",
+    "scale": "Published target 5–20 developable acres; ability to procure 20+ MW. Published power basis is not labeled IT. Kansas City example is approximately 30 acres, showing stated preferences can admit exceptions.",
+    "publishedRequirements": [
+      {
+        "fact": "Prefers 5–20 developable acres, FAR at least 0.5, commercial/industrial zoning, 30-foot minimum height with 60+ feet preferred, urban road/fiber access, and ability to procure 20+ MW.",
+        "sourceUrl": "https://www.metrobloks.com/realestate",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Published site criteria call for major metro hubs and less than 15 miles from a local internet exchange; landowner JVs and flexible development escrows are explicitly considered.",
+        "sourceUrl": "https://www.metrobloks.com/realestate",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "April 2026 Lincoln JV acquired roughly 30 acres in Liberty, Missouri, within ten miles of GPC Missouri IXP.",
+        "sourceUrl": "https://lpc.com/press-releases/metrobloks-and-lincoln-property-company-announce-joint-venture-to-develop-ai-ready-data-centers-launching-in-kansas-city-metro/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: map the specific exchange and available fiber paths before spending on a substation-proximity study; the urban latency constraint can eliminate rural sites even with power.",
+      "Inference: split residential zoning or restrictive FAR may defeat apparent acreage fit and should be resolved before an option fee."
+    ],
+    "differentiators": [
+      "Direct site intake specifies precise location and size.",
+      "Explicit landowner-JV openness and development escrow preference align with conditional-control sourcing."
+    ],
+    "dealStructure": "Direct acquisition, development-oriented escrow and landowner JV publicly offered; founder assignment rights and any premium remain negotiation matters.",
+    "acquisitionSignal": "Published land submission channel plus a new Kansas City development partnership, not just passive portfolio growth.",
+    "searchBrief": "Screen 5–20-acre commercial/industrial infill in major US metros, including Kansas City, against the <15-mile IXP test, permitted FAR/height, developable acreage and a 20+ MW path.",
+    "rejectionTriggers": [
+      "Published-screen mismatch: remote geography, exchange distance or unsuitable height/zoning.",
+      "Inference: a 10-acre tract is not enough if setbacks, streams or easements remove most buildable land."
+    ],
+    "buyerQuestions": [
+      "Which metros are open for new submissions now?",
+      "Does <15 miles refer to straight-line, road or routed fiber distance and which IXP qualifies?",
+      "Will you acquire an assignable land contract, and how much power/entitlement proof is required first?"
+    ],
+    "sources": [
+      {
+        "title": "Real estate acquisition criteria and intake",
+        "url": "https://www.metrobloks.com/realestate",
+        "publisher": "Metrobloks",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Kansas City JV",
+        "url": "https://lpc.com/press-releases/metrobloks-and-lincoln-property-company-announce-joint-venture-to-develop-ai-ready-data-centers-launching-in-kansas-city-metro/",
+        "publisher": "Lincoln Property Company",
+        "date": "2026-04-13",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "dataprana",
+    "name": "Dataprana / Prana Energy",
+    "parentGroup": "Dataprana; Prana Energy is its land and power division, not a second independent buyer",
+    "role": "Developer / operator / powered-site originator",
+    "usRelevance": "high",
+    "regions": [
+      "SPP",
+      "MISO",
+      "ERCOT",
+      "Texas",
+      "South Carolina",
+      "Other US expansion markets"
+    ],
+    "strategy": "Power-first mid-scale developer with an explicit search focus close to Syncranicity’s target. Its record includes mining infrastructure as well as developing AI/HPC opportunities; qualifying the actual end use matters because mining interruptibility and networking do not automatically satisfy AI requirements.",
+    "scale": "Current land-and-energy page targets 10–50 MW; September 2026 company release describes Texas parcels of 10–75 MW. Basis is not expressly IT load and must be clarified.",
+    "publishedRequirements": [
+      {
+        "fact": "Public land division targets scalable substation-adjacent sites in SPP, MISO and ERCOT, emphasizing 10–50 MW and a claimed 12–18-month greenfield-to-service delivery model.",
+        "sourceUrl": "https://dataprana.io/land-and-energy/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "September 2026 hiring announcement expands power origination, land acquisition and engineering and describes projects aimed at late-2026/2027 energization.",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/09/14/3360924/0/en/dataprana-welcomes-land-and-power-executives-amid-us-data-center-market-expansion.html",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: the key differentiator is a dated, studyable service path with manageable upgrades, rather than maximizing parcel area.",
+      "Inference: ask whether a tract is sought for AI colocation, powered land resale, mining or BESS before matching its network and uptime characteristics."
+    ],
+    "differentiators": [
+      "Explicit mid-scale focus and land-acquisition function make this more actionable than a megacampus-only platform.",
+      "SPP/MISO/ERCOT are market filters, not proof of exact serving utility, available MW or tariff economics."
+    ],
+    "dealStructure": "Owns/develops land and power infrastructure; direct partnering inquiry is public. Assignment acquisition, reimbursement and seller-financed land terms are unconfirmed.",
+    "acquisitionSignal": "Dedicated acquisition hires and current public land brief indicate active sourcing; no interest in Hinds or any particular candidate has been established.",
+    "searchBrief": "Prioritize exact parcels in the disclosed grids with 10–50 MW staged delivery potential, economical network access, acceptable community/use path and enough expansion land. Hinds is a conditional ERCOT candidate, subject to territory and layout proof.",
+    "rejectionTriggers": [
+      "Inference: power timing much slower than the marketed delivery model.",
+      "Inference: economically viable mining site but inadequate AI-grade fiber/reliability."
+    ],
+    "buyerQuestions": [
+      "Is the current target 10–50 MW facility load, utility contract demand or IT load?",
+      "What maximum all-in power price, curtailment and upgrade cost are acceptable for the intended workload?",
+      "At which milestone would you acquire an assignable option rather than source the land directly?"
+    ],
+    "sources": [
+      {
+        "title": "Land and energy criteria",
+        "url": "https://dataprana.io/land-and-energy/",
+        "publisher": "Dataprana",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Land and power executive expansion",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3360924/0/en/dataprana-welcomes-land-and-power-executives-amid-us-data-center-market-expansion.html",
+        "publisher": "Dataprana company release",
+        "date": "2026-09-14",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Company profile",
+        "url": "https://dataprana.io/about-us/",
+        "publisher": "Dataprana",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "aib-data-centers",
+    "name": "AIB Data Centers",
+    "parentGroup": "AIB Data Centers Inc.; formerly BlockchAIn Digital Infrastructure",
+    "role": "Developer / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Carolinas",
+      "Dallas–Fort Worth",
+      "Minnesota",
+      "United States"
+    ],
+    "strategy": "Emerging AI/HPC developer targeting manageable capacity increments and utility-first execution. A documented Texas acquisition is unusually relevant because it combined fee-simple real estate, project-company rights and contracted electrical service. It does not demonstrate that AIB pays the same price for an unsupported raw-land option.",
+    "scale": "Current website emphasizes 40–90 MW centers. Investor material describes sites at 150 MW or less with 10 MW modular halls; treat the former as current marketing focus, not a universal ceiling. Contracted utility capacity is distinct from IT load.",
+    "publishedRequirements": [
+      {
+        "fact": "SEC filing states significant commitments require deliverable utility capacity supported by an executed service agreement/PPA or equivalent, land control and a defined interconnection path.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026089151/ea0301093-10q_aibdata.htm",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "September 2026 transaction acquired about 29.385 acres through linked land and LLC-interest purchases, combining 15 MW existing service with 40 MW future primary service under a facilities agreement.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026099305/ea0305122-8k_aib.htm",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current site describes 40–90 MW standardized developments and five marketed sites.",
+        "sourceUrl": "https://www.aib.us/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: land plus assignable utility rights is more saleable than power-proximity speculation; exact documentary rights are part of the asset.",
+      "Inference: deferred consideration creates collection/timing risk even when a buyer accepts the project, so takeout price and cash paid at closing must be separated."
+    ],
+    "differentiators": [
+      "Public SEC precedent permits examination of the actual acquisition mechanism.",
+      "The linked transaction includes utility security and deferred payments; gross consideration is neither an assignment fee nor seller profit."
+    ],
+    "dealStructure": "Verified fee-simple purchase and LLC membership purchase with deferred, secured consideration. A standalone assignment of Syncranicity’s option is not verified.",
+    "acquisitionSignal": "Completed September 2026 acquisition and current site pipeline show activity; finance, tenant commitments and execution remain separately underwritten.",
+    "searchBrief": "Source 40–90 MW utility-rights packages near targeted US markets, or seek an explicit smaller-phase exception. Require evidence of service agreement transferability, upgrade liabilities and closing mechanics.",
+    "rejectionTriggers": [
+      "Published-policy mismatch: no contract-backed utility path before significant capital.",
+      "Inference: transaction cannot transfer land and electrical rights together."
+    ],
+    "buyerQuestions": [
+      "Would a 20–30 MW first phase qualify if expansion reaches 40–90 MW?",
+      "Must fee title vest at closing or can you buy an option/SPV first?",
+      "What payment is immediate, what is deferred, and who funds utility security and land exercise?"
+    ],
+    "sources": [
+      {
+        "title": "2026 Q2 Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026089151/ea0301093-10q_aibdata.htm",
+        "publisher": "AIB / SEC",
+        "date": "2026",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Texas acquisition Form 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026099305/ea0305122-8k_aib.htm",
+        "publisher": "AIB / SEC",
+        "date": "2026-09",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current platform and sites",
+        "url": "https://www.aib.us/",
+        "publisher": "AIB",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Investor platform description",
+        "url": "https://invest.aib.us/",
+        "publisher": "AIB",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "montera",
+    "name": "Montera Infrastructure",
+    "parentGroup": "Stonepeak-backed; shared sponsor exposure with other Stonepeak platforms",
+    "role": "Developer / owner / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Tier I North American metros",
+      "Tier II metros in launch brief"
+    ],
+    "strategy": "Single-tenant hyperscale developer designed for cloud and AI inference. The platform directly states its site search rather than merely listing finished campuses. Its size and customer model make it a less natural buyer for a permanently capped 20 MW site than for an expandable metropolitan development position.",
+    "scale": "Launch targets 100+ MW facilities; current design descriptions include 108 MW buildings and scalable 36 MW configurations. MW basis is not uniformly specified as IT or facility.",
+    "publishedRequirements": [
+      {
+        "fact": "Launch brief targets parcels with a clear near-term power path in Tier I and Tier II metro areas and planned 100+ MW facilities.",
+        "sourceUrl": "https://stonepeak.com/news/stonepeak-launches-montera-infrastructure",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Current company site emphasizes Tier I North American demand, robust connectivity, single-tenant campuses and standard 108/36 MW configurations.",
+        "sourceUrl": "https://montera.com/about/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: the 36 MW configuration is an engineering module, not proof that a standalone 36 MW rural parcel is an approved acquisition target.",
+      "Inference: direct path to near-term power and contractual schedule certainty likely outweigh nominally cheap acreage, given build-to-suit delivery promises."
+    ],
+    "differentiators": [
+      "Standardized design and single-tenant model require parcel geometry compatible with a known customer program.",
+      "Initial sponsor commitment supports platform creation but is not a committed budget for any proposed site."
+    ],
+    "dealStructure": "Direct development, ownership and build-to-suit leasing. Public acceptance of assignments or landowner JVs is not verified.",
+    "acquisitionSignal": "Published parcel search and active platform formation; geographic and timing details require a current acquisition call.",
+    "searchBrief": "Search major North American metro corridors for a credible 100+ MW ultimate campus with near-term first service, strong connectivity, usable contiguous layout and site control lasting through customer approvals.",
+    "rejectionTriggers": [
+      "Published-strategy mismatch: permanently small site without an expansion route.",
+      "Inference: remote power-led parcel lacking Tier I/II customer/network relevance."
+    ],
+    "buyerQuestions": [
+      "Which Tier II markets remain eligible under the current Tier I emphasis?",
+      "What date qualifies as near-term first power and what minimum initial phase is acceptable?",
+      "Will you acquire controlled land rights before a customer is committed?"
+    ],
+    "sources": [
+      {
+        "title": "Montera platform launch",
+        "url": "https://stonepeak.com/news/stonepeak-launches-montera-infrastructure",
+        "publisher": "Stonepeak",
+        "date": "2025-04-23",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current strategy and design",
+        "url": "https://montera.com/about/",
+        "publisher": "Montera",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current platform",
+        "url": "https://montera.com/",
+        "publisher": "Montera",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "serverfarm",
+    "name": "Serverfarm",
+    "parentGroup": "Manulife Investment Management-backed",
+    "role": "Developer / operator / redevelopment acquirer",
+    "usRelevance": "high",
+    "regions": [
+      "Houston",
+      "Atlanta",
+      "Arkansas",
+      "Other strategic North American markets"
+    ],
+    "strategy": "Developer with a demonstrated ability to modernize existing data centers and convert buildings as well as undertake greenfield campuses. This makes existing service infrastructure, usable structures and carrier ecosystems relevant sourcing advantages, subject to actual reuse economics rather than assuming every warehouse is convertible.",
+    "scale": "Houston acquisition disclosed over 500 MW potential across two campuses; this is potential scale, not present delivered capacity or a required minimum. No universal land-area threshold verified.",
+    "publishedRequirements": [
+      {
+        "fact": "2024 Houston entry acquired two existing data-center campuses for modernization and expansion.",
+        "sourceUrl": "https://www.serverfarmllc.com/press-releases/manulife-backed-serverfarm-acquires-two-data-centers-providing-over-500mw-of-new-potential-capacity-in-the-houston-market/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "September 2026 credit expansion supports Houston campuses, Arkansas greenfield development and Atlanta retrofit/conversion, explicitly including reuse of an original structure.",
+        "sourceUrl": "https://www.serverfarmllc.com/press-releases/serverfarm-increases-credit-facility-to-3-895-billion/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: a conversion candidate should include structural loading, clear heights, equipment yards, existing electrical rights and demolition/retrofit economics before it is ranked against greenfield land.",
+      "Inference: prior enterprise/data-center assets may offer schedule advantages, but inherited systems can be liabilities if customer density and reliability standards require replacement."
+    ],
+    "differentiators": [
+      "Retrofit and reuse are evidenced development paths, not generic sustainability branding.",
+      "Both existing campuses and greenfield sites are in the financed pipeline, so a strict brownfield-only filter would be inaccurate."
+    ],
+    "dealStructure": "Direct acquisition of campuses and redevelopment. Option-assignment acceptance is unverified; a structured seller package could fit acquisition diligence better than raw land alone.",
+    "acquisitionSignal": "2026 revolving-credit increase funds a specific North American development pipeline. Capital availability is not evidence of interest in a new third-party parcel.",
+    "searchBrief": "Search redundant enterprise facilities, former telecom/data assets and adaptable industrial campuses in customer-relevant markets, then compare cost/schedule of conversion versus demolition. Include utility rights and fiber easements in the asset inventory.",
+    "rejectionTriggers": [
+      "Inference: retrofit does not preserve enough cost or schedule advantage to justify inherited risks.",
+      "Inference: structure, cooling yard or power rights cannot support required density."
+    ],
+    "buyerQuestions": [
+      "Which markets and retrofit asset classes are actively being acquired now?",
+      "Would you buy the existing building or only the entitled land/power rights?",
+      "What minimum structural, electrical and customer-commitment evidence screens a new acquisition?"
+    ],
+    "sources": [
+      {
+        "title": "Houston campus acquisition",
+        "url": "https://www.serverfarmllc.com/press-releases/manulife-backed-serverfarm-acquires-two-data-centers-providing-over-500mw-of-new-potential-capacity-in-the-houston-market/",
+        "publisher": "Serverfarm",
+        "date": "2024-09-11",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "2026 credit and development pipeline",
+        "url": "https://www.serverfarmllc.com/press-releases/serverfarm-increases-credit-facility-to-3-895-billion/",
+        "publisher": "Serverfarm",
+        "date": "2026-09-15",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "crane-data-centers",
+    "name": "Crane Data Centers",
+    "parentGroup": "Crane; Principal Asset Management project partnership",
+    "role": "Developer / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Portland / Hillsboro / Forest Grove",
+      "US markets subject to qualification"
+    ],
+    "strategy": "Hyperscale developer whose Forest Grove project combines renewable access, multiple fiber routes and proximity to Hillsboro. The project supports a specific network-and-power thesis; it does not establish a national requirement for arbitrary industrial land or prove demand for another Oregon campus.",
+    "scale": "Portland campus marketed at 100+ MW and 667+ watts per square foot high-density cooling. MW is not identified as IT load in the cited page. No universal acquisition minimum verified.",
+    "publishedRequirements": [
+      {
+        "fact": "Portland campus in Forest Grove is near Hillsboro, has multiple fiber paths, an on-campus substation strategy and access to renewable energy.",
+        "sourceUrl": "https://www.cranedc.com/blog/portland-dc-press-release",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current campus page describes redundant transmission feeds, low-TCO considerations, high-density cooling and proximity to highways/amenities.",
+        "sourceUrl": "https://www.cranedc.com/data-centers/oregon-data-center",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: the Hillsboro connectivity ecosystem and economical redundant service are more important than county-wide availability of industrial acreage.",
+      "Inference: a 7-acre parcel might fit an infill or phased design only with an explicit exception; the existing 100+ MW campus does not validate a small standalone target."
+    ],
+    "differentiators": [
+      "Published density metric requires meaningful building/heat-rejection engineering before a candidate can be called suitable.",
+      "Principal partnership is project-level capital evidence, not a commitment to fund any seller’s option."
+    ],
+    "dealStructure": "Developer–capital partner campus structure demonstrated. Public land submission thresholds and option assignment policy not verified.",
+    "acquisitionSignal": "Active Portland campus page states a Q3 2026 service target; actual delivery status should be confirmed because a target date is not proof of commissioning.",
+    "searchBrief": "Investigate industrial sites in Forest Grove/Hillsboro with constructible diverse network access and realistic redundant electrical service; prioritize expansion-friendly layouts. Confirm whether Crane seeks new sites before acquiring a small parcel.",
+    "rejectionTriggers": [
+      "Inference: disconnected from Hillsboro ecosystem without compensating customer demand.",
+      "Inference: no room for equipment yards and phased expansion."
+    ],
+    "buyerQuestions": [
+      "Are you seeking a second Portland site or fully occupied with the existing campus?",
+      "Would you consider less than 100 MW, and what minimum usable acres does your design need?",
+      "Which power/fiber documents must a third-party originator provide to receive acquisition review?"
+    ],
+    "sources": [
+      {
+        "title": "Portland campus announcement",
+        "url": "https://www.cranedc.com/blog/portland-dc-press-release",
+        "publisher": "Crane",
+        "date": "2023-01-16",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current Oregon campus",
+        "url": "https://www.cranedc.com/data-centers/oregon-data-center",
+        "publisher": "Crane",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "beale-infrastructure",
+    "name": "Beale Infrastructure",
+    "parentGroup": "Beale Infrastructure; project-specific entities to confirm in acquisition diligence",
+    "role": "Developer",
+    "usRelevance": "high",
+    "regions": [
+      "Greater Tucson",
+      "Greater Tulsa",
+      "Kansas City / De Soto"
+    ],
+    "strategy": "Large-campus developer with projects shaped around local infrastructure and community commitments. Arizona presence is relevant to Bill, but the announced campuses are much larger than the default 10–50 MW originator target. Water, noise, lighting and who pays infrastructure costs are specific feasibility and acceptance gates.",
+    "scale": "Published examples: 300 acres / 600 MW in Pima County, 600 acres / 1.5 GW expansion in Marana, 282 acres / 450 MW Claremore, 290 acres / 600 MW De Soto. Capacity basis is not uniformly stated as IT.",
+    "publishedRequirements": [
+      {
+        "fact": "Locations page describes large campuses in Tucson, Tulsa and Kansas City with private infrastructure funding and community-specific planning.",
+        "sourceUrl": "https://bealeinfra.com/locations/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Pima County design uses closed-loop air cooling, 65-foot building limits, 30-foot setbacks/buffers, controlled lighting and sound; these are project-specific commitments.",
+        "sourceUrl": "https://bealeinfra.com/location/pima-county/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: community compatibility and a no-ratepayer-subsidy infrastructure plan are acquisition constraints, not points that cheap land can offset.",
+      "Inference: a nearby small Arizona parcel requires an assemblage, feeder-campus or specific buyer exception to fit the demonstrated scale."
+    ],
+    "differentiators": [
+      "Specific public commitments offer better diligence questions than a generic sustainability score.",
+      "Pima County advertised expected economics are developer claims and do not establish approvals or conditions for another parcel."
+    ],
+    "dealStructure": "Develops phased campuses with project-specific land and infrastructure arrangements. Standalone option purchases and minimum initial-phase sizes unverified.",
+    "acquisitionSignal": "Current US development roster establishes regional activity, not interest in Benson or another tract.",
+    "searchBrief": "Focus on large industrial corridors in disclosed metros with a documented low-water design, feasible noise/setback envelope, utility-funded-by-project plan and a politically credible community agreement. Do not infer a Tucson mandate extends to all southern Arizona.",
+    "rejectionTriggers": [
+      "Inference: small rural site with no expansion route.",
+      "Inference: water, neighborhood compatibility or infrastructure-cost allocation defeats local acceptance."
+    ],
+    "buyerQuestions": [
+      "Is new land sourcing active in southern Arizona beyond announced campuses?",
+      "Can a 20–50 MW phase stand alone or must the site support hundreds of MW?",
+      "What community and utility-cost commitments must be secured before land acquisition?"
+    ],
+    "sources": [
+      {
+        "title": "US development locations",
+        "url": "https://bealeinfra.com/locations/",
+        "publisher": "Beale",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Pima County design and commitments",
+        "url": "https://bealeinfra.com/location/pima-county/",
+        "publisher": "Beale",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "takanock",
+    "name": "Takanock",
+    "parentGroup": "Takanock LLC; power-campus developer rather than interchangeable colocation operator",
+    "role": "Power-enabled campus developer / onsite generation provider",
+    "usRelevance": "high",
+    "regions": [
+      "Phoenix metro",
+      "Northern Virginia / Strasburg",
+      "Selected US inference corridors"
+    ],
+    "strategy": "Develops grid-connected onsite generation and power-enabled sites for data-center customers, and can provide generation on a customer’s land. It should be qualified as an energy-and-land partner, not assumed to be the final colocation customer or option buyer. Fuel, emissions and interconnection constraints become central.",
+    "scale": "Baccara example:160 acres, 700 MW generation and 500 MW DC load; Tallmadge:105 acres with staged utility/generation-supported capacity. Generation nameplate and DC load are explicitly different.",
+    "publishedRequirements": [
+      {
+        "fact": "Current strategy targets power-constrained US markets including Phoenix and Northern Virginia, using power-flow modeling and utility relationships for site selection.",
+        "sourceUrl": "https://takanock.com/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Markets page discloses Baccara and Tallmadge campus scale and staged service plans; onsite generation is part of the delivery proposition.",
+        "sourceUrl": "https://takanock.com/markets",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: gas delivery, air permitting, turbine logistics, grid export/import rights and noise setbacks may veto a site with apparently good land and demand.",
+      "Inference: proven conventional utility capacity does not automatically make a site compelling to this platform if it removes the generation-led advantage or lacks a customer."
+    ],
+    "differentiators": [
+      "Can develop generation on another owner’s site as well as provide its own campus.",
+      "Fuel infrastructure and dispatch/utility rules must be evaluated separately from nominal electrical capacity."
+    ],
+    "dealStructure": "Power-enabled site development and onsite power-service model. Land acquisition, ground lease, JV or option purchase must be qualified project by project.",
+    "acquisitionSignal": "Published active Phoenix/Virginia projects and a customer-site offering provide a concrete partner channel; no candidate-specific interest verified.",
+    "searchBrief": "Search constrained metro corridors with lawful generation-compatible industrial land, reliable gas transport, utility integration, emissions feasibility and room for both DC and power plant. A generic rural ERCOT parcel may not match the stated market strategy.",
+    "rejectionTriggers": [
+      "Inference: gas/air-permit or transmission-integration path fails.",
+      "Inference: project lacks space for the generation and DC envelopes together."
+    ],
+    "buyerQuestions": [
+      "Do you acquire land options or primarily sell power to an existing site owner?",
+      "What firm gas transport, emissions and utility studies are required before site review?",
+      "What minimum customer commitment and project scale make a new campus viable?"
+    ],
+    "sources": [
+      {
+        "title": "Power solutions and site strategy",
+        "url": "https://takanock.com/",
+        "publisher": "Takanock",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Active markets and campus specifications",
+        "url": "https://takanock.com/markets",
+        "publisher": "Takanock",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "corscale",
+    "name": "Corscale Data Centers",
+    "parentGroup": "Affinius Capital / Patrinely platform; confirm acquiring project entity",
+    "role": "Developer / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Northern Virginia",
+      "Other US markets subject to qualification"
+    ],
+    "strategy": "Hyperscale campus developer whose published design emphasizes power efficiency, measurable carbon performance and limited cooling-water use. Its Northern Virginia examples are large, network-rich campuses. A powered rural parcel needs a new geographic/customer justification rather than an assumption that all hyperscale builders buy anywhere.",
+    "scale": "Gainesville Crossing:130 acres and 326 MW power capacity; Kincora:80 MW planned single building. These are project examples, not verified universal site thresholds or uniform IT-load figures.",
+    "publishedRequirements": [
+      {
+        "fact": "Current Gainesville campus description identifies 130 acres, phased scale and Dominion power; Kincora is planned as a single 80 MW building in Data Center Alley.",
+        "sourceUrl": "https://corscale.com/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Company explicitly prefers utilities with public sustainability goals and decarbonization pathways; uses closed-loop air-cooled chillers and carbon-accounting tools.",
+        "sourceUrl": "https://corscale.com/sustainability/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: utility generation mix and documented decarbonization trajectory can affect customer underwriting even where power is physically adequate.",
+      "Inference: dry/closed-loop cooling reduces process-water burden but still requires domestic/fire supply, noise analysis and heat-rejection area; it does not make water or civil diligence unnecessary."
+    ],
+    "differentiators": [
+      "Utility sustainability preference is an actual published selection consideration.",
+      "Carbon measurement and design standards are customer-facing obligations, distinct from simply locating near a renewable generator."
+    ],
+    "dealStructure": "Institutional campus development. A public land submission/option assignment program was not verified.",
+    "acquisitionSignal": "Current project roster supports Northern Virginia activity; acquisition geography beyond it requires direct qualification.",
+    "searchBrief": "Seek scalable industrial land in established customer metros with a defensible power schedule, relevant network reach, and utility environmental reporting. Size for the specified phase and chiller/equipment yards rather than extrapolating acres per MW.",
+    "rejectionTriggers": [
+      "Inference: site cannot meet customer network/geographic demand.",
+      "Published-preference concern: utility decarbonization pathway is absent or conflicts with customer requirements."
+    ],
+    "buyerQuestions": [
+      "Which US metros are approved for new site acquisition now?",
+      "Is a 20–50 MW first phase viable independently of a much larger campus?",
+      "What utility carbon information and development milestones must an originator substantiate?"
+    ],
+    "sources": [
+      {
+        "title": "Developments and campus scale",
+        "url": "https://corscale.com/",
+        "publisher": "Corscale",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Sustainability and utility preference",
+        "url": "https://corscale.com/sustainability/",
+        "publisher": "Corscale",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "ada-infrastructure",
+    "name": "Ada Infrastructure",
+    "parentGroup": "Ares Management digital infrastructure platform",
+    "role": "Developer / operator",
+    "usRelevance": "high",
+    "regions": [
+      "Northern Virginia I-95 South corridor",
+      "Major North American hubs",
+      "Brazil",
+      "Japan",
+      "United Kingdom"
+    ],
+    "strategy": "Global developer explicitly targeting strategic sites in major North American hubs. Virginia’s large planned campus provides unusually detailed layout, electrical, fiber and cooling evidence. Those specifications are a template for qualification questions, not a claim that every future acquisition must reproduce the same campus.",
+    "scale": "VA1:314 acres; initial200 MW IT across two buildings,400 MW IT ultimate. Initial substation300 MVA with600 MVA expansion planned; these are not interchangeable units. First power targeted2028.",
+    "publishedRequirements": [
+      {
+        "fact": "North America page identifies strategic development sites in major hubs as the expansion objective.",
+        "sourceUrl": "https://adainfrastructure.com/en-US/locations/north-america",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "VA1 design includes industrial/DC zoning, redundant230kV circuits, onsite utility-owned substation, up to four diverse property fiber entrances, liquid/air cooling flexibility and concurrent maintainability.",
+        "sourceUrl": "https://adainfrastructure.com/en-US/locations/virginia",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inference: a seller who can deliver entitlements, multiple independent route easements and substation land removes more relevant uncertainty than one who supplies only a large tract.",
+      "Inference: the initial200 MW IT scale and planned expansion make a capped20 MW opportunity unlikely without a specific carve-out requirement or customer exception."
+    ],
+    "differentiators": [
+      "Explicit separation of IT capacity, MVA and voltage allows accurate comparison to utility service proposals.",
+      "Several fiber entrances must correspond to physically diverse routes; multiple carriers in the same duct are not equivalent."
+    ],
+    "dealStructure": "Institutional site acquisition/development and long-term customer delivery. Public option-assignment or landowner-JV policy unverified.",
+    "acquisitionSignal": "Current US page explicitly seeks major-hub expansion beyond Virginia; actual target metros and acquisition windows remain undisclosed.",
+    "searchBrief": "Search major-hub industrial corridors with a credible large phased campus, redundant electrical paths, a utility-owned substation strategy, constructible diverse fiber and entitlement readiness. Treat a20–50 MW-only site as an exception to qualify first.",
+    "rejectionTriggers": [
+      "Inference: insufficient land or electrical expansion path for the customer program.",
+      "Inference: nominal diverse connectivity collapses to a common physical route."
+    ],
+    "buyerQuestions": [
+      "Which North American metros beyond Virginia are currently approved for acquisition?",
+      "What is the smallest independently acceptable IT phase and ultimate campus requirement?",
+      "At which point will Ada acquire assignable land/control rights and rely on third-party studies?"
+    ],
+    "sources": [
+      {
+        "title": "North American acquisition geography",
+        "url": "https://adainfrastructure.com/en-US/locations/north-america",
+        "publisher": "Ada",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Virginia VA1 design",
+        "url": "https://adainfrastructure.com/en-US/locations/virginia",
+        "publisher": "Ada",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Current ownership and global development",
+        "url": "https://adainfrastructure.com/en-US/insights/news/ada-infrastructure-announces-groundbreaking-of-its-first-data-center-campus-in-brazil",
+        "publisher": "Ada",
+        "date": "2026-06-25",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  }
+]

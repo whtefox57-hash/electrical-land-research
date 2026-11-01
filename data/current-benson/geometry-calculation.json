@@ -1,0 +1,11 @@
+{
+  "method": "Signed shoelace polygon/ring area on server-returned NAD83 / UTM zone 12N (EPSG:26912) coordinates",
+  "sourceRequest": "parcel-exact-projected.request.json",
+  "areaSquareMeters": 432208.4696044922,
+  "areaAcres": 106.80103875495777,
+  "GISAttributeAcres": 106.92,
+  "assessorParcelSize": 115.45,
+  "netDevelopableAcres": null,
+  "largestContiguousBuildableAcres": null,
+  "limitation": "GIS area, not surveyed/deeded acreage. Net/largest buildable area not calculable without complete restrictions and recorded road width."
+}

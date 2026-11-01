@@ -1,0 +1,11 @@
+{
+  "name": "layer-48-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/SpecialUsePoint_shp/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:37.611121+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 14376,
+  "sha256": "a6b05816c53cef76d654bdaa7129dcfa7b79bb399dd89cd09e545640c86c451d",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

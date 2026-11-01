@@ -1,0 +1,11 @@
+{
+  "name": "parcel-item",
+  "url": "https://www.arcgis.com/sharing/rest/content/items/a6965b45b80248389b5e6dd369e688b9?f=json",
+  "retrievedAt": "2026-09-05T17:56:38.435799+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 2792,
+  "sha256": "ba65cfb98d4b50c776e79277fcab4543a85bd0ace2ced57c3ffc287998727406",
+  "contentType": "application/json;charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

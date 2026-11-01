@@ -1,0 +1,11 @@
+{
+  "name": "layer-49-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Lnd_SectionDocuments/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:37.712698+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 10936,
+  "sha256": "c5c2ec5fe640e398f886df44e7f61b27fa6c2abfa5aa2ac65d86aafd605568d3",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

@@ -1,0 +1,19 @@
+{
+  "observedAt": "2026-09-07",
+  "result": "PASS",
+  "tasks": [
+    "National Electric Land Deep Scan",
+    "Electric Land Change Watch",
+    "Large-Load Buyer Watch",
+    "Electric Land Deal Runs"
+  ],
+  "checks": [
+    "Exact prompts unchanged",
+    "Schedules unchanged",
+    "Enabled states unchanged"
+  ],
+  "limitations": [
+    "Customer Analysis identity not found; no substitution made",
+    "No scheduled delivery verified; Sites MCP owner capability unavailable"
+  ]
+}

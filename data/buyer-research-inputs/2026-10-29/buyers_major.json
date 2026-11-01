@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "digital-realty",
+    "name": "Digital Realty",
+    "parentGroup": "Digital Realty",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Northern Virginia",
+      "Dallas",
+      "Atlanta",
+      "Charlotte",
+      "New York metro",
+      "Silicon Valley"
+    ],
+    "strategy": "Two materially different land products: additions to network-rich colocation hubs and larger hyperscale campuses. A small parcel adjoining an existing facility can be strategically valuable even where an isolated larger tract is not.",
+    "scale": "Observed examples: Charlotte up to 400 MW IT campus; Uptown Charlotte adjacent parcels enabling about 12 MW IT; Richardson 6.7-acre addition capable of up to 100 MW incremental IT. These are acquisition precedents, not minimum thresholds.",
+    "publishedRequirements": [
+      {
+        "fact": "Q1 2025: bought a 48-acre Charlotte parcel adjoining its recently acquired 156-acre campus; also bought two parcels beside the Uptown connectivity hub for roughly 12 MW IT expansion.",
+        "sourceUrl": "https://www.digitalrealty.com/about/newsroom/press-releases/123320/digital-realty-reports-first-quarter-2025-results",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Q4 2024: bought 6.7 acres beside its Richardson campus for about $15 million, supporting up to 100 MW incremental IT capacity.",
+        "sourceUrl": "https://investor.digitalrealty.com/news-releases/news-release-details/digital-realty-reports-fourth-quarter-2024-results",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize adjacency and constructible fiber links before acreage: an infill lot may extend existing interconnection revenue, while a detached rural parcel must win on an entirely different hyperscale use case.",
+      "Prepare separate economics for the two products; do not apply the Richardson price per acre to ordinary rural land. Existing infrastructure and a shared campus are a major part of that value.",
+      "A new site needs evidence of advantage over Digital Realty’s existing land bank, not merely proof that its regional market is growing."
+    ],
+    "differentiators": [
+      "Colocation-network adjacency can matter more than gross acres.",
+      "Published land transactions distinguish hub expansion from campus development."
+    ],
+    "dealStructure": "Direct land acquisitions and development fund/JV capital are evidenced. Acceptance of a third-party option assignment, fee structure and required utility milestone remain unconfirmed.",
+    "acquisitionSignal": "Acquisitions show that it buys external land. They do not establish an open request for more parcels or interest in any Syncranicity site.",
+    "searchBrief": "Search assemblages immediately beside Digital Realty campuses or within a feasible diverse-fiber connection to its carrier hubs; separately search campus-scale land in disclosed fund markets. Record utility-ramp advantage, net usable land and the alternative it replaces.",
+    "rejectionTriggers": [
+      "Inference: detached land with no valuable customer or network adjacency and no substantial power/schedule advantage.",
+      "Inference: parcel geometry that cannot extend the existing campus or expensive off-site fiber crossings that erase the infill benefit."
+    ],
+    "buyerQuestions": [
+      "Is the live requirement interconnection expansion or hyperscale wholesale capacity?",
+      "Which existing hub must the site reach, through what maximum route length and latency?",
+      "Would the acquisition committee buy assignable contract rights, and at what power/entitlement milestone?"
+    ],
+    "sources": [
+      {
+        "title": "Digital Realty Q1 2025 results",
+        "url": "https://www.digitalrealty.com/about/newsroom/press-releases/123320/digital-realty-reports-first-quarter-2025-results",
+        "publisher": "Digital Realty",
+        "date": "2025-04-24",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Digital Realty Q4 2024 results",
+        "url": "https://investor.digitalrealty.com/news-releases/news-release-details/digital-realty-reports-fourth-quarter-2024-results",
+        "publisher": "Digital Realty",
+        "date": "2025-02-13",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "equinix",
+    "name": "Equinix",
+    "parentGroup": "Equinix",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Existing IBX metros",
+      "Dallas",
+      "Northern Virginia",
+      "Chicago",
+      "Silicon Valley",
+      "New York metro"
+    ],
+    "strategy": "Interconnection-led IBX development and larger xScale campuses are separate buying mandates. Location within a dense network and customer ecosystem is a commercial input, not just a fiber engineering question.",
+    "scale": "No universal public acreage or MW acquisition floor found. IBX and xScale must be qualified separately; a nominal 20–50 MW site is not automatically appropriate for either product.",
+    "publishedRequirements": [
+      {
+        "fact": "SEC filing says Equinix prefers new IBX facilities next to existing locations; when separated, metro-connect reliability and customer requirements affect interconnection revenue and retention.",
+        "sourceUrl": "https://investor.equinix.com/sec-filings/all-sec-filings/content/0001628280-25-021086/eqix-20250331.htm",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Company site-selection discussion highlights cloud connectivity, AI enablement, industry ecosystems, renewable-grid access and climate resilience.",
+        "sourceUrl": "https://blog.equinix.com/blog/2024/08/06/5-considerations-for-choosing-data-center-locations/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Search existing metropolitan clusters first, then test whether the parcel adds scarce interconnection capacity or extends a particular hub. Rural cheap power alone does not reproduce the customer ecosystem.",
+      "A fiber route map should identify actual building entry points, route diversity, metro-connect construction and customer latency, not just nearby broadband coverage.",
+      "An xScale lead requires a hyperscaler-specific capacity block and delivery schedule; do not pitch it to the retail-colocation team as the same product."
+    ],
+    "differentiators": [
+      "Existing campus adjacency is an express SEC-disclosed preference.",
+      "Network ecosystems create a location premium that power alone cannot supply."
+    ],
+    "dealStructure": "The SEC filing contemplates real estate acquisitions, operating-data-center acquisitions and investments in local operators. No verified policy for paying option-assignment fees was found.",
+    "acquisitionSignal": "Published expansion policy supports acquisition relevance, but no site-specific solicitation or acceptance has been established.",
+    "searchBrief": "Search small industrial infill or redevelopment near existing IBX clusters with credible utility additions and feasible metro-connect links. For xScale, use a separate large-campus search box confirmed by its development team.",
+    "rejectionTriggers": [
+      "Inference: a remote tract with power but no interconnection/customer-network rationale.",
+      "Published risk: inadequate reliability of connections between separate IBX facilities."
+    ],
+    "buyerQuestions": [
+      "Which IBX or xScale mandate would assess this land?",
+      "Can an off-campus parcel join the metro ecosystem without reducing service reliability or margins?",
+      "Which utility evidence and remaining entitlement risks are acceptable before you acquire?"
+    ],
+    "sources": [
+      {
+        "title": "Equinix Q1 2025 SEC filing: site selection and acquisitions",
+        "url": "https://investor.equinix.com/sec-filings/all-sec-filings/content/0001628280-25-021086/eqix-20250331.htm",
+        "publisher": "Equinix",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Five considerations for choosing data center locations",
+        "url": "https://blog.equinix.com/blog/2024/08/06/5-considerations-for-choosing-data-center-locations/",
+        "publisher": "Equinix",
+        "date": "2026-05-13",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "qts",
+    "name": "QTS",
+    "parentGroup": "Blackstone / QTS",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "U.S. hyperscale markets",
+      "Cedar Rapids, Iowa",
+      "Northern Virginia",
+      "Texas"
+    ],
+    "strategy": "Build large, expandable power-ready campuses around long-term customer capacity planning, while integrating local government, energy suppliers, construction workforce and sustainability commitments.",
+    "scale": "Cedar Rapids example: 612 acres and seven planned buildings. No universal MW or acreage minimum is disclosed in the cited criteria.",
+    "publishedRequirements": [
+      {
+        "fact": "QTS expressly names sustainability, tax, permitting and labor in its strategic site-selection process for large-scale power-ready campuses.",
+        "sourceUrl": "https://q.com/why-qts/access-to-infrastructure/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Cedar Rapids campus occupies 612 acres within Big Cedar Industrial Center, with Alliant Energy collaboration and non-evaporative cooling.",
+        "sourceUrl": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Regional workforce depth and the ability to execute several buildings over time should be screened before an option is priced. Cheap acres with weak civil access or contractor capacity may not solve the campus delivery problem.",
+      "Look for a local economic-development partner able to coordinate infrastructure and predictable approvals, while verifying incentive eligibility and obligations rather than treating a headline tax exemption as cash.",
+      "A package should show phased expansion geometry, substation siting and community-impact buffers; isolated capacity with no expansion pathway is a weaker match."
+    ],
+    "differentiators": [
+      "Labor and permitting appear in the company’s own selection criteria.",
+      "Campus partnerships combine utilities, local government and long-term customer growth."
+    ],
+    "dealStructure": "Development and land control are clearly evidenced; exact willingness to purchase contract rights or pay an originator is not publicly established. Approach the acquisition/development function with a controlled opportunity.",
+    "acquisitionSignal": "The Iowa project demonstrates geographic expansion beyond the largest traditional hubs, but it is a controlled QTS project, not land available for Syncranicity to option.",
+    "searchBrief": "Source contiguous industrial-campus sites in regions with credible utility cooperation, scalable construction labor and room for phased substations and buffers. Add a community and workforce plan to the usual technical checklist.",
+    "rejectionTriggers": [
+      "Inference: large power headline unsupported by a long-term campus expansion plan.",
+      "Inference: severe labor or community opposition that destroys the delivery timetable despite available MW."
+    ],
+    "buyerQuestions": [
+      "Which regions have unsatisfied tenant demand outside your existing land bank?",
+      "How much initial capacity and how many later phases are needed?",
+      "Which tax, workforce and community commitments must be solved before land investment approval?"
+    ],
+    "sources": [
+      {
+        "title": "Access to infrastructure",
+        "url": "https://q.com/why-qts/access-to-infrastructure/",
+        "publisher": "QTS",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "QTS Cedar Rapids announcement",
+        "url": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "publisher": "QTS",
+        "date": "2025-08-08",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "vantage",
+    "name": "Vantage Data Centers",
+    "parentGroup": "Vantage Data Centers",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Northern Virginia",
+      "Phoenix",
+      "Other established North American markets"
+    ],
+    "strategy": "Hyperscale and AI campuses with repeatable operating standards, substantial power blocks and very high rack densities. Its Texas expansion demonstrates willingness to build outside central metropolitan land markets when the infrastructure package works.",
+    "scale": "Frontier, Shackelford County: 1,200 acres, 1.4 GW critical IT, ten buildings and 250 kW-plus racks. This specific mega-campus is not a universal acquisition floor.",
+    "publishedRequirements": [
+      {
+        "fact": "Frontier specifications pair 1.4 GW IT capacity with N+1 redundancy, multiple power feeds, liquid cooling and diverse dark/lit fiber paths.",
+        "sourceUrl": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "August 2025 announcement identifies rural Texas Frontier as an AI-led expansion, using low-water closed-loop cooling and targeting initial delivery in H2 2026.",
+        "sourceUrl": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "For a rural lead, test high-density heat rejection, diverse long-haul fiber easements and construction labor/logistics together. A utility letter alone does not show the land can support the customer’s physical layout.",
+      "Remote geography is not automatically disqualifying, but a 20 MW isolated first phase competes against much larger controlled projects unless a specific customer requirement or faster delivery gives it a reason to exist.",
+      "Substation expansion corridors and independently constructible fiber routes should be reserved in the site plan rather than counted as spare acreage."
+    ],
+    "differentiators": [
+      "Published Frontier IT load prevents confusing utility nameplate with critical compute power.",
+      "Demonstrated rural AI-campus strategy, with high-density cooling and route diversity."
+    ],
+    "dealStructure": "Developer-led campuses are evidenced; no standard third-party land-option purchase policy is published. An originator would need to sell a material timing or land-control advantage.",
+    "acquisitionSignal": "Frontier is already controlled and under development. Its published delivery date is a target, not independent verification of energization or proof of appetite for another nearby tract.",
+    "searchBrief": "Search large, assemblable Texas or other North American tracts with staged power, liquid-cooling suitability and truly diverse fiber. Only retain smaller land leads when an identified Vantage customer or campus extension supports them.",
+    "rejectionTriggers": [
+      "Inference: only a small terminal MW block with no expansion or customer-specific mandate.",
+      "Inference: two nominal carriers sharing the same physical corridor."
+    ],
+    "buyerQuestions": [
+      "What minimum first-phase and ultimate IT block is needed for a new rural campus?",
+      "Would a 20–50 MW project have a distinct customer use, or fall below your current development mandate?",
+      "Which firm service-date, water and fiber evidence is required for land acquisition?"
+    ],
+    "sources": [
+      {
+        "title": "Frontier campus specifications",
+        "url": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx",
+        "publisher": "Vantage Data Centers",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Frontier mega-campus announcement",
+        "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+        "publisher": "Vantage Data Centers",
+        "date": "2025-08-19",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "cyrusone",
+    "name": "CyrusOne",
+    "parentGroup": "CyrusOne",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Texas",
+      "Northern Virginia",
+      "Phoenix",
+      "Chicago",
+      "North Carolina",
+      "Other existing markets"
+    ],
+    "strategy": "Wholesale and build-to-suit campuses, including reuse of former industrial/energy land where infrastructure and regional workforce can support phased development.",
+    "scale": "No universal acreage/MW minimum found. A Dallas-Allen facility sheet states 50 MW utility capacity; this is not IT load or an acquisition threshold. Sulphur Springs is still being evaluated as a multiphase campus.",
+    "publishedRequirements": [
+      {
+        "fact": "For Sulphur Springs, CyrusOne explicitly cites infrastructure access, available land, workforce proximity, reuse of a former lignite mine and natural visual buffers as reasons for selection.",
+        "sourceUrl": "https://www.cyrusone.com/data-centers/north-america/sulphur-springs-texas",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The same project remains in diligence/planning; the company says final scale depends on engineering, environmental, utility, regulatory and community work.",
+        "sourceUrl": "https://www.cyrusone.com/data-centers/north-america/sulphur-springs-texas",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Dallas-Allen DFW3 sheet lists 50 MW utility capacity and air-cooled closed-loop cooling without cooling towers.",
+        "sourceUrl": "https://documents.cyrusone.com/wp-content/uploads/2023/06/2022-DFW3_Dallas-Allen.pdf",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Former power, mining or industrial land can qualify despite a non-pristine history, but environmental liability, reclamation and geotechnical conditions must be priced and allocated. Prior disturbance is a lead, not a clearance.",
+      "Mature vegetation and topography can have commercial value as visual/noise buffers if they do not compromise usable layout. Include a buffer concept rather than only gross acres.",
+      "Low-water cooling means potable-water volume need not be the dominant screen; air-cooled heat rejection, summer performance, acoustics and the lawful initial fill remain relevant."
+    ],
+    "differentiators": [
+      "Explicit willingness to consider former mine land.",
+      "Workforce and natural screening are documented selection reasons."
+    ],
+    "dealStructure": "Direct development is established; contract-assignment acceptance, liabilities assumed and required land-control milestone must be confirmed.",
+    "acquisitionSignal": "Sulphur Springs is an evaluated CyrusOne site, not an outside acquisition lead. It demonstrates a distinct brownfield thesis, not a general promise to buy disturbed land.",
+    "searchBrief": "Search large industrial or former-energy tracts near established workforce areas, with reusable infrastructure and defensible buffers. Ask for reclamation, title, subsurface and environmental records early.",
+    "rejectionTriggers": [
+      "Inference: legacy environmental/geotechnical liabilities cannot be allocated or remediated within schedule.",
+      "Inference: community buffers disappear after net-buildable-acre analysis."
+    ],
+    "buyerQuestions": [
+      "Would you buy brownfield land rights before remediation, and who would retain liabilities?",
+      "Which workforce radius and air/noise envelope are required?",
+      "Would staged power meet a current tenant need or merely add to the land bank?"
+    ],
+    "sources": [
+      {
+        "title": "Sulphur Springs project FAQ",
+        "url": "https://www.cyrusone.com/data-centers/north-america/sulphur-springs-texas",
+        "publisher": "CyrusOne",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "DFW3 Dallas-Allen technical specifications",
+        "url": "https://documents.cyrusone.com/wp-content/uploads/2023/06/2022-DFW3_Dallas-Allen.pdf",
+        "publisher": "CyrusOne",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "ntt-global-data-centers",
+    "name": "NTT Global Data Centers",
+    "parentGroup": "NTT DATA",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Phoenix/Mesa",
+      "Existing Americas markets"
+    ],
+    "strategy": "Master-planned campuses serving customers from individual cabinets through private suites and dedicated vaults. A strong metropolitan cloud ecosystem can support both the first building and later phases.",
+    "scale": "Phoenix example: 102-acre campus planned for 240 MW; PH1 is explicitly 36 MW critical IT, organized into 6 MW vaults. These are campus specifications, not published acquisition minimums.",
+    "publishedRequirements": [
+      {
+        "fact": "PH1 has an on-site substation, N+1 distributed redundancy for each 6 MW vault and diverse power distribution.",
+        "sourceUrl": "https://www.nttdata.com/en-kr/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Phoenix campus design includes three diverse fiber entries, two carrier meet-me rooms and closed-loop chilled-water cooling.",
+        "sourceUrl": "https://www.nttdata.com/en-kr/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "NTT cites reliable/affordable power, low natural-disaster exposure, fiber/cloud connectivity and tax incentives in explaining Phoenix selection.",
+        "sourceUrl": "https://www.nttdata.com/en-kr/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "The site needs distinct routes and usable space for several entrances and substation equipment; generic fiber proximity cannot demonstrate the published topology.",
+      "Master planning should separate first-phase development from later construction so operating customers are not disrupted as the campus grows.",
+      "For a small originator, an in-market extension or site with an unusually early delivery path is more credible than asking NTT to establish an entirely new rural retail-colocation market."
+    ],
+    "differentiators": [
+      "Three diverse fiber entry points are an unusually concrete physical-layout benchmark.",
+      "6 MW vault architecture and phased campus development show a granular first-building product."
+    ],
+    "dealStructure": "Land development is clear; whether NTT will acquire an option, close simultaneously with a seller or require direct fee ownership remains unknown.",
+    "acquisitionSignal": "PH1 establishes design and location preferences. The page alone does not prove a current unsatisfied need for another Mesa property.",
+    "searchBrief": "Search metropolitan technology corridors with room for an initial modular building, subsequent phases and separately constructible fiber entrances. Validate access to cloud connectivity and operational staffing before proposing outlying sites.",
+    "rejectionTriggers": [
+      "Inference: utility capacity is adequate but feasible separate network entrances are missing.",
+      "Inference: a rural location lacks the enterprise/cloud ecosystem supporting the planned product."
+    ],
+    "buyerQuestions": [
+      "Which Americas metros need additional land beyond controlled campuses?",
+      "How many physically diverse fiber entry points are required at land acquisition?",
+      "What initial vault/building size and expansion runway make a new site worthwhile?"
+    ],
+    "sources": [
+      {
+        "title": "Phoenix PH1 specifications and location rationale",
+        "url": "https://www.nttdata.com/en-kr/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "publisher": "NTT DATA",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "stack-infrastructure",
+    "name": "STACK Infrastructure",
+    "parentGroup": "STACK / Blue Owl investment relationship",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "New Mexico",
+      "Dallas-Fort Worth",
+      "Northern Virginia",
+      "Phoenix",
+      "Atlanta",
+      "Chicago",
+      "Portland",
+      "Silicon Valley"
+    ],
+    "strategy": "Large-scale hyperscale development with customer and capital alignment. Project Jupiter demonstrates an integrated energy-and-data-center route where a dedicated microgrid is part of delivering AI capacity.",
+    "scale": "New Mexico precedent exceeds 1 GW planned capacity; source does not unambiguously distinguish utility power from critical IT for that headline. No universal parcel threshold found.",
+    "publishedRequirements": [
+      {
+        "fact": "STACK’s September 2025 announcement links its planned Doña Ana County campus to Oracle/Stargate demand, an on-site microgrid and low-water closed-loop cooling.",
+        "sourceUrl": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-delivers-digital-infrastructure-for-data-center-campus-in-new-mexico/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "STACK and BorderPlex pledged water/community investment and said Project Jupiter would use dedicated generation to meet its own energy needs.",
+        "sourceUrl": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-and-borderplex-digital-announce-cumulative-56-9-million-in-water-and-community-commitments-for-dona-ana-county-through-project-jupiter/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A power-generation partner, fuel/air-permit path and customer-backed infrastructure schedule can matter as much as the acreage. A raw tract beside a gas pipeline does not recreate the announced microgrid model.",
+      "Identify the actual project sponsor and committed customer function early. STACK and a funding partner are not independent takeout probabilities for the same transaction.",
+      "Community investment and local infrastructure obligations must enter the land economics, not be left as a later public-relations exercise."
+    ],
+    "differentiators": [
+      "Demonstrated developer–customer–energy–capital coordination.",
+      "Dedicated microgrid precedents broaden the search beyond conventional grid-only delivery."
+    ],
+    "dealStructure": "Development partnerships are evidenced. A proposal may need to become part of a sponsored project rather than a simple land-option flip; no standard cash assignment terms are published.",
+    "acquisitionSignal": "Project Jupiter is an announced controlled development with specified partners. It does not establish an open land solicitation or capacity at neighboring parcels.",
+    "searchBrief": "Search either scalable established-market campuses or integrated industrial/energy sites with documented customer utility. For the latter, screen generation permitting, gas supply and local water/community obligations alongside land title.",
+    "rejectionTriggers": [
+      "Inference: energy concept is only a pipeline or retired-plant proximity claim.",
+      "Inference: project lacks a credible tenant/capital sponsor while requiring major generation investment."
+    ],
+    "buyerQuestions": [
+      "Does the current mandate accept behind-the-meter generation and what emissions/reliability standards apply?",
+      "Is STACK the land buyer, developer for a tenant, or JV operator in this market?",
+      "Which infrastructure and community obligations must transfer with the site?"
+    ],
+    "sources": [
+      {
+        "title": "STACK New Mexico/Stargate announcement",
+        "url": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-delivers-digital-infrastructure-for-data-center-campus-in-new-mexico/",
+        "publisher": "STACK Infrastructure",
+        "date": "2025-09-26",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Project Jupiter community and water commitments",
+        "url": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-and-borderplex-digital-announce-cumulative-56-9-million-in-water-and-community-commitments-for-dona-ana-county-through-project-jupiter/",
+        "publisher": "STACK Infrastructure",
+        "date": "2025-09-15",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "databank",
+    "name": "DataBank",
+    "parentGroup": "DataBank platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Dallas/Red Oak",
+      "Atlanta",
+      "Northern Virginia",
+      "Existing regional colocation markets"
+    ],
+    "strategy": "Enterprise colocation/interconnection platform also developing large AI campuses. A site must be assigned to the correct business lane rather than assuming every DataBank project is a 480 MW campus.",
+    "scale": "Red Oak: 292 acres and up to 480 MW critical IT at full build. Construction article states 240 MW IT in phase 1 from a 400 MW Oncor substation; another current campus paragraph says up to 300 MW. Resolve that conflict directly.",
+    "publishedRequirements": [
+      {
+        "fact": "The September 2024 acquisition announcement describes eight two-story buildings on 292 acres and a 480 MW campus.",
+        "sourceUrl": "https://www.databank.com/resources/press-releases/databank-announces-development-of-480mw-data-center-campus-in-south-dallas/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Construction detail describes 425,000 gross square feet per building, 200,000 square feet of data-center space and Q2 2026 initial ready-for-service target.",
+        "sourceUrl": "https://www.databank.com/resources/blogs/building-the-future-inside-databanks-red-oak-campus-construction/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Multi-story design can change land efficiency, but gross building square footage, data floor and IT MW must stay separate in parcel underwriting.",
+      "For Dallas, compare any candidate against its controlled Red Oak expansion land; there must be a customer-location, power-date or cost advantage beyond proximity to other operators.",
+      "Smaller regional opportunities should be pitched as enterprise/interconnection additions with local demand evidence, not extrapolated from the giant campus announcement."
+    ],
+    "differentiators": [
+      "Dual regional-colocation and hyperscale growth lanes.",
+      "Public capacity inconsistency illustrates why source reconciliation is a diligence deliverable."
+    ],
+    "dealStructure": "Direct land purchases are documented. Option assignment appetite and willingness to reimburse third-party diligence are unverified.",
+    "acquisitionSignal": "The Red Oak acquisition confirms buying capability but is also existing competing supply. Announced initial service dates are not independent verification of energization.",
+    "searchBrief": "Search in-market expansion tracts or large campuses with a better phased utility date than existing inventory. Capture net usable land, multi-story feasibility and a side-by-side comparison with the nearest DataBank campus.",
+    "rejectionTriggers": [
+      "Inference: adequate MW but no advantage over existing expansion acreage.",
+      "Inference: comparing utility substation capacity to IT load inflates the proposed customer product."
+    ],
+    "buyerQuestions": [
+      "Which regional or hyperscale lane is currently acquiring sites?",
+      "What is the actual initial/ultimate critical IT requirement and earliest useful service date?",
+      "Would an external parcel complement or compete with Red Oak or another controlled campus?"
+    ],
+    "sources": [
+      {
+        "title": "480 MW South Dallas campus acquisition",
+        "url": "https://www.databank.com/resources/press-releases/databank-announces-development-of-480mw-data-center-campus-in-south-dallas/",
+        "publisher": "DataBank",
+        "date": "2024-09-10",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Red Oak construction details",
+        "url": "https://www.databank.com/resources/blogs/building-the-future-inside-databanks-red-oak-campus-construction/",
+        "publisher": "DataBank",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Red Oak campus current specifications",
+        "url": "https://www.databank.com/data-centers/dallas/red-oak-campus/",
+        "publisher": "DataBank",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "iron-mountain",
+    "name": "Iron Mountain Data Centers",
+    "parentGroup": "Iron Mountain",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Miami",
+      "Northern Virginia",
+      "Other established Iron Mountain markets"
+    ],
+    "strategy": "Compliant enterprise and hyperscale colocation, with both dense metropolitan buildings and longer-term campus growth. Location value can come from gateway connectivity and customer compliance needs rather than maximum acreage.",
+    "scale": "Miami MIA-1 example: 3.4 acres, 150,000 square feet, 16 MW customer IT backed by 26 MVA redundant operational power. Manassas example: 142-acre master-planned campus.",
+    "publishedRequirements": [
+      {
+        "fact": "MIA-1 is positioned for the Florida/Caribbean/Latin American digital gateway and high-density AI demand, with carrier/cloud-neutral connectivity and a clean-energy offer.",
+        "sourceUrl": "https://resources.ironmountain.com/solution-guides/d/data-centers-miami-data-center-mia-1",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "VA-1 sits on a 142-acre campus planned for more than two million square feet across over ten buildings; it emphasizes secure, compliant Northern Virginia access.",
+        "sourceUrl": "https://www.ironmountain.com/data-centers/locations/na/northern-virginia/va-1",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A small site is not automatically too small if its urban network position is distinctive; conversely, rural acres do not replicate the Miami gateway proposition.",
+      "Include realistic hazard-hardening and insurance cost in a South Florida candidate, with flood, storm-surge, wind and backup-fuel logistics evaluated independently.",
+      "The land package should support compliance and security envelopes, delivery access and sustainable-energy procurement rather than only advertise cheap utility power."
+    ],
+    "differentiators": [
+      "Urban 3.4-acre/16 MW IT example disproves a generic 100-acre screen.",
+      "Compliance-heavy enterprise and gateway positioning can drive site economics."
+    ],
+    "dealStructure": "Purpose-built facilities and master-planned land development are evidenced. Exact purchase/lease/JV and assignment terms are not publicly established for a new parcel.",
+    "acquisitionSignal": "The April 2026 Miami guide targets mid-2026 rollout; treat that as an announced schedule, not a verified opening. No demand for another Miami parcel has been confirmed.",
+    "searchBrief": "Search secure metropolitan infill near relevant carrier/cloud routes, or expandable campuses in established markets. Show the customer ecosystem, hazard-adjusted cost and utility-to-IT conversion explicitly.",
+    "rejectionTriggers": [
+      "Inference: urban land has power but lacks gateway interconnection or suitable risk mitigation.",
+      "Inference: security setbacks, truck access or backup infrastructure cannot fit the net parcel."
+    ],
+    "buyerQuestions": [
+      "Is the active need urban enterprise colocation or a hyperscale campus?",
+      "What customer compliance, physical-security and clean-energy obligations affect land approval?",
+      "Can an originator transfer control before full entitlement, and with what reliance package?"
+    ],
+    "sources": [
+      {
+        "title": "MIA-1 solution guide",
+        "url": "https://resources.ironmountain.com/solution-guides/d/data-centers-miami-data-center-mia-1",
+        "publisher": "Iron Mountain",
+        "date": "2026-04-01",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Manassas VA-1 campus",
+        "url": "https://www.ironmountain.com/data-centers/locations/na/northern-virginia/va-1",
+        "publisher": "Iron Mountain",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "aligned",
+    "name": "Aligned Data Centers",
+    "parentGroup": "Aligned platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Salt Lake City",
+      "Phoenix",
+      "Dallas",
+      "Shippingport Pennsylvania",
+      "Atlanta",
+      "Northern Virginia",
+      "Other disclosed North American markets"
+    ],
+    "strategy": "Adaptive high-density facilities and large AI campuses; its current portfolio spans conventional grid-connected metropolitan sites and repurposed energy infrastructure with dedicated generation.",
+    "scale": "Salt Lake City campus: 55 acres in current specifications. September 2026 Project Phoenix announcement: 2 GW planned campus; the headline basis is not explicitly critical IT.",
+    "publishedRequirements": [
+      {
+        "fact": "Salt Lake City design uses Delta3 air cooling, provision for DeltaFlow liquid cooling, N+1 block redundancy and a closed-loop chilled-water system.",
+        "sourceUrl": "https://aligneddc.com/salt-lake-city-data-centers/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Project Phoenix, announced September 10, 2026, repurposes a legacy Shippingport energy site with a dedicated on-site power source rather than local-grid supply.",
+        "sourceUrl": "https://aligneddc.com/press-release/project-phoenix-data-center-shippingport-pa/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Inspect the usable mechanical/electrical yard and future conversion flexibility, not only a headline building area. Land must accommodate evolving cooling architecture without blocking later phases.",
+      "A retired-energy site can be relevant if dedicated generation is actually financeable and permitted. Legacy nameplate capacity is neither import capacity nor a right to redevelop.",
+      "For brownfields, a complete liability and demolition/reuse plan can be the differentiator; nearby transmission alone is not the acquisition product."
+    ],
+    "differentiators": [
+      "Adaptive air-to-liquid cooling is part of its stated facility design.",
+      "Fresh September 2026 evidence of legacy-energy-site redevelopment."
+    ],
+    "dealStructure": "Developer/operator campus model is evidenced. A land originator should confirm whether Aligned wants fee land, a development JV or acquired project rights; no published assignment fee standard found.",
+    "acquisitionSignal": "Project Phoenix is a controlled company development and a recent strategy signal. It is not an available property for Syncranicity.",
+    "searchBrief": "Search expandable industrial campuses with flexible equipment-yard geometry, or legacy energy sites offering a documented dedicated-power plan. Pair each with a specific tenant-density and delivery-window hypothesis.",
+    "rejectionTriggers": [
+      "Inference: insufficient mechanical-yard or liquid-cooling retrofit space.",
+      "Inference: generation proposal depends on unresolved fuel, emissions or brownfield liabilities with no budgeted cure."
+    ],
+    "buyerQuestions": [
+      "Which of your current mandates is grid-connected versus dedicated-generation led?",
+      "What land geometry supports your latest high-density and cooling layouts?",
+      "Would you buy an option before customer commitment, and what milestone creates acquisition value?"
+    ],
+    "sources": [
+      {
+        "title": "Salt Lake City campus design",
+        "url": "https://aligneddc.com/salt-lake-city-data-centers/",
+        "publisher": "Aligned Data Centers",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Project Phoenix groundbreaking",
+        "url": "https://aligneddc.com/press-release/project-phoenix-data-center-shippingport-pa/",
+        "publisher": "Aligned Data Centers",
+        "date": "2026-09-10",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "compass",
+    "name": "Compass Datacenters",
+    "parentGroup": "Compass Datacenters",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Mississippi/Meridian",
+      "Texas",
+      "Northern Virginia",
+      "Other hyperscale regions"
+    ],
+    "strategy": "Long-lived, single-tenant hyperscale campuses with repeatable modular construction. Multi-building economics, site-preparation support and long-term utility/local-government coordination are central to its development examples.",
+    "scale": "Lauderdale County example: eight buildings over eight years; Mississippi Power expected to provide approximately 500 MW. This is not stated as critical IT or a universal minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "Compass describes its business as single-tenant hyperscale campuses and its Meridian project as eight buildings developed over eight years with Mississippi Power and public-sector support.",
+        "sourceUrl": "https://www.compassdatacenters.com/it/news/compass-10b-investment-lauderdale-county-mississippi/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Company design policy uses air cooling and closed loops, avoids evaporative cooling and says it has not used city water for cooling since its 2011 founding.",
+        "sourceUrl": "https://www.compassdatacenters.com/outcomes/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "Seek parcels that fit a repeated building module, construction staging and protected future phases; a constrained irregular lot may lose the repeatability benefit.",
+      "Review whether site preparation, road work and local incentives match the phased tax and job profile, rather than relying on an incentive label.",
+      "Water scarcity alone should not eliminate a site, but fire supply, domestic use, initial fill and air-cooled performance still need lawful practical paths."
+    ],
+    "differentiators": [
+      "Single-tenant rather than general multi-tenant retail model.",
+      "Repeatable construction and an explicit non-evaporative cooling approach."
+    ],
+    "dealStructure": "Direct campus development is demonstrated. Preferred option/PSA structure and the milestone for purchasing originated land rights must be obtained from its development team.",
+    "acquisitionSignal": "Meridian confirms willingness to enter a secondary Southeastern market when infrastructure and public partners align. It does not show an active search for any inexpensive Southeastern tract.",
+    "searchBrief": "Search large industrial sites with regular, usable geometry, construction logistics and multi-year utility expansion. Include an incentives and public-obligation schedule that matches each building phase.",
+    "rejectionTriggers": [
+      "Inference: land requires a one-off design that erodes modular cost/schedule advantage.",
+      "Inference: no defensible single-tenant demand or multi-phase growth case."
+    ],
+    "buyerQuestions": [
+      "What minimum usable dimensions and construction staging area does your current standard module need?",
+      "How much time must an option cover for the intended utility ramp?",
+      "Will you accept a phased purchase or ground-lease/land contribution arrangement?"
+    ],
+    "sources": [
+      {
+        "title": "Lauderdale County hyperscale campus",
+        "url": "https://www.compassdatacenters.com/it/news/compass-10b-investment-lauderdale-county-mississippi/",
+        "publisher": "Compass Datacenters",
+        "date": "2025-01-09",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Compass outcomes and cooling policy",
+        "url": "https://www.compassdatacenters.com/outcomes/",
+        "publisher": "Compass Datacenters",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "switch",
+    "name": "Switch",
+    "parentGroup": "Switch platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Tahoe Reno",
+      "Las Vegas",
+      "Atlanta",
+      "Grand Rapids",
+      "Austin/Houston"
+    ],
+    "strategy": "Large regional exascale campuses and network ecosystems, with a repeatable zero-consumptive-cooling design. Its own large land and infrastructure position raises the hurdle for an unrelated small tract.",
+    "scale": "Tahoe Reno examples range from a 55 MW building to a campus described as gigawatt scale. Published capacity is project-specific; no new-site acquisition floor is disclosed.",
+    "publishedRequirements": [
+      {
+        "fact": "Switch says the closed-loop EVO design is the only design it will build going forward in Nevada and elsewhere.",
+        "sourceUrl": "https://www.switch.com/responsible-data-centers/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Tahoe Reno materials emphasize dedicated fiber latency to the Bay Area and Las Vegas, renewable energy and campus-scale expansion.",
+        "sourceUrl": "https://www.switch.com/tahoe-reno/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A land lead must fit a regional network strategy or provide an exceptional independent power/timing advantage, rather than merely be within Nevada or Texas.",
+      "Assess fiber routes to the actual Switch ecosystem and whether they provide useful latency and physical diversity; a nearby carrier is a weaker claim.",
+      "Screen cooling and generator noise buffers early. Its published noise and water investments indicate that community infrastructure obligations can materially affect site economics."
+    ],
+    "differentiators": [
+      "Express forward-only EVO design policy.",
+      "Regional latency and campus ecosystems distinguish it from a generic rural compute developer."
+    ],
+    "dealStructure": "Campus development and build-to-suit offerings are evidenced. Public materials do not confirm willingness to acquire an outside originator’s assignable option.",
+    "acquisitionSignal": "Existing campus expansion is evidence of construction activity and also competing land supply. Renewable-energy marketing should not be mistaken for parcel-specific utility availability.",
+    "searchBrief": "Search strategic expansion/adjacency positions within disclosed regional ecosystems, with legally usable routes and space for the proprietary design. New rural regions need a clear customer and infrastructure thesis before parcel sourcing.",
+    "rejectionTriggers": [
+      "Inference: small isolated land position has no strategic relationship to a campus or network.",
+      "Inference: setbacks or community restrictions make the required mechanical/generator layout impractical."
+    ],
+    "buyerQuestions": [
+      "Are you buying new regional sites or only extending existing campus ecosystems?",
+      "What route latency and intercampus connectivity would make this tract valuable?",
+      "Which power, noise and community commitments must be completed before acquisition?"
+    ],
+    "sources": [
+      {
+        "title": "Responsible data centers and EVO design policy",
+        "url": "https://www.switch.com/responsible-data-centers/",
+        "publisher": "Switch",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Tahoe Reno campus and network proposition",
+        "url": "https://www.switch.com/tahoe-reno/",
+        "publisher": "Switch",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "coresite",
+    "name": "CoreSite",
+    "parentGroup": "American Tower / CoreSite",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Denver",
+      "Existing CoreSite metro markets"
+    ],
+    "strategy": "Metropolitan multi-tenant colocation linked to network-dense carrier hubs. CoreSite explicitly distinguishes this from a hyperscale AI campus in its Denver community materials.",
+    "scale": "Denver expansion: 15 acres, three buildings and 60 critical MW; DE3 initial building 18 MW compute on three floors. This is an unusually concrete infill precedent, not a company-wide minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "DE3 is planned to connect by high-count dark fiber to CoreSite DE1/DE2 interconnection hubs.",
+        "sourceUrl": "https://www.coresite.com/data-center/de3-denver-co",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "CoreSite’s Denver community page describes multi-tenant facilities serving technology, telecom, education, government, commerce and healthcare, and an Xcel-powered 18 MW DE3.",
+        "sourceUrl": "https://www.coresite.com/en-us/data-centers/denver/de3-construction",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Search metropolitan industrial infill with feasible fiber construction to an existing interconnection node before searching cheap rural land. Location is part of the service sold.",
+      "Multi-story development can create meaningful capacity on a modest site, but zoning height, loading, fire access and equipment yards may be decisive.",
+      "Community agreements and construction impacts can be material even at 15 acres; a technically feasible urban site still needs a workable neighborhood path."
+    ],
+    "differentiators": [
+      "High-count dark fiber to existing hubs is central to the actual expansion design.",
+      "Urban multi-tenant economics differ from single-tenant AI megacampuses."
+    ],
+    "dealStructure": "Development/acquisition capability is evident; no public option-assignment purchase policy found. Route opportunities to real estate/development with an explicit network-extension case.",
+    "acquisitionSignal": "DE3 is an existing controlled project, with late-2026 availability described by current company materials. It is not a purchasable outside lead.",
+    "searchBrief": "Search infill parcels and redevelopment buildings in its existing metro markets that can physically and economically connect to carrier-hotel assets. Specify customer catchment, fiber routes and multi-story net capacity.",
+    "rejectionTriggers": [
+      "Inference: remote power-rich tract cannot deliver the required interconnection ecosystem.",
+      "Inference: urban setbacks, height or neighborhood conditions prevent the intended density."
+    ],
+    "buyerQuestions": [
+      "Which existing hub would a new site have to connect to?",
+      "What route length, strand count and network diversity are required?",
+      "Would you acquire an entitled infill option before final building permits?"
+    ],
+    "sources": [
+      {
+        "title": "DE3 Denver development specifications",
+        "url": "https://www.coresite.com/data-center/de3-denver-co",
+        "publisher": "CoreSite",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "DE3 community and construction information",
+        "url": "https://www.coresite.com/en-us/data-centers/denver/de3-construction",
+        "publisher": "CoreSite",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "edgecore",
+    "name": "EdgeCore Digital Infrastructure",
+    "parentGroup": "EdgeCore platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Louisa County",
+      "Culpeper",
+      "Northern Virginia",
+      "Phoenix",
+      "Reno",
+      "Silicon Valley"
+    ],
+    "strategy": "Single-tenant hyperscale campuses at scale, including markets outside the tight core of Northern Virginia that retain access to its network. The target is an expansion-ready product with substantial early power and permit work completed.",
+    "scale": "Louisa current specifications: 697 acres, at least six buildings, over 1.1 GW critical IT and 3.1 million square feet. Older June 2025 announcement says 3.9 million square feet; retain version/date rather than merge.",
+    "publishedRequirements": [
+      {
+        "fact": "EdgeCore explains Louisa selection as scalable land and gigawatt-scale power within network reach of Ashburn.",
+        "sourceUrl": "https://edgecore.com/locations/louisa-county-data-center",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "It describes single-tenant facilities with flexible air/direct-to-chip cooling and WUE below 0.01 L/kWh for that campus.",
+        "sourceUrl": "https://edgecore.com/locations/louisa-county-data-center",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "June 2025 acquisition announcement confirms purchase of 697 acres and collaboration with Rappahannock Electric Cooperative/Hyperscale Energy.",
+        "sourceUrl": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Search within credible fiber reach of major cloud hubs where land and delivery capacity improve on the congested core. A route-engineered latency map is more useful than road distance to Ashburn.",
+      "Usable acres must support multiple independent tenant buildings, dedicated infrastructure and later expansion. A narrow 100-acre strip may be much less useful than a lower gross-acre total with clean geometry.",
+      "A small first project should proceed only if EdgeCore confirms an exception or expansion role; the current evidence predominantly supports very large campus requirements."
+    ],
+    "differentiators": [
+      "Single hyperscale tenant per building.",
+      "Explicit network-adjacent secondary-location strategy."
+    ],
+    "dealStructure": "External land purchase is confirmed. No public acceptance criteria for third-party option assignments or originator compensation were found.",
+    "acquisitionSignal": "Louisa demonstrates the buying model but is already acquired. Its quoted capacity is a campus plan, not transferable grid capacity for other land nearby.",
+    "searchBrief": "Search large contiguous tracts near established fiber corridors with a phased power and entitlement advantage; map the exact latency/route relationship to the target hyperscaler hub.",
+    "rejectionTriggers": [
+      "Inference: cheap power far outside the tenant’s network envelope.",
+      "Inference: sufficient first-phase land but no economical multi-building expansion path."
+    ],
+    "buyerQuestions": [
+      "What maximum routed latency to Ashburn or another hub is acceptable?",
+      "What minimum first tenant block and reserved expansion land are required?",
+      "At which power/permit milestone will you pay for controlled land rights?"
+    ],
+    "sources": [
+      {
+        "title": "Louisa campus current specifications",
+        "url": "https://edgecore.com/locations/louisa-county-data-center",
+        "publisher": "EdgeCore",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Louisa land purchase announcement",
+        "url": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus",
+        "publisher": "EdgeCore",
+        "date": "2025-06-25",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "flexential",
+    "name": "Flexential",
+    "parentGroup": "Flexential platform",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Dallas-Fort Worth",
+      "Denver",
+      "Portland/Hillsboro",
+      "Atlanta",
+      "Other existing U.S. metros"
+    ],
+    "strategy": "Wholesale and multi-tenant colocation campuses connected into its national FlexAnywhere network. Recent land purchases show a phased metropolitan strategy that can be smaller than the megacampus developers.",
+    "scale": "July 2026 Talty/Kaufman example: 110 acres, initial 36 MW building, three phases totaling 108 MW. The release does not unambiguously label all headline MW as critical IT; do not silently convert.",
+    "publishedRequirements": [
+      {
+        "fact": "Flexential purchased 110 acres in Kaufman County with confirmed utility power and fiber, targeting initial 36 MW delivery in late 2028 and eventual 108 MW.",
+        "sourceUrl": "https://www.flexential.com/resources/press-release/flexential-build-new-dallas-area-data-center-campus-110-acres",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Its real-estate executive emphasizes supporting customer growth eight to ten years ahead, while the release describes phased utility delivery and a zero-WUE cooling target.",
+        "sourceUrl": "https://www.flexential.com/resources/press-release/flexential-build-new-dallas-area-data-center-campus-110-acres",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A 20–50 MW first phase with genuine expansion can fit this observed scale better than a gigawatt-only template, but the site still needs metropolitan demand and FlexAnywhere connectivity.",
+      "Acreage similarity alone is misleading: Hinds 110 and Talty 110 acres have different network/customer positions, serving utilities and development schedules.",
+      "The best pitch should identify which customer need is unmet by its existing Dallas or other metro facilities and why the new site has a superior power date or all-in delivery cost."
+    ],
+    "differentiators": [
+      "Fresh 2026 land acquisition at 36 MW first-phase scale.",
+      "Eight-to-ten-year customer-growth planning paired with staged service."
+    ],
+    "dealStructure": "Direct land purchase is verified. The source does not establish acceptance of an outside option assignment, land-option pricing or reimbursement policy.",
+    "acquisitionSignal": "Kaufman acquisition is a strong current buying precedent, but also new controlled inventory. Early-2027 construction and late-2028 availability are company targets.",
+    "searchBrief": "Search approximately campus-sized tracts in existing markets with credible 30–40 MW initial phases and expansion; treat that range as an analyst search hypothesis derived from Talty, not a published company minimum.",
+    "rejectionTriggers": [
+      "Inference: remote tract lacks the enterprise/interconnection catchment of the planned service.",
+      "Inference: first-phase service works but expansion or network-backbone integration is unaffordable."
+    ],
+    "buyerQuestions": [
+      "Would a 20–50 MW phase in this metro serve a current requirement?",
+      "How much 8–10-year expansion needs to be controlled at the initial acquisition?",
+      "What power/fiber proof was decisive in the Talty purchase and is it the same threshold here?"
+    ],
+    "sources": [
+      {
+        "title": "Kaufman County campus acquisition",
+        "url": "https://www.flexential.com/resources/press-release/flexential-build-new-dallas-area-data-center-campus-110-acres",
+        "publisher": "Flexential",
+        "date": "2026-07-28",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "stream",
+    "name": "Stream Data Centers",
+    "parentGroup": "Stream Data Centers",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "San Antonio",
+      "Dallas",
+      "Phoenix",
+      "Chicago",
+      "Atlanta"
+    ],
+    "strategy": "Proactive development where future demand, total cost, low risk, connectivity and sustainability align; offers powered shells, wholesale colocation and build-to-suit solutions.",
+    "scale": "San Antonio examples range from a 33-acre/30 MW critical-capacity powered shell to a 200 MW campus with a 334 MW CPS substation. Substation rating and delivered IT capacity are not interchangeable.",
+    "publishedRequirements": [
+      {
+        "fact": "Stream expressly identifies total cost, low risk, robust network connectivity and achievable sustainability as its location strategy.",
+        "sourceUrl": "https://www.streamdatacenters.com/locations/san-antonio-data-centers/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "San Antonio campus materials describe 200 MW ultimate development, a 334 MW on-site substation and a fully leased initial building.",
+        "sourceUrl": "https://www.streamdatacenters.com/locations/san-antonio-data-centers/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "The effective search product is a low-total-cost location with a demonstrated customer story. Purchase price alone is a poor ranking variable if civil work, fiber or utility upgrades eliminate the advantage.",
+      "A parcel near a known submarket may be useful, but must offer incremental timing or economics compared with Stream’s controlled land and available space.",
+      "A reusable industrial property can fit the powered-shell lane when structure, floor loads, clear height and physical infrastructure justify the conversion; this is a separate screen from raw-campus land."
+    ],
+    "differentiators": [
+      "The company articulates a location strategy beyond MW.",
+      "Multiple product types permit smaller historical examples without establishing a new small-site buying mandate."
+    ],
+    "dealStructure": "Development, build-to-suit and prior facility sales are evidenced. Third-party option-assignment purchase terms remain unknown.",
+    "acquisitionSignal": "San Antonio materials show both fully leased development and currently marketed capacity. Existing supply must be considered before asserting unmet local demand.",
+    "searchBrief": "Search in disclosed metros for low-cost, low-risk campus land or a conversion property with a quantified delivery advantage. Attach a comparative total-development-cost estimate and carrier-route evidence.",
+    "rejectionTriggers": [
+      "Inference: headline inexpensive land but costly infrastructure/civil delivery.",
+      "Inference: no advantage over Stream’s available buildings or controlled expansion land."
+    ],
+    "buyerQuestions": [
+      "Is the current requirement a powered shell, turnkey campus or customer-led build-to-suit?",
+      "Which cost, delivery or customer-location gap would justify another parcel in this market?",
+      "Could control transfer before utility construction, and who funds remaining infrastructure?"
+    ],
+    "sources": [
+      {
+        "title": "San Antonio location strategy and project examples",
+        "url": "https://www.streamdatacenters.com/locations/san-antonio-data-centers/",
+        "publisher": "Stream Data Centers",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "t5",
+    "name": "T5 Data Centers",
+    "parentGroup": "T5 Data Centers; distinguish development from EverOn services",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Chicago/Grayslake",
+      "Atlanta/Palmetto",
+      "Select U.S. campuses"
+    ],
+    "strategy": "Concentrate owned development on a short list of large campuses, while tailoring powered-shell to turnkey delivery and customer operating arrangements. A construction-services presence in a city does not prove land-buying interest there.",
+    "scale": "Grayslake precedent: 160 acres, 480 MW critical IT total and a first 60 MW target in Q4 2027. Palmetto: 91 acres and up to 300 MW power, basis not explicitly IT in release.",
+    "publishedRequirements": [
+      {
+        "fact": "T5 explicitly says its development strategy is concentrated on a short list of large-scale campuses.",
+        "sourceUrl": "https://t5datacenters.com/resources/t5-data-centers-announces-further-expansion-into-chicago-suburbs-with-new-480-mw-data-center-campus/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Grayslake selection emphasized the connection between northern Chicago and southeastern Wisconsin, tax incentives, labor, connectivity and power; the site was already zoned for data centers.",
+        "sourceUrl": "https://t5datacenters.com/resources/t5-data-centers-announces-further-expansion-into-chicago-suburbs-with-new-480-mw-data-center-campus/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The August 2024 Palmetto purchase was also already zoned for data centers and included an on-site substation plan.",
+        "sourceUrl": "https://t5datacenters.com/resources/t5-finalizes-land-acquisition-in-atlanta-to-support-a-300-mw-data-center-campus/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Entitlement completion and a large expandable utility block are more aligned with the evidenced mandate than a small speculative tract in an untested region.",
+      "The Chicago/Wisconsin corridor rationale means the customer’s network region can matter more than municipal boundaries. Search route-based corridors rather than state-wide land inventories.",
+      "Qualify whether the team is offering construction/operations services or investing its own development capital; these are different potential outcomes for a land originator."
+    ],
+    "differentiators": [
+      "Expressly selective large-campus development strategy.",
+      "Already-zoned land and corridor connectivity in acquisition examples."
+    ],
+    "dealStructure": "Direct land acquisition and customer-tailored campus delivery are demonstrated. No standard assignment-fee or option-purchase mandate is public.",
+    "acquisitionSignal": "Grayslake and Palmetto are controlled developments; their future-phase dates are company targets and not verification of new parcel demand.",
+    "searchBrief": "Search substantial already-entitled campus sites in confirmed target corridors with staged substation delivery. A 20 MW lead should not be ranked highly without a specific exception or customer mandate.",
+    "rejectionTriggers": [
+      "Published strategic mismatch: small isolated site outside its short-list campus focus.",
+      "Inference: service-only discussion is mistaken for a funded land-acquisition offer."
+    ],
+    "buyerQuestions": [
+      "Is this being reviewed by T5 Development or a services business?",
+      "What live corridor, initial block and ultimate campus size remain unfilled?",
+      "Do you require zoning before controlling land, and would you purchase assigned rights?"
+    ],
+    "sources": [
+      {
+        "title": "Grayslake campus and development strategy",
+        "url": "https://t5datacenters.com/resources/t5-data-centers-announces-further-expansion-into-chicago-suburbs-with-new-480-mw-data-center-campus/",
+        "publisher": "T5 Data Centers",
+        "date": "2024-05-02",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Palmetto land acquisition",
+        "url": "https://t5datacenters.com/resources/t5-finalizes-land-acquisition-in-atlanta-to-support-a-300-mw-data-center-campus/",
+        "publisher": "T5 Data Centers",
+        "date": "2024-08-28",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "skybox",
+    "name": "Skybox Datacenters",
+    "parentGroup": "Skybox; project-specific Blue Owl/Prologis partnerships are not independent buyers",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Wichita Falls",
+      "Dallas",
+      "Austin",
+      "Chicago",
+      "Houston",
+      "Northern Virginia",
+      "Santa Clara"
+    ],
+    "strategy": "Private-substation PowerCampus developments serving hyperscale customers, with flexible design and strong long-haul connectivity. Wichita Falls is a particularly relevant North Texas regional precedent for Hinds research.",
+    "scale": "Austin example: 160 acres and up to 600 MW; Dallas: 115 acres and 300 MW; Wichita Falls: over 300 acres. These are company-described power figures, not a universal IT-load requirement.",
+    "publishedRequirements": [
+      {
+        "fact": "PowerCampus service is described for hyperscale clients requiring 300 MW-plus, using private on-site substations.",
+        "sourceUrl": "https://www.skyboxdatacenters.com/locations/powercampus-austin",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Wichita Falls materials cite sub-3 ms latency to Dallas Infomart, by-right zoning, Oncor territory and large-scale development with Blue Owl.",
+        "sourceUrl": "https://www.skyboxdatacenters.com/locations/powercampus-texas",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Austin specifications offer flexible redundancy configurations, diverse long-haul fiber and connection to major Texas hubs.",
+        "sourceUrl": "https://www.skyboxdatacenters.com/locations/powercampus-austin",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Hinds should not be rejected solely for distance from Dallas, because Skybox markets a Wichita Falls campus. It should still be compared against that existing, larger, network-positioned competitor.",
+      "The 300 MW-plus PowerCampus product is materially larger than a 20–50 MW Hinds hypothesis. Do not assume the firm will accept a small site because it is regionally nearby.",
+      "Exact route latency to Infomart, entitlement certainty and privately buildable substation land are buyer-specific validation tasks beyond generic fiber/power availability."
+    ],
+    "differentiators": [
+      "Current Wichita Falls precedent makes a relevant regional comparator.",
+      "Sub-3 ms Infomart positioning is a commercial benchmark rather than generic connectivity."
+    ],
+    "dealStructure": "Land/development partnerships are evidenced, including project-specific sponsors. Exact willingness to buy an outside option and minimum consideration remain unverified.",
+    "acquisitionSignal": "Wichita Falls is controlled Skybox supply, not a new acquisition request. Its claims require utility/route verification before using it as an engineering comparable.",
+    "searchBrief": "Search large North/Central Texas sites with by-right use, private-substation geometry and measured fiber latency to major hubs. Smaller leads require a separate turnkey or expansion mandate confirmed by Skybox.",
+    "rejectionTriggers": [
+      "Inference: a 20–50 MW terminal site does not match its published 300 MW-plus PowerCampus offer.",
+      "Inference: purported regional latency cannot be supported by a constructible diverse route."
+    ],
+    "buyerQuestions": [
+      "Would any current Skybox product take a 20–50 MW site, or is 300 MW-plus the relevant floor?",
+      "What maximum routed latency to Infomart is required outside DFW?",
+      "Does Wichita Falls satisfy your regional demand, or is additional acquisition capacity needed?"
+    ],
+    "sources": [
+      {
+        "title": "PowerCampus Austin specifications",
+        "url": "https://www.skyboxdatacenters.com/locations/powercampus-austin",
+        "publisher": "Skybox Datacenters",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "PowerCampus Texas Wichita Falls",
+        "url": "https://www.skyboxdatacenters.com/locations/powercampus-texas",
+        "publisher": "Skybox Datacenters",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "PowerCampus Dallas specifications",
+        "url": "https://www.skyboxdatacenters.com/locations/powercampus-dallas",
+        "publisher": "Skybox Datacenters",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "cloudhq",
+    "name": "CloudHQ",
+    "parentGroup": "CloudHQ",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Northern Virginia",
+      "Culpeper",
+      "Santa Clara",
+      "Other disclosed global campuses"
+    ],
+    "strategy": "Large customer-configurable campuses tied to major network ecosystems. Its Culpeper example uses proximity to existing data centers and fiber as the bridge from a secondary location to Northern Virginia demand.",
+    "scale": "Culpeper official page is inconsistent: headline says 215 MW critical IT, while its narrative says up to 142 MW in three buildings. Both are recorded; confirm current approved program directly.",
+    "publishedRequirements": [
+      {
+        "fact": "CloudHQ explains Culpeper selection through nearby existing data centers, including an Equinix business exchange, multiple high-density fiber providers and an on-site substation.",
+        "sourceUrl": "https://cloudhq.com/campus/clp-campus/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The same page says building sizes and critical loads can be adjusted to individual tenants and lists ready-for-service in 2027.",
+        "sourceUrl": "https://cloudhq.com/campus/clp-campus/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A network-adjacent secondary market is more defensible than an isolated power-only tract; map the specific hub and available fiber routes rather than broadly describing the state as a data-center market.",
+      "Prepare a flexible campus concept with independently usable building phases; the final tenant may alter critical-load and building size requirements.",
+      "Public numerical inconsistencies should become an explicit qualification question. Never use both 142 and 215 MW as independent evidence or convert either to a land-acquisition minimum."
+    ],
+    "differentiators": [
+      "Tenant-specific building/critical-load customization.",
+      "Culpeper network adjacency illustrates location logic; capacity discrepancy remains unresolved."
+    ],
+    "dealStructure": "Developer/operator campus model is clear. An option purchaser, assignment fee and acquisition evidence threshold are not publicly verified.",
+    "acquisitionSignal": "The Culpeper campus is an existing CloudHQ project with a published 2027 target. It confirms a product strategy, not a live request for another nearby site.",
+    "searchBrief": "Search large, flexible sites in established or network-adjacent markets where on-site substations and distinct fiber connections can be built. Model multiple customer layouts instead of fixing an unsupported universal MW/acre ratio.",
+    "rejectionTriggers": [
+      "Inference: no useful fiber connection to the target metro/customer ecosystem.",
+      "Inference: parcel configuration allows only a rigid layout inconsistent with tenant customization."
+    ],
+    "buyerQuestions": [
+      "What is the current Culpeper-scale buying mandate and which capacity number is authoritative?",
+      "Which customer and route-latency constraints define the acceptable geography?",
+      "Will CloudHQ acquire transferable site rights before the tenant-specific design is final?"
+    ],
+    "sources": [
+      {
+        "title": "Culpeper CLP campus",
+        "url": "https://cloudhq.com/campus/clp-campus/",
+        "publisher": "CloudHQ",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "CloudHQ campus directory",
+        "url": "https://cloudhq.com/campuses/",
+        "publisher": "CloudHQ",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "prime",
+    "name": "Prime Data Centers",
+    "parentGroup": "Prime Data Centers",
+    "role": "developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Austin/Central Texas",
+      "Existing U.S. Prime markets"
+    ],
+    "strategy": "Hyperscale AI/HPC campuses with liquid-cooling capability, flexible tenancy and on-site substations. Austin materials emphasize the cost and network relationship to other major Texas markets.",
+    "scale": "AUS01 example: 205 acres, eight facilities and 384 MW critical IT. A listed 250,000-square-foot building can be single- or multi-tenant; no universal acquisition floor disclosed.",
+    "publishedRequirements": [
+      {
+        "fact": "Austin technical sheet lists Bluebonnet Electric Cooperative, an on-site substation, N+1 concurrently maintainable infrastructure, closed air-loop/liquid cooling and ten carriers in proximity.",
+        "sourceUrl": "https://primedatacenters.com/wp-content/uploads/2025/10/PDC_Austin_TechSheet_AUS01_02.pdf",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Prime explains Austin’s appeal through proximity to Dallas/San Antonio, power costs and tax advantages; these are company location claims rather than independent underwriting conclusions.",
+        "sourceUrl": "https://primedatacenters.com/wp-content/uploads/2025/10/PDC_Austin_TechSheet_AUS01_02.pdf",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Carrier proximity is only a starting signal. Confirm routes, diverse entries and economics before deciding the proposed campus replicates the stated network proposition.",
+      "A site should accommodate customer privacy, equipment galleries and mechanical yards as well as data halls. The developable footprint must support future high-density cooling rather than generic warehouse assumptions.",
+      "A 20–50 MW initial phase needs an expansion or specific customer rationale against the 384 MW controlled-campus precedent; acreage alone cannot establish fit."
+    ],
+    "differentiators": [
+      "Explicit critical-IT specification and flexible single-/multi-tenant building example.",
+      "High-density cooling and on-site substation integrated into campus product."
+    ],
+    "dealStructure": "Developer-led campuses are evidenced. No public general offer to purchase land options or published acquisition price/fee schedule was found.",
+    "acquisitionSignal": "Austin is an existing Prime development marketed for customer capacity. It is not an unclaimed site or evidence of an open need for another Central Texas parcel.",
+    "searchBrief": "Search expandable Texas-market campuses with reliable staged service and feasible closed-loop air/liquid cooling, plus validated connectivity to customer hubs. Include a direct comparison to Prime’s already controlled capacity.",
+    "rejectionTriggers": [
+      "Inference: site merely reproduces existing Austin supply without time, cost or customer advantage.",
+      "Inference: carrier-count marketing hides common-route risk or missing easements."
+    ],
+    "buyerQuestions": [
+      "What initial IT block and ultimate expansion make a new land purchase competitive?",
+      "Which cooling, gallery and customer-privacy dimensions must be preserved in the site layout?",
+      "What current customer requirement would justify adding another Texas campus?"
+    ],
+    "sources": [
+      {
+        "title": "AUS01 technical sheet",
+        "url": "https://primedatacenters.com/wp-content/uploads/2025/10/PDC_Austin_TechSheet_AUS01_02.pdf",
+        "publisher": "Prime Data Centers",
+        "date": "2025-10",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "aws",
+    "name": "Amazon Web Services (AWS)",
+    "parentGroup": "Amazon",
+    "role": "Self-build hyperscaler and third-party capacity customer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Indiana",
+      "Mississippi"
+    ],
+    "strategy": "Large cloud and AI campuses supported by regional transmission analysis, local utility arrangements and a water strategy tailored to climate. AWS is an end-user developer; its procurement is not equivalent to a merchant developer buying speculative land options.",
+    "scale": "Project Rainier is described by Amazon as a 2.2 GW campus. This is a campus example, not a published minimum, and the source does not establish the facility-versus-IT basis.",
+    "publishedRequirements": [
+      {
+        "fact": "Amazon explains that its transmission specialists increasingly assess where adding load can benefit the grid, identifying Jackson, Mississippi and South Bend, Indiana as examples.",
+        "sourceUrl": "https://preview.prod.sustainability.aboutamazon.com/stories/inside-amazons-approach-to-data-center-sustainability",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Project Rainier uses outside air for cooling for about 97–98% of the year, according to Amazon; climate changes the cooling economics.",
+        "sourceUrl": "https://preview.prod.sustainability.aboutamazon.com/stories/inside-amazons-approach-to-data-center-sustainability",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Amazon committed $33 billion to Indiana data-center infrastructure and reports Indiana centers use no cooling water about 98% of the year.",
+        "sourceUrl": "https://www.aboutamazon.com/impact/amazon-indiana",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Prioritize regions where the utility can structure a credible phased large-load and generation package, not merely sell a nearby transmission story.",
+      "An isolated 20–30 MW site needs a specific edge, cloud-region or expansion use case to compete with already planned campuses; that use case has not been validated.",
+      "Workforce and water-source arrangements should be evidenced alongside acreage because AWS describes regional infrastructure partnerships, not a generic national land requisition."
+    ],
+    "differentiators": [
+      "Grid-system benefit is part of site selection, beyond an individual parcel power reservation.",
+      "Cooling choices are location-specific; compare outside-air hours and recycled-water opportunities rather than one national gallons/day threshold."
+    ],
+    "dealStructure": "Direct acquisition/self-development and third-party capacity arrangements exist; no public willingness to buy Syncranicity’s unexercised option established.",
+    "acquisitionSignal": "Current large Indiana/Mississippi investment announcements show demand and an existing pipeline; they do not establish an open site search.",
+    "searchBrief": "Search utility-supported industrial campuses in AWS operating regions with expandable acreage, construction labor, identified transmission upgrades and credible renewable/reclaimed-water sourcing. Obtain a region-specific requirement before tying up land.",
+    "rejectionTriggers": [
+      "Inference: Proposed site cannot match the customer’s regional redundancy/network geography.",
+      "Inference: Power exists but only on a date materially later than the capacity deployment need.",
+      "Inference: Tiny first phase with no supported expansion or differentiated local purpose."
+    ],
+    "buyerQuestions": [
+      "Which US cloud/AI regions are accepting third-party land proposals?",
+      "What first-phase and ultimate facility-MW blocks, network distances and earliest required service date apply?",
+      "Would a site-control assignment be reviewed, or only fee-simple land/turnkey capacity?"
+    ],
+    "sources": [
+      {
+        "title": "Amazon approach to data center sustainability",
+        "url": "https://preview.prod.sustainability.aboutamazon.com/stories/inside-amazons-approach-to-data-center-sustainability",
+        "publisher": "Amazon",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Amazon investment in Indiana",
+        "url": "https://www.aboutamazon.com/impact/amazon-indiana",
+        "publisher": "Amazon",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "parentGroup": "Microsoft",
+    "role": "Self-build hyperscaler and third-party capacity customer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Wisconsin",
+      "Texas",
+      "Washington",
+      "Virginia"
+    ],
+    "strategy": "Develops a geographically distributed cloud and AI estate. Its own site-selection disclosure emphasizes natural-hazard screening, economical energy and reliable telecommunications; new AI designs also alter the cooling-water requirement.",
+    "scale": "No universal public land acreage or MW minimum established in reviewed sources. Avoid converting a large announced Microsoft campus into a minimum for every Azure region.",
+    "publishedRequirements": [
+      {
+        "fact": "Microsoft’s site-selection assessment screens floods, earthquakes, hurricanes and other natural hazards, alongside low-cost energy and reliable telecom infrastructure.",
+        "sourceUrl": "https://learn.microsoft.com/en-us/compliance/assurance/assurance-datacenter-environmental-safeguards",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Microsoft says utilities map water, wastewater and pressure needs from the beginning and that Microsoft funds required infrastructure.",
+        "sourceUrl": "https://local.microsoft.com/blog/understanding-water-use-at-microsoft-datacenters/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Its newer direct-to-chip closed-loop design avoids evaporation; existing sites use several cooling designs, so zero-water design is not universal to its estate.",
+        "sourceUrl": "https://local.microsoft.com/blog/understanding-water-use-at-microsoft-datacenters/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "The written hazard screen should be a separate veto document, rather than a low weight within a broad score.",
+      "Seek sites with a costed heat-rejection design: an air-cooled AI design can lower water dependence while increasing electrical and equipment needs.",
+      "A short nominal distance to fiber is insufficient; the site must fit an Azure region’s fault-domain separation and actual network routing, which are not publicly specified."
+    ],
+    "differentiators": [
+      "Explicit natural-disaster minimization policy.",
+      "Utility-funded-by-customer infrastructure and community resource impacts matter even with ample headline power."
+    ],
+    "dealStructure": "Self-build acquisitions and leases through specialist developers; the actual contracting counterparty depends on project. No public generic option-assignment buying policy found.",
+    "acquisitionSignal": "Published operating/design commitments are current, but neither source solicits land or identifies an open US procurement window.",
+    "searchBrief": "Find expandable industrial parcels within a validated Azure network region; pre-screen flood, seismic and storm exposure and provide a separate utility construction-cost schedule and cooling design.",
+    "rejectionTriggers": [
+      "Inference: Uncurable natural-hazard exposure.",
+      "Inference: Unverified region/fault-domain location.",
+      "Inference: Power capacity is adequate but price, collateral or network construction makes total service economics unattractive."
+    ],
+    "buyerQuestions": [
+      "Is this region seeking owned land, a build-to-suit lease or third-party capacity?",
+      "Which fault-domain distances and fiber-path diversity tests apply?",
+      "Which cooling design and utility customer obligations must the acquisition case support?"
+    ],
+    "sources": [
+      {
+        "title": "Datacenter environmental safeguards",
+        "url": "https://learn.microsoft.com/en-us/compliance/assurance/assurance-datacenter-environmental-safeguards",
+        "publisher": "Microsoft",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Understanding water use at Microsoft data centers",
+        "url": "https://local.microsoft.com/blog/understanding-water-use-at-microsoft-datacenters/",
+        "publisher": "Microsoft",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "parentGroup": "Alphabet",
+    "role": "Self-build hyperscaler and third-party development customer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Wilbarger County TX",
+      "Texas",
+      "Ohio",
+      "Iowa",
+      "Nebraska",
+      "Oklahoma"
+    ],
+    "strategy": "Large cloud/AI buildout with a particularly relevant power-first Wilbarger County precedent: Google accepts an integrated construction-ready land, interconnection and new generation package, rather than evidence of line proximity alone.",
+    "scale": "No standard minimum campus acreage/MW published in reviewed sources. Google’s 7,800 MW Texas generation/capacity contracting figure is energy portfolio capacity, NOT the size or load of Wilbarger or Hinds 110.",
+    "publishedRequirements": [
+      {
+        "fact": "Google announced a Wilbarger County data center under construction on February 24, 2026, using advanced air cooling and co-located AES clean power.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "AES described construction-ready land and interconnection agreements, generation under 20-year PPAs, and long-term energy-management services for the Wilbarger campus.",
+        "sourceUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/wilbarger_county_PR.pdf",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Google’s Texas page lists developments in Pampa/Wilbarger in 2026 and Armstrong/Haskell in 2025.",
+        "sourceUrl": "https://www.datacenters.google/locations/texas/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Hinds 110 has a stronger regional comparator than a generic rural Texas site, but Google already has a controlled Wilbarger project; spare expansion land at that project may dominate any new proposal.",
+      "The differentiating product is a transferable land-plus-energy package with construction readiness and a usable heat-rejection design.",
+      "Avoid treating co-located clean generation as firm 24/7 deliverability or assuming Google wants another nearby site."
+    ],
+    "differentiators": [
+      "Direct Wilbarger market evidence.",
+      "Air-cooled Texas design reduces dependence on consumptive cooling water.",
+      "AES example includes project development and long-term supply/management agreements."
+    ],
+    "dealStructure": "Owned development with strategic energy/development partners; no evidence of willingness to acquire Bill’s option or pay a specific assignment fee.",
+    "acquisitionSignal": "Active regional construction confirmed; no open Hinds-specific or general land requisition found.",
+    "searchBrief": "Start with adjoining expansion opportunities or utility-backed nodes that improve Google’s already disclosed Texas/Iowa/Ohio/Oklahoma geography, with a written reason the existing campus cannot supply the same service.",
+    "rejectionTriggers": [
+      "Inference: Only 20–30 MW and no substantiated regional workload or expansion role.",
+      "Inference: New site loses to existing controlled-campus capacity.",
+      "Inference: Generation rights, interconnection or energy-management benefits do not transfer."
+    ],
+    "buyerQuestions": [
+      "Is additional independent Wilbarger land needed, or is existing campus inventory sufficient?",
+      "Would an expansion parcel or integrated generation-backed site be considered?",
+      "Which facility load, firm service date and non-water cooling design are required?"
+    ],
+    "sources": [
+      {
+        "title": "Wilbarger County data center announcement",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/",
+        "publisher": "Google",
+        "date": "2026-02-24",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Wilbarger County full announcement",
+        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/wilbarger_county_PR.pdf",
+        "publisher": "Google / AES",
+        "date": "2026-02-24",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Google Texas data centers",
+        "url": "https://www.datacenters.google/locations/texas/",
+        "publisher": "Google",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "parentGroup": "Meta Platforms",
+    "role": "Self-build hyperscaler",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Electric-cooperative territories",
+      "Louisiana",
+      "South Carolina",
+      "Wisconsin"
+    ],
+    "strategy": "Large AI campuses with utility and generation partnerships. A published electric-cooperative RFI supplies unusually specific buyer requirements and is more useful than inferring a target from a generic data-center factor list.",
+    "scale": "RFI: path to 540 MW+ reliable scalable energy by 2030, typically 500+ acres with expansion. Source does not label the 540 MW as IT load. Requirements belong to this co-op program, not necessarily every Meta project.",
+    "publishedRequirements": [
+      {
+        "fact": "The indexed official co-op RFI asks for 540 MW+ by 2030 and typically 500+ acres with expansion potential.",
+        "sourceUrl": "https://datacenters.atmeta.com/energy-co-op/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "The RFI also requests ability to bring new grid-connected resources online, renewable opportunities, closed-loop cooling water, community support and construction/operations workforce.",
+        "sourceUrl": "https://datacenters.atmeta.com/energy-co-op/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "Meta’s energy page describes funding grid upgrades and new resources, including clean-energy and nuclear agreements.",
+        "sourceUrl": "https://datacenters.atmeta.com/energy/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Hinds 110 alone is below this RFI’s typical land envelope; adequate 20–30 MW capacity would not cure the scale mismatch.",
+      "A co-op-backed assemblage and credible generation plan are much better search starting points than low-priced isolated acreage.",
+      "The site must preserve control over contiguous expansion land and environmental buffers, not just gross acres."
+    ],
+    "differentiators": [
+      "Explicit dated energy delivery target and land scale.",
+      "Electric-cooperative program is a distinct procurement lane.",
+      "RFI appears in official search index, but direct page retrieval returned 404; current intake availability must be reconfirmed."
+    ],
+    "dealStructure": "Direct campus development and utility/generation partnerships. No evidence Meta purchases small speculative purchase-option assignments.",
+    "acquisitionSignal": "Specific public co-op solicitation indexed as of review; intake status not confirmed because direct access failed. This is not a response or interest in any candidate.",
+    "searchBrief": "Search 500+ contiguous-acre co-op service areas with a path to 540 MW+ by 2030, expandable transmission/generation, water and workforce; smaller neighboring tracts only as demonstrable campus expansions.",
+    "rejectionTriggers": [
+      "Inference: Standalone 110 acres / 20–30 MW offering pitched as satisfying this RFI.",
+      "Inference: No cooperative or other credible utility-led delivery plan.",
+      "Inference: Assemblage cannot be controlled on one realistic schedule."
+    ],
+    "buyerQuestions": [
+      "Is the co-op RFI currently accepting responses?",
+      "Does a staged 540 MW plan qualify and what is the first energization block?",
+      "Can the land be optioned/assembled by a third party and what transfer/reliance rights are required?"
+    ],
+    "sources": [
+      {
+        "title": "Meta electric-cooperative site RFI (indexed; direct retrieval 404)",
+        "url": "https://datacenters.atmeta.com/energy-co-op/",
+        "publisher": "Meta",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Meta energy strategy",
+        "url": "https://datacenters.atmeta.com/energy/",
+        "publisher": "Meta",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "parentGroup": "Apple",
+    "role": "Self-build owner-operator; selective footprint expansion",
+    "usRelevance": "low",
+    "regions": [
+      "United States",
+      "Iowa",
+      "North Carolina",
+      "Oregon",
+      "Nevada",
+      "Arizona"
+    ],
+    "strategy": "Owns and develops a relatively selective data-center estate supporting Apple services. Environmental reporting gives strong design/energy preferences but no open national land-acquisition mandate.",
+    "scale": "Apple’s 2026 report identifies eight Apple-owned data centers following Waukee’s October 2024 opening. No public universal acreage, first-phase MW or rack-density acquisition threshold found.",
+    "publishedRequirements": [
+      {
+        "fact": "Waukee opened October 2024; Apple reports 100% renewable electricity since opening and works with MidAmerican Energy wind sourcing.",
+        "sourceUrl": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Apple’s 2025 report describes water-treatment, server and cooling-control upgrades across Maiden, Prineville, Reno and Mesa.",
+        "sourceUrl": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2025.pdf",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Apple reports Alliance for Water Stewardship certification across most owned data centers; its 2025 report distinguished seven certified sites from its newly opened eighth.",
+        "sourceUrl": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2025.pdf",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "An appropriate pitch needs an identified Apple capacity/location need; cheap power alone cannot explain a new isolated site.",
+      "Energy contracting and watershed stewardship should be modeled at site level; state renewable percentages are insufficient.",
+      "Neighboring expansion opportunities around known campuses may be more credible than a first-entry rural market, but no current expansion mandate is confirmed."
+    ],
+    "differentiators": [
+      "Small, selective self-owned footprint rather than national merchant-colocation leasing.",
+      "Wind sourcing and site-level water stewardship are directly evidenced."
+    ],
+    "dealStructure": "Owned campuses; no public acceptance criteria for land options, assignment fees or unsolicited broker submissions found.",
+    "acquisitionSignal": "Waukee is a recent completed expansion, not an available site or evidence of an imminent new acquisition.",
+    "searchBrief": "Search only after Apple validates a location/capacity gap; prioritize campus-adjacent expansion or established Apple regions with tractable renewable contracting and documented watershed impacts.",
+    "rejectionTriggers": [
+      "Inference: No specific capacity need in the proposed region.",
+      "Inference: A site’s renewable claim is unsupported by a procurement path.",
+      "Inference: Water constraints cannot be cured with a design Apple is prepared to use."
+    ],
+    "buyerQuestions": [
+      "Is Apple seeking additional owned US land in this region?",
+      "Does the mandate favor campus adjacency, redundancy separation or a new region?",
+      "What energy procurement and water stewardship evidence is needed for first review?"
+    ],
+    "sources": [
+      {
+        "title": "Apple 2026 Environmental Progress Report",
+        "url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+        "publisher": "Apple",
+        "date": "2026",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Apple 2025 Environmental Progress Report",
+        "url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2025.pdf",
+        "publisher": "Apple",
+        "date": "2025",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "xai",
+    "name": "xAI / SpaceXSI Memphis",
+    "parentGroup": "Official x.ai Memphis pages currently use SpaceXSI; legal transaction parent must be verified",
+    "role": "AI self-builder / infrastructure customer",
+    "usRelevance": "medium",
+    "regions": [
+      "Greater Memphis TN",
+      "Southaven MS"
+    ],
+    "strategy": "Rapid large-scale AI cluster deployment anchored in the Memphis region, with substantial on-site energy infrastructure. Current official pages use SpaceXSI branding; do not count xAI and that name as independent buyers.",
+    "scale": "Official July 2026 update describes a 1.2 GW permanent power plant for Southaven. That is generation nameplate, not proven net IT capacity or a general acquisition minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "The Memphis page describes Colossus and a 2026 target of 1 million GPUs, alongside local utility/government coordination.",
+        "sourceUrl": "https://x.ai/memphis",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "July 30, 2026 update says all 69 temporary mobile turbines must be removed by July 2027 as a permitted 1.2 GW permanent plant is built.",
+        "sourceUrl": "https://x.ai/memphis/updates",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The update describes 41 permanent turbines and noise/emissions controls; these are project-specific developer statements, not independent permit-compliance conclusions.",
+        "sourceUrl": "https://x.ai/memphis/updates",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Within-region expansion, grid/gas co-development and rapid industrial conversion are materially more relevant than an isolated 20 MW greenfield option.",
+      "Air permits, gas transportation, noise control and generation lead times remain decisive even if sufficient grid MW are assumed.",
+      "A fast-track schedule must include binding permit conditions; temporary generation cannot be treated as an indefinite substitute for lawful permanent supply."
+    ],
+    "differentiators": [
+      "Very high-density AI cluster geography and rapid deployment.",
+      "Industrial conversion and on-site generation strategy create a different buyer specification than ordinary multi-tenant colo."
+    ],
+    "dealStructure": "Self-build property and energy development; an option assignment or new-region project needs explicit procurement validation.",
+    "acquisitionSignal": "Active Memphis/Southaven buildout, but no public national land solicitation and no interest in Hinds established.",
+    "searchBrief": "Search Greater Memphis industrial sites with usable structures, expansion yards, proven gas and grid paths, air-permit viability and a demonstrable network connection to the existing cluster.",
+    "rejectionTriggers": [
+      "Inference: Geography is outside the required cluster and lacks a validated new-region mandate.",
+      "Inference: Fast deployment depends on unpermitted temporary generation.",
+      "Inference: Noise, air or gas supply prevents the required operating envelope."
+    ],
+    "buyerQuestions": [
+      "What legal entity and procurement group currently acquires expansion sites?",
+      "Must proposed land connect to Colossus within a specified latency/fiber budget?",
+      "Is a powered shell, existing factory or greenfield campus desired?"
+    ],
+    "sources": [
+      {
+        "title": "Memphis project page",
+        "url": "https://x.ai/memphis",
+        "publisher": "x.ai / SpaceXSI",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Greater Memphis site update",
+        "url": "https://x.ai/memphis/updates",
+        "publisher": "x.ai / SpaceXSI",
+        "date": "2026-07-30",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "cologix",
+    "name": "Cologix",
+    "parentGroup": "Private developer platform; parent ownership not reverified in this pass",
+    "role": "Interconnection and hyperscale-edge developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "North America",
+      "Ashburn VA",
+      "Columbus OH",
+      "Denver CO",
+      "Canadian metros"
+    ],
+    "strategy": "Builds network-neutral interconnection hubs and larger Scalelogix capacity. For land sourcing, metro network gravity and proximity to existing customers can outweigh cheap rural land.",
+    "scale": "February 2026 Ashburn acquisition: 38 acres; 85 MW initial power and more than 300 MW potential over time; preliminary planning around 2030. These are campus plans, not company-wide minimums or current delivered MW.",
+    "publishedRequirements": [
+      {
+        "fact": "Cologix acquired 38 acres on Beaumeade Circle in Ashburn, describing industrial zoning, dense fiber and proximity to existing digital infrastructure.",
+        "sourceUrl": "https://cologix.com/news/cologix-expands-ashburn-presence-with-strategic-land-acquisition-supporting-5b-long-term-northern-virginia-growth-plan/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The announced program serves hyperscale, AI-ready, enterprise, carrier and locally based demand and emphasizes interconnection and hybrid-cloud architectures.",
+        "sourceUrl": "https://cologix.com/news/cologix-expands-ashburn-presence-with-strategic-land-acquisition-supporting-5b-long-term-northern-virginia-growth-plan/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "June 2026 announcement identifies new Orange Township and Johnstown campuses and more than $1.1 billion of initial-phase investment. This substantiates central Ohio geography while adding competing controlled supply.",
+        "sourceUrl": "https://columbusregion.com/press-release/cologix-expands-in-central-ohio/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "In Ashburn the expensive connected location is itself the product; distant surplus power would not substitute for the same interconnection economics.",
+      "The 2030 planning horizon shows willingness to land-bank strategically, but should not be generalized to a founder’s short option term.",
+      "A suburban Ohio or Denver candidate needs two real fiber routes and a link to Cologix customer ecosystems."
+    ],
+    "differentiators": [
+      "Small acreage can be strategic when urban fiber density is exceptional.",
+      "Planning date is far later than the initial land purchase, illustrating how buyer holding capacity differs from Syncranicity’s."
+    ],
+    "dealStructure": "Direct land acquisition for owned campus development demonstrated; acceptance of option assignments not disclosed.",
+    "acquisitionSignal": "February 2026 Ashburn acquisition is strong land-buying evidence but adds already controlled competing supply.",
+    "searchBrief": "Search industrially entitled metro parcels near major carrier interconnection with a staged utility plan; do not use the Ashburn 85 MW as a universal intake threshold.",
+    "rejectionTriggers": [
+      "Inference: Low-cost land is outside the necessary network/enterprise market.",
+      "Inference: Fiber is technically nearby but diverse paths or cloud onramps cannot be constructed.",
+      "Inference: Option term expires years before the buyer’s land-bank development decision."
+    ],
+    "buyerQuestions": [
+      "Which Scalelogix/interconnection markets have an unmet land requirement?",
+      "What dark-fiber routes, round-trip latency and carrier access must a new parcel support?",
+      "Is strategic land banking or near-term ready-for-service the current priority?"
+    ],
+    "sources": [
+      {
+        "title": "Cologix 38-acre Ashburn acquisition",
+        "url": "https://cologix.com/news/cologix-expands-ashburn-presence-with-strategic-land-acquisition-supporting-5b-long-term-northern-virginia-growth-plan/",
+        "publisher": "Cologix",
+        "date": "2026-02-05",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Cologix Orange Township and Johnstown expansion",
+        "url": "https://columbusregion.com/press-release/cologix-expands-in-central-ohio/",
+        "publisher": "One Columbus / Cologix",
+        "date": "2026-06-01",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "h5",
+    "name": "H5 Data Centers",
+    "parentGroup": "H5 platform; certain portfolio acquisitions joint with Novacap",
+    "role": "Developer/operator; carrier-hotel and enterprise-campus acquirer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Ashburn VA",
+      "Phoenix AZ",
+      "Denver CO",
+      "Cleveland OH",
+      "Albuquerque NM",
+      "San Antonio TX"
+    ],
+    "strategy": "Combines new development with acquisition and densification of network-rich existing buildings. It has a tangible preference for strategically important carrier ecosystems, not merely raw capacity.",
+    "scale": "Observed examples: 255,000 sq ft/42 MW Ashburn build; approximately 225,000 sq ft Albuquerque carrier hotel. MW basis unspecified in release index; neither is a minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "H5 announced February 2026 acquisition of Buffalo, Nashville and Tampa centers from 365 through a Novacap JV, emphasizing carrier density.",
+        "sourceUrl": "https://h5datacenters.com/H5-Data-Centers-Announces-Acquisition-of-Three-Locations-from-365-Data-Centers.html",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Its news archive documents Ashburn new construction, San Antonio carrier-hotel expansions and Phoenix phases, as well as internet-exchange/cloud-connectivity partnerships.",
+        "sourceUrl": "https://h5datacenters.com/data-center-press-releases-and-news.html",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A former enterprise data center with reusable electrical/cooling systems and networks may be more attractive than comparably priced agricultural acreage.",
+      "For carrier-hotel acquisitions, tenant/network stickiness matters; for new campuses, an anchor customer and expansion runway matter.",
+      "Former enterprise assets need technical audit before claiming speed-to-market: electrical topology and usable IT space may constrain a high-density conversion."
+    ],
+    "differentiators": [
+      "Both greenfield and existing-building acquisition paths verified.",
+      "Carrier-hotel value depends on established ecosystem, difficult to recreate on rural land."
+    ],
+    "dealStructure": "Direct building/land acquisitions, joint-venture capital and powered-shell/build-to-suit offerings; no option-assignment policy publicly established.",
+    "acquisitionSignal": "2026 portfolio purchase confirms active acquisition activity; an identified open greenfield land mandate remains unknown.",
+    "searchBrief": "Find underused enterprise campuses or strategic metro carrier buildings with expansion land, tested fiber diversity and a market-specific customer case; separate a reuse thesis from a new-build thesis.",
+    "rejectionTriggers": [
+      "Inference: No interconnection/customer advantage in a target metro.",
+      "Inference: Existing infrastructure cannot be reused economically.",
+      "Inference: Raw land proposal lacks an anchor use and competes against H5 owned expansion space."
+    ],
+    "buyerQuestions": [
+      "Does H5 currently favor carrier-hotel acquisitions, powered shells or greenfield sites in this market?",
+      "What minimum reusable electrical/cooling condition is required?",
+      "Can a phased land/building option be assigned into an H5 JV?"
+    ],
+    "sources": [
+      {
+        "title": "H5 acquires three 365 locations",
+        "url": "https://h5datacenters.com/H5-Data-Centers-Announces-Acquisition-of-Three-Locations-from-365-Data-Centers.html",
+        "publisher": "H5 Data Centers",
+        "date": "2026-02-02",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "H5 press-release index",
+        "url": "https://h5datacenters.com/data-center-press-releases-and-news.html",
+        "publisher": "H5 Data Centers",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "365-data-centers",
+    "name": "365 Data Centers",
+    "parentGroup": "365 platform; 2026 development partnership with Aphorio Carter",
+    "role": "Operator/development partner; adaptive-reuse emphasis",
+    "usRelevance": "high",
+    "regions": [
+      "Aurora CO",
+      "Simpsonville KY",
+      "Trumbull CT",
+      "Louisville KY",
+      "Harrisonburg VA",
+      "Columbus OH"
+    ],
+    "strategy": "A 2026 partnership with Aphorio Carter targets identifying, converting and developing AI-ready facilities; 365 would operate them long-term while its partner contributes real-estate/development capabilities.",
+    "scale": "Approximately 200 MW aggregate initial pipeline, six sites; 50 to 200+ kW per cabinet; 9–24 month indicated delivery after May 2026 announcement. Pipeline MW basis not identified; not a per-site minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "May 2026 release identifies Aurora and Simpsonville LOIs and additional planned LOIs in Trumbull, Louisville, Harrisonburg and Columbus.",
+        "sourceUrl": "https://365datacenters.com/365-data-centers-and-aphorio-carter-launch-200-mw-ai-ready-data-center-pipeline/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Facilities are designed for liquid-to-chip cooling at 50–200+ kW/cabinet; availability is subject to final contracts/internal approvals.",
+        "sourceUrl": "https://365datacenters.com/365-data-centers-and-aphorio-carter-launch-200-mw-ai-ready-data-center-pipeline/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Trumbull’s official August 2026 update describes renovation of an existing center with no additional grid draw, noise, water or footprint, and 365 as prospective 15-year tenant.",
+        "sourceUrl": "https://trumbull-ct.gov/m/NewsFlash/Archive/Item/3141?arcId=4895",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Existing industrial/data-center assets with usable service and rapid conversion are stronger than bare land requiring a full permitting/construction cycle.",
+      "The operator may not be the actual purchaser; qualification should involve Aphorio Carter’s acquisition team.",
+      "Do not infer that every announced 200 MW pipeline opportunity is already contracted or that stated 9–24 months remains achievable."
+    ],
+    "differentiators": [
+      "Published target geographies and rack-density range.",
+      "Actual separation of landlord/developer and long-term operator.",
+      "Trumbull illustrates a constrained reuse project, not permission to increase all infrastructure."
+    ],
+    "dealStructure": "Developer/owner partnership plus long-term operating/lease role; ask who can acquire/accept the control instrument.",
+    "acquisitionSignal": "Named 2026 LOIs and development partnership constitute a specific growth program; available capacity and additional demand require confirmation.",
+    "searchBrief": "Source powered buildings or rapid-conversion industrial sites in six named markets, documenting reusable plant, liquid-cooling retrofit costs and feasible 50–200+ kW racks.",
+    "rejectionTriggers": [
+      "Inference: Greenfield schedule cannot meet conversion-led deployment window.",
+      "Inference: Only nameplate power; no budget for higher-density cooling and electrical distribution.",
+      "Inference: Site already targeted under another party’s LOI."
+    ],
+    "buyerQuestions": [
+      "Which of the six markets still need uncommitted sites?",
+      "Who buys the land—365 or Aphorio Carter—and what should an assignment package contain?",
+      "Is a powered shell sufficient, or must existing commissioned plant be reusable?"
+    ],
+    "sources": [
+      {
+        "title": "365 / Aphorio Carter 200 MW pipeline",
+        "url": "https://365datacenters.com/365-data-centers-and-aphorio-carter-launch-200-mw-ai-ready-data-center-pipeline/",
+        "publisher": "365 DataCenters",
+        "date": "2026-05-06",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Trumbull official project update",
+        "url": "https://trumbull-ct.gov/m/NewsFlash/Archive/Item/3141?arcId=4895",
+        "publisher": "Town of Trumbull",
+        "date": "2026-08-07",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "tierpoint",
+    "name": "TierPoint",
+    "parentGroup": "TierPoint platform; financing ownership not reverified",
+    "role": "Enterprise developer/operator and campus acquirer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Eastern Pennsylvania",
+      "Dallas/Fort Worth TX",
+      "St Louis MO"
+    ],
+    "strategy": "Enterprise colocation transitioning into larger AI deployments, with strong acquisition-and-expansion precedent. It can value existing customer ecosystems and operational infrastructure as much as vacant acreage.",
+    "scale": "TekPark 137 acre campus with 100 MW power expansion; Fort Worth acquired 208,000 sq ft with 5 MW available, 8 MW near-term and 18 MW long-term plans. These are project figures; IT / facility basis not consistently specified.",
+    "publishedRequirements": [
+      {
+        "fact": "October 2025 announcement describes buying its formerly leased TekPark campus and funding 100 MW expansion targeted for second-half 2026.",
+        "sourceUrl": "https://www.tierpoint.com/news/tierpoint-completes-240-million-securitization-financing-and-acquisition-of-pennsylvania-data-center-and-campus/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Fort Worth 2024 acquisition offered staged 5/8/18 MW and both conventional colocation and GPU/high-density deployment use cases.",
+        "sourceUrl": "https://www.tierpoint.com/news/tierpoint-acquires-new-dallas-area-data-center/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A modest first phase with a practical campus ramp can fit; a 100 MW end-state is not required for every TierPoint transaction.",
+      "Look for former enterprise facilities or land near existing TierPoint demand where reuse shortens delivery.",
+      "Expanding an occupied leased campus reduces customer-migration risk; a new rural greenfield site must overcome that advantage."
+    ],
+    "differentiators": [
+      "Strong proof of acquiring a leased operating campus.",
+      "Both 5 MW entry and 100 MW campus expansion examples.",
+      "Demand-backed high-density cooling appears more important than a universal rack-density rule."
+    ],
+    "dealStructure": "Fee-simple acquisitions of facilities/campuses and financed expansion. No public generic assignment-fee criteria found.",
+    "acquisitionSignal": "Recent financed TekPark acquisition and Fort Worth expansion demonstrate acquisition appetite, but not interest in a specific marketed tract.",
+    "searchBrief": "Prioritize existing regional enterprise facilities with expansion land, useful plant and identified large customer demand; record cost to migrate or retain tenants and deploy liquid cooling.",
+    "rejectionTriggers": [
+      "Inference: No customer case beyond cheap megawatts.",
+      "Inference: Expansion requires replacing most existing infrastructure without a time advantage.",
+      "Inference: New region loses to current campus expansion."
+    ],
+    "buyerQuestions": [
+      "Is there a power/space shortage in one of your existing markets?",
+      "Could an initial 5–10 MW campus with documented expansion fit?",
+      "Would you prefer acquiring an operating facility or a new build-to-suit?"
+    ],
+    "sources": [
+      {
+        "title": "TierPoint TekPark acquisition",
+        "url": "https://www.tierpoint.com/news/tierpoint-completes-240-million-securitization-financing-and-acquisition-of-pennsylvania-data-center-and-campus/",
+        "publisher": "TierPoint",
+        "date": "2025-10-23",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "TierPoint Fort Worth acquisition",
+        "url": "https://www.tierpoint.com/news/tierpoint-acquires-new-dallas-area-data-center/",
+        "publisher": "TierPoint",
+        "date": "2024-01-08",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "expedient",
+    "name": "Expedient",
+    "parentGroup": "Expedient platform; owner not reverified in this pass",
+    "role": "Enterprise cloud/colocation operator and facility acquirer",
+    "usRelevance": "medium",
+    "regions": [
+      "Midwest United States",
+      "Columbus OH",
+      "Pittsburgh PA",
+      "Indianapolis IN"
+    ],
+    "strategy": "Expands managed cloud and regional colocation capacity through existing enterprise facilities. Its Columbus purchase demonstrates a practical smaller-campus demand profile; it does not establish a national speculative greenfield land mandate.",
+    "scale": "2024 Columbus acquisition announced 3 MW initial and 7.5 MW eventual capacity. Current facility page reports CMH3 at 7 MW critical IT, with 10 MW generators and 2N UPS; power categories and reporting dates must not be mixed.",
+    "publishedRequirements": [
+      {
+        "fact": "Expedient acquired the former Nationwide facility near Columbus in February 2024, adding its fifteenth US data center.",
+        "sourceUrl": "https://expedient.com/about/press/2024-02-13-expedient-expands-again-adds-fifth-ohio-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The facility supported more than 33,000 physical servers and provided staged power expansion rather than a gigawatt campus.",
+        "sourceUrl": "https://expedient.com/about/press/2024-02-13-expedient-expands-again-adds-fifth-ohio-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current Columbus page reports CMH3 at 7 MW critical IT, 2N UPS, 10 MW total generator capacity and four on-net carriers, separate from the 2024 acquisition announcement’s staged plan.",
+        "sourceUrl": "https://m.expedient.com/data-centers/columbus/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A reusable enterprise facility with a regional customer base may offer a more compelling acquisition case than vacant industrial acreage.",
+      "Search for power/density headroom and the cost of integrating the property into a managed-cloud network, not just total acreage.",
+      "Its published acquisition is older; confirm whether capacity remains needed before building a costly site-specific package."
+    ],
+    "differentiators": [
+      "Single-digit-MW initial deployment precedent.",
+      "Former corporate data-center reuse supports faster delivery but requires engineering and tenant/service diligence."
+    ],
+    "dealStructure": "Direct acquisition of enterprise facilities demonstrated. No published willingness to buy raw-land options established.",
+    "acquisitionSignal": "Columbus expansion is verified but is not a current open procurement notice. 2026 product releases focus on enterprise cloud/AI services rather than new land acquisition.",
+    "searchBrief": "Locate former corporate data centers or powered industrial conversions in established enterprise markets with 3–10 MW expansion potential, diverse network paths and reusable MEP; these quantities are analyst search hypotheses, not buyer requirements.",
+    "rejectionTriggers": [
+      "Inference: Standalone rural location lacks local enterprise or disaster-recovery demand.",
+      "Inference: Existing facility requires rebuilding its entire power/cooling chain.",
+      "Inference: Proposed scale exceeds a realistic pre-leasing or cloud deployment plan."
+    ],
+    "buyerQuestions": [
+      "Which regions have an unmet enterprise colocation requirement?",
+      "Is acquisition of an operating or decommissioned corporate center preferred?",
+      "What data-hall geometry, compliance and network integration would disqualify a facility?"
+    ],
+    "sources": [
+      {
+        "title": "Expedient adds fifth Ohio data center",
+        "url": "https://expedient.com/about/press/2024-02-13-expedient-expands-again-adds-fifth-ohio-data-center/",
+        "publisher": "Expedient",
+        "date": "2024-02-13",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Expedient Columbus current facility specifications",
+        "url": "https://m.expedient.com/data-centers/columbus/",
+        "publisher": "Expedient",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "lightedge",
+    "name": "Lightedge",
+    "parentGroup": "GI Partners-backed (as disclosed by Lightedge)",
+    "role": "Enterprise hybrid-cloud developer/operator and acquirer",
+    "usRelevance": "high",
+    "regions": [
+      "Kansas City MO",
+      "Des Moines IA",
+      "Minneapolis MN",
+      "Other established US enterprise markets"
+    ],
+    "strategy": "Emphasizes secure, compliant enterprise hybrid cloud and disciplined expansion where it already has customers and operating depth. The strongest current signal is buying a fully pre-leased center rather than taking speculative land risk.",
+    "scale": "April 2026 acquisition: 3 MW critical IT, Tier III, fully pre-leased and turnkey. A separate Kansas City facility page advertises 20 MW critical IT capacity; these are distinct assets, not a general minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "Lightedge acquired a 3 MW Tier III Kansas City facility that was fully pre-leased and had rights of first refusal already in place.",
+        "sourceUrl": "https://lightedge.com/resources/lightedge-expands-kansas-city-footprint-with-acquisition-of-3mw-tier-iii-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The same release describes growth in existing markets and demand from financial services, insurance, healthcare and logistics.",
+        "sourceUrl": "https://lightedge.com/resources/lightedge-expands-kansas-city-footprint-with-acquisition-of-3mw-tier-iii-data-center/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "It identifies a 2024 Chaska acquisition and Connectria acquisition; Involta/Ark is a different platform and is not counted as Lightedge.",
+        "sourceUrl": "https://lightedge.com/resources/lightedge-expands-kansas-city-footprint-with-acquisition-of-3mw-tier-iii-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Its existing Kansas City facility page identifies 9050 NE Underground Drive and advertises 20 MW critical IT capacity; the separate 3 MW acquired facility required no capital buildout.",
+        "sourceUrl": "https://lightedge.com/data-centers/kansas-city-data-center/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A pre-leased or customer-backed expansion is more credible than a raw-land proposition without revenue visibility.",
+      "Compliance and geographic proximity to regulated customers may dominate a rural power discount.",
+      "A small site can be commercially useful, but only if plant redundancy, operating standards and network connections meet the intended enterprise use."
+    ],
+    "differentiators": [
+      "Explicit market-driven growth within existing roots.",
+      "Fully pre-leased acquisition with ROFR demonstrates commitment before large incremental capital.",
+      "Regulated-industry compliance is a commercial requirement, not a marketing afterthought."
+    ],
+    "dealStructure": "Direct acquisition of purpose-built facilities; potential development structure must be confirmed. No public standard for buying unexercised options.",
+    "acquisitionSignal": "April 2026 acquisition supplies current evidence of active investment, with a strong preference signal for contracted demand.",
+    "searchBrief": "Search existing metro facilities or contiguous expansions near Kansas City, Des Moines and other confirmed markets; seek anchor tenants, reusable Tier III-class infrastructure and a costed modernization plan.",
+    "rejectionTriggers": [
+      "Inference: Uncontracted rural greenfield thesis offers no defensible enterprise demand.",
+      "Inference: Facility cannot satisfy target customer compliance or resilient operations.",
+      "Inference: An existing campus can supply capacity sooner and cheaper."
+    ],
+    "buyerQuestions": [
+      "Would you underwrite an unleased site or require an anchor commitment?",
+      "Which markets and customer sectors have unsatisfied demand?",
+      "Would you acquire a building/land option, or prefer a commissioned facility?"
+    ],
+    "sources": [
+      {
+        "title": "Lightedge Kansas City 3 MW acquisition",
+        "url": "https://lightedge.com/resources/lightedge-expands-kansas-city-footprint-with-acquisition-of-3mw-tier-iii-data-center/",
+        "publisher": "Lightedge",
+        "date": "2026-04-30",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Lightedge Kansas City facility specifications",
+        "url": "https://lightedge.com/data-centers/kansas-city-data-center/",
+        "publisher": "Lightedge",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "us-signal",
+    "name": "US Signal",
+    "parentGroup": "Igneo Infrastructure Partners-backed (company disclosure)",
+    "role": "Fiber-integrated data-center operator and expansion developer",
+    "usRelevance": "high",
+    "regions": [
+      "Midwest US",
+      "Detroit MI",
+      "Des Moines IA",
+      "Aurora IL",
+      "Oak Brook IL"
+    ],
+    "strategy": "Coordinates data-center expansion with its own fiber infrastructure and regional enterprise/cloud products. Existing network reach and customer access are part of the acquisition logic, not independent checklist items.",
+    "scale": "2025 program added 3 MW commercial power in Detroit and 6 MW in Des Moines. Aurora plans distinguish 6 MW commercial power from 4 MW UPS-supported capacity, with longer-term 8–10 MW total-facility ambition.",
+    "publishedRequirements": [
+      {
+        "fact": "US Signal announced a $200 million program with data-center additions and more than 1,000 miles of dense fiber/conduit.",
+        "sourceUrl": "https://ussignal.com/press-releases/expands-ai-infrastructure/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Aurora, acquired December 2025, is receiving UPS, generator and cooling upgrades, plus a new link to Oak Brook.",
+        "sourceUrl": "https://ussignal.com/press-releases/accelertes-aurora-data-center-expansion/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Aurora phase two explicitly separates utility/commercial capacity from UPS-supported capacity; future 8–10 MW is a target, not current capacity.",
+        "sourceUrl": "https://ussignal.com/press-releases/accelertes-aurora-data-center-expansion/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Parcels or buildings on an economic extension of its backbone rank above disconnected low-cost land.",
+      "A 10–20 MW first phase may already be above several cited regional upgrades; secure an actual demand brief instead of assuming more MW is always better.",
+      "Network construction, resilient IT capacity and customer migration costs should be modeled as one project."
+    ],
+    "differentiators": [
+      "Useful public separation of facility and UPS-supported capacity.",
+      "Owned-network expansion is tightly coupled to data-center investments."
+    ],
+    "dealStructure": "Facility acquisition followed by phased upgrades; no public blanket raw-land or option-assignment program.",
+    "acquisitionSignal": "June 2026 Aurora expansion is a current capital program but consumes funds and customer demand within an already owned site.",
+    "searchBrief": "Search Midwest enterprise campuses connected to US Signal routes, with room for redundant plant and a feasible path to additional critical IT load; validate demand beyond existing-campus upgrades.",
+    "rejectionTriggers": [
+      "Inference: Network extension erases power/land savings.",
+      "Inference: Power figure ignores UPS/cooling limits.",
+      "Inference: No incremental customer requirement after current expansion program."
+    ],
+    "buyerQuestions": [
+      "Where does the current network/customer pipeline require another site?",
+      "What critical IT load and utility-feed redundancy are needed?",
+      "Would a former enterprise center with expansion land beat existing campus expansion economics?"
+    ],
+    "sources": [
+      {
+        "title": "US Signal infrastructure investment program",
+        "url": "https://ussignal.com/press-releases/expands-ai-infrastructure/",
+        "publisher": "US Signal",
+        "date": "2025-06-05",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "US Signal Aurora expansion",
+        "url": "https://ussignal.com/press-releases/accelertes-aurora-data-center-expansion/",
+        "publisher": "US Signal",
+        "date": "2026-06-04",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "bluebird-fiber",
+    "name": "Bluebird Fiber (formerly Bluebird Network)",
+    "parentGroup": "Bluebird Fiber; do not conflate with similarly named Denver site-originator",
+    "role": "Fiber-network operator and regional colocation facility developer",
+    "usRelevance": "low",
+    "regions": [
+      "Springfield MO",
+      "Bettendorf / Quad Cities IA-IL",
+      "Midwest fiber footprint"
+    ],
+    "strategy": "Operates regional data centers whose value is tied to Bluebird fiber, peering and resilience. Its underground Springfield location is a special-purpose asset, not evidence that ordinary farmland is interchangeable with its campuses.",
+    "scale": "Published offerings include cabinet/cage/room colocation and 8,000–10,000 square feet available whitespace. No current published greenfield acreage/MW acquisition threshold established.",
+    "publishedRequirements": [
+      {
+        "fact": "Current data-center page identifies Springfield Underground and Quad Cities sites, with multiple utility feeds, backup systems and network services.",
+        "sourceUrl": "https://bluebirdfiber.com/data-centers/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Published Springfield latency examples are 5–8 ms to Kansas City, 8–10 ms to St Louis and 10–12 ms to Chicago; these are service examples, not universal site-selection limits.",
+        "sourceUrl": "https://bluebirdfiber.com/data-centers/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "October 2026 release describes a multi-year optical-network upgrade supporting 100–400G services and diverse Midwest routes.",
+        "sourceUrl": "https://bluebirdfiber.com/ekinops-powers-bluebird-fibers-midwest-network-investments-for-growing-infrastructure-demand/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "Sites should improve a known route, peering location or customer catchment; this buyer is not automatically a taker for 20–50 MW rural land.",
+      "A proposal for resilience/disaster recovery needs both geographic separation and customer-usable network latency.",
+      "The latest investment signal concerns fiber upgrades, so any new real-estate acquisition appetite needs direct confirmation."
+    ],
+    "differentiators": [
+      "Regional low-latency network and disaster-resilience differentiation.",
+      "Underground limestone facility is an unusual existing-site feature, not a general construction requirement."
+    ],
+    "dealStructure": "Own/operate regional centers; current public land-option acquisition or national development mandate not found.",
+    "acquisitionSignal": "2026 network investment is verified; no new campus land solicitation was located.",
+    "searchBrief": "Search existing regional carrier or enterprise facilities on Bluebird routes with customer demand, redundant power and a clear resilient-network role. Treat as secondary discovery, not a first wave raw-land buyer.",
+    "rejectionTriggers": [
+      "Inference: No network/customer synergy.",
+      "Inference: Rural facility cannot offer credible geographic or latency benefit.",
+      "Inference: Large speculative campus exceeds evidenced expansion strategy."
+    ],
+    "buyerQuestions": [
+      "Is Bluebird actively acquiring/developing additional colocation real estate?",
+      "Which fiber nodes or customer areas need capacity?",
+      "Would a partner own the site while Bluebird supplies network and operations?"
+    ],
+    "sources": [
+      {
+        "title": "Bluebird Fiber data centers",
+        "url": "https://bluebirdfiber.com/data-centers/",
+        "publisher": "Bluebird Fiber",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Bluebird optical-network investment",
+        "url": "https://bluebirdfiber.com/ekinops-powers-bluebird-fibers-midwest-network-investments-for-growing-infrastructure-demand/",
+        "publisher": "Bluebird Fiber",
+        "date": "2026-10-05",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "ark-data-centers",
+    "name": "Ark Data Centers (formerly Involta)",
+    "parentGroup": "Carlyle-backed (company disclosure)",
+    "role": "Regional edge developer/operator",
+    "usRelevance": "high",
+    "regions": [
+      "Green Bay WI",
+      "Cedar Rapids IA",
+      "Tucson AZ",
+      "Boise ID",
+      "Ohio",
+      "Duluth MN",
+      "Pittsburgh PA"
+    ],
+    "strategy": "Purpose-built enterprise and hyperscale-edge facilities in regional markets. Ark rebranded from Involta in 2024 and should be counted as one platform; it is not Lightedge.",
+    "scale": "2024 Green Bay program contemplated expansion to 20 MW. Current facility page describes 10 enterprise-class Tier III data centers across seven edge markets, although its location list spans several cities. No general minimum acreage/MW published.",
+    "publishedRequirements": [
+      {
+        "fact": "Involta rebranded as Ark in May 2024, citing expansion for enterprise and hyperscale-edge capacity and a Green Bay campus growth plan up to 20 MW.",
+        "sourceUrl": "https://www.arkdna.com/about/news/involta-is-now-ark/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Ark describes purpose-built expandable centers, separate-source power feeds, carrier-neutral connectivity and geographic safe zones.",
+        "sourceUrl": "https://www.arkdna.com/data-centers/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "This is a better size match for a genuine 10–25 MW regional requirement than a Meta-style 500-acre search.",
+      "A lower-cost regional site still needs local enterprise demand or a validated edge customer; proximity to an existing Ark market is helpful but not sufficient.",
+      "Search for a geography/resilience/network gap the existing campus cannot fill."
+    ],
+    "differentiators": [
+      "Explicit regional edge-market strategy.",
+      "Expandable, redundant enterprise facilities rather than energy-only campuses.",
+      "Tucson presence offers a local relationship/discovery avenue for Bill, but does not establish demand for Benson."
+    ],
+    "dealStructure": "Development and campus expansion; no public generic option-assignment acceptance policy found.",
+    "acquisitionSignal": "Published Green Bay expansion and purpose-built development capabilities, but no new parcel solicitation located in this review.",
+    "searchBrief": "Search industrial parcels or reusable facilities near Ark edge markets with meaningful network diversity, resilient utility topology and a customer-backed 10–25 MW phase; scale is a hypothesis informed by Green Bay, not a mandate.",
+    "rejectionTriggers": [
+      "Inference: No edge/enterprise demand within usable network geography.",
+      "Inference: Only one practical power or carrier route.",
+      "Inference: Hazard exposure conflicts with resilient regional design."
+    ],
+    "buyerQuestions": [
+      "Which edge markets currently need greenfield capacity?",
+      "Would a 10–25 MW phased campus fit today’s pipeline?",
+      "What evidence distinguishes an attractive regional site from a location already served by existing facilities?"
+    ],
+    "sources": [
+      {
+        "title": "Involta is now Ark",
+        "url": "https://www.arkdna.com/about/news/involta-is-now-ark/",
+        "publisher": "Ark",
+        "date": "2024-05-15",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Ark data-center infrastructure",
+        "url": "https://www.arkdna.com/data-centers/",
+        "publisher": "Ark",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "dastor",
+    "name": "DāSTOR",
+    "parentGroup": "Privately funded, owner-operated (company disclosure)",
+    "role": "Enterprise colocation operator and facility acquirer",
+    "usRelevance": "medium",
+    "regions": [
+      "Pennsylvania",
+      "Delaware",
+      "I-95 corridor"
+    ],
+    "strategy": "Boutique enterprise and hybrid-colocation platform focused on the Mid-Atlantic. Its demonstrated expansion path is acquiring purpose-built facilities with connectivity and redundant plant, not nationwide speculative raw land.",
+    "scale": "New Castle acquisition offers more than 30,000 square feet of raised floor. No universal MW/acreage threshold found; published 2N+1 UPS and N+1 cooling describe that facility.",
+    "publishedRequirements": [
+      {
+        "fact": "April 2024 purchase of 3 Boulden Circle, New Castle added a fifth facility between Ashburn and New York/New Jersey.",
+        "sourceUrl": "https://dastorllc.com/news/dastor-enhances-data-services-with-strategic-acquisition-of-purpose-built-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "The acquisition release cites dense connectivity, Delaware IT equipment tax advantages, 2N+1 UPS and N+1 cooling.",
+        "sourceUrl": "https://dastorllc.com/news/dastor-enhances-data-services-with-strategic-acquisition-of-purpose-built-data-center/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Current company page positions DāSTOR as a boutique provider with direct access to its operating engineers.",
+        "sourceUrl": "https://dastorllc.com/about/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "An existing facility with a demonstrable Mid-Atlantic network position is more actionable than a Texas or Arizona greenfield option.",
+      "A Dover site needs a measured network/customer case; being in Delaware alone does not replicate New Castle’s I-95 location.",
+      "Acquisition underwriting should include equipment condition, customer commitments and cost to add high-density cooling."
+    ],
+    "differentiators": [
+      "Specific I-95 market positioning.",
+      "Enterprise service and hands-on operations rather than hyperscale-only infrastructure."
+    ],
+    "dealStructure": "Purpose-built facility acquisitions; new development/ground-lease appetite unverified.",
+    "acquisitionSignal": "Historical 2024 expansion established; no current public land request found.",
+    "searchBrief": "Search Mid-Atlantic enterprise data-center conversions or modest expansion tracts near existing fiber routes and customers. Require confirmation that new construction is accepted before spending on greenfield diligence.",
+    "rejectionTriggers": [
+      "Inference: Outside the validated Mid-Atlantic footprint.",
+      "Inference: Greenfield economics fail against reusable existing facilities.",
+      "Inference: Redundancy/connectivity cannot support regulated enterprise workloads."
+    ],
+    "buyerQuestions": [
+      "Are you reviewing new construction or only existing facilities?",
+      "Which Pennsylvania/Delaware submarkets need additional capacity?",
+      "What critical IT load, redundancy and fiber economics are required?"
+    ],
+    "sources": [
+      {
+        "title": "DāSTOR New Castle acquisition",
+        "url": "https://dastorllc.com/news/dastor-enhances-data-services-with-strategic-acquisition-of-purpose-built-data-center/",
+        "publisher": "DāSTOR",
+        "date": "2024-04-24",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "About DāSTOR",
+        "url": "https://dastorllc.com/about/",
+        "publisher": "DāSTOR",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "lincoln-rackhouse",
+    "name": "Lincoln Rackhouse / Lincoln Data Center Group",
+    "parentGroup": "Lincoln Property Company",
+    "role": "Real-estate developer, investor and build-to-suit partner",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Dallas / Red Oak TX",
+      "Columbus OH",
+      "Atlanta GA"
+    ],
+    "strategy": "Combines real-estate capital and development capability with land, fiber and power partners. This is a particularly relevant counterpart for a land-originator structure when the site contributes something scarce.",
+    "scale": "Red Oak announced 131 entitled acres, more than 800,000 square feet, and up to 540 MW total power. The release says total power, not IT load; these are project plans, not a corporate minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "January 2025 partnership has Gigabit Fiber contribute 131 fully entitled acres while Lincoln supplies capital, financing and development expertise.",
+        "sourceUrl": "https://lpc.com/local-news/lincoln-property-company-gigabit-fiber-and-tradition-holdings-team-up-to-develop-131-acre-data-center-campus-in-dallas/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "Lincoln’s data-center practice explicitly provides acquisitions/investments, site selection, build-to-suit development, fiber procurement and power acquisition/distribution.",
+        "sourceUrl": "https://lpc.com/what-we-do/property-types/data-centers/",
+        "kind": "published requirement"
+      }
+    ],
+    "inferredPreferences": [
+      "A land contribution or JV can be more aligned with Lincoln’s evidenced structures than assuming a simple option flip.",
+      "The valuable input is entitled, connected land with a specific capital plan; bare acreage without control or an execution role is weaker.",
+      "Dallas cluster proximity and fiber partnership were part of the Red Oak thesis. Rural Texas cannot be substituted without a new customer / network case."
+    ],
+    "differentiators": [
+      "Direct precedent for land contribution plus developer financing.",
+      "Can structure across real estate and infrastructure rather than only buy a finished center."
+    ],
+    "dealStructure": "Acquisition, investment, build-to-suit and JV/land contribution demonstrated. No guarantee it buys unexercised options; economic participation and liabilities require negotiation.",
+    "acquisitionSignal": "2025 Red Oak transaction is clear partnership evidence, but its land is already controlled and is not an available opportunity.",
+    "searchBrief": "Search metro-adjacent entitled campuses with fiber partnership potential and a staged utility plan; prepare a land/control contribution case that explains how Lincoln’s capital unlocks a specific customer project.",
+    "rejectionTriggers": [
+      "Inference: No unique site contribution beyond a marked-up listing.",
+      "Inference: Entitlements or fiber rights cannot transfer.",
+      "Inference: Founder cannot fund/control the position through partner review."
+    ],
+    "buyerQuestions": [
+      "Would Lincoln evaluate an assignable option or require land ownership before a JV?",
+      "Which markets and campus scales are currently capital-approved?",
+      "What entitlement, power and fiber milestone must the land partner deliver?"
+    ],
+    "sources": [
+      {
+        "title": "Lincoln/Gigabit/Tradition Red Oak partnership",
+        "url": "https://lpc.com/local-news/lincoln-property-company-gigabit-fiber-and-tradition-holdings-team-up-to-develop-131-acre-data-center-campus-in-dallas/",
+        "publisher": "Lincoln Property Company",
+        "date": "2025-01-08",
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Lincoln data-center services",
+        "url": "https://lpc.com/what-we-do/property-types/data-centers/",
+        "publisher": "Lincoln Property Company",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "scalematrix",
+    "name": "ScaleMatrix",
+    "parentGroup": "ScaleMatrix Holdings; ownership not independently reverified",
+    "role": "High-density colocation/cloud operator; development through facilities and partners",
+    "usRelevance": "low",
+    "regions": [
+      "San Diego CA",
+      "Seattle / Puyallup WA",
+      "Other partner-served US markets"
+    ],
+    "strategy": "Differentiates through cabinet-level dynamic-density technology and enterprise/HPC services. Its technology can operate within a partner facility; that is materially different from a mandate to buy raw land.",
+    "scale": "Official homepage advertises dynamic 1–52 kW per cabinet. This is a product specification on a page with older content, not a verified 2026 ceiling or a land-buying minimum.",
+    "publishedRequirements": [
+      {
+        "fact": "ScaleMatrix advertises dynamic cabinet densities from 1 to 52 kW and high-performance cloud/colocation services.",
+        "sourceUrl": "https://www.scalematrix.com/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "A historical Seattle launch used a partnership with wholesale provider Centeris, illustrating a partner-campus expansion route.",
+        "sourceUrl": "https://www.scalematrix.com/press/scalematrix-launches-next-ddctm-enabled-future-proof-data-center-seattle-providing-variable.html",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "A powered shell or partner facility with a local HPC/customer case is likely more relevant than a large independent rural campus.",
+      "Confirm current density/cooling requirements directly before using the older public specification to design a new AI site.",
+      "The need may be leasing/deploying capacity rather than buying land; ask this before any parcel diligence."
+    ],
+    "differentiators": [
+      "Dynamic density at the cabinet level.",
+      "Partner-hosted deployment can separate the land buyer from the service operator.",
+      "Public expansion evidence is dated; current acquisition appetite remains unverified."
+    ],
+    "dealStructure": "Facility/partner deployments; no recent public raw-land acquisition mandate established.",
+    "acquisitionSignal": "Operating product capability verified, but cited expansion precedent is historical and should not be treated as fresh demand.",
+    "searchBrief": "Search existing powered shells or enterprise facilities near validated HPC customers, especially in current operating/partner markets; treat land-only proposals as low priority until acquisition role is confirmed.",
+    "rejectionTriggers": [
+      "Inference: Assumption that high-density services imply appetite for a standalone land option.",
+      "Inference: No customer demand within practical network/operations geography.",
+      "Inference: Cooling retrofit cannot support current cabinet requirements economically."
+    ],
+    "buyerQuestions": [
+      "Are you currently acquiring real estate, leasing partner capacity or both?",
+      "Which markets have contracted demand beyond existing inventory?",
+      "What are today’s density, liquid-cooling and electrical distribution requirements?"
+    ],
+    "sources": [
+      {
+        "title": "ScaleMatrix official product page",
+        "url": "https://www.scalematrix.com/",
+        "publisher": "ScaleMatrix",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "ScaleMatrix Seattle partnership launch",
+        "url": "https://www.scalematrix.com/press/scalematrix-launches-next-ddctm-enabled-future-proof-data-center-seattle-providing-variable.html",
+        "publisher": "ScaleMatrix",
+        "date": "2018-02-19",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "netrality",
+    "name": "Netrality Data Centers",
+    "parentGroup": "Macquarie Asset Management-backed (company disclosure)",
+    "role": "Core interconnection developer/operator and building acquirer",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Urban carrier hubs",
+      "Indianapolis IN",
+      "Kansas City MO",
+      "Philadelphia PA",
+      "Houston TX",
+      "St Louis MO"
+    ],
+    "strategy": "Acquires strategic urban interconnection buildings and expands their capacity. Network ecosystem and latency-sensitive customers are the central investment thesis; low-cost power alone is a poor match.",
+    "scale": "Current company page reports 18 properties, 3.3 million square feet and over 100 MW portfolio capacity. July 2025 Indianapolis expansion: 1 MW critical capacity, 3,800 sq ft, up to 30 kW/cabinet. Portfolio total is not a site requirement.",
+    "publishedRequirements": [
+      {
+        "fact": "Netrality explicitly describes acquisition of strategically located core network-interconnection facilities for latency-sensitive businesses.",
+        "sourceUrl": "https://netrality.com/about-us/",
+        "kind": "published requirement"
+      },
+      {
+        "fact": "The Indy Telcom Center expansion adds 1 MW critical capacity and uses localized cooling to support up to 30 kW/cabinet.",
+        "sourceUrl": "https://netrality.com/news/netrality-high-density-data-hall-indy/",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "An operating carrier hotel or adjacent urban expansion opportunity has value a remote greenfield site cannot easily replicate.",
+      "Existing tenants, cross-connects, carrier entrances and access rights are acquisition diligence priorities.",
+      "More MW may be less valuable than a small capacity increment at a congested interconnection point."
+    ],
+    "differentiators": [
+      "Clear published acquisition type: core network-interconnection buildings.",
+      "Low-MW expansion within a network-dense existing campus.",
+      "Powered shell, colocation and wholesale products can coexist within the same building."
+    ],
+    "dealStructure": "Direct property acquisitions and expansion; a pure land option is credible mainly when adjacent to an existing strategic hub or backed by a validated network relocation.",
+    "acquisitionSignal": "Current acquisition strategy is explicit; Indianapolis expansion demonstrates investment within owned inventory, not an open rural site search.",
+    "searchBrief": "Search urban carrier buildings, fiber meet-me-room assets and directly connected expansion tracts; document carriers, cross-connect economics, structural capacity and permitted generator/cooling yards.",
+    "rejectionTriggers": [
+      "Inference: No established network ecosystem or economically constructible connection to one.",
+      "Inference: Site cannot support low-latency users despite ample power.",
+      "Inference: Physical expansion breaks tenant resiliency or requires prohibitively expensive migration."
+    ],
+    "buyerQuestions": [
+      "Which interconnection nodes lack incremental power/space?",
+      "Would adjacent land be acquired, or only operating connected buildings?",
+      "Which carrier, tenant and cross-connect rights must transfer with the asset?"
+    ],
+    "sources": [
+      {
+        "title": "Netrality acquisition strategy",
+        "url": "https://netrality.com/about-us/",
+        "publisher": "Netrality",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "Indy Telcom high-density expansion",
+        "url": "https://netrality.com/news/netrality-high-density-data-hall-indy/",
+        "publisher": "Netrality",
+        "date": "2025-07-14",
+        "retrieved": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "edgeconnex",
+    "name": "EdgeConneX",
+    "parentGroup": "EQT-backed platform; project relationships include TA Digital Group and AdaniConneX",
+    "role": "Customer-led developer/operator from edge to hyperscale",
+    "usRelevance": "high",
+    "regions": [
+      "United States",
+      "Atlanta GA",
+      "Virginia",
+      "Texas",
+      "Global"
+    ],
+    "strategy": "Builds capacity around customer geography, density and timing, with both metro-edge campuses and very large hyperscale projects. A site must fit a defined customer need rather than a universal EdgeConneX land template.",
+    "scale": "Atlanta legacy campuses show mid-single-digit to tens-of-MW expansions; TA partnership announced 324 MW hyperscale campus. These are separate product scales; headline MW basis not consistently specified.",
+    "publishedRequirements": [
+      {
+        "fact": "EdgeConneX’s Atlanta materials describe metro proximity, regional fiber/cloud access, carrier-neutral service and rack-density capability.",
+        "sourceUrl": "https://www.edgeconnex.com/news/edge-blog/winning-formula-how-atlantas-business-education-and-tech-clusters-are-fueling-its-tech-boom/",
+        "kind": "project evidence"
+      },
+      {
+        "fact": "TA Digital Group lists a July 2024 joint 324 MW Atlanta development announcement, demonstrating a partner-led land/power/entitlement model.",
+        "sourceUrl": "https://www.tadigitalgroup.com/press-releases",
+        "kind": "project evidence"
+      }
+    ],
+    "inferredPreferences": [
+      "An edge deployment depends on end-user/network proximity; a hyperscale build depends on a named capacity block and customer contract. Do not combine their selection weights.",
+      "A developed land/power position can be useful to EdgeConneX through a specialist partner, but a raw option needs enough evidence to beat its established origination network.",
+      "The TA relationship means those two buyers may represent the same project exit; do not count them as statistically independent bids."
+    ],
+    "differentiators": [
+      "Distinct edge and hyperscale product lanes.",
+      "Verified willingness to work with specialized land/power/entitlement partners.",
+      "Customer requirements, not a broad nationwide acreage threshold, define an actionable site."
+    ],
+    "dealStructure": "Build-to-suit development, direct investment and project partnerships; no public blanket option-assignment policy.",
+    "acquisitionSignal": "Atlanta joint development provides execution precedent; current open sites / geographies must be confirmed. Already announced campuses are competing supply.",
+    "searchBrief": "Search only against a stated edge or hyperscale customer brief. For metros, prove latency/carriers; for campuses, provide transferable rights, phasing, entitlements and costed power delivery.",
+    "rejectionTriggers": [
+      "Inference: Project presented to wrong product lane.",
+      "Inference: No customer-led reason to enter the geography.",
+      "Inference: Land/control package duplicates capacity already under development."
+    ],
+    "buyerQuestions": [
+      "Is this requirement for metropolitan edge, AI inference or large-scale training?",
+      "Which required service date and customer ramp drive site choice?",
+      "Would EdgeConneX acquire the position directly or through a power / real-estate partner?"
+    ],
+    "sources": [
+      {
+        "title": "EdgeConneX Atlanta market and site strategy",
+        "url": "https://www.edgeconnex.com/news/edge-blog/winning-formula-how-atlantas-business-education-and-tech-clusters-are-fueling-its-tech-boom/",
+        "publisher": "EdgeConneX",
+        "date": null,
+        "retrieved": "2026-10-29"
+      },
+      {
+        "title": "TA Digital Group announcement register",
+        "url": "https://www.tadigitalgroup.com/press-releases",
+        "publisher": "TA Digital Group",
+        "date": null,
+        "retrieved": "2026-10-29"
+      }
+    ]
+  }
+]

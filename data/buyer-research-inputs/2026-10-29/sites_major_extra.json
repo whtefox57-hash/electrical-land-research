@@ -1,0 +1,262 @@
+[
+  {
+    "id": "mesa-eastmark-5289",
+    "name": "Eastmark Center of Industry Phase II \u2014 52.89 acres",
+    "address": "SEC Everton Terrace & Mesquite Road, Mesa, AZ 85212",
+    "state": "AZ",
+    "acresGross": 52.89,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Exact offered parcels and legal description not reconciled",
+    "listingUrl": "https://property.jll.com/listings/eastmark-center-of-industry-phase-ii-sec-everton-terrace-mesquite-rd-not-tracked-arizona",
+    "availability": "Public broker marketing observed 2026-10-29; seller availability and control terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": null,
+      "status": "Parcel-specific utility assignment not verified"
+    },
+    "claims": [
+      "JLL ID 743589 offers 52.89 acres for sale or build-to-suit, with price on request.",
+      "Broker identifies Planned Community zoning and proximity to the Elliot Road Technology Corridor. This is not verified data-center permission.",
+      "No allocated MW, substation capacity, service date or fiber routes are established for the offered parcel."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "ntt-global-data-centers",
+        "fit": "Research",
+        "why": "Specific corridor fit: NTT PH1 is on the Elliot Road Technology Corridor at 10256 Elliot Road, with a 102-acre/240 MW campus plan and 36 MW critical-IT first building. The offered 52.89-acre land provides a plausible smaller phased-campus hypothesis in the same technology district, rather than a generic Arizona match. It is not established as adjoining NTT or needed beyond its controlled pipeline.",
+        "specificTest": "Ask NTT whether additional Mesa land has an active customer mandate. Test net usable layout for an initial building, on-site substation and three truly diverse fiber entrances, mirroring PH1 project evidence rather than treating those specifications as universal acquisition requirements."
+      }
+    ],
+    "blockingQuestions": [
+      "Does the Planned Community entitlement allow the proposed data-center use, generators, height and cooling plant?",
+      "What is the exact offered boundary, APN schedule and net buildable area?",
+      "Can three independent fiber entry routes be secured and can the substation/utility corridor fit?",
+      "Would NTT prefer to use remaining controlled Mesa land instead of acquiring this site?"
+    ],
+    "capitalFit": "Price and option terms unverified; assume buyer-backed acquisition or seller partnership, not a low-cost speculative option.",
+    "forecastStatus": "No calibrated site-specific construction probability; any numerical forecast must be explicitly labeled a conditional planning scenario and exclude unverified buyer interest.",
+    "nextAction": "Obtain current seller availability, APNs, offered boundary, control economics and actual utility documents before paid diligence.",
+    "sourceUrls": [
+      "https://property.jll.com/listings/eastmark-center-of-industry-phase-ii-sec-everton-terrace-mesquite-rd-not-tracked-arizona",
+      "https://www.nttdata.com/en-kr/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center"
+    ]
+  },
+  {
+    "id": "eagle-mountain-jll100",
+    "name": "Eagle Mountain data-center land \u2014 marketed 100-acre tranche",
+    "address": "1254 N 0 St, Eagle Mountain, UT 84043 (broker marketing address; reconcile legal location)",
+    "state": "UT",
+    "acresGross": 100,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Exact offered parcels and legal description not reconciled",
+    "listingUrl": "https://property.jll.com/listings/eagle-mountain-data-center-1254-n-0-st-salt-lake-city",
+    "availability": "Live JLL sale page; dated brochure and acreage conflicts create a mandatory availability/parcel revalidation gate.",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": null,
+      "status": "Parcel-specific utility assignment not verified"
+    },
+    "claims": [
+      "Live JLL ID 665185 lists 100 acres for sale, price on request.",
+      "Linked brochure contains inconsistent acreage: 390 acres on cover, approximately 290 acres divisible into 20\u2013100-acre sites inside. Do not treat 100 acres as a surveyed parcel.",
+      "Brochure claims Industrial/Tech Campus zoning, a south-boundary fiber easement and an easement to a 200 MW substation. These are marketing statements; the substation rating is not available site load.",
+      "Brochure includes 2023 market data and future power-system plans; current utility allocation and the land remaining unsold require revalidation."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "aligned",
+        "fit": "Research",
+        "why": "Aligned operates a 55-acre West Jordan campus and SLC-04 in West Valley City and explicitly markets Utah cooling economics, carrier access and closed-loop air/liquid cooling. This 100-acre divisible, technology-zoned offering is a concrete regional campus alternative with room to test modular expansion and external plant. Eagle Mountain is not adjacent to either Aligned campus; regional overlap alone does not establish suitability.",
+        "specificTest": "Verify that Aligned has a customer whose service region accepts Eagle Mountain; measure diverse fiber routes back to its required Utah nodes, obtain a current load-service offer, and test closed-loop cooling/module geometry with water use and electrical infrastructure on net usable land."
+      }
+    ],
+    "blockingQuestions": [
+      "Which exact 20\u2013100-acre tranche remains available, and why do the brochure and webpage acreage differ?",
+      "Is the substation easement assignable and what firm MW/ramp/tariff is available to this particular buyer?",
+      "Are second and third independent carrier routes achievable beyond the single advertised south-boundary easement?",
+      "Does the current zoning actually permit the proposed design and do water rights convey separately?",
+      "Can a fresh survey and current utility letter replace the dated brochure assumptions?"
+    ],
+    "capitalFit": "Price and option terms unverified; assume buyer-backed acquisition or seller partnership, not a low-cost speculative option.",
+    "forecastStatus": "No calibrated site-specific construction probability; any numerical forecast must be explicitly labeled a conditional planning scenario and exclude unverified buyer interest.",
+    "nextAction": "Obtain current seller availability, APNs, offered boundary, control economics and actual utility documents before paid diligence.",
+    "sourceUrls": [
+      "https://property.jll.com/listings/eagle-mountain-data-center-1254-n-0-st-salt-lake-city",
+      "https://res.cloudinary.com/jll-global-sandbox/image/upload/v1694109798/MyListing/public/prod/nkj5fnmab57dl2eyjj2s.pdf",
+      "https://aligneddc.com/salt-lake-city-data-centers/"
+    ]
+  },
+  {
+    "id": "chicago-cermak-square",
+    "name": "Cermak Square \u2014 marketed urban data-center development",
+    "address": "2222 S Indiana Avenue, Chicago, IL 60616",
+    "state": "IL",
+    "acresGross": null,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Broker marketing indicates approximately $40 million land value and $140 million proposed-project listing; obtain current separate land/shell scope and firm asking terms.",
+    "apn": null,
+    "parcelStatus": "Exact offered parcels and legal description not reconciled",
+    "listingUrl": "https://www.loopnet.com/Listing/2222-S-Indiana-Ave-Chicago-IL/34409486/",
+    "availability": "Broker marketing re-published May 2026 and JLL syndicated listing is indexed as available; direct LoopNet fetch restricted and Showcase redirected. Treat as research lead pending written availability and seller control verification.",
+    "retrieved": "2026-10-29",
+    "sourceType": "Broker offering on JLL-syndicated marketplace plus dated Castles Unlimited broker article",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": null,
+      "status": "Parcel-specific utility assignment not verified"
+    },
+    "claims": [
+      "JLL broker Sean Reynolds markets a proposed multi-story data-center development for lease/purchase; Castles Unlimited published a dated May 8, 2026 offering article.",
+      "Broker describes an approved Planned Development and approximately 363,000 square feet across seven floors; approval documents were not reviewed.",
+      "Broker cites 40 MW eventual capacity with 16 MW at completion and additional 8 MW increments. These are unverified future power claims, with MW basis unspecified.",
+      "Offering is described as two blocks from 350 East Cermak. This is a location claim, not proof of a diverse fiber extension or campus cross-connect eligibility.",
+      "Public delivery claims conflict: 15 versus 19 months and August 2027. They require a new construction and utility schedule.",
+      "Land acreage is deliberately withheld: listing databases appear to mix building square footage and land area; legal boundary and survey are required."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "equinix",
+        "fit": "Research",
+        "why": "More specific than a metro match: Equinix CH1, CH2 and CH4 operate at 350 E Cermak, and the offered development is marketed two blocks away. This could be an IBX infill or powered-shell arrangement tied to the existing interconnection ecosystem, subject to fiber engineering and customer demand. It is not an xScale rural-campus match.",
+        "specificTest": "Obtain two or more physically independent fiber paths into the existing Cermak ecosystem, Equinix engineering acceptance of campus-extension distances, usable floor-load and liquid-cooling design, and a current ComEd delivery schedule. Determine whether Equinix would acquire land, lease a shell, or reject the offered developer economics."
+      },
+      {
+        "buyerId": "coresite",
+        "fit": "Research",
+        "why": "CoreSite CH2 demonstrates a purpose-built multi-story downtown Chicago model with 18 MW, high-density support, three diverse fiber entries and connectivity to its Chicago ecosystem. Cermak Square offers the same urban development type near the major Cermak carrier hub; it is not adjacent to CH2 and has no demonstrated CoreSite interest.",
+        "specificTest": "Price a diverse dark-fiber extension to CH1/CH2 and establish customer latency and connectivity economics. Compare the offered seven-floor plan, floor loading and equipment yards with CoreSite design requirements, and test whether expansion of its controlled Chicago facilities is superior."
+      }
+    ],
+    "blockingQuestions": [
+      "Is bare land separately purchasable today, and who controls the permitted development?",
+      "What are the exact acreage, APNs, legal description, title and existing use?",
+      "Can the actual Planned Development approval and permitted data-center floor plan be supplied?",
+      "What current utility agreement supports each phase, and is its MW facility load or IT critical load?",
+      "Are the 2027 delivery statements still valid and is the proposed seven-floor design compatible with current AI cooling and floor loads?",
+      "Can developer economics support an operator-owned build or shell lease at the disclosed land/project pricing?"
+    ],
+    "capitalFit": "Institutional buyer-backed development; approximately $40 million land indication is unsuitable for speculative self-funded acquisition. Seller JV or buyer-backed option would require negotiation.",
+    "forecastStatus": "No calibrated site-specific construction probability; any numerical forecast must be explicitly labeled a conditional planning scenario and exclude unverified buyer interest.",
+    "nextAction": "Obtain current seller availability, APNs, offered boundary, control economics and actual utility documents before paid diligence.",
+    "sourceUrls": [
+      "https://www.loopnet.com/Listing/2222-S-Indiana-Ave-Chicago-IL/34409486/",
+      "https://castlesunlimited.com/blog/posts/2026/05/08/cermak-square-data-center-in-chicago-illinois/",
+      "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch1",
+      "https://www.coresite.com/data-center/ch2-chicago-il"
+    ]
+  },
+  {
+    "id": "hillsboro-jackson-south32",
+    "name": "Jackson South Corporate Park \u2014 offered Hillsboro campus land",
+    "address": "1205\u20131297 Northeast Evergreen Road, Hillsboro, OR 97124",
+    "state": "OR",
+    "acresGross": 32.07,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Exact offered parcels and legal description not reconciled",
+    "listingUrl": "https://www.macadamforbes.com/listings/1435777-lease.html",
+    "availability": "Public broker marketing observed 2026-10-29; seller availability and control terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": null,
+      "status": "Parcel-specific utility assignment not verified"
+    },
+    "claims": [
+      "Primary broker Macadam Forbes offers a 32.07-acre campus for land sale, build-to-suit or industrial building sale/lease. The site plan can be modified for campus users.",
+      "Current broker flyer is dated July 2, 2026. Listed Q2 2027 construction/Q2 2028 delivery refers to the industrial plan, not a data-center commitment.",
+      "Oregon EDC listing describes 16\u201345-acre options; reconcile acreage and division with the broker offering before calculating a yield.",
+      "No verified data-center power allocation or diverse fiber routes have been supplied."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "flexential",
+        "fit": "Research",
+        "why": "A concrete Hillsboro ownership expansion hypothesis: Flexential acquired its Hillsboro 6 land in September 2025 for a 350,000-square-foot, two-story, 27 MW facility and states a preference for facility ownership. This marketed 32.07-acre campus land sale fits that ownership and purpose-built model more closely than a small generic Portland lot. It is not established as adjacent to its existing campuses.",
+        "specificTest": "Compare current Hillsboro 6 absorption and customer commitments against need for another parcel. Test carrier-route integration into FlexAnywhere, a multi-story high-density layout, utility deliverability and an actual land-sale boundary before assuming the industrial plan can become a data center."
+      }
+    ],
+    "blockingQuestions": [
+      "Which precise land-sale configuration and gross/net acreage is offered?",
+      "Will the seller accept a data-center buyer and allow redesign before speculative construction begins?",
+      "Which routes can connect independently into the Flexential Hillsboro ecosystem?",
+      "Is there buyer demand beyond already controlled Hillsboro 6 capacity?",
+      "What entitlement, noise, cooling, utility delivery and off-site-work changes would a data center require?"
+    ],
+    "capitalFit": "Price and option terms unverified; assume buyer-backed acquisition or seller partnership, not a low-cost speculative option.",
+    "forecastStatus": "No calibrated site-specific construction probability; any numerical forecast must be explicitly labeled a conditional planning scenario and exclude unverified buyer interest.",
+    "nextAction": "Obtain current seller availability, APNs, offered boundary, control economics and actual utility documents before paid diligence.",
+    "existingSiteId": "hillsboro-jackson-south32",
+    "integrationAction": "Merge buyerMatches into existing site; do not duplicate parcel.",
+    "sourceUrls": [
+      "https://www.macadamforbes.com/listings/1435777-lease.html",
+      "https://properties.zoomprospector.com/oregon/property/1205---1297-NE-Evergreen-Rd-Hillsboro-OR--Hillsboro-Oregon/7A403D9A-5155-483C-AE03-7B7C080D4B8B",
+      "https://www.flexential.com/resources/press-release/flexential-acquires-prime-property-hillsboro-plans-new-data-center"
+    ]
+  },
+  {
+    "id": "em-tric-electric-75",
+    "name": "Electric Avenue \u2014 75 acres, Tahoe-Reno Industrial Center",
+    "address": "Electric Avenue, McCarran/Storey County, NV 89437",
+    "state": "NV",
+    "acresGross": 75,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Exact offered parcels and legal description not reconciled",
+    "listingUrl": "https://www.colliers.com/en/properties/75-acres-of-data-center-approved-land/usa-electric-ave-nevada-89437-usa/usa1158776",
+    "availability": "HOLD: broker search index remains visible, but direct listing was unavailable during root QA. No active availability assumption.",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": null,
+      "status": "Parcel-specific utility assignment not verified"
+    },
+    "claims": [
+      "Colliers search index and broker expert page advertise 75 acres with data-center/co-location approvals and TRI-GID utilities.",
+      "Nearby NV Energy substation access is a marketing claim, not deliverable MW.",
+      "Root QA found direct listing unavailable; preserve that HOLD until seller availability is independently reconfirmed."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "switch",
+        "fit": "HOLD \u2014 availability unconfirmed",
+        "why": "Switch already markets its Tahoe Reno campus around dedicated fiber to the Bay Area and Las Vegas. A data-center-approved 75-acre TRIC parcel is therefore a coherent extension-area screen, contingent on whether Switch wants additional land beyond its owned campus. Same industrial park does not establish shared boundaries, network access or power rights.",
+        "specificTest": "First reconfirm sale availability. Then establish whether Switch has incremental land demand and whether the specific boundary supports its required closed-loop EVO design, future phases and permitted dark-fiber route into its existing network. Do not infer that nearby utility infrastructure is accessible to Switch."
+      }
+    ],
+    "blockingQuestions": [
+      "Is this still for sale and what exact APNs and development approvals convey?",
+      "Is there incremental buyer need beyond Switch-owned Tahoe Reno land?",
+      "Can the parcel connect to Switch network routes without a single shared choke point?",
+      "Will the EVO closed-loop architecture fit within net usable area and cooling/noise limits?"
+    ],
+    "capitalFit": "Price and option terms unverified; assume buyer-backed acquisition or seller partnership, not a low-cost speculative option.",
+    "forecastStatus": "HOLD: no numerical build scenario until availability and buyer expansion mandate are confirmed.",
+    "nextAction": "Obtain current seller availability, APNs, offered boundary, control economics and actual utility documents before paid diligence.",
+    "existingSiteId": "em-tric-electric-75",
+    "integrationAction": "Merge Switch hypothesis into existing HOLD record; preserve availability and probability HOLD, do not create a new site.",
+    "sourceUrls": [
+      "https://www.colliers.com/en/properties/75-acres-of-data-center-approved-land/usa-electric-ave-nevada-89437-usa/usa1158776",
+      "https://www.colliers.com/en/experts/ted-stoever",
+      "https://www.switch.com/tahoe-reno/",
+      "https://www.switch.com/responsible-data-centers/"
+    ]
+  }
+]

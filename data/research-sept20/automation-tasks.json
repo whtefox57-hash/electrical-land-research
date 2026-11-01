@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6a9661495ebc8191841ea60a5fbfab06",
+    "team_id": null,
+    "title": "National Electric Land Deep Scan",
+    "schedule": "BEGIN:VEVENT\nDTSTART:20260901T080000\nRRULE:FREQ=DAILY\nEND:VEVENT",
+    "timing_mode": "flexible_schedule",
+    "display_schedule": null,
+    "is_enabled": true,
+    "conversation_id": "6aa572b5-9e28-83e9-88dc-0c236ea7d3c7",
+    "default_timezone": "America/Phoenix",
+    "next_run_time": null,
+    "last_run_time": "2026-09-20T15:16:48.091984+00:00",
+    "updated_at": "2026-09-20T23:47:06.382137+00:00",
+    "promptUpdated": true
+  },
+  {
+    "id": "6a8c6a3d28f48191b34a77a327bda620",
+    "team_id": null,
+    "title": "Electric Land Deal Runs",
+    "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Los_Angeles:20260824T120000\nRRULE:FREQ=DAILY;BYHOUR=8,12,16;BYMINUTE=0;BYSECOND=0\nEND:VEVENT",
+    "timing_mode": "flexible_schedule",
+    "display_schedule": null,
+    "is_enabled": true,
+    "conversation_id": "6a8b9bb8-a440-83e8-92b7-38b0181320ef",
+    "default_timezone": "America/Phoenix",
+    "next_run_time": null,
+    "last_run_time": "2026-09-20T22:58:29.444766+00:00",
+    "updated_at": "2026-09-20T23:44:51.464402+00:00",
+    "promptUpdated": true
+  },
+  {
+    "id": "6a8df51b19e481918002b72381a96d67",
+    "team_id": null,
+    "title": "Large-Load Buyer Watch",
+    "schedule": "BEGIN:VEVENT\nDTSTART:20260825T200439Z\nRRULE:FREQ=DAILY\nEND:VEVENT",
+    "timing_mode": "condition_watch",
+    "display_schedule": null,
+    "is_enabled": true,
+    "conversation_id": "6a8ded82-337c-83e8-a08f-ed08481bce0c",
+    "default_timezone": "America/Phoenix",
+    "next_run_time": null,
+    "last_run_time": "2026-09-20T20:27:22.265578+00:00",
+    "updated_at": "2026-09-20T23:44:36.485627+00:00",
+    "promptUpdated": true
+  },
+  {
+    "id": "6a96613ff5888191b64649804ba9b2a2",
+    "team_id": null,
+    "title": "Electric Land Change Watch",
+    "schedule": "BEGIN:VEVENT\nDTSTART:20260901T052411Z\nRRULE:FREQ=HOURLY\nEND:VEVENT",
+    "timing_mode": "condition_watch",
+    "display_schedule": null,
+    "is_enabled": false,
+    "conversation_id": "6aa212db-d208-83e9-a5e6-71a8c0bf5fd1",
+    "default_timezone": "America/Phoenix",
+    "next_run_time": null,
+    "last_run_time": "2026-09-19T23:00:40.915255+00:00",
+    "updated_at": "2026-09-20T23:47:47.247453+00:00",
+    "promptUpdated": true
+  }
+]

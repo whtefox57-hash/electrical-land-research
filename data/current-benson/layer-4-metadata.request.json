@@ -1,0 +1,11 @@
+{
+  "name": "layer-4-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Telephone%20Company/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.415761+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 9067,
+  "sha256": "ef6083d176f8c610c8be83b67f2ed3541279d7d0842317c9491c040de070428a",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

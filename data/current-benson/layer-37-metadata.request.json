@@ -1,0 +1,11 @@
+{
+  "name": "layer-37-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Taxcodes8/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:26.171461+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12446,
+  "sha256": "58a6bbff28af99f9710c50866d17fbcb8f74d77c63139bd3dfbeedcde2ced1e5",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "layer-55-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Dev_Incorp/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:58:37.859100+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12868,
+  "sha256": "0088a9628cc348fa51c76581e135ce2de36fc05a113ed3d818013433244dd9dc",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

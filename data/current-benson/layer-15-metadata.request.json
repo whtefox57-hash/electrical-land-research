@@ -1,0 +1,11 @@
+{
+  "name": "layer-15-metadata",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Trn_ROW/FeatureServer/0?f=json",
+  "retrievedAt": "2026-09-05T17:57:59.416586+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 12701,
+  "sha256": "529e0f724d4d76448583ee334a8d6b3372098304bb1b8ef7213216fb9e85d7e8",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

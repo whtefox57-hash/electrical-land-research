@@ -1,0 +1,17 @@
+{
+  "at": "2026-09-07T18:56:49.661Z",
+  "scope": "Isolated production Worker; NOT a scheduled-task delivery test",
+  "checks": [
+    "Source update adds eight exact geometries and preserves categories, reports and all records",
+    "Source update is idempotent and does not reset user data",
+    "MCP requires private identity and rejects cross-origin browser calls",
+    "MCP initialization and tool discovery work",
+    "Authenticated report delivery persists full text and readback receipt",
+    "Replay deduplicates; conflicting structured content is rejected",
+    "Machine-delivered research cannot reopen an archive or authorize capital",
+    "Concurrent automation deliveries preserve all reports",
+    "Lightweight polling sees newly committed research",
+    "GeoJSON contains ten polygons, five nodes and eleven honest unmapped records",
+    "Complete research is searchable through the authenticated connection"
+  ]
+}

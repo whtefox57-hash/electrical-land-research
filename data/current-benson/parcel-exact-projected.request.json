@@ -1,0 +1,11 @@
+{
+  "name": "parcel-exact-projected",
+  "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer/0/query?f=json&where=apn%3D%2712002003A%27&outFields=OBJECTID%2Capn%2Cparcel_size%2Cacres&outSR=26912&returnGeometry=true",
+  "retrievedAt": "2026-09-05T18:00:21.782411+00:00",
+  "method": "GET",
+  "httpStatus": 200,
+  "bytes": 1765,
+  "sha256": "528593de5c0ff63cbd1801429b17b233218d8c279eaf25f4378c527901b84a5b",
+  "contentType": "application/json; charset=utf-8",
+  "resultStatus": "SUCCESS"
+}

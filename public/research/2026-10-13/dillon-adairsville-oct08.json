@@ -1,0 +1,3976 @@
+{
+  "schema": "desktop_screen_comparison_v2",
+  "as_of": "2026-10-08",
+  "purpose": "Syncranicity powered-land / conditional-control desktop prequalification",
+  "target_card": {
+    "status": "ANALYST_HYPOTHESIS_NOT_BUYER_VALIDATED",
+    "use": "non-crypto data center / batch HPC",
+    "phase_facility_mw": 20,
+    "expansion_facility_mw": 50,
+    "buyer_acceptable_cod": null,
+    "pue_illustration": 1.2,
+    "initial_it_mw_at_illustrative_pue": 16.67,
+    "fiber_requirement": "two constructible physically diverse buyer-accepted routes; details TBD",
+    "cooling": "low-water design subject to engineer/fire/provider proof"
+  },
+  "verdict": {
+    "primary": "DIL-53: research only",
+    "backups": [
+      "DIL-48",
+      "DIL-1"
+    ],
+    "adairsville": "hold policy/flood/title; public county polygon matched; likely unincorporated jurisdiction pending written confirmation",
+    "paid_control_ready": false,
+    "next_spend_request_usd": 0
+  },
+  "parcels": [
+    {
+      "deal_id": "DIL-53",
+      "compartment": "53",
+      "apn": "080-00-00-053",
+      "acres": 60,
+      "ask": 696000,
+      "recorded_owner": "Baker Anne A",
+      "deed": "492/54",
+      "plat": "18/1",
+      "rank": 1,
+      "polygon_acres_approx": 60.05,
+      "nwi_overlap_acres_approx": 1.13,
+      "verdict": "PRIORITY_RESEARCH",
+      "ask_per_acre": 11600,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "DIL-48",
+      "compartment": "48",
+      "apn": "080-00-00-048",
+      "acres": 36.45,
+      "ask": 438000,
+      "recorded_owner": "Baker Rachel Anne",
+      "deed": "217/274",
+      "plat": null,
+      "rank": 2,
+      "polygon_acres_approx": 38.54,
+      "nwi_overlap_acres_approx": 3.53,
+      "verdict": "UNPAID_BACKUP",
+      "ask_per_acre": 12016.46,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "DIL-1",
+      "compartment": "1",
+      "apn": "092-00-00-001",
+      "acres": 51.6,
+      "ask": 608880,
+      "recorded_owner": "Baker Anne A",
+      "deed": "492/54",
+      "plat": null,
+      "rank": 3,
+      "polygon_acres_approx": 48.8,
+      "nwi_overlap_acres_approx": 2.06,
+      "verdict": "UNPAID_BACKUP",
+      "ask_per_acre": 11800,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "DIL-72",
+      "compartment": "72",
+      "apn": "092-00-00-072",
+      "acres": 57.86,
+      "ask": 671176,
+      "recorded_owner": "Baker Rachel Anne",
+      "deed": "217/274",
+      "plat": null,
+      "rank": 4,
+      "polygon_acres_approx": 57.77,
+      "nwi_overlap_acres_approx": 4.08,
+      "verdict": "RESERVE_RESEARCH",
+      "shared_parent_acres": 86.57,
+      "gis_part": 1,
+      "ask_per_acre": 11600,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "DIL-721",
+      "compartment": "721",
+      "apn": "092-00-00-072",
+      "acres": 28.71,
+      "ask": 333036,
+      "recorded_owner": "Baker Rachel Anne",
+      "deed": "217/274",
+      "plat": null,
+      "rank": 5,
+      "polygon_acres_approx": 28.66,
+      "nwi_overlap_acres_approx": 1.15,
+      "verdict": "RESERVE_RESEARCH",
+      "shared_parent_acres": 86.57,
+      "gis_part": 2,
+      "ask_per_acre": 11600,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "DIL-102",
+      "compartment": "102",
+      "apn": "092-00-00-102",
+      "acres": 7.61,
+      "ask": 152000,
+      "recorded_owner": "Baker Anne A",
+      "deed": "492/54",
+      "plat": null,
+      "rank": 6,
+      "polygon_acres_approx": 7.51,
+      "nwi_overlap_acres_approx": 0,
+      "verdict": "EXCLUDE_FROM_CURRENT_20_TO_50_MW_SCREEN",
+      "ask_per_acre": 19973.72,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "zoning_map": "RU Rural",
+      "exact_serving_utility": null,
+      "mapped_county_A_AE_overlap_detected": false,
+      "fema_nfhl_clearance": null
+    },
+    {
+      "deal_id": "ADA-048007",
+      "address": "3576 Highway 41 NW, Adairsville postal address, Gordon County, GA",
+      "apn": "048 007",
+      "acres": 150.97,
+      "ask": 3200000,
+      "recorded_owner": "CFL HOLDING USA LLC AND PROJECT OLYMPUS",
+      "deed": null,
+      "plat": "22/157 (listing claim only)",
+      "rank": null,
+      "polygon_acres_approx": 149.07,
+      "nwi_overlap_acres_approx": 10.66,
+      "verdict": "HOLD_POLICY_FLOOD_AND_TITLE",
+      "zoning_claim": "I5",
+      "city_jurisdiction_verified": false,
+      "ask_per_acre": 21196.26,
+      "available_mw": null,
+      "energization_date": null,
+      "utility_quote": null,
+      "title_authority_verified": false,
+      "control_assignable": null,
+      "buyer_engagement": "none",
+      "net_developable_acres": null,
+      "county_calc_acres": 150.96,
+      "county_flood_zone_a_acres_approx": 110.47,
+      "county_flood_percent_approx": 74.1,
+      "county_gis_objectid": 6212,
+      "municipal_jurisdiction": "likely unincorporated Gordon County; written confirmation pending",
+      "fema_nfhl_clearance": null,
+      "official_polygon_matched": true,
+      "recorded_owner_source": "2025 county real-property tax bill; not current title proof",
+      "tax_record_year": 2025,
+      "tax_bill_2025_base_usd": 20502.26,
+      "tax_bill_2025_paid_total_usd": 20681.65,
+      "tax_district": "COUNTY",
+      "tax_situs_address": "0 HIGHWAY 41",
+      "tax_account": "78304"
+    }
+  ],
+  "formal_paid_control_gates": [
+    {
+      "id": "G01",
+      "name": "Exact parcel",
+      "dillon": "PARTIAL",
+      "adairsville": "PARTIAL",
+      "finding": "Dillon acreage/shared-parent conflicts remain. GA 048007 matches county OBJECTID 6212/150.96 acres; official polygon and 2025 tax-owner lead recovered; current title/signers/sale boundary remain open."
+    },
+    {
+      "id": "G02",
+      "name": "Seller authority",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Tax names are outreach leads. Current title, authorized signers, estates/trusts, consents and encumbrances not reviewed."
+    },
+    {
+      "id": "G03",
+      "name": "Access/layout",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Road frontage is not recorded access. Civil layout, curb-cut rights, utility corridors and usable contiguous acreage not established."
+    },
+    {
+      "id": "G04",
+      "name": "Serving utility",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Dillon territory maps overlap; Adairsville provider not verified. Need exact-parcel/load/delivery-point letter."
+    },
+    {
+      "id": "G05",
+      "name": "Power path",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "No written preliminary delivery/supply/study stages, costs or dates for either site. Available MW remains unknown."
+    },
+    {
+      "id": "G06",
+      "name": "Use/approvals",
+      "dillon": "UNKNOWN",
+      "adairsville": "HOLD / BLOCKER",
+      "finding": "Dillon RU needs exact-use path. Gordon moratorium is a current policy blocker if county jurisdiction; city 450-acre standard is an alternative-path hurdle."
+    },
+    {
+      "id": "G07",
+      "name": "Cooling/water",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "No legal source, fire flow, drought, heat-rejection or wastewater approval. Dry cooling does not eliminate water/fire requirements."
+    },
+    {
+      "id": "G08",
+      "name": "Fiber",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "No carrier/engineer confirmation of routes, build costs, dates, capacity, diverse entries or end-to-end performance."
+    },
+    {
+      "id": "G09",
+      "name": "Environmental",
+      "dillon": "PARTIAL / NOT CLEARED",
+      "adairsville": "ADVERSE MAP / NOT CLEARED",
+      "finding": "Dillon NWI, county flood proxy and SSURGO screened. GA county ZoneA proxy flags 110.5 acres/74.1%; current NWI 10.66 acres. Current FEMA, regulatory wetlands, geotech/history/species/cultural and civil proof remain open."
+    },
+    {
+      "id": "G10",
+      "name": "Buyer fit",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Common 20 MW facility/50 MW expansion card is an analyst hypothesis. No current buyer acceptance of location, load or timing."
+    },
+    {
+      "id": "G11",
+      "name": "Funded takeout",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Named prospects only; no written funded engagement. Proposed Sept 23 control-first amendment is not treated as an adopted waiver."
+    },
+    {
+      "id": "G12",
+      "name": "Assignable control",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "No contract or option terms; seller phrase all options available does not establish assignment, extensions or study access."
+    },
+    {
+      "id": "G13",
+      "name": "Lawful transaction",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "SC/GA counsel must resolve principal-interest marketing, disclosures, compensation and triggered party/use restrictions."
+    },
+    {
+      "id": "G14",
+      "name": "Evidence rights",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Public data can index research; broker material/report sharing, buyer reliance and utility-study transfer terms not agreed."
+    },
+    {
+      "id": "G15",
+      "name": "Capital/runway",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "This screening incurred/committed no parcel payments. Existing company ledger, quoted diligence, extensions and funded milestone unavailable."
+    },
+    {
+      "id": "G16",
+      "name": "Independent review",
+      "dillon": "UNKNOWN",
+      "adairsville": "UNKNOWN",
+      "finding": "Objection review included here, but same-author review does not satisfy the required independent cross-functional challenge."
+    }
+  ],
+  "scores": {
+    "model": "Project52-factor pilot profile",
+    "conservative": null,
+    "base": null,
+    "upside": null,
+    "evidence_confidence": null,
+    "minimum_conservative_policy": 70,
+    "minimum_confidence_policy": 85,
+    "reason_withheld": "Critical issuer evidence, buyer card and approvals unresolved; do not assign unsupported model scores or probabilities."
+  },
+  "factor_register": [
+    {
+      "id": "P01",
+      "label": "Serving utility/load process",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon overlapping regional territory map; no exact utility letter. GA choice/provider open."
+    },
+    {
+      "id": "P02",
+      "label": "Studyable path/headroom",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P03",
+      "label": "Phased energization/ramp",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P04",
+      "label": "Supply/firming",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P05",
+      "label": "Resilience/power quality",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P06",
+      "label": "Grid competition/congestion",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P07",
+      "label": "Tariff/credit",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P08",
+      "label": "Bridge power",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P09",
+      "label": "Flexibility/curtailment",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "P10",
+      "label": "Offsite works/equipment",
+      "group": "P",
+      "group_pilot_weight": 25,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "B01",
+      "label": "Workload/geography/network",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "B02",
+      "label": "Revealed demand/timing",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "B03",
+      "label": "Substitutes/pipeline",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Prepared Dillon and Atlanta campuses identified; requirement-normalized cost comparison needed."
+    },
+    {
+      "id": "B04",
+      "label": "Buyer/sponsor funding",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "B05",
+      "label": "Acquisition decision function",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Verified corporate/public routes only; actual acquisition decision maker not engaged."
+    },
+    {
+      "id": "B06",
+      "label": "Reason to pay",
+      "group": "B",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "F01",
+      "label": "Physical routes/entries",
+      "group": "F",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "F02",
+      "label": "End-to-end performance",
+      "group": "F",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "F03",
+      "label": "Carrier capacity/serviceability",
+      "group": "F",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "F04",
+      "label": "Fiber construction/rights",
+      "group": "F",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "F05",
+      "label": "Network ecosystem/expansion",
+      "group": "F",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "L01",
+      "label": "Identity/seller/title",
+      "group": "L",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon official parcels/owner tracks and GA county polygon/2025 tax-name lead obtained; current title/signers and sale boundary remain open."
+    },
+    {
+      "id": "L02",
+      "label": "Net contiguous layout",
+      "group": "L",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon shapes mapped;53 long/narrow, usable acreage and civil plan open. GA polygon absent."
+    },
+    {
+      "id": "L03",
+      "label": "Access/easements/crossings",
+      "group": "L",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "L04",
+      "label": "Conditional assignable control",
+      "group": "L",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "L05",
+      "label": "Expansion/assembly",
+      "group": "L",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon multi-owner/road-separated offerings; GA assemblage unverified."
+    },
+    {
+      "id": "J01",
+      "label": "Exact use/overlays",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "BLOCKER",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon RU map; GA moratorium if county and 450-acre city route constraint."
+    },
+    {
+      "id": "J02",
+      "label": "Approval/appeal critical path",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "J03",
+      "label": "Government/community evidence",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "BLOCKER",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "SC proposed bill and GA current moratorium verified; neither government supports this exact project."
+    },
+    {
+      "id": "J04",
+      "label": "Operating/environmental permits",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "J05",
+      "label": "Ratepayer/water/local burden",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "J06",
+      "label": "Transaction regulation",
+      "group": "J",
+      "group_pilot_weight": 12,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "E01",
+      "label": "Flood/drainage",
+      "group": "E",
+      "group_pilot_weight": 8,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "ADVERSE MAP / PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon county flood proxy negative; GA county ZoneA flags 110.5 ac/74.1%. Current FEMA dates/floodway/elevations unresolved."
+    },
+    {
+      "id": "E02",
+      "label": "Wetlands/habitat/cultural",
+      "group": "E",
+      "group_pilot_weight": 8,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "NWI quantified for both actual county geometries. Mapped soil hydric units add Dillon warning. No regulatory/field/cultural/species clearance."
+    },
+    {
+      "id": "E03",
+      "label": "Soils/slope/stability",
+      "group": "E",
+      "group_pilot_weight": 8,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Dillon SSURGO drainage/hydric/slope data screened; no boreholes, survey, grading or geotechnical proof. GA soils remain unassessed."
+    },
+    {
+      "id": "E04",
+      "label": "Contamination/history",
+      "group": "E",
+      "group_pilot_weight": 8,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "E05",
+      "label": "Adjacent hazards/security",
+      "group": "E",
+      "group_pilot_weight": 8,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "W01",
+      "label": "Lawful water rights",
+      "group": "W",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "W02",
+      "label": "Supply/drought",
+      "group": "W",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "W03",
+      "label": "Cooling/heat rejection",
+      "group": "W",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "W04",
+      "label": "Wastewater/fire/works",
+      "group": "W",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "W05",
+      "label": "Climate/PUE/WUE",
+      "group": "W",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "C01",
+      "label": "Buyer TCO/residual value",
+      "group": "C",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "C02",
+      "label": "Control runway/cash",
+      "group": "C",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No seller terms or complete company ledger; all-in $10 k cap binds."
+    },
+    {
+      "id": "C03",
+      "label": "Transferable evidence",
+      "group": "C",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "C04",
+      "label": "Alternate-use downside",
+      "group": "C",
+      "group_pilot_weight": 7,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "C05",
+      "label": "Incentive durability",
+      "group": "C",
+      "group_pilot_weight": 7,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "SC incentive statute reviewed; no benefits credited; GA eligibility not established."
+    },
+    {
+      "id": "S01",
+      "label": "Renewable compatibility",
+      "group": "S",
+      "group_pilot_weight": 3,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "S02",
+      "label": "Sustainability/reporting",
+      "group": "S",
+      "group_pilot_weight": 3,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "S03",
+      "label": "Technology/exit adaptability",
+      "group": "S",
+      "group_pilot_weight": 3,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    },
+    {
+      "id": "X01",
+      "label": "Workforce/logistics/supply chain",
+      "group": "X",
+      "group_pilot_weight": 2,
+      "dillon_status": "PARTIAL",
+      "adairsville_status": "PARTIAL",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "Industrial transport context documented; specialized construction labor and lead times unverified."
+    },
+    {
+      "id": "X02",
+      "label": "Execution ownership/QA",
+      "group": "X",
+      "group_pilot_weight": 2,
+      "dillon_status": "UNKNOWN",
+      "adairsville_status": "UNKNOWN",
+      "conservative_rating": null,
+      "base_rating": null,
+      "upside_rating": null,
+      "note": "No current parcel/buyer-specific issuer evidence sufficient to pass."
+    }
+  ],
+  "topic_register": [
+    {
+      "id": "Q01",
+      "topic": "Exact parcel",
+      "dillon": "53 strongest identity;48/1 area mismatch;72/721 parent split.",
+      "adairsville": "Official 048007 polygon matched; current title/sale boundary and jurisdiction open."
+    },
+    {
+      "id": "Q02",
+      "topic": "Seller authority",
+      "dillon": "Two tax owners; deed references located, title unreviewed.",
+      "adairsville": "Tax name obtained; current title/signers and PILOT applicability open."
+    },
+    {
+      "id": "Q03",
+      "topic": "Access/layout",
+      "dillon": "Frontage shown; narrow 53 needs civil fit/crossing test.",
+      "adairsville": "Rail/highway claims; no legal access or civil plan."
+    },
+    {
+      "id": "Q04",
+      "topic": "Serving utility",
+      "dillon": "Duke Progress/Pee Dee overlapping map proxy.",
+      "adairsville": "Georgia Power/EMC investigation; no selection verified."
+    },
+    {
+      "id": "Q05",
+      "topic": "Power path",
+      "dillon": "No utility path, headroom, upgrade scope or date.",
+      "adairsville": "No utility path; permission issue comes first."
+    },
+    {
+      "id": "Q06",
+      "topic": "Power economics",
+      "dillon": "Tariff/security/curtailment/exit charges unknown.",
+      "adairsville": "Same;100 MW+ policy not a 20 MW tariff quote."
+    },
+    {
+      "id": "Q07",
+      "topic": "Zoning/use",
+      "dillon": "County GIS RU; exact data-center allowance unknown.",
+      "adairsville": "I5 claim unverified; likely county; written jurisdiction open."
+    },
+    {
+      "id": "Q08",
+      "topic": "Political durability",
+      "dillon": "No county ban located; SC proposed bill is watch risk.",
+      "adairsville": "Gordon extension to Jan 29, 2027; city 450-acre hurdle."
+    },
+    {
+      "id": "Q09",
+      "topic": "Water rights/source",
+      "dillon": "Trico candidate provider only; no lawful supply letter.",
+      "adairsville": "Water availability listing only; provider unknown."
+    },
+    {
+      "id": "Q10",
+      "topic": "Cooling/fire/waste",
+      "dillon": "Need low-water design, fire flow and discharge strategy.",
+      "adairsville": "Same; city>50,000 gpd rule conditional on applicability."
+    },
+    {
+      "id": "Q11",
+      "topic": "Fiber/network",
+      "dillon": "No two constructible routes or carrier quote.",
+      "adairsville": "Cable/phone listing does not establish diverse fiber."
+    },
+    {
+      "id": "Q12",
+      "topic": "Flood/drainage",
+      "dillon": "County tile proxy shows no colored overlap; NFHL open.",
+      "adairsville": "County ZoneA proxy about 74%; current FEMA/floodway/elevations open."
+    },
+    {
+      "id": "Q13",
+      "topic": "Wetlands/species/cultural",
+      "dillon": "NWI overlaps mapped; delineation/IPaC/cultural open.",
+      "adairsville": "NWI about 10.66 ac; field/species/cultural and jurisdiction open."
+    },
+    {
+      "id": "Q14",
+      "topic": "Soils/slope/stability",
+      "dillon": "SSURGO drainage/hydric units screened on all offerings; topo/geotech and civil proof open.",
+      "adairsville": "Level claim; fill origin/compaction/geotech unknown."
+    },
+    {
+      "id": "Q15",
+      "topic": "Contamination/prior use",
+      "dillon": "Agricultural chemicals, tanks, dumping/history to test.",
+      "adairsville": "Nearby industry/rail and fill justify historical review."
+    },
+    {
+      "id": "Q16",
+      "topic": "Adjacent hazards/security",
+      "dillon": "Rail/truck corridors, noise, crossings and buffers to map.",
+      "adairsville": "Rail/industrial adjacency may constrain secure layout."
+    },
+    {
+      "id": "Q17",
+      "topic": "Expansion/assemblage",
+      "dillon": "Different owners; Dothan Road can split campus corridors.",
+      "adairsville": "150.97 gross acres;450-acre city route needs more land."
+    },
+    {
+      "id": "Q18",
+      "topic": "Buyer requirements",
+      "dillon": "Rural batch HPC hypothesis; no accepted buyer card.",
+      "adairsville": "Larger campus hypothesis; no accepted buyer card."
+    },
+    {
+      "id": "Q19",
+      "topic": "Competing alternatives",
+      "dillon": "Prepared NESA sites can beat cheaper raw land.",
+      "adairsville": "Metro Atlanta entitled/powered campuses compete."
+    },
+    {
+      "id": "Q20",
+      "topic": "Named funded takeout",
+      "dillon": "DC BLOX/Oppidan/Dart Points are interview targets.",
+      "adairsville": "DC BLOX/T 5/Edged are interview targets."
+    },
+    {
+      "id": "Q21",
+      "topic": "Seller terms",
+      "dillon": "Survey at purchaser cost; price adjusts to surveyed acres.",
+      "adairsville": "No option/carveout/access/extension terms known."
+    },
+    {
+      "id": "Q22",
+      "topic": "Conditional control",
+      "dillon": "Need counsel-drafted access/assignment/extensions.",
+      "adairsville": "No premium while policy/flood/title remain unresolved."
+    },
+    {
+      "id": "Q23",
+      "topic": "Lawful transaction",
+      "dillon": "SC counsel before interest marketing or compensation.",
+      "adairsville": "GA counsel before interest marketing or compensation."
+    },
+    {
+      "id": "Q24",
+      "topic": "Evidence reliance",
+      "dillon": "Study ownership/transfer and report reliance unresolved.",
+      "adairsville": "Same; no paid studies commissioned."
+    },
+    {
+      "id": "Q25",
+      "topic": "Cash/runway",
+      "dillon": "Zero new payment request; preserve current caps.",
+      "adairsville": "Zero new payment request; defer cash-intensive work."
+    },
+    {
+      "id": "Q26",
+      "topic": "Buyer economics",
+      "dillon": "Land price small beside energy/upgrades; no proven margin.",
+      "adairsville": "Higher ask; utility and schedule can dominate."
+    },
+    {
+      "id": "Q27",
+      "topic": "Alternate use",
+      "dillon": "Farm/logistics thesis plausible, sale recovery unproven.",
+      "adairsville": "Ordinary industrial thesis plausible, recovery unproven."
+    },
+    {
+      "id": "Q28",
+      "topic": "Incentives/taxes",
+      "dillon": "No benefit credited; SC qualification conditions matter.",
+      "adairsville": "2025 tax $20,502;2026 and PILOT applicability open."
+    },
+    {
+      "id": "Q29",
+      "topic": "Energy/sustainability",
+      "dillon": "Utility supply, REC/additionality and emissions open.",
+      "adairsville": "Same; regional clean capacity is not parcel contract."
+    },
+    {
+      "id": "Q30",
+      "topic": "Bridge generation",
+      "dillon": "No gas deliverability, air/noise permit or economics.",
+      "adairsville": "Same; cannot cure a data-center land-use prohibition."
+    },
+    {
+      "id": "Q31",
+      "topic": "Construction/workforce",
+      "dillon": "I-95 logistics signal; technical labor/vendor capacity open.",
+      "adairsville": "Industrial corridor signal; technical labor capacity open."
+    },
+    {
+      "id": "Q32",
+      "topic": "Reason buyer pays",
+      "dillon": "Transferable power/permission/control proof must create value.",
+      "adairsville": "Same; brochure frontage alone does not earn a fee."
+    },
+    {
+      "id": "Q33",
+      "topic": "Red team",
+      "dillon": "Skeptical challenges here; independent reviewer still needed.",
+      "adairsville": "Policy, pin and buyer-substitute challenges unresolved."
+    },
+    {
+      "id": "Q34",
+      "topic": "Founder authorization",
+      "dillon": "No paid gate met; no expenditure authorized by this report.",
+      "adairsville": "No paid gate met; no expenditure authorized by this report."
+    }
+  ],
+  "forecast": {
+    "acceptable_control": null,
+    "credible_utility_path": null,
+    "entitlement": null,
+    "funded_engagement": null,
+    "first_monetization": null,
+    "net_100k": null,
+    "net_1m": null,
+    "facility_built": null,
+    "status": "NOT_ESTIMABLE"
+  },
+  "capital": {
+    "this_run_paid_usd": 0,
+    "this_run_committed_usd": 0,
+    "next_request_usd": 0,
+    "project_learning_cap_usd": 5000,
+    "live_paid_parcel_all_in_cap_usd": 10000,
+    "company_prior_spend_usd": null,
+    "remaining_budget_usd": null,
+    "policy": "one paid live parcel and two unpaid backups; no automatic authorization"
+  },
+  "legal": {
+    "sc_local_counsel": "unresolved",
+    "ga_local_counsel": "unresolved",
+    "title": "unresolved",
+    "principal_interest_marketing": "unresolved",
+    "evidence_assignment_reliance": "unresolved",
+    "specific_foreign_party": "none_identified_not_a_clearance"
+  },
+  "data_quality": {
+    "adairsville_listing_pins_disagree": true,
+    "dillon_parent72_multi_polygon": true,
+    "gis_is_not_survey": true,
+    "nwi_is_not_regulatory_delineation": true,
+    "county_flood_is_not_current_fema_clearance": true,
+    "fema_fetch": "502",
+    "gordon_qpublic_fetch": "402",
+    "gordon_assessors_fetch": "403",
+    "adairsville_tax_name_obtained": true,
+    "adairsville_tax_vintage": 2025
+  },
+  "continuation": {
+    "revision": "Oct8 continuation",
+    "new_findings": [
+      "GA official county polygon matched; both listing pins incorrect for it",
+      "GA county ZoneA proxy overlaps110.47ac/74.1%; current NWI10.66ac",
+      "Census BAS2026 no municipal intersection; county jurisdiction likely, not certified",
+      "GA2025 tax name, situs, COUNTY tax district and$20,502.26 base bill recovered; current title/2026 taxes unverified",
+      "Dillon SSURGO adds drainage/hydric risk and strengthens48 as a physical-layout challenger",
+      "Dillon current zoning use table is a separate-volume document still required"
+    ],
+    "paid_control_gates_passed": false
+  },
+  "adairsville_tax_record_2025": {
+    "selected_tax_year": 2025,
+    "query": "048007",
+    "records": [
+      {
+        "Selected": false,
+        "ParcelInfoID": 1109171,
+        "Description": "<span class='pt-sr-name'>CFL HOLDING USA LLC AND PROJECT OLYMPUS</span><br/><span class='pt-sr-address'>0 HIGHWAY 41</span>",
+        "DescriptionEscaped": "<span class=&#39;pt-sr-name&#39;>CFL HOLDING USA LLC AND PROJECT OLYMPUS</span><br/><span class=&#39;pt-sr-address&#39;>0 HIGHWAY 41</span>",
+        "FullName": "CFL HOLDING USA LLC AND PROJECT OLYMPUS",
+        "Account": "78304",
+        "PIN": "",
+        "BillNum": "4718",
+        "tyYEAR": 2025,
+        "tyYEAR_BILLING": 2025,
+        "ParcelNumber": "048007",
+        "ParcelNumberFormatted": "048007",
+        "TotalTax": 20502.26,
+        "TotalTaxDisplay": "$20,502.26",
+        "BalanceDue": 0,
+        "PayAmount": 0,
+        "BalanceDueDisplay": "<span class='pt-sr-balance-paid'>PAID</span>",
+        "OwnerID": 0,
+        "CustomerID": 0,
+        "IsPersonalTax": false,
+        "HasLinkedPersonal": true,
+        "TaxType": "REAL",
+        "ParcelID": 18996,
+        "AmountPaid": 20681.65,
+        "PhysAddress": "0 HIGHWAY 41",
+        "DueDate": "2025-12-20T23:59:59",
+        "PropertyType": "Real"
+      }
+    ],
+    "source": "https://gordonproperty.assurancegov.com/Property/Search"
+  },
+  "adairsville_entity_and_pilot_context": {
+    "retrieved": "2026-10-08",
+    "subject_apn": "048007",
+    "findings": [
+      {
+        "source": "Gordon County Board of Commissioners December 17, 2024 agenda",
+        "url": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_12172024-973",
+        "location": "Item XI.15, PDF page 5",
+        "claim": "The agenda proposed consideration of a PILOT-program memorandum involving the county, Development Authority of Gordon County, Board of Assessors, Tax Commissioner and CFL Holding USA LLC.",
+        "limits": "Agenda alone does not prove adoption. Executed agreement, property schedules and applicability to 048007 were not obtained. No incentive value or sale restriction is assumed."
+      },
+      {
+        "source": "Georgia Secretary of State amended annual registration",
+        "url": "https://ecorp.sos.ga.gov/BusinessSearch/DownloadFile?filingNo=21804575",
+        "filing_date": "2021-08-26",
+        "business_name": "CFL Holding USA, LLC",
+        "control_number": "11033710",
+        "historical_business_type": "Domestic Limited Liability Company",
+        "historical_principal_office": "3576 Highway 41, Adairsville, GA 30103",
+        "limits": "Historical filing corroborates name/address, not current entity status, property ownership or signing authority."
+      },
+      {
+        "source": "CFL Flooring current company contact page",
+        "url": "https://www.cflflooring.com/contact/",
+        "claim": "The company lists US Operations at 3576 US-41, Adairsville, GA 30103.",
+        "limits": "This is also the subject tax record's mailing address. Subject tax situs is 0 Highway 41. An operating-address match does not locate buildings on 048007 or prove shared access, utility rights or available capacity."
+      }
+    ],
+    "follow_up": [
+      "Obtain current entity registration, exact seller legal name, deed and signatory authority.",
+      "Explain Project Olympus in the tax record and provide any operative agreement and property schedule.",
+      "Obtain the executed PILOT MOU or written confirmation that 048007 is outside its property schedule; investigate actual transfer, termination, consent and tax consequences only if applicable.",
+      "Confirm the sale boundary, exclusions and any shared access/drainage/utility arrangements with neighboring operations."
+    ]
+  },
+  "derived_adairsville_polygon": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 6212,
+          "PIN": "048       007",
+          "Calc_Acres": 150.96,
+          "DIGCLASS": "R",
+          "Creator_Field": null,
+          "Create_Date": null,
+          "Editor_Field": "AJONES",
+          "Edit_Date": 1686820006000,
+          "City": null,
+          "Shape__Area": 6488047.521728516,
+          "Shape__Length": 12549.503981729873
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -84.9392732293612,
+                34.4098558563569
+              ],
+              [
+                -84.939088196815,
+                34.4095852203704
+              ],
+              [
+                -84.9388863628747,
+                34.4093408417754
+              ],
+              [
+                -84.9384875971121,
+                34.4090644687743
+              ],
+              [
+                -84.9377875237144,
+                34.4088724059118
+              ],
+              [
+                -84.9374376452693,
+                34.4087789710858
+              ],
+              [
+                -84.9370675156539,
+                34.4086850163952
+              ],
+              [
+                -84.9367033894356,
+                34.4086033359077
+              ],
+              [
+                -84.9362947791335,
+                34.4084845260507
+              ],
+              [
+                -84.9362977605984,
+                34.4085118390334
+              ],
+              [
+                -84.9362578403957,
+                34.4082588336616
+              ],
+              [
+                -84.9361673505328,
+                34.4076853218159
+              ],
+              [
+                -84.936132806474,
+                34.4074663856983
+              ],
+              [
+                -84.9359667631543,
+                34.4065780857569
+              ],
+              [
+                -84.9359050109536,
+                34.4062332945436
+              ],
+              [
+                -84.9358511857917,
+                34.4059327565316
+              ],
+              [
+                -84.9369134287993,
+                34.4059875239593
+              ],
+              [
+                -84.9390550411797,
+                34.405986506942
+              ],
+              [
+                -84.945613723499,
+                34.4059831612311
+              ],
+              [
+                -84.9456362342644,
+                34.404474031609
+              ],
+              [
+                -84.9458947125015,
+                34.4050303172367
+              ],
+              [
+                -84.9460636238218,
+                34.4054205780136
+              ],
+              [
+                -84.9462418801241,
+                34.4058587990423
+              ],
+              [
+                -84.9463766733118,
+                34.4062081317402
+              ],
+              [
+                -84.9464316868988,
+                34.4063597765673
+              ],
+              [
+                -84.9465207155069,
+                34.4066051846568
+              ],
+              [
+                -84.9466563763477,
+                34.4070042597539
+              ],
+              [
+                -84.9475401817309,
+                34.4096286901046
+              ],
+              [
+                -84.9461621160351,
+                34.409566866967
+              ],
+              [
+                -84.9454890592059,
+                34.4096904653732
+              ],
+              [
+                -84.9453667413663,
+                34.4133277241414
+              ],
+              [
+                -84.9394334479725,
+                34.4132802732283
+              ],
+              [
+                -84.9397035144986,
+                34.4128451990327
+              ],
+              [
+                -84.9398332237014,
+                34.4122340409483
+              ],
+              [
+                -84.9398025484922,
+                34.4119540299716
+              ],
+              [
+                -84.9397702231308,
+                34.4118697653269
+              ],
+              [
+                -84.939766181234,
+                34.4117420024463
+              ],
+              [
+                -84.9396819704083,
+                34.4117010434827
+              ],
+              [
+                -84.9397008641348,
+                34.4115546876195
+              ],
+              [
+                -84.9396779365416,
+                34.4114646532536
+              ],
+              [
+                -84.9397221459083,
+                34.411333187559
+              ],
+              [
+                -84.9396256208605,
+                34.4112300349106
+              ],
+              [
+                -84.9395897152434,
+                34.4111104374794
+              ],
+              [
+                -84.9396592857841,
+                34.4110368963024
+              ],
+              [
+                -84.9396170935075,
+                34.4108478359531
+              ],
+              [
+                -84.9395808346634,
+                34.4107439778724
+              ],
+              [
+                -84.9394912615182,
+                34.4104195760465
+              ],
+              [
+                -84.9393836419261,
+                34.4101278000588
+              ],
+              [
+                -84.9392732293612,
+                34.4098558563569
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "source": "Gordon County GIS OpenGov GC Parcels layer3; retrieved 2026-10-08"
+  },
+  "derived_adairsville_constraints": {
+    "apn": "048 007",
+    "official_pin": "048       007",
+    "objectid": 6212,
+    "county_calc_acres": 150.96,
+    "county_shape_acres": 148.94507625639383,
+    "geometry_acres_approx": 149.07,
+    "centroid_lon_lat_approx": [
+      -84.94207462591713,
+      34.40906453136048
+    ],
+    "nwi_acres_approx": 10.66,
+    "nwi_pct_of_gis_approx": 7.1,
+    "nwi_by_code_acres_approx": {
+      "PFO1A": 2.68,
+      "PFO1C": 3.26,
+      "R2UBH": 3.52,
+      "R4SBC": 1.19
+    },
+    "county_nwi_acres_approx": 5.75,
+    "county_flood_zone_a_acres_approx": 110.47,
+    "county_flood_pct_of_gis_approx": 74.1,
+    "nwi_flood_union_acres_approx": 110.85,
+    "nwi_flood_overlap_acres_approx": 10.28,
+    "county_flood_source": "FEMA-13129C0175D-1; effective date/current NFHL not verified",
+    "tiger_bas_2026_incorporated_place_intersections": 0,
+    "municipal_jurisdiction": "likely unincorporated Gordon County; written parcel jurisdiction confirmation pending",
+    "city_field_in_county_record": null,
+    "listing_pin_to_centroid_km": {
+      "LandSearch": 4.62,
+      "Compass": 13.95
+    },
+    "method": "2m midpoint raster; local equirectangular metre scaling; county tax polygon; approximate mapped overlaps, not regulatory or developable acreage"
+  },
+  "derived_dillon_soils": {
+    "as_of": "2026-10-08",
+    "method": "SSURGO SDA polygon query; local 2m raster intersections; dominant component properties are map-unit interpretations, not measured parcel conditions or a wetland delineation",
+    "parcels": [
+      {
+        "apn": "080-00-00-053",
+        "gis_part": null,
+        "geometry_acres_approx": 60.05,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 3.85,
+        "dominant_drainage_acres_approx": {
+          "Somewhat poorly drained": 25.13,
+          "Well drained": 21.97,
+          "Moderately well drained": 9.1,
+          "Poorly drained": 3.85
+        },
+        "mapunits": [
+          {
+            "mukey": "129776",
+            "musym": "SuB",
+            "mapunit": "Summerton loamy fine sand, 2 to 6 percent slopes",
+            "acres_approx": 14.5,
+            "percent_approx": 24.1,
+            "dominant_component": "Summerton",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129745",
+            "musym": "Dn",
+            "mapunit": "Dunbar fine sandy loam",
+            "acres_approx": 14.27,
+            "percent_approx": 23.8,
+            "dominant_component": "Dunbar",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129774",
+            "musym": "Sm",
+            "mapunit": "Smithboro loam",
+            "acres_approx": 10.86,
+            "percent_approx": 18.1,
+            "dominant_component": "Smithboro",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129768",
+            "musym": "PeA",
+            "mapunit": "Persanti fine sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 9.1,
+            "percent_approx": 15.1,
+            "dominant_component": "Persanti",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "D"
+          },
+          {
+            "mukey": "129742",
+            "musym": "Cx",
+            "mapunit": "Coxville fine sandy loam",
+            "acres_approx": 3.85,
+            "percent_approx": 6.4,
+            "dominant_component": "Coxville",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129763",
+            "musym": "OrB",
+            "mapunit": "Orangeburg loamy sand, 2 to 6 percent slopes",
+            "acres_approx": 3.69,
+            "percent_approx": 6.1,
+            "dominant_component": "Orangeburg",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "B"
+          },
+          {
+            "mukey": "129780",
+            "musym": "VaA",
+            "mapunit": "Varina sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 3.23,
+            "percent_approx": 5.4,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129743",
+            "musym": "DaA",
+            "mapunit": "Dothan loamy fine sand, 0 to 2 percent slopes",
+            "acres_approx": 0.56,
+            "percent_approx": 0.9,
+            "dominant_component": "Dothan",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          }
+        ]
+      },
+      {
+        "apn": "080-00-00-048",
+        "gis_part": null,
+        "geometry_acres_approx": 38.54,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 3.27,
+        "dominant_drainage_acres_approx": {
+          "Poorly drained": 3.27,
+          "Well drained": 32.04,
+          "Somewhat poorly drained": 2.44,
+          "Moderately well drained": 0.78
+        },
+        "mapunits": [
+          {
+            "mukey": "129743",
+            "musym": "DaA",
+            "mapunit": "Dothan loamy fine sand, 0 to 2 percent slopes",
+            "acres_approx": 15.67,
+            "percent_approx": 40.7,
+            "dominant_component": "Dothan",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129776",
+            "musym": "SuB",
+            "mapunit": "Summerton loamy fine sand, 2 to 6 percent slopes",
+            "acres_approx": 12.67,
+            "percent_approx": 32.9,
+            "dominant_component": "Summerton",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129758",
+            "musym": "Lm",
+            "mapunit": "Lumbee sandy loam",
+            "acres_approx": 3.22,
+            "percent_approx": 8.4,
+            "dominant_component": "Lumbee",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "B/D"
+          },
+          {
+            "mukey": "129774",
+            "musym": "Sm",
+            "mapunit": "Smithboro loam",
+            "acres_approx": 2.44,
+            "percent_approx": 6.3,
+            "dominant_component": "Smithboro",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129781",
+            "musym": "VaB",
+            "mapunit": "Varina sandy loam, 2 to 6 percent slopes",
+            "acres_approx": 2.15,
+            "percent_approx": 5.6,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129775",
+            "musym": "SuA",
+            "mapunit": "Summerton loamy fine sand, 0 to 2 percent slopes",
+            "acres_approx": 1.56,
+            "percent_approx": 4,
+            "dominant_component": "Summerton",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129768",
+            "musym": "PeA",
+            "mapunit": "Persanti fine sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 0.78,
+            "percent_approx": 2,
+            "dominant_component": "Persanti",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "D"
+          },
+          {
+            "mukey": "129739",
+            "musym": "Ch",
+            "mapunit": "Chastain loam, frequently flooded",
+            "acres_approx": 0.05,
+            "percent_approx": 0.1,
+            "dominant_component": "Chastain",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          }
+        ]
+      },
+      {
+        "apn": "092-00-00-001",
+        "gis_part": null,
+        "geometry_acres_approx": 48.8,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 0.12,
+        "dominant_drainage_acres_approx": {
+          "Well drained": 20.07,
+          "Moderately well drained": 28.62,
+          "Poorly drained": 0.12
+        },
+        "mapunits": [
+          {
+            "mukey": "129768",
+            "musym": "PeA",
+            "mapunit": "Persanti fine sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 25.56,
+            "percent_approx": 52.4,
+            "dominant_component": "Persanti",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "D"
+          },
+          {
+            "mukey": "129780",
+            "musym": "VaA",
+            "mapunit": "Varina sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 20.07,
+            "percent_approx": 41.1,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129741",
+            "musym": "Cr",
+            "mapunit": "Clarendon loamy sand",
+            "acres_approx": 3.06,
+            "percent_approx": 6.3,
+            "dominant_component": "Clarendon",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "B"
+          },
+          {
+            "mukey": "129742",
+            "musym": "Cx",
+            "mapunit": "Coxville fine sandy loam",
+            "acres_approx": 0.12,
+            "percent_approx": 0.2,
+            "dominant_component": "Coxville",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          }
+        ]
+      },
+      {
+        "apn": "092-00-00-072",
+        "gis_part": 1,
+        "geometry_acres_approx": 57.77,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 1.83,
+        "dominant_drainage_acres_approx": {
+          "Poorly drained": 1.83,
+          "Somewhat poorly drained": 5.24,
+          "Well drained": 26.01,
+          "Moderately well drained": 24.68
+        },
+        "mapunits": [
+          {
+            "mukey": "129768",
+            "musym": "PeA",
+            "mapunit": "Persanti fine sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 24.68,
+            "percent_approx": 42.7,
+            "dominant_component": "Persanti",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "D"
+          },
+          {
+            "mukey": "129743",
+            "musym": "DaA",
+            "mapunit": "Dothan loamy fine sand, 0 to 2 percent slopes",
+            "acres_approx": 17.7,
+            "percent_approx": 30.6,
+            "dominant_component": "Dothan",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129774",
+            "musym": "Sm",
+            "mapunit": "Smithboro loam",
+            "acres_approx": 5.24,
+            "percent_approx": 9.1,
+            "dominant_component": "Smithboro",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129776",
+            "musym": "SuB",
+            "mapunit": "Summerton loamy fine sand, 2 to 6 percent slopes",
+            "acres_approx": 4.58,
+            "percent_approx": 7.9,
+            "dominant_component": "Summerton",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129781",
+            "musym": "VaB",
+            "mapunit": "Varina sandy loam, 2 to 6 percent slopes",
+            "acres_approx": 3.73,
+            "percent_approx": 6.5,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129739",
+            "musym": "Ch",
+            "mapunit": "Chastain loam, frequently flooded",
+            "acres_approx": 1.83,
+            "percent_approx": 3.2,
+            "dominant_component": "Chastain",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          }
+        ]
+      },
+      {
+        "apn": "092-00-00-072",
+        "gis_part": 2,
+        "geometry_acres_approx": 28.66,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 0,
+        "dominant_drainage_acres_approx": {
+          "Well drained": 16.46,
+          "Somewhat poorly drained": 0.6,
+          "Moderately well drained": 11.6
+        },
+        "mapunits": [
+          {
+            "mukey": "129768",
+            "musym": "PeA",
+            "mapunit": "Persanti fine sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 11.6,
+            "percent_approx": 40.5,
+            "dominant_component": "Persanti",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Moderately well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "D"
+          },
+          {
+            "mukey": "129776",
+            "musym": "SuB",
+            "mapunit": "Summerton loamy fine sand, 2 to 6 percent slopes",
+            "acres_approx": 10.23,
+            "percent_approx": 35.7,
+            "dominant_component": "Summerton",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129780",
+            "musym": "VaA",
+            "mapunit": "Varina sandy loam, 0 to 2 percent slopes",
+            "acres_approx": 5.33,
+            "percent_approx": 18.6,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129781",
+            "musym": "VaB",
+            "mapunit": "Varina sandy loam, 2 to 6 percent slopes",
+            "acres_approx": 0.9,
+            "percent_approx": 3.1,
+            "dominant_component": "Varina",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 4,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129745",
+            "musym": "Dn",
+            "mapunit": "Dunbar fine sandy loam",
+            "acres_approx": 0.6,
+            "percent_approx": 2.1,
+            "dominant_component": "Dunbar",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          }
+        ]
+      },
+      {
+        "apn": "092-00-00-102",
+        "gis_part": null,
+        "geometry_acres_approx": 7.51,
+        "soil_coverage_pct_approx": 100,
+        "mapped_units_with_dominant_hydric_component_acres_approx": 0.13,
+        "dominant_drainage_acres_approx": {
+          "Somewhat poorly drained": 3.49,
+          "Well drained": 3.89,
+          "Poorly drained": 0.13
+        },
+        "mapunits": [
+          {
+            "mukey": "129743",
+            "musym": "DaA",
+            "mapunit": "Dothan loamy fine sand, 0 to 2 percent slopes",
+            "acres_approx": 3.89,
+            "percent_approx": 51.8,
+            "dominant_component": "Dothan",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Well drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C"
+          },
+          {
+            "mukey": "129774",
+            "musym": "Sm",
+            "mapunit": "Smithboro loam",
+            "acres_approx": 3.49,
+            "percent_approx": 46.4,
+            "dominant_component": "Smithboro",
+            "dominant_component_pct": 96,
+            "dominant_drainage": "Somewhat poorly drained",
+            "dominant_hydric": "No",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          },
+          {
+            "mukey": "129742",
+            "musym": "Cx",
+            "mapunit": "Coxville fine sandy loam",
+            "acres_approx": 0.13,
+            "percent_approx": 1.7,
+            "dominant_component": "Coxville",
+            "dominant_component_pct": 100,
+            "dominant_drainage": "Poorly drained",
+            "dominant_hydric": "Yes",
+            "dominant_slope_pct": 1,
+            "dominant_hydrologic_group": "C/D"
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "AFM Real Estate - Dillon-Baker offerings",
+      "url": "https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2",
+      "level": "V1",
+      "notes": "Six offered acreages/prices, agricultural use, survey adjustment and Curtis Spencer contact. Seller marketing; not title, zoning permission or option willingness.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S02",
+      "title": "Dillon County - official GIS",
+      "url": "https://dilloncountysc.org/departments/gis.php",
+      "level": "V3",
+      "notes": "County links its public WTH parcel viewer. Mike Sattane/GIS routing. Tax records and map geometry support identification, not ownership authority or surveyed boundaries.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S03",
+      "title": "Dillon County WTH - parcel records",
+      "url": "https://dillonsc.wthgis.com/tgis/getftr.aspx?D=1042&F=16961&Z=0",
+      "level": "V3",
+      "notes": "53: FID 16961; 48:16674; 1:16678; 72 parent:16975; 102:16923. All five XML records archived. Recorded owners, acreages, deed references and polygons. Record vintage unspecified.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S04",
+      "title": "Dillon WTH - county zoning identification",
+      "url": "https://dillonsc.wthgis.com/tgis/idarea.aspx?Lat=34.3713&Lon=-79.4177&M=52",
+      "level": "V3",
+      "notes": "53 query identifies RU Rural and CAMA PIN 080-00-00-053. Queries on the other four parent polygons also identify RU Rural. Map is subject to ordinance changes and staff confirmation.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S05",
+      "title": "SC Energy Office - utility map and public service",
+      "url": "https://energysaver.sc.gov/contact/utility-contact-information/electric-utilities",
+      "level": "V3 proxy",
+      "notes": "Linked SCEMD web map4404dfffa8f9430fbde6c7dbe539ba1a resolves to maps.palmettoeoc.net/.../sc_utility_providers/Map Server. At the 53 listing point, layer 2 returns Pee Dee and layer 3 Duke Energy Progress. Overlapping regional mapping is not a right-to-serve letter.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S06",
+      "title": "USFWS NWI - public feature service",
+      "url": "https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer/0",
+      "level": "V3 mapped data",
+      "notes": "Public polygon-intersection queries and a 114-feature regional envelope response archived. Classes and approximate parcel overlaps calculated from county polygons. ACRES in the source is whole-feature area, not subject-parcel overlap.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S07",
+      "title": "USFWS - NWI limitations",
+      "url": "https://www.fws.gov/page/wetlands-data-limitations-exclusions-and-precautions",
+      "level": "V3 method",
+      "notes": "NWI is a biological inventory with exclusions and mapping limitations. Absence does not establish absence of regulatory wetlands; field delineation and jurisdiction review remain necessary.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S08",
+      "title": "Dillon WTH - Flood Zones layer 9544",
+      "url": "https://dillonsc.wthgis.com/tgis/tilesvc.ashx?L=9544&Z=15&A=legend&Name=Flood%20Zones",
+      "level": "V3 proxy",
+      "notes": "Nine georeferenced public tiles and legend archived. Colored A features were outside the retrieved tax polygons at screen resolution. FEMA NFHL endpoint returned 502; map panel/effective date, floodway and current certification remain unknown.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S09",
+      "title": "Dillon County - Planning and Zoning",
+      "url": "https://dilloncountysc.org/departments/building_code_enforcement_planning_zoning.php",
+      "level": "V3",
+      "notes": "Amy Hilburn/permit clerk and department 843-841-3874; dilloncode17@dilloncountysc.org. Use table, moratoria, setbacks and approval path require parcel-specific written confirmation.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S10",
+      "title": "NESA - Carolinas I-95 Super Park",
+      "url": "https://www.nesasc.org/properties/carolinas-i-95-super-park",
+      "level": "V2 adjoining-node proxy",
+      "notes": "929 acres; Duke/MPD;69/230 kV transmission; AT&T; Trico water; City of Dillon sewer; Rural zoning; completed diligence listed. These statements apply to the park, not Baker tracts. No available MW figure.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S11",
+      "title": "NESA - Dan Rogers Site",
+      "url": "https://www.nesasc.org/properties/dan-rogers-site",
+      "level": "V2 substitute",
+      "notes": "184 acres, minimum 18.5, approximate ask $33,000/acre, Light Industrial zoning, diligence and adjacent 8-inch Trico main. Asking price is not a closed sale or valuation for Baker land.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S12",
+      "title": "Adairsville listing - GAMLS 10868276",
+      "url": "https://www.landsearch.com/properties/3576-highway-41-nw-adairsville-ga-30103/5607319",
+      "level": "V1",
+      "notes": "150.97 acres/$3.2 m/APN 048007/Gordon County; Mandy Parker 706-879-1527. Advertised utility availability, rail/road frontage and fill are unverified seller claims.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S13",
+      "title": "Compass -3576 Highway 41 listing",
+      "url": "https://www.compass.com/homedetails/3576-Highway-41-Adairsville-GA-30103/2210579989955018825_lid/",
+      "level": "V1 conflict",
+      "notes": "Different pin from LandSearch, I5 zoning claim, plat 22/157 and Flood Plain lot descriptor. None constitutes assessor, zoning or flood verification. Tax 2023 is stale.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S14",
+      "title": "Gordon County - July 8 moratorium notice",
+      "url": "https://www.gordoncountyga.gov/m/newsflash/home/detail/173",
+      "level": "V3 policy",
+      "notes": "Board voted July 7, 2026 to extend data-center moratorium through January 29, 2027. No superseding official repeal located in this search. Resolution definition, exceptions and exact subject jurisdiction still required.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S15",
+      "title": "Adairsville code - Section 47-178",
+      "url": "https://library.municode.com/ga/adairsville/codes/code_of_ordinances?nodeId=PTIICOOR_CH47ZO_ARTVIIDERESPUS_S47-178DACERETEUS",
+      "level": "V3 adopted code",
+      "notes": "Ord 2025-0005, July 17, 2025: minimum 450-acre contiguous campus, buffers/noise, utility letter, development agreement and utility cost obligations. Retrieved indexed text; city applicability to subject is not established. Code updated Aug 20, 2026.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S16",
+      "title": "Gordon County - GIS and Planning",
+      "url": "https://www.gordoncountyga.gov/211/Geographic-Information-System-GIS",
+      "level": "V3 routing",
+      "notes": "GIS 706-629-6812. County-linked Beacon/qPublic returned 402 and assessor site 403; no access bypass attempted. Public county geometry later matched in continuation[S38]; Tax lead recovered[S48]; current title/signing authority and jurisdiction letter remain unresolved. Planning: gordoncountyga.gov/319/Planning-Development, Tony Ross 706-879-2175.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S17",
+      "title": "SC PSC - Duke large-load docket",
+      "url": "https://dms.psc.sc.gov/Web/Dockets/DocketCard/119719",
+      "level": "V3 current proceeding",
+      "notes": "Docket 2026-138-E addresses large-load/data-center matters. A proceeding and utility framework do not establish final parcel pricing, deposit, curtailment terms or capacity. Refresh before any commitment.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S18",
+      "title": "SC Legislature - H5286",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5286.htm",
+      "level": "V3 bill status",
+      "notes": "Proposed state moratorium until Jan 1, 2028. Page lists introduction/referral and currently residing in House; no enactment shown. Political watch item, not an enacted statewide ban in this screen.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S19",
+      "title": "Georgia PSC - electricity/customer choice",
+      "url": "https://psc.ga.gov/utilities/electric/",
+      "level": "V3 policy",
+      "notes": "Qualifying manufacturing/commercial loads 900 kW+ may have one-time supplier choice. Premises, existing election and territorial eligibility need verification. Choice is not delivery capacity.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S20",
+      "title": "Georgia Power - customer protection pledge",
+      "url": "https://www.georgiapower.com/about/customer-pledge.html",
+      "level": "V3 utility policy",
+      "notes": "Published large-load protection for 100 MW+ includes long contracts, minimum bills, collateral and infrastructure-cost protection. Exact current tariff/service contract controls; a 20 MW phase is not automatically exempt from study or security obligations.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S21",
+      "title": "DC BLOX - completed dark fiber route",
+      "url": "https://www.dcblox.com/dc-blox-completes-myrtle-beach-to-atlanta-dark-fiber-route/",
+      "level": "V2 regional network",
+      "notes": "May 16, 2024 route runs Myrtle Beach, near Charleston, Augusta, Atlanta. It does not establish a Dillon spur, route diversity or parcel serviceability. Corporate 877-590-1684.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S22",
+      "title": "DC BLOX - four hyperscale edge nodes",
+      "url": "https://www.dcblox.com/dc-blox-4-southeast-hyperscale-edge-node-data-centers/",
+      "level": "V2 buyer precedent",
+      "notes": "Primary company announcement demonstrates Southeast development and 5 MW node examples. Not a requirement card or expression of interest in either subject.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S23",
+      "title": "Dart Points - SC facilities",
+      "url": "https://dartpoints.com/data-centers/south-carolina-data-center/",
+      "level": "V2 buyer precedent",
+      "notes": "SC colocation footprint supports exploratory buyer interviews. No verified requirement to buy rural powered land or pursue Dillon.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S24",
+      "title": "Oppidan - Eagan build-to-suit and contact",
+      "url": "https://oppidan.com/blog/connect-data-centers-powered-by-oppidan-breaks-ground-on-new-data-center-in-eagan",
+      "level": "V2 buyer precedent",
+      "notes": "Tenant-backed financing/development model. Contact oppidan.com/about/contact, HQ 952-294-0353. No demand for subject sites; do not use media contact as acquisition decision maker.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S25",
+      "title": "T 5 - Atlanta/Palmetto land acquisition",
+      "url": "https://t5datacenters.com/resources/t5-finalizes-land-acquisition-in-atlanta-to-support-a-300-mw-data-center-campus/",
+      "level": "V2 substitute/buyer precedent",
+      "notes": "91-acre/300 MW announced campus with substation, Aug 28, 2024. More advanced competing site; project MW is not buyer minimum or proven subject capacity.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S26",
+      "title": "Edged - Atlanta campus",
+      "url": "https://edged.us/atlanta",
+      "level": "V2 substitute/buyer precedent",
+      "notes": "169 MW critical power on 80+ acres with metropolitan network attributes. Illustrates Atlanta cluster competition. No verified Adairsville demand.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S27",
+      "title": "NESA - current staff and board",
+      "url": "https://www.nesasc.org/about/staff-board",
+      "level": "V3 contact",
+      "notes": "Jeffrey De Lung 843-661-1206/jdelung@nesasc.org; Jeff Mc Kay 843-661-4669/jmckay@nesasc.org; Duke Progress Jason Speake appears on board. NESA can route Duke inquiry, not issue utility acceptance.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S28",
+      "title": "MPD - Jeff Singletary",
+      "url": "https://www.mpd.coop/staff-directory/jeff-singletary/",
+      "level": "V3 contact",
+      "notes": "Chief Business Development Officer 843-292-4349/cell 843-992-4345. Confirm whether MPD can serve and who owns wholesale/transmission study responsibilities.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S29",
+      "title": "Georgia Power - Select Georgia contact",
+      "url": "https://www.selectgeorgia.com/discover-georgia/industries/data-centers-georgia/",
+      "level": "V3 contact",
+      "notes": "Taylor Evans, Business Recruitment Director 678-387-7124/tkielty@southernco.com as published. Economic development route; serving utility and delivery point unverified.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S30",
+      "title": "Georgia EMC - site selector contact",
+      "url": "https://www.choosegeorgia.com/site-selectors/",
+      "level": "V3 contact",
+      "notes": "Bradley Harris 404-521-7612/bradley.harris@georgiaemc.com. Route supplier eligibility and local EMC identification; no capacity representation.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S31",
+      "title": "Trico Water - office contact",
+      "url": "https://tricowatercompany.com/location",
+      "level": "V3 contact",
+      "notes": "843-774-4802,205 South Fifth Avenue,Dillon. Trico is a candidate provider based on nearby NESA sites; subject service/pressure/fire flow unknown.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S32",
+      "title": "City of Adairsville - zoning application",
+      "url": "https://cms8.revize.com/revize/adairsville/Rezoning%20Application%20%281%29.pdf",
+      "level": "V3 contact/process",
+      "notes": "Community Development routing 770-773-3451. Survey/plat required in application. Relevant only if city jurisdiction/service or annexation path is established.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S33",
+      "title": "SC Code - Section 12-36-2120(79)",
+      "url": "https://www.scstatehouse.gov/code/t12c036.php",
+      "level": "V3 tax law",
+      "notes": "Data-center exemption conditions include investment, jobs/wages, certification and time limits. Do not assume a small HPC project qualifies; no incentive value credited in economics.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S34",
+      "title": "ECS - digital infrastructure engineering",
+      "url": "https://www.ecslimited.com/markets/digital-infrastructure-engineering/",
+      "level": "V2 vendor capability",
+      "notes": "Lists environmental, wetland, geotechnical and site-constraint services. Quote local availability, narrow scope and buyer reliance; no fee quoted.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S35",
+      "title": "Terracon - environmental assessments",
+      "url": "https://www.terracon.com/service/environmental/environmental-site-assessments-and-investigations/",
+      "level": "V2 vendor capability",
+      "notes": "Phase I/investigation capability. Office, scope, standards, price and reliance require a proposal; no vendor engaged.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S36",
+      "title": "S&ME - environmental assessment",
+      "url": "https://smeinc.com/services/environmental/assessment/",
+      "level": "V2 vendor capability",
+      "notes": "Due diligence and natural-resource capabilities to investigate. Some website standards references are old; require currently applicable scope/standard in any quote.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S37",
+      "title": "Duke Energy - North Carolina proposal, Oct 7, 2026",
+      "url": "https://news.duke-energy.com/releases/duke-energy-protects-customers-from-data-center-costs",
+      "level": "V3 jurisdiction guardrail",
+      "notes": "North Carolina proposed protections are separate from the South Carolina docket. Do not import its 50 MW or minimum-billing thresholds into a Dillon contract.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S38",
+      "title": "Gordon County GIS - public GC Parcels",
+      "url": "https://services3.arcgis.com/VVvJP2fdheq4kcpy/arcgis/rest/services/OpenGov/FeatureServer/3",
+      "level": "V3 mapped identity",
+      "notes": "County GIS organization VVv JP 2 fdheq 4 kcpy publishes Open Gov. Query PIN 048007 returns OBJECTID 6212/PIN 048       007/Calc_Acres 150.96. Geometry centroid approximately 34.40906,-84.94207; polygon edit June 15, 2023; service published January 22, 2026. City is null; no owner, deed, actual zoning or sale legal description in this layer. Tax map is not survey.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S39",
+      "title": "US Census TIGERweb - BAS 2026 Incorporated Places",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11",
+      "level": "V3 boundary proxy",
+      "notes": "Layer description: January 1,BAS 2026 vintage. Subject envelope query returns no incorporated-place intersection. Supports likely unincorporated Gordon County, not a current jurisdiction letter or clearance of later annexations. County parcel City field is null.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S40",
+      "title": "Gordon County GIS - Flood Zones flag",
+      "url": "https://services3.arcgis.com/VVvJP2fdheq4kcpy/arcgis/rest/services/OpenGov/FeatureServer/11",
+      "level": "V3 county flood proxy",
+      "notes": "Retrieved polygon labeled zone a, Source FEMA-13129C0175D-1. Local 2 m raster intersection flags approximately 110.5 acres/74.1% of retrieved subject polygon. Current FEMA effective date, floodway, elevations and revisions are unverified; both NFHL service routes returned 502. Not regulatory acreage or a development determination.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S41",
+      "title": "Gordon County GIS - wetland and future-land-use flags",
+      "url": "https://services3.arcgis.com/VVvJP2fdheq4kcpy/arcgis/rest/services/OpenGov/FeatureServer",
+      "level": "V3 planning proxies",
+      "notes": "County NWI flag 8 overlaps approximately 5.75 acres, versus 10.66 acres in current public USFWS response on same tax geometry. County copy omits/varies from current federal inventory; use federal map for this screen. Future-land-use flag 9 envelope returns Emerging Mixed Use and Emerging Suburban plan areas; future land use is not actual zoning.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S42",
+      "title": "USDA NRCS - Soil Data Access spatial query",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/documents/AdvancedQueries.html",
+      "level": "V3 mapped soil data",
+      "notes": "Regional WKT-envelope query returns 36 SSURGO polygons and component table; all six offered county shapes have approximately 100% raster coverage. Original responses and SQL archived. Dominant component drainage, hydric rating, slopes and hydrologic group are map-unit properties, not measured conditions or engineering clearance.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S43",
+      "title": "USDA NRCS - Understanding Soil Risks and Hazards",
+      "url": "https://www.nrcs.usda.gov/sites/default/files/2022-10/soil-risks-and-hazards.pdf",
+      "level": "V3 method limits",
+      "notes": "Soil surveys are planning screens with mapping and sampling limitations, not site-specific engineering evaluation or chemical-contamination testing. Use the mapped drainage findings to scope topography, seasonal-water-table, wetlands and geotechnical work.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S44",
+      "title": "USDA NRCS - hydric soil concept and lists",
+      "url": "https://www.nrcs.usda.gov/conservation-basics/soil/national-technical-committee-for-hydric-soils-ntchs",
+      "level": "V3 method limits",
+      "notes": "Hydric lists can include major and minor components and identify potential issues, not exact hydric ground or regulated wetland acreage. Modified agricultural hydrology can still require review. No CWA or NRCS agricultural determination was obtained.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S45",
+      "title": "Dillon County code - separately published zoning volume",
+      "url": "https://library.municode.com/sc/dillon_county/codes/code_of_ordinances",
+      "level": "V3 document-routing fact",
+      "notes": "Section 44-2 incorporates the February 28, 2007 zoning ordinance, a separate volume, and amendments. Online general code is only codified through April 22, 2015/updated August 31, 2017. No current county use table located. City of Dillon zoning is a different jurisdiction and is not applied to Baker parcels.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S46",
+      "title": "City of Calhoun - June 8, 2026 council minutes",
+      "url": "https://www.cityofcalhoun-ga.com/browse/fetch.aspx?cat=minutes&enc=28uExVlnauIBx79x7ML1Uvd9UYvMKU0q1GpBGbf7aq8%3D&ok=%2F2026%2F6-8-26+Minutes.pdf",
+      "level": "V3 conditional policy context",
+      "notes": "Page 13 records approval extending data-center moratorium to January 25, 2027. Not shown to govern subject; relevant only to a proven municipal/annexation branch. Nearby municipal service or annexation must be separately investigated; county moratorium remains the likely primary branch.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S47",
+      "title": "Gordon County - July 7, 2026 agenda",
+      "url": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-1104",
+      "level": "V3 corroborating agenda",
+      "notes": "Item XI.11 calls for consideration of moratorium-extension resolutions. The July 8 adopted-action notice supplies the January 29, 2027 date; agenda alone is not proof of adoption. Signed resolution definitions/exceptions remain missing.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S48",
+      "title": "Gordon County - 048007 public tax summary",
+      "url": "https://gordonproperty.assurancegov.com/Property/Summary?pcliID=1109171&pan=78304",
+      "level": "V3 tax record; not current title",
+      "notes": "Official Tax Commissioner page links this service. Exact 2025 record: 048007 / account 78304 / bill 4718, CFL HOLDING USA LLC AND PROJECT OLYMPUS, situs 0 HIGHWAY 41, mailing 3576 HIGHWAY 41, Tax District COUNTY. Base tax $20,502.26; paid $20,681.65 includes penalties/interest. 2026 search returned no subject record. History: 2023 OWR LLC; 2024 CFL HOLDING USA LLC. Current deed, signers, legal description, liens and 2026 liability remain unverified. Tax Commissioner 706-629-9242.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S49",
+      "title": "Gordon County - CFL PILOT MOU agenda item",
+      "url": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_12172024-973",
+      "level": "V3 agenda; applicability unverified",
+      "notes": "December 17, 2024, Item XI.15/page 5 proposes consideration of a PILOT-program MOU between county, Development Authority, Board of Assessors, Tax Commissioner and CFL Holding USA LLC. Agenda does not prove adoption. No executed agreement, property schedule, terms or 048007 applicability obtained. No incentive value or restriction assumed.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S50",
+      "title": "Georgia Secretary of State - CFL historical registration",
+      "url": "https://ecorp.sos.ga.gov/BusinessSearch/DownloadFile?filingNo=21804575",
+      "level": "V3 historical entity record",
+      "notes": "August 26, 2021 amended annual registration identifies CFL Holding USA, LLC, control 11033710, Domestic LLC, and new principal office at 3576 Highway 41, Adairsville, Gordon County. Historical corroboration only; not current registration/status, property title or seller signing authority.",
+      "retrieved": "2026-10-08"
+    },
+    {
+      "id": "S51",
+      "title": "CFL Flooring - current US operating address",
+      "url": "https://www.cflflooring.com/contact/",
+      "level": "V2 company address context",
+      "notes": "Primary company page lists US Operations at 3576 US-41, Adairsville GA 30103, matching tax-record mailing address. It does not establish a building on 048007, exact sale boundary, shared access/utility rights or available power. Subject tax situs is 0 Highway 41.",
+      "retrieved": "2026-10-08"
+    }
+  ],
+  "derived_dillon_polygons": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "apn": "080-00-00-053"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.41156148910522,
+                34.37261306139389
+              ],
+              [
+                -79.41157221794128,
+                34.37260420598968
+              ],
+              [
+                -79.41166877746582,
+                34.37254000428102
+              ],
+              [
+                -79.41176265478134,
+                34.37249129950365
+              ],
+              [
+                -79.4118994474411,
+                34.372422669996624
+              ],
+              [
+                -79.41210597753525,
+                34.372329687994174
+              ],
+              [
+                -79.41240102052689,
+                34.37220349796861
+              ],
+              [
+                -79.41264510154724,
+                34.37210166026551
+              ],
+              [
+                -79.41292405128479,
+                34.37197546989642
+              ],
+              [
+                -79.41292405128479,
+                34.37197546989642
+              ],
+              [
+                -79.41304475069046,
+                34.37193340639783
+              ],
+              [
+                -79.41333442926407,
+                34.37180942964747
+              ],
+              [
+                -79.41380649805069,
+                34.37159689764856
+              ],
+              [
+                -79.41402912139893,
+                34.371495059207994
+              ],
+              [
+                -79.41422760486603,
+                34.37139764840986
+              ],
+              [
+                -79.41445827484131,
+                34.37128916806955
+              ],
+              [
+                -79.41478818655014,
+                34.371151907029436
+              ],
+              [
+                -79.41501080989838,
+                34.371065565292184
+              ],
+              [
+                -79.41523343324661,
+                34.370988079041965
+              ],
+              [
+                -79.41542118787766,
+                34.37093494557184
+              ],
+              [
+                -79.41561162471771,
+                34.37088623986124
+              ],
+              [
+                -79.41575914621353,
+                34.37084860361095
+              ],
+              [
+                -79.41597104072571,
+                34.37080432564778
+              ],
+              [
+                -79.41612124443054,
+                34.37076890326041
+              ],
+              [
+                -79.41630095243454,
+                34.37072019745328
+              ],
+              [
+                -79.41641628742218,
+                34.370678133324354
+              ],
+              [
+                -79.41653698682785,
+                34.37063828307746
+              ],
+              [
+                -79.41667914390564,
+                34.37058293548086
+              ],
+              [
+                -79.41683202981949,
+                34.37052316003547
+              ],
+              [
+                -79.41709488630295,
+                34.37041246465365
+              ],
+              [
+                -79.41738724708557,
+                34.37028184391491
+              ],
+              [
+                -79.41766083240509,
+                34.370160078636054
+              ],
+              [
+                -79.41799074411392,
+                34.37000067654897
+              ],
+              [
+                -79.41842257976532,
+                34.36979478173757
+              ],
+              [
+                -79.41899389028549,
+                34.36952246846786
+              ],
+              [
+                -79.4194096326828,
+                34.36933428398375
+              ],
+              [
+                -79.4196081161499,
+                34.36924572643321
+              ],
+              [
+                -79.4197529554367,
+                34.36916602455766
+              ],
+              [
+                -79.41990584135056,
+                34.36907746682923
+              ],
+              [
+                -79.42007750272751,
+                34.36899112295389
+              ],
+              [
+                -79.42025452852249,
+                34.368906992938484
+              ],
+              [
+                -79.42055493593216,
+                34.36877415590004
+              ],
+              [
+                -79.42097336053848,
+                34.36858154182012
+              ],
+              [
+                -79.42130595445633,
+                34.36843984842116
+              ],
+              [
+                -79.42133277654648,
+                34.36848412763409
+              ],
+              [
+                -79.42133277654648,
+                34.36848412763409
+              ],
+              [
+                -79.42145615816116,
+                34.368683383802605
+              ],
+              [
+                -79.42157953977585,
+                34.368878211598016
+              ],
+              [
+                -79.42179679870605,
+                34.36923022885222
+              ],
+              [
+                -79.42188799381256,
+                34.36937856272392
+              ],
+              [
+                -79.42197650671005,
+                34.36953132419786
+              ],
+              [
+                -79.42207843065262,
+                34.36971950823934
+              ],
+              [
+                -79.42217767238617,
+                34.36991433362516
+              ],
+              [
+                -79.4222554564476,
+                34.370089233301464
+              ],
+              [
+                -79.4222903251648,
+                34.37016672038308
+              ],
+              [
+                -79.42236542701721,
+                34.3703526890866
+              ],
+              [
+                -79.42243784666061,
+                34.370534229565614
+              ],
+              [
+                -79.41620439291,
+                34.37318201915336
+              ],
+              [
+                -79.41605150699615,
+                34.37291414458073
+              ],
+              [
+                -79.41320568323135,
+                34.37426900552883
+              ],
+              [
+                -79.41241443157196,
+                34.374238012222655
+              ],
+              [
+                -79.41156148910522,
+                34.37261306139389
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "apn": "080-00-00-048"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.42649871110916,
+                34.36810775357833
+              ],
+              [
+                -79.42705124616623,
+                34.36803469253623
+              ],
+              [
+                -79.42862838506699,
+                34.370866314789666
+              ],
+              [
+                -79.4268661737442,
+                34.37159246989287
+              ],
+              [
+                -79.42339807748795,
+                34.3730447612149
+              ],
+              [
+                -79.42338734865189,
+                34.37288093692939
+              ],
+              [
+                -79.42338734865189,
+                34.37288093692939
+              ],
+              [
+                -79.42336857318878,
+                34.3727038292333
+              ],
+              [
+                -79.42336857318878,
+                34.3727038292333
+              ],
+              [
+                -79.42334175109863,
+                34.37254000428102
+              ],
+              [
+                -79.42331224679947,
+                34.372396103720746
+              ],
+              [
+                -79.42326933145523,
+                34.37221678113816
+              ],
+              [
+                -79.42325592041016,
+                34.37215257913253
+              ],
+              [
+                -79.42322373390198,
+                34.37203967203779
+              ],
+              [
+                -79.4231727719307,
+                34.371884701267774
+              ],
+              [
+                -79.42301988601685,
+                34.3714729204002
+              ],
+              [
+                -79.42301988601685,
+                34.3714729204002
+              ],
+              [
+                -79.4228857755661,
+                34.371116484789006
+              ],
+              [
+                -79.42278385162354,
+                34.37084638971335
+              ],
+              [
+                -79.42264437675476,
+                34.37047224017802
+              ],
+              [
+                -79.42264437675476,
+                34.37047224017802
+              ],
+              [
+                -79.42264437675476,
+                34.37047224017802
+              ],
+              [
+                -79.4249752163887,
+                34.369582244627274
+              ],
+              [
+                -79.42579329013824,
+                34.36849076951402
+              ],
+              [
+                -79.4259113073349,
+                34.3683313642506
+              ],
+              [
+                -79.42599982023239,
+                34.36823173580698
+              ],
+              [
+                -79.426109790802,
+                34.36817860058859
+              ],
+              [
+                -79.42649871110916,
+                34.36810775357833
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "apn": "092-00-00-001"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.41898852586746,
+                34.36436384664722
+              ],
+              [
+                -79.41951155662537,
+                34.36392324576959
+              ],
+              [
+                -79.41998094320297,
+                34.36353135258992
+              ],
+              [
+                -79.42044496536255,
+                34.3631372434761
+              ],
+              [
+                -79.42341685295105,
+                34.360635271597175
+              ],
+              [
+                -79.42537486553192,
+                34.363974169607516
+              ],
+              [
+                -79.42573964595795,
+                34.364591895437776
+              ],
+              [
+                -79.42018747329712,
+                34.36625685420725
+              ],
+              [
+                -79.41997557878494,
+                34.36592032265572
+              ],
+              [
+                -79.41953301429749,
+                34.365225115038676
+              ],
+              [
+                -79.41953301429749,
+                34.365225115038676
+              ],
+              [
+                -79.41953301429749,
+                34.365225115038676
+              ],
+              [
+                -79.41928893327713,
+                34.36483987011727
+              ],
+              [
+                -79.41920310258865,
+                34.364704812570324
+              ],
+              [
+                -79.41920310258865,
+                34.364704812570324
+              ],
+              [
+                -79.41920310258865,
+                34.364704812570324
+              ],
+              [
+                -79.41905558109283,
+                34.36447012188897
+              ],
+              [
+                -79.41898852586746,
+                34.36436384664722
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "apn": "092-00-00-072"
+        },
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+              [
+                [
+                  -79.42152857780457,
+                  34.36839999710952
+                ],
+                [
+                  -79.42129522562027,
+                  34.36802805062015
+                ],
+                [
+                  -79.42128986120224,
+                  34.36801919473122
+                ],
+                [
+                  -79.42128986120224,
+                  34.36801919473122
+                ],
+                [
+                  -79.42128986120224,
+                  34.36801919473122
+                ],
+                [
+                  -79.42118525505066,
+                  34.367855360617334
+                ],
+                [
+                  -79.42118525505066,
+                  34.367855360617334
+                ],
+                [
+                  -79.42089825868607,
+                  34.36739706619171
+                ],
+                [
+                  -79.42057371139526,
+                  34.36688120521601
+                ],
+                [
+                  -79.42057371139526,
+                  34.36688120521601
+                ],
+                [
+                  -79.4202008843422,
+                  34.36627678037513
+                ],
+                [
+                  -79.4202008843422,
+                  34.36627678037513
+                ],
+                [
+                  -79.4202008843422,
+                  34.36627678037513
+                ],
+                [
+                  -79.4202008843422,
+                  34.36627678037513
+                ],
+                [
+                  -79.4202008843422,
+                  34.36627678037513
+                ],
+                [
+                  -79.42018747329712,
+                  34.36625685420725
+                ],
+                [
+                  -79.42573964595795,
+                  34.364591895437776
+                ],
+                [
+                  -79.42620903253555,
+                  34.36539781046291
+                ],
+                [
+                  -79.42655771970749,
+                  34.36530924875134
+                ],
+                [
+                  -79.42649871110916,
+                  34.36810775357833
+                ],
+                [
+                  -79.426109790802,
+                  34.36817860058859
+                ],
+                [
+                  -79.42599982023239,
+                  34.36823173580698
+                ],
+                [
+                  -79.4259113073349,
+                  34.3683313642506
+                ],
+                [
+                  -79.42579329013824,
+                  34.36849076951402
+                ],
+                [
+                  -79.4249752163887,
+                  34.369582244627274
+                ],
+                [
+                  -79.42264437675476,
+                  34.37047224017802
+                ],
+                [
+                  -79.42256927490234,
+                  34.37028184391491
+                ],
+                [
+                  -79.42252099514008,
+                  34.370168934298654
+                ],
+                [
+                  -79.42245930433273,
+                  34.37001838790696
+                ],
+                [
+                  -79.4223815202713,
+                  34.3698479159309
+                ],
+                [
+                  -79.42227691411972,
+                  34.36964644860286
+                ],
+                [
+                  -79.42217767238617,
+                  34.36946269226575
+                ],
+                [
+                  -79.42208111286163,
+                  34.36929664703621
+                ],
+                [
+                  -79.42197382450104,
+                  34.3691195317619
+                ],
+                [
+                  -79.42186921834946,
+                  34.36894905795675
+                ],
+                [
+                  -79.42180216312408,
+                  34.3688427883962
+                ],
+                [
+                  -79.42152857780457,
+                  34.36839999710952
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -79.41973954439163,
+                  34.368338006142636
+                ],
+                [
+                  -79.41945523023605,
+                  34.368473057833036
+                ],
+                [
+                  -79.41979855298996,
+                  34.36903982976633
+                ],
+                [
+                  -79.41979855298996,
+                  34.36903982976633
+                ],
+                [
+                  -79.41969394683838,
+                  34.369099606270105
+                ],
+                [
+                  -79.41955715417862,
+                  34.36917488032537
+                ],
+                [
+                  -79.4193908572197,
+                  34.369250154312944
+                ],
+                [
+                  -79.41895097494125,
+                  34.369449408659534
+                ],
+                [
+                  -79.41832065582275,
+                  34.36974828929078
+                ],
+                [
+                  -79.41793978214264,
+                  34.369929831079574
+                ],
+                [
+                  -79.41777348518372,
+                  34.37000953222843
+                ],
+                [
+                  -79.41600322723389,
+                  34.367186736992856
+                ],
+                [
+                  -79.41602200269699,
+                  34.36718009500955
+                ],
+                [
+                  -79.41645115613937,
+                  34.36703839924034
+                ],
+                [
+                  -79.41872835159302,
+                  34.36628785046638
+                ],
+                [
+                  -79.419986307621,
+                  34.36632991679971
+                ],
+                [
+                  -79.42001044750214,
+                  34.36636755508003
+                ],
+                [
+                  -79.42001044750214,
+                  34.36636755508003
+                ],
+                [
+                  -79.42001044750214,
+                  34.36636755508003
+                ],
+                [
+                  -79.42001044750214,
+                  34.36636755508003
+                ],
+                [
+                  -79.42024111747742,
+                  34.3667395089413
+                ],
+                [
+                  -79.42038059234619,
+                  34.366969765265985
+                ],
+                [
+                  -79.42038059234619,
+                  34.366969765265985
+                ],
+                [
+                  -79.42038059234619,
+                  34.366969765265985
+                ],
+                [
+                  -79.42068636417389,
+                  34.367450201905775
+                ],
+                [
+                  -79.42068636417389,
+                  34.367450201905775
+                ],
+                [
+                  -79.42098408937454,
+                  34.36792620784102
+                ],
+                [
+                  -79.42110478878021,
+                  34.36811660945787
+                ],
+                [
+                  -79.42110478878021,
+                  34.36811660945787
+                ],
+                [
+                  -79.42125231027603,
+                  34.36835350388866
+                ],
+                [
+                  -79.42093849182129,
+                  34.36850405327224
+                ],
+                [
+                  -79.42050397396088,
+                  34.368703309393375
+                ],
+                [
+                  -79.42020893096924,
+                  34.36883393259338
+                ],
+                [
+                  -79.42008286714554,
+                  34.3688937092441
+                ],
+                [
+                  -79.41973954439163,
+                  34.368338006142636
+                ]
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "apn": "092-00-00-102"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.40270215272903,
+                34.366502609946785
+              ],
+              [
+                -79.40611392259598,
+                34.36542880703986
+              ],
+              [
+                -79.40613806247711,
+                34.36545537552524
+              ],
+              [
+                -79.40545946359634,
+                34.36588047014564
+              ],
+              [
+                -79.40577328205109,
+                34.3663454149172
+              ],
+              [
+                -79.4053065776825,
+                34.36663766459584
+              ],
+              [
+                -79.4053065776825,
+                34.36663766459584
+              ],
+              [
+                -79.40488815307617,
+                34.36690334523727
+              ],
+              [
+                -79.40438121557236,
+                34.36722437488828
+              ],
+              [
+                -79.40438121557236,
+                34.36722437488828
+              ],
+              [
+                -79.40374821424484,
+                34.36762732070925
+              ],
+              [
+                -79.40270215272903,
+                34.366502609946785
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "derived_nwi_overlap": [
+    {
+      "apn": "080-00-00-053",
+      "mapped_polygon_acres_approx": 60.05,
+      "nwi_overlap_acres_approx": 1.13,
+      "overlap_percent_approx": 1.9,
+      "features": [
+        {
+          "objectid": 7479607,
+          "code": "R5UBH",
+          "approx_overlap_acres": 0.154
+        },
+        {
+          "objectid": 7479939,
+          "code": "R5UBH",
+          "approx_overlap_acres": 0.979
+        }
+      ],
+      "method": "2-m midpoint raster on county GIS polygon; local equirectangular metres; mapping and delineation uncertainty dominate rounding"
+    },
+    {
+      "apn": "080-00-00-048",
+      "mapped_polygon_acres_approx": 38.54,
+      "nwi_overlap_acres_approx": 3.53,
+      "overlap_percent_approx": 9.2,
+      "features": [
+        {
+          "objectid": 7351399,
+          "code": "PUBHx",
+          "approx_overlap_acres": 0.472
+        },
+        {
+          "objectid": 7479607,
+          "code": "R5UBH",
+          "approx_overlap_acres": 0.762
+        },
+        {
+          "objectid": 9344613,
+          "code": "PFO1B",
+          "approx_overlap_acres": 2.292
+        }
+      ],
+      "method": "2-m midpoint raster on county GIS polygon; local equirectangular metres; mapping and delineation uncertainty dominate rounding"
+    },
+    {
+      "apn": "092-00-00-001",
+      "mapped_polygon_acres_approx": 48.8,
+      "nwi_overlap_acres_approx": 2.06,
+      "overlap_percent_approx": 4.2,
+      "features": [
+        {
+          "objectid": 9347650,
+          "code": "R5UBH",
+          "approx_overlap_acres": 2.064
+        }
+      ],
+      "method": "2-m midpoint raster on county GIS polygon; local equirectangular metres; mapping and delineation uncertainty dominate rounding"
+    },
+    {
+      "apn": "092-00-00-072",
+      "mapped_polygon_acres_approx": 86.43,
+      "nwi_overlap_acres_approx": 5.23,
+      "overlap_percent_approx": 6.1,
+      "features": [
+        {
+          "objectid": 7097878,
+          "code": "PFO1Ad",
+          "approx_overlap_acres": 0
+        },
+        {
+          "objectid": 7479607,
+          "code": "R5UBH",
+          "approx_overlap_acres": 0.039
+        },
+        {
+          "objectid": 9344613,
+          "code": "PFO1B",
+          "approx_overlap_acres": 3.104
+        },
+        {
+          "objectid": 9347650,
+          "code": "R5UBH",
+          "approx_overlap_acres": 0.938
+        }
+      ],
+      "method": "2-m midpoint raster on county GIS polygon; local equirectangular metres; mapping and delineation uncertainty dominate rounding",
+      "note": "Two exterior GIS parts; not exterior plus hole. See part-specific summaries."
+    },
+    {
+      "apn": "092-00-00-102",
+      "mapped_polygon_acres_approx": 7.51,
+      "nwi_overlap_acres_approx": 0,
+      "overlap_percent_approx": 0,
+      "features": [],
+      "method": "2-m midpoint raster on county GIS polygon; local equirectangular metres; mapping and delineation uncertainty dominate rounding"
+    }
+  ],
+  "derived_parent72_part_overlap": [
+    {
+      "gis_part": 1,
+      "geometry_acres_approx": 57.77,
+      "nwi_overlap_acres_approx": 4.08,
+      "features": [
+        {
+          "objectid": 7097878,
+          "code": "PFO1Ad",
+          "acres_approx": 0
+        },
+        {
+          "objectid": 7479607,
+          "code": "R5UBH",
+          "acres_approx": 0.039
+        },
+        {
+          "objectid": 9344613,
+          "code": "PFO1B",
+          "acres_approx": 3.104
+        },
+        {
+          "objectid": 9347650,
+          "code": "R5UBH",
+          "acres_approx": 0.938
+        }
+      ]
+    },
+    {
+      "gis_part": 2,
+      "geometry_acres_approx": 28.66,
+      "nwi_overlap_acres_approx": 1.15,
+      "features": [
+        {
+          "objectid": 7097878,
+          "code": "PFO1Ad",
+          "acres_approx": 0.003
+        },
+        {
+          "objectid": 7479607,
+          "code": "R5UBH",
+          "acres_approx": 0
+        },
+        {
+          "objectid": 9344613,
+          "code": "PFO1B",
+          "acres_approx": 0
+        },
+        {
+          "objectid": 9347650,
+          "code": "R5UBH",
+          "acres_approx": 1.146
+        }
+      ]
+    }
+  ],
+  "calculations": {
+    "method_nwi": "2m midpoint raster, local equirectangular metre scaling, county tax geometry vs current public NWI; values approximate, no regulatory acreage claim",
+    "20mw_90pct_annual_mwh": 157680,
+    "annual_usd_for_1cent_kwh_difference": 1576800,
+    "50mw_90pct_annual_mwh": 394200,
+    "city_additional_acres_450_minus_150_97": 299.03
+  },
+  "archive_manifest": [
+    {
+      "path": "research/080-00-00-048.xml",
+      "sha256": "fbd8e59789f792533dc9f93d19ad6db378f5ce10e66efd067d0d2e52b3d4c249",
+      "bytes": 44
+    },
+    {
+      "path": "research/080-00-00-048_areas.txt",
+      "sha256": "5dc14395d33b0e18b6bc9872e44945e52b2092635f713422cfada416df431088",
+      "bytes": 2672
+    },
+    {
+      "path": "research/080-00-00-048_nwi.json",
+      "sha256": "1daf206c030640ea93e1a5e3d7cc547dcad798b1430413162be1ada2025055b0",
+      "bytes": 39704
+    },
+    {
+      "path": "research/080-00-00-053.xml",
+      "sha256": "fbd8e59789f792533dc9f93d19ad6db378f5ce10e66efd067d0d2e52b3d4c249",
+      "bytes": 44
+    },
+    {
+      "path": "research/080-00-00-053_nwi.json",
+      "sha256": "fa6bd2f92c23d16bc144c979aab609e2cf4450c457aee744203fb4b68a4ea987",
+      "bytes": 14728
+    },
+    {
+      "path": "research/092-00-00-001.xml",
+      "sha256": "fbd8e59789f792533dc9f93d19ad6db378f5ce10e66efd067d0d2e52b3d4c249",
+      "bytes": 44
+    },
+    {
+      "path": "research/092-00-00-001_areas.txt",
+      "sha256": "5f23b1b6974cc3dcddd203507fb80de98b779dd6ac87e813a3532d1808e38da0",
+      "bytes": 2669
+    },
+    {
+      "path": "research/092-00-00-001_nwi.json",
+      "sha256": "8fbe8b2d0143167bdbfd56aec8b339e8488138d18dcd3c2d14e7196a7a57bce4",
+      "bytes": 9936
+    },
+    {
+      "path": "research/092-00-00-001_record.xml",
+      "sha256": "6e5522c38ee7663cec5f64080457f76c91fc3e87dc2ece9ded3d05ea06369e9f",
+      "bytes": 6571
+    },
+    {
+      "path": "research/092-00-00-072.xml",
+      "sha256": "fbd8e59789f792533dc9f93d19ad6db378f5ce10e66efd067d0d2e52b3d4c249",
+      "bytes": 44
+    },
+    {
+      "path": "research/092-00-00-072_areas.txt",
+      "sha256": "5c88adfb5680b9f34369611c403ee1f1118c76284ce404233db3e5a0085f48cb",
+      "bytes": 2672
+    },
+    {
+      "path": "research/092-00-00-072_nwi.json",
+      "sha256": "86ee8b3e84c770619e7e656c22d4ec89dbb5b1de17da5c823ab34d5f3ad29342",
+      "bytes": 50510
+    },
+    {
+      "path": "research/092-00-00-072_record.xml",
+      "sha256": "b7c968bb3a284e60064a91c05b35589461bab6c1ae676eaa26b1150a69375c22",
+      "bytes": 6800
+    },
+    {
+      "path": "research/092-00-00-102.xml",
+      "sha256": "fbd8e59789f792533dc9f93d19ad6db378f5ce10e66efd067d0d2e52b3d4c249",
+      "bytes": 44
+    },
+    {
+      "path": "research/092-00-00-102_areas.txt",
+      "sha256": "63c40dc8d0e186e5ada8cfff474911d58d65854f55e3691fd230c0e677fac94a",
+      "bytes": 2665
+    },
+    {
+      "path": "research/092-00-00-102_nwi.json",
+      "sha256": "ed778c73ea51338d6576fb5992b189f2b94d9f3d5e199f46c1af520d6b0b3e6c",
+      "bytes": 42
+    },
+    {
+      "path": "research/092-00-00-102_record.xml",
+      "sha256": "1f085757cdba5e095201b4b30a417513d169dd6089e5377a13dd66a9bd6f702a",
+      "bytes": 6357
+    },
+    {
+      "path": "research/adairsville_constraints_map.png",
+      "sha256": "823bd715c598135ddc0d3db8895455530dc7ba5acd52b394cb898d7d2d30faac",
+      "bytes": 127232
+    },
+    {
+      "path": "research/adairsville_entity_and_pilot_context.json",
+      "sha256": "1b472b00f438a4664ed7ee77324249442197352ed184bf47a97967146ac5cc52",
+      "bytes": 2279
+    },
+    {
+      "path": "research/adairsville_flag_10.json",
+      "sha256": "437b1d00810278f617f39f5d45ffaf96d9cd705330987c255c3d9cb934e4a5ce",
+      "bytes": 247
+    },
+    {
+      "path": "research/adairsville_flag_11.json",
+      "sha256": "008f7bcf4c694fab758297cfa7e1fb9ec85b03dadb5e814f639c096ef78f03f7",
+      "bytes": 29039
+    },
+    {
+      "path": "research/adairsville_flag_8.json",
+      "sha256": "c441f16b0fb5c3db8045db86d7b799410788caeb955b7abdcffc2aedabfe1dac",
+      "bytes": 10551
+    },
+    {
+      "path": "research/adairsville_flag_9.json",
+      "sha256": "7846f19944417369b2bead17d3d0f11bdeffc1c148bd41c6f5e8c990d90f7efe",
+      "bytes": 7569
+    },
+    {
+      "path": "research/adairsville_nwi.json",
+      "sha256": "f32e533cb159653503bac3c3ba3f4a736c56ed278d79112ee7b27321844fb77f",
+      "bytes": 10002521
+    },
+    {
+      "path": "research/adairsville_parcel.geojson",
+      "sha256": "d77c4d77a1e820652fe0490783eff9764934229809f5e7b86dd556ac017ab453",
+      "bytes": 5216
+    },
+    {
+      "path": "research/adairsville_public_parcel.json",
+      "sha256": "58d4cdfd1a584dce63629d18b5f62ea61a91be3de2e29df72a2d92c4b125d2f3",
+      "bytes": 3938
+    },
+    {
+      "path": "research/adairsville_public_parcel_request.txt",
+      "sha256": "c0217e701347a46dd7830d7db1c8a83bf26cd54fed387d6df5caeb0b2096b0f3",
+      "bytes": 179
+    },
+    {
+      "path": "research/adairsville_roads.json",
+      "sha256": "1271c5a3535435e1ab26b68953963997f4d5d542bef53bc5f2ce9a42968d0341",
+      "bytes": 35281
+    },
+    {
+      "path": "research/adairsville_spatial_screen.json",
+      "sha256": "70d862c63bad972a6e0eb45811ea36e39871d496a2f101ca58d0bc7bf2b93032",
+      "bytes": 1194
+    },
+    {
+      "path": "research/adairsville_tax_2025_summary.txt",
+      "sha256": "e7ba6560f3f645ca810d94992ddb3a04dd5cb4142870485214e2695da0c7df65",
+      "bytes": 3418
+    },
+    {
+      "path": "research/adairsville_tax_search_records.json",
+      "sha256": "ed83cc17e6b31c39e7bcc23894be2a3805029192fc72f43eee6f1a13fd7bff39",
+      "bytes": 1267
+    },
+    {
+      "path": "research/adairsville_tiger_municipal.json",
+      "sha256": "298512794b1bef693d5c2b0d2f499b0828d35b8181a27e36e7279302c8236f10",
+      "bytes": 2140
+    },
+    {
+      "path": "research/arcgis_Adairsville_boundaries.json",
+      "sha256": "412050258b6db85a4cf6a9dd4d2321532e478c22e2731317044c206c55f90641",
+      "bytes": 4873
+    },
+    {
+      "path": "research/arcgis_Dillon_County_zoning.json",
+      "sha256": "a24a7a6255bf5a0dd47f69a550144229fd7b602f86032bac119329259f4755a1",
+      "bytes": 79
+    },
+    {
+      "path": "research/arcgis_Gordon_County_parcels.json",
+      "sha256": "e34ec9fc9cc89ff9176812d6295d5243c0c012bd30cefd07501861832c2e8716",
+      "bytes": 1834
+    },
+    {
+      "path": "research/arcgis_Gordon_County_zoning.json",
+      "sha256": "710508719afeef21baa6545c3fc6c0d090e59157d55d0dc634379bf36a7a9acb",
+      "bytes": 5950
+    },
+    {
+      "path": "research/calhoun_june8_2026_minutes.pdf",
+      "sha256": "5e8bc7cf93205894e0269da35289b97bee31e8539533d87c4f23cf9a1022fc37",
+      "bytes": 1652863
+    },
+    {
+      "path": "research/dillon_53_aerial.pdf",
+      "sha256": "bc5b49d42f10078c50ff787ba491b2a220cb2ddbeb781567a5b92468941491df",
+      "bytes": 1537297
+    },
+    {
+      "path": "research/dillon_53_sda_clipped_query.sql",
+      "sha256": "aa545aa6b17cfa552d8fe8820f14b42cec2e6e4d689b53c4bcf2c8483311af4c",
+      "bytes": 4936
+    },
+    {
+      "path": "research/dillon_53_sda_polygon_query.sql",
+      "sha256": "a478927ce479e9de8df5a965c9371d02412a51b570667bc4ad90f37fdd3a2dc8",
+      "bytes": 2531
+    },
+    {
+      "path": "research/dillon_53_sda_query.sql",
+      "sha256": "358349e729a692b4be79e4ab5e92e7c8b9db5d1a03193bcd8ea6d4072af9a3f5",
+      "bytes": 2601
+    },
+    {
+      "path": "research/dillon_53_soils_map.png",
+      "sha256": "ede0355d6e7aa6a6c1eb11b935eb679af89bb7fe9036e64307fca09bb612482a",
+      "bytes": 130271
+    },
+    {
+      "path": "research/dillon_53_ssurgo_components.json",
+      "sha256": "9f7b9f9341adee538792468d4e7ea6b80ea87aada66dc868d2dd64d884ffbd08",
+      "bytes": 946
+    },
+    {
+      "path": "research/dillon_53_ssurgo_polygons.json",
+      "sha256": "83f833e383b8cf271846b0ef29457015cd40c610fbf63cc13be101ac6efde0da",
+      "bytes": 59441
+    },
+    {
+      "path": "research/dillon_72_parts_overlap.json",
+      "sha256": "cc0ac19f3e2f4e285d15c6c7b0089a52513db4f55f88ce448e8d4089aed40e2d",
+      "bytes": 1056
+    },
+    {
+      "path": "research/dillon_all_aerial.pdf",
+      "sha256": "d072d0341735b7d77f5e4033cca2a37ccfe1230f5b1282924b8ddacd7a1aec71",
+      "bytes": 1811631
+    },
+    {
+      "path": "research/dillon_all_sda_polygon_query.sql",
+      "sha256": "d81e15216f31e94be4ee967dffe1eb609993f70595fd0d85e9faf180d14f1c80",
+      "bytes": 7557
+    },
+    {
+      "path": "research/dillon_all_ssurgo_polygons.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
+    },
+    {
+      "path": "research/dillon_areas.txt",
+      "sha256": "8978cc1d0ac4d48650a0fb5879a8b173e2cf0c0a25f725a76c978ae573f7650d",
+      "bytes": 2669
+    },
+    {
+      "path": "research/dillon_config.xml",
+      "sha256": "157e586d537b90c2af81e1d2abb4b753f80961feac9e5e40560bac4a34f9b9df",
+      "bytes": 4645
+    },
+    {
+      "path": "research/dillon_county_flood_overlap.json",
+      "sha256": "ce644d7bf080b6f66184eb38a272b39b9687ca5bdac50764745a7a707d318883",
+      "bytes": 698
+    },
+    {
+      "path": "research/dillon_flood_legend.png",
+      "sha256": "4641ae52cd5711b2363542f83ce00bbe49e2e60dd563e3a396dd3fac2da29fcb",
+      "bytes": 1684
+    },
+    {
+      "path": "research/dillon_flood_mosaic.png",
+      "sha256": "02a995eb04c280a0009de01451f4f8685a2e4dd3bd11d5e0d4192e9bca4927ab",
+      "bytes": 7053
+    },
+    {
+      "path": "research/dillon_flood_point.json",
+      "sha256": "2a1365d3751a2ed11d99fd9229c7e6de4f401164d57cf2e11ca38a5121321b30",
+      "bytes": 12
+    },
+    {
+      "path": "research/dillon_gis.txt",
+      "sha256": "5c3aff9d95e51dcf6a0d46793d4318bfae782d361ed06c375c94fbee476bfa36",
+      "bytes": 41542
+    },
+    {
+      "path": "research/dillon_map.txt",
+      "sha256": "17535d209da276a11b1c7bb2584676362bf41d7326621282705abbeba1ba96c9",
+      "bytes": 5062
+    },
+    {
+      "path": "research/dillon_nwi.json",
+      "sha256": "09ceb439a894a06b390bfa5d6556204ce68ae43466b2d8107dbc3c150958fec0",
+      "bytes": 595864
+    },
+    {
+      "path": "research/dillon_nwi_map.png",
+      "sha256": "720af78ebc81639fde54a7172db5864396f91945f54c1b63e647a84d505d586b",
+      "bytes": 319002
+    },
+    {
+      "path": "research/dillon_nwi_overlap.json",
+      "sha256": "af5993c2bbb841a2595cdb22c581f0a07832344b1bc83e9480294ce7511bf30b",
+      "bytes": 2771
+    },
+    {
+      "path": "research/dillon_parcel48.txt",
+      "sha256": "98cde360106a33bd9776bae67e5ff99aae145e18299e718a24d38b65917bf5db",
+      "bytes": 6469
+    },
+    {
+      "path": "research/dillon_parcel53.txt",
+      "sha256": "69634eb1ec6886dc629bc8fb4325fec0400a68a4cb89d6d8e461cfe29c8145ec",
+      "bytes": 7176
+    },
+    {
+      "path": "research/dillon_parcels.geojson",
+      "sha256": "d50f567a98b89c132b7cc56f7a579ff3e7275b470f7992ae7195de4a826e3258",
+      "bytes": 20022
+    },
+    {
+      "path": "research/dillon_point_zoning.txt",
+      "sha256": "05d6da2c7c25a449a5d2cdecc0576e1adb375abed9d7731ca831e005d019b245",
+      "bytes": 25
+    },
+    {
+      "path": "research/dillon_region_sda_query.sql",
+      "sha256": "165063b469f4dfdf5c7a2af90694e56e4e895e9d94523f4a8c7c92c3a2087af2",
+      "bytes": 914
+    },
+    {
+      "path": "research/dillon_region_ssurgo.json",
+      "sha256": "839af09e9c552a7bfb8b175d5cee15c09feacdc6126e69f0e2f7f749fa3d1ef6",
+      "bytes": 336580
+    },
+    {
+      "path": "research/dillon_ssurgo_screen.json",
+      "sha256": "3ba57d54f501a35a0d55e32321cc9d5b9fa40fd8ca708726c9279648b9d2af30",
+      "bytes": 18229
+    },
+    {
+      "path": "research/electric_map_meta.txt",
+      "sha256": "6c7568c0bd7aefab35887e9ff379eab479aa03b32cfe1b8170aa47176eedc31b",
+      "bytes": 3870
+    },
+    {
+      "path": "research/electric_point_2.json",
+      "sha256": "f0236059e464308758130b845845d143a620693812540c25516a3ab50187a39d",
+      "bytes": 1187
+    },
+    {
+      "path": "research/electric_point_3.json",
+      "sha256": "cd050b718a5e4d84172be8d6cacf2c1f7360fb1a12f14e649b278996d845e01f",
+      "bytes": 1467
+    },
+    {
+      "path": "research/flood_15_9154_13047.png",
+      "sha256": "6edb0611ac2f243bb229c39723c491bf12ed7ef3ab79da28e5c29c868366c6da",
+      "bytes": 2085
+    },
+    {
+      "path": "research/flood_15_9154_13048.png",
+      "sha256": "0d3dc8d2c4ed14f4d4fa94c2d1ed1bd2e8f5834116c42af4807891899d731be7",
+      "bytes": 1616
+    },
+    {
+      "path": "research/flood_15_9154_13049.png",
+      "sha256": "d92f294905fccdf668b9466be4133c94e50092f3b60037c6bcc1b7d557709f1a",
+      "bytes": 1802
+    },
+    {
+      "path": "research/flood_15_9155_13047.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_15_9155_13048.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_15_9155_13049.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_15_9156_13047.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_15_9156_13048.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_15_9156_13049.png",
+      "sha256": "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387",
+      "bytes": 384
+    },
+    {
+      "path": "research/flood_tile_manifest.json",
+      "sha256": "8fe5531e53b0285cdf6034e835420353499fcc6efb47bd5fc9a24066d67d0c8a",
+      "bytes": 143
+    },
+    {
+      "path": "research/gordon_official_webmap.json",
+      "sha256": "ae2e40eb56eb679266974d3898d264b4e494d414e8088e4619811139aa413481",
+      "bytes": 662
+    },
+    {
+      "path": "research/gordon_public_catalog.json",
+      "sha256": "b6ee906b5329d2df50c1c755ac53cf5926c8bb93b6375b4241c550921eb5aeb5",
+      "bytes": 6574
+    },
+    {
+      "path": "research/gordon_public_item.json",
+      "sha256": "85ba49ad2015b497f8bf303e475541fe9dc98245064eaeaf8dc2cd49aff00b94",
+      "bytes": 1556
+    },
+    {
+      "path": "research/gordon_public_org.json",
+      "sha256": "8428790879d3e3be926a79a1969ac17f7fde74d6b05e90767b2088df71e5e340",
+      "bytes": 19533
+    },
+    {
+      "path": "research/gordon_public_owner.json",
+      "sha256": "55d3bd2ebc79d3f18c4553f83a7c78d60732fe87ab6702a144246811b5bbc6b6",
+      "bytes": 187
+    },
+    {
+      "path": "research/gordon_public_parcel_meta.json",
+      "sha256": "603ff16da7ecd88026b40d79ee351598afd6bfc7bc764b36c8255ffe8d5fd148",
+      "bytes": 12580
+    },
+    {
+      "path": "research/gordon_public_service.json",
+      "sha256": "3385254dec433ef4b8df5935c98971435e2cbe9f5083dab2a125e3370134abdf",
+      "bytes": 7295
+    },
+    {
+      "path": "research/nwi_layer0.txt",
+      "sha256": "68aa32babf813fa2a9f3fa1541b6f7d4fb7374245b992139cab064d05fe05af7",
+      "bytes": 15716
+    },
+    {
+      "path": "research/nwi_meta.json",
+      "sha256": "5895836cafa28c691ca12d5310e8461e1afc17feaa4ae9c115d0fd0583e91e6b",
+      "bytes": 2277
+    },
+    {
+      "path": "research/sc_electric_app.json",
+      "sha256": "c69eda8d1dc3a6b02bb0f1bca23a46f64237c474da8182448a695c18c58b2c2e",
+      "bytes": 9341
+    },
+    {
+      "path": "research/sc_electric_webmap.json",
+      "sha256": "a97adfa98c3694b0606c8c1ce138c602cb8fcde6fbf5366721bbb29b59675baa",
+      "bytes": 947
+    },
+    {
+      "path": "research/tiger_bas2026_places_layer.json",
+      "sha256": "9799cf2a891d7e1892569154b03c84ec5734ae08d4c3828a7d5b9c1fd3ce336f",
+      "bytes": 9833
+    },
+    {
+      "path": "research/tiger_places_meta.json",
+      "sha256": "f437ad3cff0c8248c47f41020a0822fcf7d7ffebe391542999b75925ffbb58a3",
+      "bytes": 11805
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+import type {OpportunityIntelligence} from './intelligence';
+export type Tier='PRIORITY'|'WATCH'|'REJECTED';
+export type Source={id:string;title:string;url:string;publisher:string;date:string;retrievedAt:string;kind:string;limitation:string};
+export type Action={id:string;order:number;title:string;contact:string;channel:string;question:string;decision:string;costEstimate:string;approvalRequired:boolean;done:boolean;dueDate?:string;recordId?:string};
+export type RecordFile={id:string;name:string;recordType:string;apn:string;state:string;county:string;origin:string;updatedAt:string;lifecycle:string;summary:string;thesis:string;moneyVerdict:string;facts:any[];sections:any[];factors:any[];checks:any[];sources:Source[];actions:Action[];geometry:any;geometrySource:string;location:{lon:number;lat:number;precision:string}|null;kill:any;history:any[];notes:string;mapVisible:boolean;priority_tier:Tier;workflow_stage:string;evidence_status:string;capital_status:string;opportunityId:string;categoryReason:string;initialScreen:Record<string,boolean>;alternateUse:string;buyerFit:string;noteEntries:{id:string;at:string;text:string}[];baseline:boolean;mapOverlays?:any[];intelligence?:OpportunityIntelligence};
+export type Report={id:string;producerId:string;runId:string;producedAt:string;retrievedAt:string;title:string;original:string;hash:string;recordIds:string[];findings:{recordId:string;text:string;sourceUrl?:string;sourceDate?:string}[];status:string;schemaVersion:number;documentId?:string};
+export type Desk={companies?:any[];events?:any[];syncFailures?:any[];schemaVersion:number;records:RecordFile[];reports:Report[];relationships:any[];tasks:Action[];expenses:any[];decisions:any[];documents:any[];automations:any[];automationVerification:any;methodology:any;migration:any;history:any[];budget:{learningCap:number;softControlCap:number;historicalExposure:number|null};sourceCoverage:any;integration:{mode:string;note:string}};
+export function validatePromotion(r:RecordFile){return r.recordType==='PARCEL' && !!r.apn && !!r.county && ['traceableAsset','plausibleEconomics','powerSignal','buyerFit','noSupportedFatal','nextTest','alternateUse'].every(k=>r.initialScreen?.[k]===true)}
+export function gisQueue(records:RecordFile[]){return records.filter(r=>r.priority_tier==='PRIORITY'&&['GIS_QUEUED','GIS_IN_PROGRESS','GIS_BLOCKED','HUMAN_VERIFICATION_NEEDED'].includes(r.workflow_stage))}
+export function changeTier(r:RecordFile,tier:Tier,reason:string,evidence:string,at:string){
+ if(!reason.trim())throw Error('A reason is required.');
+ if(tier==='PRIORITY'&&!validatePromotion(r))throw Error('Complete the initial screen before promotion.');
+ if((r.priority_tier==='REJECTED'||tier==='REJECTED')&&!evidence.trim())throw Error('An evidence reference is required for rejection or reopening.');
+ const old=r.priority_tier;const priorPortfolio=r.intelligence?.portfolioStatus;if(r.intelligence){if(tier==='REJECTED')r.intelligence.portfolioStatus='ARCHIVED';else if(r.intelligence.portfolioStatus==='ARCHIVED')r.intelligence.portfolioStatus='OTHER';}r.priority_tier=tier;r.lifecycle=tier==='REJECTED'?'REJECTED':'ACTIVE';r.categoryReason=reason;
+ r.workflow_stage=tier==='PRIORITY'?'GIS_QUEUED':tier==='REJECTED'?'ARCHIVED':'INITIAL_SCREEN';
+ r.capital_status='HOLD';r.history.push({at,action:'FOUNDER_CATEGORY_DECISION',note:reason,evidence,before:old,after:tier,priorPortfolio,portfolio:r.intelligence?.portfolioStatus});
+}
+export function validateDesk(s:any): asserts s is Desk {
+ if(!s||s.schemaVersion!==3||!Array.isArray(s.records)||s.records.length>1000||!Array.isArray(s.reports)||!Array.isArray(s.tasks)||!Array.isArray(s.relationships)||!Array.isArray(s.decisions)||!Array.isArray(s.expenses)||!Array.isArray(s.history))throw Error('Invalid workspace format. Export a complete version 3 workspace.');
+ const ids=new Set<string>();for(const r of s.records){if(!r.id||ids.has(r.id)||!['PRIORITY','WATCH','REJECTED'].includes(r.priority_tier)||!Array.isArray(r.history)||!Array.isArray(r.actions)||!Array.isArray(r.sources)||!Array.isArray(r.noteEntries)||!Array.isArray(r.facts)||!Array.isArray(r.checks)||!Array.isArray(r.sections)||!Array.isArray(r.factors))throw Error('Invalid or duplicate record.');ids.add(r.id);if(r.priority_tier==='PRIORITY'&&!validatePromotion(r))throw Error('Priority record has not passed its initial screen.');}
+ for(const p of s.reports){if(!Array.isArray(p.recordIds)||p.recordIds.some((id:string)=>!ids.has(id)))throw Error('Report references a missing record.');}
+ if(s.budget?.learningCap!==5000||s.budget?.softControlCap!==10000)throw Error('Workspace import cannot change the approved capital caps.');
+}

@@ -1,0 +1,497 @@
+{
+  "as_of": "2026-09-05",
+  "purpose": "Historical source extraction only; no fresh web verification or investment authorization",
+  "controlling_gate_framework": {
+    "status": "GATE_NAMES_AND_NUMBERS_RECOVERED_REQUIREMENT_CATALOG_MISSING",
+    "gates": [
+      {
+        "id": 0,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Buyer/project definition",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 1,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Demand and geography",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 2,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Exact parcel, ownership, access, and control",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 3,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Utility and power path",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 4,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Land use, entitlement, and politics",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 5,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Water, cooling, fire, and discharge",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 6,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Civil, environmental, and hazards",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 7,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Fiber, transportation, and labor",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 8,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Economics and buyer takeout",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 9,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Transferable evidence",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      },
+      {
+        "id": 10,
+        "id_basis": "Original numeric gate identifier in Operator Manual",
+        "name": "Execution and closing",
+        "requirements": null,
+        "requirements_status": "SOURCE_MISSING",
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+          "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+          "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+        }
+      }
+    ],
+    "unknown_rule": "Weight-9 and weight-10 unknowns HOLD money. Hard failure overrides score; consequential kill requires evidence and review checkpoint.",
+    "status_values": [
+      "unknown",
+      "pass",
+      "soft fail",
+      "hard fail",
+      "not applicable"
+    ],
+    "evidence_grades": [
+      "V0",
+      "V1",
+      "V2",
+      "V3",
+      "V4"
+    ]
+  },
+  "required_catalog_gap": {
+    "expected": "Approximately 100 weighted individual requirements across 11 gates, hard/soft/monitor classes; exact approved 1–10 weights and individual IDs",
+    "found": false,
+    "evidence": [
+      "Operator Manual names the 11 gates but lists no individual requirement/weight rows.",
+      "Implementation Matrix states legacy app had approximately 100 requirements, but contains no catalog.",
+      "research-pack factors are six-factor legacy display scoring and are explicitly not a substitute.",
+      "Updated_gameplan PDF p17 has nine dimension percentages totaling 100, not individual 1–10 weights."
+    ],
+    "do_not": "Invent requirement IDs, reverse engineer weights from display scores, or represent draft requirements as imported approved catalog."
+  },
+  "historical_pdf_framework": {
+    "source": {
+      "path": "/workspace/scratch/e48b251efe6f/handoff/reference/Updated_gameplan_8_31_2026.pdf",
+      "locator": "pp. 16–18 and p.28",
+      "sha256": "ca93ea78962fb5925ab17edd8d04e72e7d1f8c8e7dca70817fbb290614a22e09"
+    },
+    "fatal_gate_identifiers": [
+      {
+        "id": "exact_parcel",
+        "label": "Exact parcel"
+      },
+      {
+        "id": "owner_authority",
+        "label": "Owner/authority"
+      },
+      {
+        "id": "access",
+        "label": "Access"
+      },
+      {
+        "id": "serving_utility",
+        "label": "Serving utility"
+      },
+      {
+        "id": "power_process",
+        "label": "Power process"
+      },
+      {
+        "id": "use_path",
+        "label": "Use path"
+      },
+      {
+        "id": "water_path",
+        "label": "Water/cooling"
+      },
+      {
+        "id": "environment",
+        "label": "Environment/civil"
+      },
+      {
+        "id": "transferable_control",
+        "label": "Control transfer"
+      },
+      {
+        "id": "lawful_marketing",
+        "label": "Lawful marketing"
+      },
+      {
+        "id": "buyer_class_fit",
+        "label": "Buyer class"
+      },
+      {
+        "id": "capital_path",
+        "label": "Capital"
+      }
+    ],
+    "buyer_dimension_weights": [
+      {
+        "dimension": "Power path",
+        "weight_percent": 25,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Buyer fit",
+        "weight_percent": 20,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Land/control/downside",
+        "weight_percent": 15,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Permitting/politics",
+        "weight_percent": 10,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Fiber",
+        "weight_percent": 10,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Water/cooling",
+        "weight_percent": 5,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Civil/environment",
+        "weight_percent": 5,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Economics/carry",
+        "weight_percent": 5,
+        "individual_requirement_id": null
+      },
+      {
+        "dimension": "Execution/closeability",
+        "weight_percent": 5,
+        "individual_requirement_id": null
+      }
+    ],
+    "formula": "priority = conservative_fit + evidence_coverage + buyer_relevance - fatal_risk - founder_friction - next_test_cost - time_to_answer",
+    "formula_status": "Historical conceptual formula; component scales and coefficients not fully specified; not an executable approved full-requirement formula"
+  },
+  "current_budget_doctrine": {
+    "learning_cap_usd": 5000,
+    "soft_control_cumulative_per_live_parcel_cap_usd": 10000,
+    "paid_live_positions": 1,
+    "unpaid_backups": 2,
+    "advanced_diligence": "buyer/sponsor-funded",
+    "is_spending_authorization": false,
+    "source": {
+      "path": "/workspace/scratch/e48b251efe6f/handoff/reference/SYNCRANICITY_OPERATOR_MANUAL.md",
+      "locator": "Step 5 — Deals and gates; Non-negotiable rules",
+      "sha256": "b3976c1c4fd4696347fa8a0f8572f0c10ce8b240fe8ff6a4067cd4e9627af9fc"
+    },
+    "corroboration": {
+      "path": "/workspace/scratch/e48b251efe6f/handoff/COUNTY_GIS_WORKFLOW_V3.md",
+      "locator": "Initial screen; Routing; Handoff and learning",
+      "sha256": "a768fb6698e4a727e58fcbf3df7d4c8c619663be58e6b4523209d02ec2d41f13"
+    },
+    "obsolete_conflicts": [
+      {
+        "source": {
+          "path": "/workspace/scratch/e48b251efe6f/handoff/reference/Updated_gameplan_8_31_2026.pdf",
+          "locator": "pp. 16–18 and p.28",
+          "sha256": "ca93ea78962fb5925ab17edd8d04e72e7d1f8c8e7dca70817fbb290614a22e09"
+        },
+        "historical_limits_usd": [
+          2500,
+          7500,
+          15000
+        ],
+        "status": "Superseded by later explicit user/current manual doctrine"
+      },
+      {
+        "source": "Electric Land Deal Engine generic defaults",
+        "historical_limits_usd": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "status": "Use applicable source/evidence workflow, not higher spending defaults as authority"
+      }
+    ]
+  },
+  "evidence_rules": {
+    "available_load_mw_unknown_value": null,
+    "do_not_convert": [
+      "Generation/nameplate MW into available load MW",
+      "Voltage/proximity into deliverability",
+      "Territory polygon into exact serving utility",
+      "Ownership class polygon into legal parcel acreage",
+      "Broadband proxy into diverse fiber routes",
+      "Industrial zoning/history into current data-center permission",
+      "GIS road line into recorded access rights",
+      "No feature or retrieval failure into clean clearance",
+      "High score into calibrated probability"
+    ],
+    "county_results": [
+      "VERIFIED_FINDING",
+      "NO_FEATURE_IN_COVERED_QUERY",
+      "NOT_PUBLISHED",
+      "NOT_REVIEWED",
+      "BLOCKED",
+      "CONFLICT",
+      "NEEDS_INTERPRETATION"
+    ]
+  },
+  "source_pack": {
+    "path": "/workspace/scratch/e48b251efe6f/handoff/research/research-pack.json",
+    "sha256": "93365d7c5d683c6186a67c787f356eccafd9de614ad02164715d2a6a80fbda17",
+    "schema_version": 2,
+    "as_of": "2026-09-04",
+    "record_count": 14,
+    "record_ids": [
+      "az-cochise-12002003a",
+      "ca-sanjoaquin-01322013",
+      "ca-sanjoaquin-01322058",
+      "tx-milam-r22018",
+      "ga-burke-079062-part",
+      "pa-schuylkill-mcadoo-unresolved",
+      "tx-briscoe-silverton-unresolved",
+      "legacy-mason-unresolved",
+      "ca-sanjoaquin-05926084",
+      "ca-sanjoaquin-05926086",
+      "ca-sanjoaquin-00517015",
+      "ca-sanjoaquin-00517016",
+      "ca-sanjoaquin-06308023",
+      "ca-sanjoaquin-06315041"
+    ],
+    "counts": {
+      "active_typed_parcels": 4,
+      "unresolved_leads": 4,
+      "archived_parcels": 6
+    },
+    "active_opportunity_count": 3,
+    "active_opportunity_note": "Benson; combined Acampo two-APN assemblage; Rockdale parent/offer unresolved. These are research opportunities, not qualified deals."
+  },
+  "initial_screen_assessments": [
+    {
+      "id": "az-cochise-12002003a",
+      "original_record_type": "PARCEL",
+      "source_as_of": "2026-09-04",
+      "freshly_verified": false,
+      "recommended_priority_tier": "Priority",
+      "recommended_workflow_stage": "GIS_QUEUED",
+      "initial_screen_basis": "Traceable exact APN in Cochise with inherited marketed offering, owner record and electricity-intensive use hypothesis. Attributable SSVEC/process and substation leads exist as provisional signals. No supported incurable fatality established; a precise public-record/geometry test is inexpensive and decisive.",
+      "capital_status": "HOLD",
+      "evidence_status": "INHERITED_AND_CONFLICTED",
+      "hypothesis_scope": "Low-water industrial/data-center research hypothesis; buyer requirements unvalidated.",
+      "alternate_use_hypothesis": "Rural agricultural/open-land or other existing lawful use, subject to actual zoning/access; no verified value floor.",
+      "next_test": "Resolve full legal APN geometry versus marketed 90/103/13-acre portions, retrieve recorded N Aacco Trail instrument, then map corridor and largest contiguous usable scenario.",
+      "reasons_against": [
+        "Assessor 115.45 versus prior GIS 106.92 versus marketing acreage conflict.",
+        "Road/public easement width, alignment and legal status unresolved.",
+        "Rail/I-10 location can reduce usable area and usable access.",
+        "No parcel/load utility evidence, buyer mandate, control terms, water yield or current code conclusion."
+      ],
+      "source_ids": [
+        "BEN-PRIOR",
+        "BEN-CALL",
+        "CO-PARCEL",
+        "CO-GIS",
+        "CO-PLAN",
+        "SSVEC"
+      ],
+      "map_policy": "Only inherited locator may be shown with its precision caveat; geometry remains null until sourced. Priority does not authorize invented polygon."
+    },
+    {
+      "id": "ca-sanjoaquin-01322013",
+      "original_record_type": "PARCEL",
+      "source_as_of": "2026-09-04",
+      "freshly_verified": false,
+      "recommended_priority_tier": "Watch",
+      "recommended_workflow_stage": "INITIAL_SCREEN_PENDING",
+      "initial_screen_basis": "Traceable APN and historical official 30.09-acre industrial project with -58; targeted research is justified. Combined offering/current quote and third APN conflict prevent a firm basic control-economics/asset-scope conclusion. This Watch decision is analyst prioritization under incomplete initial facts, not failure to finish county GIS.",
+      "capital_status": "HOLD",
+      "evidence_status": "HISTORICAL_OFFICIAL_AND_INHERITED",
+      "assemblage_id": "acampo-shared-offering",
+      "shared_with": "ca-sanjoaquin-01322058",
+      "assemblage_id_basis": "New grouping label; original parcel IDs preserved.",
+      "hypothesis_scope": "Smaller low-water industrial/data-center concept only after buyer scale, setback and service screening; 30.09 shared acres below historical 40-acre default but not automatically fatal.",
+      "alternate_use_hypothesis": "Historical truck/RV/warehouse-type industrial use subject to actual approval conditions, current compliance and demand; no appraised floor.",
+      "next_test": "Recover original two-APN approval/exhibits and current sale/lease schedule; determine whether -39 is included and what current price/option or lease terms cover.",
+      "promotion_catalyst": "Defined current asset/control basis and buyer/use scale that plausibly fits the smaller combined acreage; no complete GIS prerequisite.",
+      "reasons_against": [
+        "Current price unknown; do not import unrelated $9.8M.",
+        "Historical approval differs from data-center use.",
+        "Right-of-way through -58 for -13 and compliance unverified.",
+        "Nearby homes, agricultural mitigation, water/fire and policy-study uncertainty.",
+        "Regional 230kV project is only context, not parcel MW."
+      ],
+      "source_ids": [
+        "SJ-CEQA",
+        "SJ-STAFF",
+        "SJ-STUDY",
+        "SJ-PRIOR",
+        "ACA-LIST",
+        "SJ-POWER",
+        "SJ-POLICY"
+      ],
+      "map_policy": "No coordinate or polygon in imported source; retain null geometry until traceable official geometry or labeled source locator."
+    },
+    {
+      "id": "ca-sanjoaquin-01322058",
+      "original_record_type": "PARCEL",
+      "source_as_of": "2026-09-04",
+      "freshly_verified": false,
+      "recommended_priority_tier": "Watch",
+      "recommended_workflow_stage": "INITIAL_SCREEN_PENDING",
+      "initial_screen_basis": "Traceable APN and historical official 30.09-acre industrial project with -58; targeted research is justified. Combined offering/current quote and third APN conflict prevent a firm basic control-economics/asset-scope conclusion. This Watch decision is analyst prioritization under incomplete initial facts, not failure to finish county GIS.",
+      "capital_status": "HOLD",
+      "evidence_status": "HISTORICAL_OFFICIAL_AND_INHERITED",
+      "assemblage_id": "acampo-shared-offering",
+      "shared_with": "ca-sanjoaquin-01322013",
+      "assemblage_id_basis": "New grouping label; original parcel IDs preserved.",
+      "hypothesis_scope": "Smaller low-water industrial/data-center concept only after buyer scale, setback and service screening; 30.09 shared acres below historical 40-acre default but not automatically fatal.",
+      "alternate_use_hypothesis": "Historical truck/RV/warehouse-type industrial use subject to actual approval conditions, current compliance and demand; no appraised floor.",
+      "next_test": "Recover original two-APN approval/exhibits and current sale/lease schedule; determine whether -39 is included and what current price/option or lease terms cover.",
+      "promotion_catalyst": "Defined current asset/control basis and buyer/use scale that plausibly fits the smaller combined acreage; no complete GIS prerequisite.",
+      "reasons_against": [
+        "Current price unknown; do not import unrelated $9.8M.",
+        "Historical approval differs from data-center use.",
+        "Right-of-way through -58 for -13 and compliance unverified.",
+        "Nearby homes, agricultural mitigation, water/fire and policy-study uncertainty.",
+        "Regional 230kV project is only context, not parcel MW."
+      ],
+      "source_ids": [
+        "SJ-CEQA",
+        "SJ-STAFF",
+        "SJ-STUDY",
+        "SJ-PRIOR",
+        "ACA-LIST",
+        "SJ-POWER",
+        "SJ-POLICY"
+      ],
+      "map_policy": "No coordinate or polygon in imported source; retain null geometry until traceable official geometry or labeled source locator."
+    },
+    {
+      "id": "tx-milam-r22018",
+      "original_record_type": "PARCEL",
+      "source_as_of": "2026-09-04",
+      "freshly_verified": false,
+      "recommended_priority_tier": "Watch",
+      "recommended_workflow_stage": "ASSET_DEFINITION_NEEDED",
+      "initial_screen_basis": "Preserve original recordType PARCEL, but show qualification as unresolved partial offering. A marketed ~189-acre tract tied to parent property ID R22018 is not yet a independently traceable purchasable offered polygon. No direct parcel infrastructure/process signal is established in the pack.",
+      "capital_status": "HOLD",
+      "evidence_status": "MARKETING_AND_INHERITED",
+      "hypothesis_scope": "Large industrial market proximity may justify parcel research after offered tract and jurisdiction resolve.",
+      "alternate_use_hypothesis": "Existing rural land use, agriculture or ordinary land holding, subject to legal access, restrictions and comps; no proven alternate-use economics.",
+      "next_test": "Obtain source survey/legal description or recorded offered-part instrument tied to R22018; establish county versus city/ETJ authority and current quote.",
+      "promotion_catalyst": "Traceable offered tract and attributable infrastructure/intake signal with plausible control economics; then Priority/GIS_QUEUED is possible without utility study.",
+      "reasons_against": [
+        "Offered part versus parent and split status unresolved.",
+        "Current price and seller option receptivity unknown.",
+        "Unrestricted marketing is not a legal use determination.",
+        "Utility territory, available MW, schedule, deposits and buyer mandate unknown."
+      ],
+      "source_ids": [
+        "ROC-LIST",
+        "MILAM-CAD",
+        "ROC-PRIOR"
+      ],
+      "map_policy": "No source locator or geometry; do not fabricate a center point from city name."
+    }
+  ]
+}

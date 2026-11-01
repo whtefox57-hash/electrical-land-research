@@ -1,0 +1,62 @@
+{
+  "revision": "NATIONAL_ORIGINATION_V2_2026-10-30",
+  "project_id": "appgprj_6a9c555e97f48191a1d45c2cb55d4779",
+  "purpose": "Collect land listings before screening. Preserve every record and disposition. Work state by state, county by county; retain unresolved sources and unfinished review queues.",
+  "scope": "50 states and District of Columbia; all land categories and price bands. No national completeness claim without a reconciled defined source universe. Feed snapshots and dates matter.",
+  "storage": {
+    "endpoint": "/api/origination",
+    "read": "GET ?kind=listing|county|case|source&state=AL&q=&limit=200&offset=0; GET ?summary=1; GET ?run_id=EXACT_ID",
+    "write": "POST JSON {run_id,producer_id,summary,coverage,records:[{kind,id,expected_version:0,data:{...}}]}. Up to 100 rows. New rows version 0; updates must use GET version. Use stable source-and-listing IDs. A different correction gets a new run_id.",
+    "receipt": "Each atomic write retains prior data, returns payload hash and readback_verified. Reuse identical run_id/payload after a transient failure; do not alter a retry. GET the run receipt and representative record before advancing coverage/cursors.",
+    "service_auth": "Call Sites get_site with exact project_id. Verify owner-only audience. Obtain siwc_bypass_bearer_token from that result and send OAI-Sites-Authorization: Bearer TOKEN only to the exact Site origin. The token supplies no user identity. Keep it only in memory and stdin; never store in prompts, source or output. No invented identity headers. If unsupported, use the connected Site MCP publish_origination_batch/get_origination_registry tools, or disclose blocked delivery and save an import-ready payload. Do not republish for ordinary data writes."
+  },
+  "listing_required": [
+    "id",
+    "source",
+    "source_listing_id",
+    "url",
+    "title",
+    "state",
+    "county or null",
+    "acres or null",
+    "asking_price or null",
+    "listing_status",
+    "observed_at",
+    "listed_date or null",
+    "apn or null",
+    "power_evidence",
+    "available_mw:null unless V4 exact-scope proof",
+    "residential_screen",
+    "approval_history_status",
+    "disposition: REJECT|HOLD|FURTHER_INVESTIGATION",
+    "reason_codes",
+    "decision_reason",
+    "next_action",
+    "source_urls",
+    "evidence_level",
+    "review_stage"
+  ],
+  "residential": {
+    "measurements": "Parcel boundary to nearest confirmed dwelling; separately nearest potential dwelling; proposed equipment/pad to receptors if layout exists. Count confirmed dwellings in 250,500,1000 metres and 1 mile. Record units, projection, imagery date, layer source, confidence and completeness. Boundary-to-boundary distance required where local rule uses sensitive properties. Distinguish on-site seller dwelling and off-site homes. Do not convert a parcel centroid distance to a setback.",
+    "flags": "Residential subdivisions including approved/unbuilt lots, schools, hospitals, care facilities, churches, campgrounds where relevant; multiple sides of homes; prevailing wind/topography/vegetation, sound/cooling/generators/emissions/light/traffic; usable buffer and expansion envelope.",
+    "policy": "Distance bands are prioritization only, not nationwide zoning law or calibrated approval odds. Known binding rule failure may reject current scope; proximity alone triggers evidence and mitigation review. Missing measurements are null, never zero or 'no residences'."
+  },
+  "approval_history": {
+    "record": "Correct county/municipality/township/ETJ authority; case/root project ID, APNs, use (crypto/data center/industrial), MW, date, stage, vote, decision, conditions, denial/withdrawal rationale, residential relation, ordinance at time/current, appeal/litigation/reversal/expiry, source URL and completeness window.",
+    "outcomes": "Separate rezoning, CUP, site plan, permit, recommendation, denial, withdrawal, pending, registration and moratorium. Construction registration is not zoning approval. No cases found is unknown, not supportive.",
+    "inference": "Compare truly similar scope and legal regime. Do not derive approval percentage from selected cases, synthetic labels or announced successes."
+  },
+  "review": {
+    "rules": "Preserve 52-factor register, 34-topic/116-question diligence, 16 non-compensating paid-control proofs. 10-50MW focus, especially 20-30 facility MW, does not filter raw intake. Existing one paid pilot/two backups constrains spending, not number of research listings. $5,000 learning and $10,000 cumulative initial soft-control caps remain; no new spending authorized.",
+    "dispositions": "REJECT requires supported reason scoped to specific use and phase; tiny lot may fail standalone design but assembly remains an explicit reopening condition. HOLD for missing evidence/technical access/current-status conflict. FURTHER_INVESTIGATION is research priority, not powered or permit-ready.",
+    "learning": "Preserve all rejected/held records, evidence, reason category, reviewer/method version, changed conditions and source dates. Distinguish analyst labels from observed permit/utility/seller/buyer outcomes; no model training or calibrated probabilities claimed merely by saving rows. Recheck changed conditions, audit false negatives."
+  },
+  "coverage": {
+    "county_completion": "A Census county record is not a review. Complete only for named source universe and snapshot after every page/cursor and record count reconcile and every ingested listing is individually reviewed. Never label that all-source completeness if independent broker/MLS/off-market universe unresolved.",
+    "cursors": "Maintain per-source state/county query/filter/page/cursor, attempted and successful intervals, known denominators, returned/deduped/reviewed counts, failure and next URL. Advance committed watermark only after durable receipt. First-seen is not first-listed. National newest sitemap has limited window, not an exhaustive feed.",
+    "backfill": "Alphabetical state order, then county FIPS, starting Alabama/Autauga 01001. Keep blocked source explicit; attempt meaningful alternate authorized sources and advance working queue while retaining unfinished status. Never repeatedly restart Alabama. Daily delta is separate so backfill does not miss new supply."
+  },
+  "daily_output": "Always deliver an auditable progress report: new/changed/individually reviewed counts, current dispositions with reasons, residence and approval-history evidence added, source/county coverage, unresolved gaps, next cursor and verified Deal Desk receipt. Zero qualified candidates still requires a progress report.",
+  "safety": "No contact, account creation, purchase, offers, commitments or paid data activation. Existing user-confirmed written LandSearch permission dated 2026-09-30 remains recognized; respect technical access controls and provider limits. No .html deliverables.",
+  "record_id_contract": "POST id accepts a bare stable ID or a qualified registry_id. The writer removes redundant kind prefixes for new records and resolves existing legacy keys without renaming rows or history. GET kind+id resolves the same aliases. Use the returned version as expected_version. Existing aliases must not be duplicated under a newly normalized key. Legacy run retries retain their original receipts."
+}

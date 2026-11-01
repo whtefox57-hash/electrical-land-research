@@ -1,0 +1,36 @@
+{
+  "asOf": "2026-09-04",
+  "completed": [
+    "Current Cochise planning/GIS resource discovery",
+    "Current San Joaquin policy, planning and CEQAnet review",
+    "Prior San Joaquin source packet and six rejections recovered",
+    "Milam official appraisal entry and Rockdale offering identified",
+    "14 per-record source-linked dossiers generated"
+  ],
+  "not_claimed": [
+    "No newly retrieved full legal parcel polygon in the static research snapshot",
+    "No completed fresh full-polygon overlay intersections",
+    "No complete title/easement chain",
+    "No current net buildable acres",
+    "No available load MW or utility schedule",
+    "No original county PDF condition-compliance documents freshly retrieved"
+  ],
+  "sourceFailures": [
+    {
+      "source": "Cochise ArcGIS exact-feature / dynamic viewer",
+      "status": "BLOCKED_IN_RESEARCH_BROWSER",
+      "treatment": "No current boundary created; inherited locator only; live adapter can attempt retrieval."
+    },
+    {
+      "source": "San Joaquin PA-2300130 staff-report and initial-study PDFs",
+      "status": "FRESH_RETRIEVAL_UNSUCCESSFUL",
+      "treatment": "Findings explicitly labeled prior-report inheritance; original links and document requests retained."
+    },
+    {
+      "source": "Rockdale R22018 offered-part geometry",
+      "status": "NOT_RESOLVED",
+      "treatment": "No guessed polygon or net acreage."
+    }
+  ],
+  "deploymentVerification": "See final chat status; earlier ready checks showed no smoke QA errors but e2e_tests was null. Do not interpret test definitions as proof that the full suite ran."
+}

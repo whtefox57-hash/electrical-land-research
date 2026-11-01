@@ -1,0 +1,17 @@
+{
+  "unmatchedBuyer": "iron-mountain",
+  "reason": "No defensible new-build property found in this bounded follow-up. Do not force a match or assign a build probability.",
+  "rejectedOrAncillary": [
+    {
+      "name": "1400 Coleman Avenue, Santa Clara",
+      "reason": "Reject stale CBRE land sale listing. Primary city planning record shows approved 142-home development, APN 230-05-021; not an available DC site.",
+      "sourceUrl": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/678/2495"
+    },
+    {
+      "name": "12012 NW 27th Place, Miami",
+      "reason": "Current Cushman & Wakefield listing at $3.85 million, 0.99 acres, near Iron Mountain MIA-1 address corridor. Too small and insufficient physical relationship proof for a standalone data-center match; may be screened only for ancillary yard/easement need if Iron Mountain asks. No construction probability or match added.",
+      "listingUrl": "https://www.crexi.com/properties/2348187/florida-1-ac-land-in-gratigny",
+      "buyerSourceUrl": "https://digitalresourcecenter.ironmountain.com/data-centers/locations/na/miami"
+    }
+  ]
+}

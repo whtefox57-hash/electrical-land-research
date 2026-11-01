@@ -1,0 +1,1357 @@
+[
+  {
+    "id": "wy-uinta-15201840400301",
+    "name": "Union Center \u2014 Lot 3, Block 1",
+    "state": "WY",
+    "county": "Uinta",
+    "summary": "Active city offering and exact county parcel. Listing size, offered footprint and utility process remain unresolved.",
+    "recordType": "PARCEL",
+    "apn": "15201840400301",
+    "origin": "September 7 Deep Scan historical backfill",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Active city offering and exact county parcel. Listing size, offered footprint and utility process remain unresolved.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "EXACT_APN",
+        "status": "Exact parcel",
+        "sourceIds": []
+      },
+      {
+        "label": "County / advertised acreage",
+        "value": "21.44837 / 18.26 acres; 29-acre contiguous claim",
+        "status": "CONFLICT",
+        "sourceIds": [
+          "UINTA-PARCEL-20260907"
+        ]
+      },
+      {
+        "label": "Asking price",
+        "value": "$1,000,000 reported",
+        "status": "Listing claim; not agreed terms",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [
+      {
+        "id": "union-flood",
+        "topic": "FEMA full-polygon review",
+        "status": "BLOCKED",
+        "result": "Recovered report records query failures. No flood clearance.",
+        "scope": "Exact parcel and envelope query attempts",
+        "checkedAt": "2026-09-07T15:58:00Z",
+        "sourceIds": [],
+        "coverageNote": "Blank FLOOD_ZONE in parcel service is not a FEMA result."
+      },
+      {
+        "id": "union-zoning",
+        "topic": "Zoning",
+        "status": "NEEDS_INTERPRETATION",
+        "result": "Recovered report states LI-D. Parcel-service ZONE_ is blank; verify city zoning and proposed use.",
+        "scope": "City jurisdiction",
+        "checkedAt": "2026-09-07T15:58:00Z",
+        "sourceIds": [],
+        "coverageNote": "No permit or entitlement implied."
+      }
+    ],
+    "sources": [
+      {
+        "id": "UINTA-PARCEL-20260907",
+        "title": "Uinta official parcel service \u2014 exact PIN query",
+        "url": "https://services7.arcgis.com/TsVLs9I3Mz0rNgK9/arcgis/rest/services/March_26_Parcel_Map/FeatureServer/0",
+        "publisher": "Uinta County GIS",
+        "date": "March 2026 service",
+        "retrievedAt": "2026-09-07",
+        "kind": "EXACT_APN_POLYGON",
+        "limitation": "One matching feature. Tax boundary does not establish offered tract, title, zoning or flood clearance."
+      },
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      },
+      {
+        "id": "SCAN-LINK-2",
+        "title": "Source cited in September 7 research",
+        "url": "https://properties.zoomprospector.com/statewy/property/1700-Union-Road-Evanston-Wyoming/E54ECF68-ADCB-458C-B9E1-BF3F1A3119C7",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      }
+    ],
+    "actions": [
+      {
+        "id": "wy-uinta-15201840400301-proof",
+        "order": 1,
+        "title": "Reconcile the 18.26-acre offering with the 21.44837-acre county parcel and obtain a tract exhibit.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Reconcile the 18.26-acre offering with the 21.44837-acre county parcel and obtain a tract exhibit.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -110.990392567095,
+            41.2746074650063
+          ],
+          [
+            -110.990429814313,
+            41.274523162022
+          ],
+          [
+            -110.990458649638,
+            41.2744370037237
+          ],
+          [
+            -110.990478912589,
+            41.2743494659256
+          ],
+          [
+            -110.990490491754,
+            41.2742610339586
+          ],
+          [
+            -110.990493323524,
+            41.2741721972774
+          ],
+          [
+            -110.990487392064,
+            41.2740834476593
+          ],
+          [
+            -110.990472730472,
+            41.2739952764946
+          ],
+          [
+            -110.990465468168,
+            41.2739582490932
+          ],
+          [
+            -110.990460392492,
+            41.2739263938234
+          ],
+          [
+            -110.990456753923,
+            41.2738978175173
+          ],
+          [
+            -110.990456228195,
+            41.2738930357042
+          ],
+          [
+            -110.990452398893,
+            41.2738471477171
+          ],
+          [
+            -110.990451501819,
+            41.2737520912063
+          ],
+          [
+            -110.990459954516,
+            41.273657246466
+          ],
+          [
+            -110.990477710468,
+            41.2735631361289
+          ],
+          [
+            -110.990511094366,
+            41.273455279545
+          ],
+          [
+            -110.990552525835,
+            41.273349023584
+          ],
+          [
+            -110.990601869906,
+            41.2732447087753
+          ],
+          [
+            -110.990658967686,
+            41.2731426713332
+          ],
+          [
+            -110.990723637481,
+            41.2730432386456
+          ],
+          [
+            -110.990795671224,
+            41.272946729303
+          ],
+          [
+            -110.990874835679,
+            41.2728534539888
+          ],
+          [
+            -110.990960878368,
+            41.2727637127322
+          ],
+          [
+            -110.991053521583,
+            41.2726777931541
+          ],
+          [
+            -110.99115246957,
+            41.272595972212
+          ],
+          [
+            -110.991257401308,
+            41.2725185117548
+          ],
+          [
+            -110.991367982477,
+            41.27244566113
+          ],
+          [
+            -110.991483857059,
+            41.2723776536482
+          ],
+          [
+            -110.991599374167,
+            41.2723173694331
+          ],
+          [
+            -110.991719001852,
+            41.2722618368226
+          ],
+          [
+            -110.991842399792,
+            41.27221121517
+          ],
+          [
+            -110.991969211955,
+            41.2721656495463
+          ],
+          [
+            -110.992099074964,
+            41.2721252715752
+          ],
+          [
+            -110.992231616858,
+            41.2720901958402
+          ],
+          [
+            -110.993279723431,
+            41.2718942147248
+          ],
+          [
+            -110.993427079647,
+            41.2718722059857
+          ],
+          [
+            -110.993572498052,
+            41.271843795686
+          ],
+          [
+            -110.993715491779,
+            41.2718090795305
+          ],
+          [
+            -110.993855580197,
+            41.2717681720864
+          ],
+          [
+            -110.993992292572,
+            41.2717212130579
+          ],
+          [
+            -110.994125171544,
+            41.2716683591539
+          ],
+          [
+            -110.994253768384,
+            41.2716097868271
+          ],
+          [
+            -110.994377653777,
+            41.2715456948895
+          ],
+          [
+            -110.994496411741,
+            41.2714762964564
+          ],
+          [
+            -110.994629045325,
+            41.2715474672823
+          ],
+          [
+            -110.993024678356,
+            41.2738381993902
+          ],
+          [
+            -110.992928282129,
+            41.2739700161191
+          ],
+          [
+            -110.992919354769,
+            41.2739820943165
+          ],
+          [
+            -110.9928282241,
+            41.2741001472157
+          ],
+          [
+            -110.992818389698,
+            41.2741124054598
+          ],
+          [
+            -110.992725421965,
+            41.2742292697722
+          ],
+          [
+            -110.992715585125,
+            41.2742413551379
+          ],
+          [
+            -110.992618961581,
+            41.2743568786389
+          ],
+          [
+            -110.992609122304,
+            41.2743687911259
+          ],
+          [
+            -110.992510660536,
+            41.2744829576503
+          ],
+          [
+            -110.992499914208,
+            41.2744950501801
+          ],
+          [
+            -110.992398702376,
+            41.274607692233
+          ],
+          [
+            -110.992387953609,
+            41.2746196118828
+          ],
+          [
+            -110.992283996513,
+            41.2747310760965
+          ],
+          [
+            -110.992273240586,
+            41.2747424825286
+          ],
+          [
+            -110.992165627571,
+            41.2748527733832
+          ],
+          [
+            -110.992154869205,
+            41.2748640069348
+          ],
+          [
+            -110.992045414375,
+            41.2749725977368
+          ],
+          [
+            -110.992033746589,
+            41.2749838411569
+          ],
+          [
+            -110.991922458236,
+            41.2750914161854
+          ],
+          [
+            -110.991910788011,
+            41.2751024867236
+          ],
+          [
+            -110.991796744851,
+            41.2752081978046
+          ],
+          [
+            -110.991785072186,
+            41.2752190954605
+          ],
+          [
+            -110.991668278934,
+            41.2753232829228
+          ],
+          [
+            -110.991655699201,
+            41.2753343606112
+          ],
+          [
+            -110.991536149912,
+            41.2754366823164
+          ],
+          [
+            -110.991523563022,
+            41.2754472467836
+          ],
+          [
+            -110.99149135635,
+            41.2754743904514
+          ],
+          [
+            -110.990392567095,
+            41.2746074650063
+          ]
+        ]
+      ]
+    },
+    "geometrySource": "https://services7.arcgis.com/TsVLs9I3Mz0rNgK9/arcgis/rest/services/March_26_Parcel_Map/FeatureServer/0",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Active city offering and exact county parcel. Listing size, offered footprint and utility process remain unresolved.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "PRIORITY",
+    "workflow_stage": "GIS_IN_PROGRESS",
+    "evidence_status": "Historical backfill \u00b7 2026-09-07",
+    "capital_status": "HOLD",
+    "opportunityId": "wy-uinta-15201840400301",
+    "categoryReason": "Active city offering and exact county parcel. Listing size, offered footprint and utility process remain unresolved.",
+    "initialScreen": {
+      "traceableAsset": true,
+      "plausibleEconomics": true,
+      "powerSignal": true,
+      "buyerFit": true,
+      "noSupportedFatal": true,
+      "nextTest": true,
+      "alternateUse": true
+    },
+    "alternateUse": "Conventional light industrial; LI-D stated in recovered report, not independently cleared by blank county parcel field.",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "City of Evanston",
+      "land": {
+        "kind": "EXACT_APN",
+        "apns": [
+          "15201840400301"
+        ],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": 18.26,
+        "assessorAcreage": 21.4483700246,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": [
+          "18.26 acres advertised; county parcel 21.44837 acres; 29 contiguous acres claimed. Offered geometry unresolved."
+        ]
+      },
+      "commercial": {
+        "askingPrice": 1000000,
+        "priceHistory": [],
+        "seller": "City of Evanston",
+        "motivation": "UNKNOWN",
+        "control": "Sale/lease negotiable per listing; no agreement"
+      },
+      "portfolioStatus": "BACKUP_1",
+      "electricity": {
+        "available_mw": null,
+        "utility": "Rocky Mountain Power \u2014 exact parcel process unverified",
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Industrial city offering, I-80/rail/fiber and municipal-utility signals.",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Reconcile the 18.26-acre offering with the 21.44837-acre county parcel and obtain a tract exhibit.",
+        "buildInvestment": "Not established",
+        "objection": "No exact-load power path or reconciled offered footprint.",
+        "substitutes": "Not researched",
+        "whyPay": "Possible evidence package only; no demonstrated scarce or transferable advantage.",
+        "nextProof": "Reconcile the 18.26-acre offering with the 21.44837-acre county parcel and obtain a tract exhibit."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "nm-san-juan-energy-corridor",
+    "name": "San Juan \u2014 legacy-energy corridor",
+    "state": "NM",
+    "county": "San Juan",
+    "summary": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "September 7 Deep Scan historical backfill",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      }
+    ],
+    "actions": [
+      {
+        "id": "nm-san-juan-energy-corridor-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Backup #2 research corridor. No exact privately controllable parcel established.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "Historical backfill \u00b7 2026-09-07",
+    "capital_status": "HOLD",
+    "opportunityId": "nm-san-juan-energy-corridor",
+    "categoryReason": "Backup #2 research corridor. No exact privately controllable parcel established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Exact tract and governing jurisdiction not established",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "BACKUP_2",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "ok-mayes-midamerica",
+    "name": "MidAmerica / Pryor \u2014 park search area",
+    "state": "OK",
+    "county": "Mayes",
+    "summary": "Park-level infrastructure and development signals; no exact tract, price or control path. Independent positive community evidence is insufficient.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "September 7 Deep Scan historical backfill",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Park-level infrastructure and development signals; no exact tract, price or control path. Independent positive community evidence is insufficient.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      },
+      {
+        "id": "SCAN-LINK-1",
+        "title": "Source cited in September 7 research",
+        "url": "https://maip.com/site-selection/competitive-advantages/",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      },
+      {
+        "id": "SCAN-LINK-2",
+        "title": "Source cited in September 7 research",
+        "url": "https://ktul.com/news/local/residents-gather-in-mayes-county-to-discuss-proposed-data-centers-07-28-2026",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      },
+      {
+        "id": "SCAN-LINK-3",
+        "title": "Source cited in September 7 research",
+        "url": "https://www.readfrontier.org/stories/as-data-centers-boom-in-oklahoma-so-does-water-demand/",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      }
+    ],
+    "actions": [
+      {
+        "id": "ok-mayes-midamerica-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Park-level infrastructure and development signals; no exact tract, price or control path. Independent positive community evidence is insufficient.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "Historical backfill \u00b7 2026-09-07",
+    "capital_status": "HOLD",
+    "opportunityId": "ok-mayes-midamerica",
+    "categoryReason": "Park-level infrastructure and development signals; no exact tract, price or control path. Independent positive community evidence is insufficient.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "BOTH",
+      "jurisdiction": "Mayes County / applicable park jurisdiction to verify",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [
+          "September 7 report: community concerns and water-demand scrutiny; not a politically promising parcel."
+        ],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "ia-jackson-maquoketa",
+    "name": "Maquoketa \u2014 rejected data-center concept",
+    "state": "IA",
+    "county": "Jackson",
+    "summary": "Data-center discussions ceased after opposition in August 2026. Preserve for learning; do not reopen on generic industrial marketing.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "September 7 Deep Scan historical backfill",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "REJECTED",
+    "thesis": "Data-center discussions ceased after opposition in August 2026. Preserve for learning; do not reopen on generic industrial marketing.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      },
+      {
+        "id": "SCAN-LINK-1",
+        "title": "Source cited in September 7 research",
+        "url": "https://www.kwqc.com/2026/08/19/maquoketa-halts-early-discussions-potential-data-center-development/",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      },
+      {
+        "id": "SCAN-LINK-2",
+        "title": "Source cited in September 7 research",
+        "url": "https://www.ruhlcommercial.com/property-search/property/?id=12585916",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      },
+      {
+        "id": "SCAN-LINK-3",
+        "title": "Source cited in September 7 research",
+        "url": "https://opportunityiowa.gov/business/buildings-sites/highway-61-industrial-park",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      }
+    ],
+    "actions": [
+      {
+        "id": "ia-jackson-maquoketa-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": {
+      "reason": "Data-center discussions ceased after opposition in August 2026. Preserve for learning; do not reopen on generic industrial marketing.",
+      "kind": "Current data-center concept",
+      "reopen": "Adopted data-center rules and a new public proposal.",
+      "lesson": "Check jurisdiction and current community response before land economics."
+    },
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Data-center discussions ceased after opposition in August 2026. Preserve for learning; do not reopen on generic industrial marketing.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "REJECTED",
+    "workflow_stage": "ARCHIVED",
+    "evidence_status": "Historical backfill \u00b7 2026-09-07",
+    "capital_status": "HOLD",
+    "opportunityId": "ia-jackson-maquoketa",
+    "categoryReason": "Data-center discussions ceased after opposition in August 2026. Preserve for learning; do not reopen on generic industrial marketing.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "City of Maquoketa",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": [
+          "Listing fields: 10 acres / $250,000; remarks: 44.5 acres / $25,000 per acre; state site: 61.44 available acres. Exact APN unresolved."
+        ]
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "ARCHIVED",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "NOT_SCORED",
+        "evidence": [
+          "Recovered September 7 report cites August 19 coverage of ceased discussions."
+        ],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "ia-woodbury-salix",
+    "name": "Salix \u2014 buyer intelligence / hard hold",
+    "state": "IA",
+    "county": "Woodbury",
+    "summary": "Utility-affiliate options and a prospective Google project. Buyer-learning record; not land Syncranicity controls. Annexation litigation and jurisdiction questions remain.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "September 7 Deep Scan historical backfill",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Utility-affiliate options and a prospective Google project. Buyer-learning record; not land Syncranicity controls. Annexation litigation and jurisdiction questions remain.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      },
+      {
+        "id": "SCAN-LINK-1",
+        "title": "Source cited in September 7 research",
+        "url": "https://www.ktiv.com/2026/09/03/new-legal-move-made-stop-data-centers-google-sets-up-data-center-website/",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      },
+      {
+        "id": "SCAN-LINK-2",
+        "title": "Source cited in September 7 research",
+        "url": "https://www.ktiv.com/2026/08/03/google-considering-data-center-salix-iowa-according-midamerican-energy/",
+        "publisher": "See linked source",
+        "date": "See full report",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "CITED_IN_REPORT",
+        "limitation": "Historical backfill citation; not independently rechecked."
+      }
+    ],
+    "actions": [
+      {
+        "id": "ia-woodbury-salix-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Utility-affiliate options and a prospective Google project. Buyer-learning record; not land Syncranicity controls. Annexation litigation and jurisdiction questions remain.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "Historical backfill \u00b7 2026-09-07",
+    "capital_status": "HOLD",
+    "opportunityId": "ia-woodbury-salix",
+    "categoryReason": "Utility-affiliate options and a prospective Google project. Buyer-learning record; not land Syncranicity controls. Annexation litigation and jurisdiction questions remain.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Annexation and city/county authority disputed",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "HARD_HOLD",
+        "evidence": [
+          "September 7 report: annexation challenge, jurisdiction uncertainty and moratorium context. Court outcome not established."
+        ],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "ne-lincoln-sutherland",
+    "name": "Gerald Gentleman / Sutherland corridor",
+    "state": "NE",
+    "county": "Lincoln",
+    "summary": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "User reconstruction brief \u2014 not a recovered automation finding",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      }
+    ],
+    "actions": [
+      {
+        "id": "ne-lincoln-sutherland-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "SOURCE RECOVERY INCOMPLETE",
+    "capital_status": "HOLD",
+    "opportunityId": "ne-lincoln-sutherland",
+    "categoryReason": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Lincoln",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  },
+  {
+    "id": "sunzia-learning",
+    "name": "SunZia \u2014 transmission learning",
+    "state": "NM / AZ",
+    "county": "Multiple",
+    "summary": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "recordType": "UNRESOLVED_LEAD",
+    "apn": "",
+    "origin": "User reconstruction brief \u2014 not a recovered automation finding",
+    "updatedAt": "2026-09-07T15:58:00Z",
+    "lifecycle": "ACTIVE",
+    "thesis": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "moneyVerdict": "HOLD. Research is not capital authorization.",
+    "facts": [
+      {
+        "label": "Land identity",
+        "value": "CORRIDOR",
+        "status": "APN unresolved",
+        "sourceIds": []
+      }
+    ],
+    "sections": [],
+    "factors": [],
+    "checks": [],
+    "sources": [
+      {
+        "id": "DEEP-SCAN-20260907",
+        "title": "September 7 Deep Scan \u2014 full preserved report",
+        "url": "/?view=research&report=deep-scan-20260907",
+        "publisher": "Syncranicity project research",
+        "date": "2026-09-07",
+        "retrievedAt": "2026-09-07T15:58:00Z",
+        "kind": "HISTORICAL_BACKFILL",
+        "limitation": "Recovered saved report; not a verified scheduled delivery. See original source dates and failures."
+      }
+    ],
+    "actions": [
+      {
+        "id": "sunzia-learning-proof",
+        "order": 1,
+        "title": "Identify a privately controllable exact parcel and current offering.",
+        "contact": "Responsible office to be verified",
+        "channel": "Founder-led document request",
+        "question": "Identify a privately controllable exact parcel and current offering.",
+        "decision": "Resolve the next evidence gap before spending.",
+        "costEstimate": "Not estimated; begin with existing public records",
+        "approvalRequired": true,
+        "done": false
+      }
+    ],
+    "geometry": null,
+    "geometrySource": "",
+    "location": null,
+    "kill": null,
+    "history": [
+      {
+        "at": "2026-09-07T15:58:00Z",
+        "action": "HISTORICAL_BACKFILL",
+        "note": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+        "source": "deep-scan-20260907"
+      }
+    ],
+    "notes": "",
+    "mapVisible": true,
+    "priority_tier": "WATCH",
+    "workflow_stage": "INITIAL_SCREEN",
+    "evidence_status": "SOURCE RECOVERY INCOMPLETE",
+    "capital_status": "HOLD",
+    "opportunityId": "sunzia-learning",
+    "categoryReason": "Reference retained from the reconstruction brief. Current parcel-level research was not recovered; no current promotion or utility capacity established.",
+    "initialScreen": {},
+    "alternateUse": "Not established",
+    "buyerFit": "Unverified use hypothesis",
+    "noteEntries": [],
+    "baseline": false,
+    "intelligence": {
+      "discoveryLane": "INFRASTRUCTURE_FIRST",
+      "jurisdiction": "Multiple",
+      "land": {
+        "kind": "CORRIDOR",
+        "apns": [],
+        "parentApn": null,
+        "offeredGeometry": null,
+        "advertisedAcreage": null,
+        "assessorAcreage": null,
+        "gisAcreage": null,
+        "surveyedAcreage": null,
+        "scenarioNetAcreage": null,
+        "largestContiguousArea": null,
+        "conflicts": []
+      },
+      "commercial": {
+        "askingPrice": null,
+        "priceHistory": [],
+        "seller": null,
+        "motivation": "UNKNOWN",
+        "control": "UNKNOWN"
+      },
+      "portfolioStatus": "OTHER",
+      "electricity": {
+        "available_mw": null,
+        "utility": null,
+        "verification": "NOT_REVIEWED",
+        "evidence": []
+      },
+      "political": {
+        "w": null,
+        "f": null,
+        "c": null,
+        "adjusted": null,
+        "tier": "UNKNOWN",
+        "evidence": [],
+        "contradictions": []
+      },
+      "buyer": {
+        "initialInterest": "Not assessed",
+        "killHold": "Unresolved exact-load utility and land/control evidence.",
+        "deeperDiligence": "Identify a privately controllable exact parcel and current offering.",
+        "buildInvestment": "Not established",
+        "objection": "No buyer-validated requirement or service commitment.",
+        "substitutes": "Not researched",
+        "whyPay": "No transferable advantage demonstrated",
+        "nextProof": "Identify a privately controllable exact parcel and current offering."
+      },
+      "updatedAt": "2026-09-07T15:58:00Z"
+    }
+  }
+]

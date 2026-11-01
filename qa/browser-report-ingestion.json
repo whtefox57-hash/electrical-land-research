@@ -1,0 +1,10 @@
+{
+  "scope": "Isolated local preview D1, through browser import UI",
+  "actual_report": "benson-gis-20260905-02051401f3cf",
+  "records": 14,
+  "report_count_after_first_import": 2,
+  "report_count_after_replay": 2,
+  "replay_version_unchanged": true,
+  "founder_archive_count": 6,
+  "status": "PASS"
+}

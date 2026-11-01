@@ -1,0 +1,26 @@
+[
+  {
+    "address": "4202 Fidelity St, Houston TX",
+    "reason": "Primary listing remains live, but September2026 reporting identifies Raeden acquisition negotiations and syndicated Cityfeet now marks off-market. Excluded pending broker confirmation rather than offered as new Giga inventory.",
+    "sources": [
+      "https://www.marcusmillichap.com/properties/186064/houston-hyperscale",
+      "https://www.chron.com/news/article/jacinto-city-data-center-texas-22413299.php",
+      "https://www.cityfeet.com/cont/listing/4202-fidelity-st-houston-tx-77029/cs39695248"
+    ]
+  },
+  {
+    "address": "1615 Garden of the Gods Road, Colorado Springs CO",
+    "reason": "Broker pages remain live but Project Taurus/Raeden development is underway in approval appeals. Controlled project, not assumed available land.",
+    "sources": [
+      "https://kramerbrokerage.com/available-listings",
+      "https://gazette.com/2026/06/22/appeals-filed-against-project-taurus-data-center-development-whats-next/"
+    ]
+  },
+  {
+    "address": "4350 E Tanners Church Rd, Ellenwood GA",
+    "reason": "Old available listing conflicts with current TA ATL02 project at same address; excluded as controlled comparable.",
+    "sources": [
+      "https://epd.georgia.gov/document/document/pa0426-1/download"
+    ]
+  }
+]

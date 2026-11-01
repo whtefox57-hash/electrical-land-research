@@ -1,0 +1,304 @@
+[
+  {
+    "id": "em-125",
+    "name": "Mill Road industrial site — Emporia",
+    "address": "Mill Road, Emporia, VA 23847",
+    "state": "VA",
+    "acresGross": 125.05,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Marketed property; APNs/legal description not independently reconciled",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-215466/utility-rich-industrial-site-mill-road-emporia-va-23847",
+    "availability": "Broker page displayed for sale when reviewed 2026-10-29; seller availability and assignable-option terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary listing-broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": "Dominion Energy",
+      "status": "Listing claim only; exact parcel confirmation required"
+    },
+    "claims": [
+      "CBRE markets 125.05 acres for sale, available October 2026, with M-1 industrial zoning.",
+      "Broker describes public water/sewer, Dominion electric service, nearby gas and Mid-Atlantic Broadband connectivity.",
+      "A 115 kV line crossing and nearby substation are infrastructure proximity claims, not proof of deliverable load."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "edgecore",
+        "fit": "Research",
+        "why": "Virginia outside the congested core could fit its network-adjacent campus strategy, but 125 acres is materially smaller than Louisa and Ashburn route latency is unverified.",
+        "specificTest": "Measure routed latency and expansion assemblage; confirm whether it has a smaller campus mandate."
+      },
+      {
+        "buyerId": "cloudhq",
+        "fit": "Research",
+        "why": "Potential secondary Virginia campus with stated fiber infrastructure, compared with CloudHQ’s Culpeper rationale.",
+        "specificTest": "Confirm high-density diverse routes to customer hubs rather than assume all Virginia locations work."
+      },
+      {
+        "buyerId": "compass",
+        "fit": "Research",
+        "why": "Industrial land could support repeatable single-tenant phases if usable geometry and a credible tenant region fit.",
+        "specificTest": "Obtain net usable acres and module layout plus workforce/utility ramp."
+      }
+    ],
+    "blockingQuestions": [
+      "Does M-1 actually permit this data-center configuration and its generators/height?",
+      "What are the exact parcels, net buildable area and flood/wetland constraints?",
+      "Which Dominion delivery point, MW ramp, price, upgrade allocation and energization date are available?",
+      "What carrier routes/latencies can MBC provide and can the second route remain physically independent?"
+    ],
+    "capitalFit": "Unknown. Neither land price nor option fee is public; a low-cost assignable option is not established. Mature infrastructure marketing may already embed a substantial premium.",
+    "forecastStatus": "No calibrated site-specific construction probability. Root research may display explicitly labeled conditional planning scenarios, not buyer interest or observed conversion rates.",
+    "nextAction": "Request APNs, current availability/price, seller authority, assignable-control terms and the actual utility documents before paid diligence."
+  },
+  {
+    "id": "doswell-508",
+    "name": "Doswell industrial and infrastructure opportunity",
+    "address": "Doswell Road & Dominion Drive, Doswell, VA 23047",
+    "state": "VA",
+    "acresGross": 508,
+    "acresUsable": 319,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Marketed property; APNs/legal description not independently reconciled",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-196433/doswell-virginia-industrial-infrastructure-opportunity-doswell-rd-dominion-dr-doswell-va-23047-usa-doswell-va-23047",
+    "availability": "Broker page displayed for sale when reviewed 2026-10-29; seller availability and assignable-option terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary listing-broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": "Rappahannock Electric Cooperative",
+      "status": "Listing claim only; delivery point and capacity unverified"
+    },
+    "claims": [
+      "CBRE markets 508 gross acres and approximately 319 usable acres; 189 acres are wetlands or floodplain.",
+      "The listing identifies Rappahannock Electric Cooperative and existing 230/115 kV infrastructure; no available MW is verified.",
+      "Seller reportedly considers all or part; broker describes nearby substation work, which is not evidence of a data-center import right."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "edgecore",
+        "fit": "Research",
+        "why": "Large central Virginia land position and same named cooperative as its Louisa precedent; needs real network/capacity advantage over its controlled land.",
+        "specificTest": "Determine whether 319 usable acres are contiguous and provide the desired Ashburn network envelope."
+      },
+      {
+        "buyerId": "qts",
+        "fit": "Research",
+        "why": "Gross campus scale, potential phases and transportation access support its large-campus model.",
+        "specificTest": "Quantify wetlands/stream crossings, labor availability and public obligations before assuming the campus works."
+      },
+      {
+        "buyerId": "digital-realty",
+        "fit": "Research",
+        "why": "Could support wholesale campus lane if customer geography and service schedule fit.",
+        "specificTest": "Compare all-in cost and power date to existing Virginia alternatives; not an urban interconnection match."
+      },
+      {
+        "buyerId": "t5",
+        "fit": "Research",
+        "why": "Scale may fit a selective large-campus mandate if entitled and within a confirmed customer corridor.",
+        "specificTest": "Obtain current T5 region mandate before spending on entitlement."
+      }
+    ],
+    "blockingQuestions": [
+      "Are usable acres contiguous after buffers and required wetland/stream setbacks?",
+      "Can the seller carve out a practical phase without fragmenting access and utility easements?",
+      "What data-center zoning/air/noise pathway applies?",
+      "Does the REC service path support required demand, and what supply/transmission upgrades are needed?"
+    ],
+    "capitalFit": "Unknown. Neither land price nor option fee is public; a low-cost assignable option is not established. Mature infrastructure marketing may already embed a substantial premium.",
+    "forecastStatus": "No calibrated site-specific construction probability. Root research may display explicitly labeled conditional planning scenarios, not buyer interest or observed conversion rates.",
+    "nextAction": "Request APNs, current availability/price, seller authority, assignable-control terms and the actual utility documents before paid diligence."
+  },
+  {
+    "id": "holyfield-174",
+    "name": "Holyfield Farm — Leesburg",
+    "address": "20961 Gulick Mill Road, Leesburg, VA 20175",
+    "state": "VA",
+    "acresGross": 174,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Marketed property; APNs/legal description not independently reconciled",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-124615/holyfield-farm-20961-gulick-mill-road-leesburg-va-20175",
+    "availability": "Broker page displayed for sale when reviewed 2026-10-29; seller availability and assignable-option terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary listing-broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": null,
+    "claims": [
+      "CBRE still displays this 174-acre vacant site for sale; the page’s availability date is June 2023, so freshness needs broker confirmation.",
+      "Broker says rezoning is required and owner will consider a sale contingent on rezoning.",
+      "Listing cites nearby Dominion 500/230 kV lines and Summit IG fiber in Sycolin Road, not reserved MW or diverse usable route rights."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "compass",
+        "fit": "Research",
+        "why": "The listing identifies Compass and major hyperscalers nearby; adjacency may be valuable if it adds to an actual requirement.",
+        "specificTest": "Determine exact relationship to controlled campuses and whether expansion is needed."
+      },
+      {
+        "buyerId": "digital-realty",
+        "fit": "Research",
+        "why": "Northern Virginia geography aligns with wholesale campus demand if power/date and entitlement are superior.",
+        "specificTest": "Verify a live acquisition mandate and grid economics before paying any location premium."
+      },
+      {
+        "buyerId": "vantage",
+        "fit": "Research",
+        "why": "Potential campus parcel in a core market, conditional on usable layout and enough staged IT capacity.",
+        "specificTest": "Compare land and utility schedule with its existing regional pipeline."
+      },
+      {
+        "buyerId": "cloudhq",
+        "fit": "Research",
+        "why": "Core-market network setting may suit customer-configurable buildings.",
+        "specificTest": "Show constructible diverse routes and a current customer load block."
+      }
+    ],
+    "blockingQuestions": [
+      "Is the property actually available after years of marketing?",
+      "What current Loudoun County use rules and legislative rezoning process apply?",
+      "How long is seller willing to keep rezoning and utility contingencies alive?",
+      "What is the current utility delivery schedule and cost, independent of transmission-line proximity?"
+    ],
+    "capitalFit": "Unknown. Neither land price nor option fee is public; a low-cost assignable option is not established. Mature infrastructure marketing may already embed a substantial premium.",
+    "forecastStatus": "No calibrated site-specific construction probability. Root research may display explicitly labeled conditional planning scenarios, not buyer interest or observed conversion rates.",
+    "nextAction": "Request APNs, current availability/price, seller authority, assignable-control terms and the actual utility documents before paid diligence."
+  },
+  {
+    "id": "rocket-25",
+    "name": "Project Rocket — Houston infill data-center site",
+    "address": "Houston, TX; exact street address and APNs withheld in public listing",
+    "state": "TX",
+    "acresGross": 25,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Marketed property; APNs/legal description not independently reconciled",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-210914/immediate-texas-data-center-opportunity-25-acres-cleared-and-platted-for-designated-50mw-use-houston-tx-00000",
+    "availability": "Broker page displayed for sale when reviewed 2026-10-29; seller availability and assignable-option terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary listing-broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": "CenterPoint Energy",
+      "status": "Listing claim; underlying engineering/agreements not reviewed"
+    },
+    "claims": [
+      "CBRE markets a cleared/platted 25-acre area inside a larger 100-plus-acre infill site, about ten miles north of 1301 Fannin.",
+      "Broker claims a CenterPoint-studied 50 MW path targeting mid-2027 and RTP-studied expansion to 250 MW; these documents were not supplied or independently verified.",
+      "Broker claims no rezoning or special-use permit and numerous fiber options. Its batch-process exemption claim must be checked with CenterPoint/current ERCOT rules."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "databank",
+        "fit": "Targeted research",
+        "why": "Houston metro demand and a first phase near the user’s scale could fit DataBank’s enterprise/AI lane if it beats existing capacity.",
+        "specificTest": "Compare carrier routes to its Houston ecosystem and actual net IT yield from 50 MW facility service."
+      },
+      {
+        "buyerId": "skybox",
+        "fit": "Targeted research",
+        "why": "Houston is a demonstrated Skybox market and expansion could support its campus approach, though 50 MW alone is below its PowerCampus scale.",
+        "specificTest": "Determine whether 250 MW expansion is sufficient for another product or customer-specific mandate."
+      },
+      {
+        "buyerId": "cyrusone",
+        "fit": "Targeted research",
+        "why": "Houston presence plus a potentially earlier metro power date could be useful if customer demand matches.",
+        "specificTest": "Confirm customer network geography and why this parcel improves on existing Houston land."
+      },
+      {
+        "buyerId": "digital-realty",
+        "fit": "Research",
+        "why": "Could fit a metropolitan wholesale or infill lane if network integration and capacity timing are compelling.",
+        "specificTest": "Identify the exact customer/hub relationship before treating general Houston proximity as value."
+      }
+    ],
+    "blockingQuestions": [
+      "What exact land is being conveyed: only 25 acres, the full 100-plus acres or a staged option?",
+      "Can the claimed utility rights/studies be assigned and relied upon by the developer?",
+      "What do the 50 MW and 250 MW numbers measure, and what upgrades, deposits or curtailment apply?",
+      "What flood/drainage, air-permit and current Texas approval dependencies remain?"
+    ],
+    "capitalFit": "Unknown. Neither land price nor option fee is public; a low-cost assignable option is not established. Mature infrastructure marketing may already embed a substantial premium.",
+    "forecastStatus": "No calibrated site-specific construction probability. Root research may display explicitly labeled conditional planning scenarios, not buyer interest or observed conversion rates.",
+    "nextAction": "Request APNs, current availability/price, seller authority, assignable-control terms and the actual utility documents before paid diligence."
+  },
+  {
+    "id": "venus-700",
+    "name": "Project Venus — Southern Dallas campus land",
+    "address": "Venus, TX 76084; exact APNs not public in retrieved listing",
+    "state": "TX",
+    "acresGross": 700,
+    "acresUsable": null,
+    "askingPriceUSD": null,
+    "askingPriceText": "Contact broker for pricing",
+    "apn": null,
+    "parcelStatus": "Marketed property; APNs/legal description not independently reconciled",
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-205527/immediate-data-center-opportunity-southern-dallas-venus-tx-76084",
+    "availability": "Broker page displayed for sale when reviewed 2026-10-29; seller availability and assignable-option terms not confirmed",
+    "retrieved": "2026-10-29",
+    "sourceType": "Primary listing-broker marketing",
+    "powerCapacityVerifiedMW": null,
+    "servingUtility": {
+      "name": "Oncor",
+      "status": "Listing claim; executed FEA and assignment rights not reviewed"
+    },
+    "claims": [
+      "CBRE markets 700 acres approximately 30 miles from Infomart.",
+      "Broker describes a 150 MW Oncor facility extension agreement, while additional FEAs remain pending toward a 2,400 MW total; the latter is a target, not secured available power.",
+      "Listing cites 345 kV infrastructure, a new switching station, on-site 12-inch gas pipeline, fiber and no required rezoning; none substitute for parcel-specific approvals and utility documents."
+    ],
+    "buyerMatches": [
+      {
+        "buyerId": "vantage",
+        "fit": "Targeted research",
+        "why": "Mega-campus land, Texas geography and claimed staged service resemble its scale, while closer Dallas network access could be differentiated.",
+        "specificTest": "Compare signed first-phase service and customer latency against Frontier and other controlled campuses."
+      },
+      {
+        "buyerId": "qts",
+        "fit": "Targeted research",
+        "why": "Large expandable power-oriented campus aligns with its long-range hyperscale model.",
+        "specificTest": "Establish present acquisition need, usable acreage, workforce and utility cost allocation."
+      },
+      {
+        "buyerId": "stack-infrastructure",
+        "fit": "Targeted research",
+        "why": "Large phased grid/generation optionality could fit a sponsored AI campus.",
+        "specificTest": "Validate gas supply/air approvals and distinguish backup or bridge power from firm long-term supply."
+      },
+      {
+        "buyerId": "skybox",
+        "fit": "Targeted research",
+        "why": "Southern Dallas geography, Infomart proximity and scalable private-substation potential resemble PowerCampus positioning.",
+        "specificTest": "Determine whether the site adds value beyond Skybox’s existing Dallas pipeline."
+      },
+      {
+        "buyerId": "databank",
+        "fit": "Research",
+        "why": "Large south-Dallas campus matches observed scale, but directly competes with Red Oak expansion.",
+        "specificTest": "Confirm a customer or schedule gap Red Oak cannot fill."
+      }
+    ],
+    "blockingQuestions": [
+      "Provide the executed 150 MW FEA and identify all remaining conditions and transferable rights.",
+      "Which additional FEAs are merely applications versus executed commitments?",
+      "What is the permitted, financeable bridge-generation plan, if any?",
+      "What asking price and control terms leave economic room for an originator after existing power-rights value?"
+    ],
+    "capitalFit": "Unknown. Neither land price nor option fee is public; a low-cost assignable option is not established. Mature infrastructure marketing may already embed a substantial premium.",
+    "forecastStatus": "No calibrated site-specific construction probability. Root research may display explicitly labeled conditional planning scenarios, not buyer interest or observed conversion rates.",
+    "nextAction": "Request APNs, current availability/price, seller authority, assignable-control terms and the actual utility documents before paid diligence."
+  }
+]

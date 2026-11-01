@@ -1,0 +1,139 @@
+[
+  {
+    "id": "hutto-limmer-94",
+    "name": "Limmer Loop / CR 136 — 94.5 acres",
+    "address": "Limmer Loop / CR 136, Hutto, Texas 78634",
+    "state": "TX",
+    "acres": 94.5,
+    "askingPrice": null,
+    "priceLabel": "Call broker for price",
+    "apn": null,
+    "listingUrl": "https://aquilacommercial.com/property/94-5-acres-for-sale-off-us-79-in-hutto/",
+    "availability": "Currently marketed for sale on listing broker's website; seller confirmation pending",
+    "retrieved": "2026-10-29",
+    "buyerNames": ["Colovore", "Element Critical"],
+    "matches": [
+      {"buyerId":"colovore","reason":"Same Austin/Hutto market as its metro-edge AI product; enough gross acreage to explore modular liquid-cooled halls. Actual network endpoints, power and competition with its already planned Hutto campus remain decisive."},
+      {"buyerId":"element-critical","reason":"Austin enterprise/inference location is more consistent with its market strategy than remote rural Texas; raw-land development must beat existing-campus or shell alternatives."}
+    ],
+    "evidence": [
+      {"claim":"Broker advertises 94.5 acres, Light Industrial zoning, proximity to US-79/Samsung Taylor, Jonah Water and Hutto wastewater.","url":"https://aquilacommercial.com/property/94-5-acres-for-sale-off-us-79-in-hutto/","level":"V1 seller/broker claim"},
+      {"claim":"Secondary broker listing updated October 9, 2026 repeats acreage and active for-sale status.","url":"https://www.commercialsearch.com/commercial-property/us/tx/hutto/limmer-loop-cr-136-1/","level":"V1 syndicated listing"}
+    ],
+    "powerMw": null,
+    "powerStatus": "No capacity, serving utility, tariff or service date verified; buyer match is conditional on suitable power.",
+    "blockingQuestions": ["What exact APNs and net usable acreage are offered?", "Does adopted zoning permit this data-center design and cooling/noise equipment?", "Can carrier routes meet the buyer's actual latency and diversity requirements?", "Will the seller grant affordable assignable control, and is there incremental demand beyond Colovore's existing Hutto project?"],
+    "founderFit": "Buyer-fit discovery lead; price and option cost unknown. No paid-control recommendation.",
+    "suggestedFirstAction": "Ask AQUILA's listed brokers for price, parcel/survey package, utility correspondence and willingness to discuss staged assignable control; validate buyer's unmet Austin submarket need first."
+  },
+  {
+    "id": "rural-hall-circle-143",
+    "name": "8700 Circle Drive — 143-acre data-center site",
+    "address": "8700 Circle Drive, Rural Hall, North Carolina 27045",
+    "state": "NC",
+    "acres": 143,
+    "askingPrice": null,
+    "priceLabel": "Contact broker for price",
+    "apn": null,
+    "listingUrl": "https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-206024/8700-circle-drive-rural-hall-nc-27045",
+    "availability": "CBRE explicitly markets For Sale / Available Immediately; seller confirmation pending",
+    "retrieved": "2026-10-29",
+    "buyerNames": ["WhiteFiber", "DartPoints", "Data Journey"],
+    "matches": [
+      {"buyerId":"whitefiber","reason":"Piedmont Triad location near its established North Carolina development ecosystem; larger expansion footprint. Weaker than NC-1 on reuse because no reusable industrial shell is established."},
+      {"buyerId":"dartpoints","reason":"Southeast regional footprint and room for a 20–30MW phased concept; however, unlike Lexington, rezoning and utility study are unfinished."},
+      {"buyerId":"data-journey","reason":"North Carolina Tier 2 market and scalable campus geometry fit its stated model, subject to funding and onsite/utility power design."}
+    ],
+    "evidence": [
+      {"claim":"CBRE advertises 143 acres, initial load study funded and underway, rezoning underway, and a seller seeking buyer input on power/site planning.","url":"https://www.cbre.com/properties/properties-for-lease/datacenter/details/US-SMPL-206024/8700-circle-drive-rural-hall-nc-27045","level":"V1 broker claim"}
+    ],
+    "powerMw": null,
+    "powerStatus": "Load study is in progress, not proof of deliverable MW. No service date verified.",
+    "blockingQuestions": ["What load level, utility, timetable and cost responsibilities does the ongoing study address?", "What rezoning case and adopted restrictions apply?", "Which exact parcels/net acres are included?", "Does a developer want this geography despite its existing nearby pipeline?"],
+    "founderFit": "Potential buyer-led diligence/partnership lead, not a cheap option assumed available. Broker already seeks buyer participation.",
+    "suggestedFirstAction": "Request CBRE's study scope, zoning file and price, then test a named buyer's phase/market requirement before negotiating control."
+  },
+  {
+    "id": "mayodan-ayersville-plant",
+    "name": "800 S Ayersville Road — former industrial facility",
+    "address": "800 S Ayersville Road, Mayodan, North Carolina 27027",
+    "state": "NC",
+    "acres": 16.45,
+    "askingPrice": null,
+    "priceLabel": "Current price unverified; historical 2024 reporting quoted $28.7M",
+    "apn": "170836 (listing-reported, not independently verified county record)",
+    "listingUrl": "https://www.loopnet.com/Listing/800-S-Ayersville-Rd-Mayodan-NC/30633839/",
+    "availability": "Search-indexed listing says Industrial Property For Sale; direct fetch restricted; current broker confirmation required",
+    "retrieved": "2026-10-29",
+    "buyerNames": ["WhiteFiber", "DartPoints", "Data Journey"],
+    "matches": [
+      {"buyerId":"whitefiber","reason":"Industrial textile-area reuse in its North Carolina market is similar in type to NC-1. Smaller acreage and existing nearby capacity may sharply limit incremental value."},
+      {"buyerId":"dartpoints","reason":"Existing industrial shell and advertised midscale power potentially fit phased redevelopment, subject to full engineering and network review."},
+      {"buyerId":"data-journey","reason":"Reusable infrastructure in a Carolina secondary market aligns better than undifferentiated raw land; funding and actual service rights must be verified."}
+    ],
+    "evidence": [
+      {"claim":"Indexed broker listing reports 313,466 square feet, 16.45 acres, 23-foot clear height, 15MW active power and 30MW hardware/switchgear. All power figures are unverified seller claims, and hardware rating is not delivery capacity.","url":"https://www.loopnet.com/Listing/800-S-Ayersville-Rd-Mayodan-NC/30633839/","level":"V1 seller/broker claim"},
+      {"claim":"2024 report describes a proposed manufacturing/distribution leaseback and a utility agreement; neither is assumed current.","url":"https://www.datacenterdynamics.com/en/news/30mw-data-center-up-for-sale-in-north-carolina/","level":"V2 historical secondary"}
+    ],
+    "powerMw": null,
+    "powerStatus": "15MW/30MW claims require utility confirmation, metering and electrical inspection; do not assume AI redundancy or transferable service.",
+    "blockingQuestions": ["Is the property still offered and at what price?", "Can the electrical service and any PPA transfer to an AI user?", "What building, environmental and cooling retrofit cost is required?", "Does any seller leaseback impair secure access or expansion?"],
+    "founderFit": "High-ticket brownfield discovery lead; acquisition cost exceeds founder capital and no affordable option terms are established.",
+    "suggestedFirstAction": "Obtain current listing package and utility agreement directly from the broker before considering it an actionable site."
+  },
+  {
+    "id": "killen-power-plant",
+    "name": "Former Killen Power Plant — Manchester industrial land",
+    "address": "15401 Ohio River Scenic Byway, Manchester, Ohio 45144",
+    "state": "OH",
+    "acres": 336.38,
+    "acreageNote": "Listing headline is 336.38 acres; body says 345.79 acres plus future remediation acreage. Exact offered boundary unresolved.",
+    "askingPrice": null,
+    "priceLabel": "Price not publicly shown",
+    "apn": null,
+    "listingUrl": "https://www.loopnet.com/Listing/15401-Ohio-River-Scenic-Byway-Manchester-OH/39114250/",
+    "availability": "Active marketed industrial-land listing; seller confirmation pending",
+    "retrieved": "2026-10-29",
+    "buyerNames": ["TeraWulf", "Bitdeer", "Crusoe"],
+    "matches": [
+      {"buyerId":"terawulf","reason":"Retired-generation brownfield is consistent with its power-infrastructure reuse pattern, but historical generation does not establish load-import rights or cleanup suitability."},
+      {"buyerId":"bitdeer","reason":"Ohio industrial/power redevelopment echoes its regional pipeline; prior litigation elsewhere reinforces need to resolve third-party rights and timing."},
+      {"buyerId":"crusoe","reason":"Large tract and potential generation integration could fit an AI-factory concept if a sponsor can solve rebuilding, permits and customer demand."}
+    ],
+    "evidence": [
+      {"claim":"Broker states grid infrastructure was partially dismantled and the substation must be rebuilt; a third party, separate from sellers, proposes generation. Water withdrawals would need permits.","url":"https://www.loopnet.com/Listing/15401-Ohio-River-Scenic-Byway-Manchester-OH/39114250/","level":"V1 broker claim"}
+    ],
+    "powerMw": null,
+    "powerStatus": "No verified deliverable capacity. Advertised third-party 650MW proposal is neither existing service nor seller-controlled capacity.",
+    "blockingQuestions": ["What acres are remediated and legally buildable now?", "Who controls interconnection, substation reconstruction, generation and import rights?", "What environmental indemnities and ongoing obligations follow a land acquisition?", "Are fiber diversity, flood levels and cooling approvals feasible?"],
+    "founderFit": "Specialist sponsor-led redevelopment only. Environmental/infrastructure obligations are unsuitable for speculative founder-funded assumption.",
+    "suggestedFirstAction": "Request boundary/remediation documents and infrastructure ownership map; approach an experienced redevelopment buyer before any binding control cost."
+  },
+  {
+    "id": "hinds-110-buyer-screen",
+    "name": "Hinds 110 — existing priority, conditional buyer screen",
+    "address": "TBD FM 2072, Vernon, Wilbarger County, Texas 76384",
+    "state": "TX",
+    "acres": 110,
+    "askingPrice": 385000,
+    "priceLabel": "$385,000 current Land.com direct-open advertising; syndicated prices/status conflict",
+    "apn": null,
+    "listingUrl": "https://www.land.com/property/110-acres-in-wilbarger-county-texas/27899900/",
+    "availability": "Land.com direct open says For Sale, updated October29; other historical/syndicated pages report sold or different prices. Broker confirmation required; sale not established.",
+    "retrieved": "2026-10-29",
+    "buyerNames": ["Cipher Digital", "Soluna"],
+    "matches": [
+      {"buyerId":"cipher-digital","reason":"Texas option-based acquisition precedent is relevant, but Hinds is much smaller and less developed than Apollo; a permanent20–30MW ceiling likely makes this a weak commercial match."},
+      {"buyerId":"soluna","reason":"Rural renewable-region positioning may merit a discovery question only if a specific generator/grid partnership exists. No such relationship is established for Hinds, and mining flexibility cannot be used as AI suitability evidence."}
+    ],
+    "evidence": [
+      {"claim":"Seller advertises110acres of cultivated land with FM2072 frontage and transmission lines crossing it; neither voltage nor proximity proves available load capacity.","url":"https://www.land.com/property/110-acres-in-wilbarger-county-texas/27899900/","level":"V1 seller claim"},
+      {"claim":"Syndicated MLS21317653 archive labels sold; this conflicts with active updated advertising and requires broker reconciliation.","url":"https://www.steavycarter.com/mls/21317653/","level":"V1 conflicting syndication"}
+    ],
+    "powerMw": null,
+    "powerStatus": "No parcel/load-specific deliverable MW or commercial service date verified in this research. Listing ID27899900 is not a county APN.",
+    "blockingQuestions": ["Current availability, price, offered boundaries and county parcel IDs?", "Net acreage after transmission easements and setbacks?", "Deliverable first phase and ultimate MW with economic tariff and service date?", "Which buyer has a customer need that this location serves better than existing controlled campuses?"],
+    "founderFit": "Keep as existing diligence lead; giant-developer growth is not evidence of interest. No paid-control recommendation from this buyer screen.",
+    "suggestedFirstAction": "Resolve listing status and exact parcel, then obtain utility evidence and test a smaller-developer mandate before further spending."
+  }
+]

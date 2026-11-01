@@ -1,0 +1,4162 @@
+{
+  "schema": "syncranicity_desktop_screen_v3",
+  "id": "desktop-four-sites-2026-10-19",
+  "title": "Dillon, New Castle, Williston and Rooks Road · desktop screening",
+  "as_of": "2026-10-19",
+  "produced_at": "2026-10-19T16:10:00Z",
+  "scope": {
+    "continue": [
+      "Dillon"
+    ],
+    "add": [
+      "New Castle IN",
+      "Williston ND",
+      "Rooks Road Buckeye / Maricopa County AZ"
+    ],
+    "stop": [
+      "Adairsville"
+    ],
+    "rooks_priority": "equal research priority to the leading October 19 discovery candidates",
+    "global_founder_focus": "Hinds 110 unchanged",
+    "external_outreach_sent": false
+  },
+  "policy": {
+    "source": "September 8, 2026 policy v2 and September 9 pre-option playbook",
+    "learning_cap_usd": 5000,
+    "cumulative_all_in_soft_control_cap_usd": 10000,
+    "max_live_paid_parcels": 1,
+    "paid_review_conservative_score_min": 70,
+    "paid_review_evidence_confidence_min": 85,
+    "gates_required": 16,
+    "this_run_spend_authorized_usd": 0
+  },
+  "sites": [
+    {
+      "id": "oct19-38995811",
+      "key": "ROOKS",
+      "name": "Rooks Industrial Gateway",
+      "state": "AZ",
+      "county": "Maricopa",
+      "apns": [
+        "401-87-007B",
+        "401-87-005"
+      ],
+      "offered_apns": [
+        "401-87-007B"
+      ],
+      "record_type": "PARCEL",
+      "research_priority": "FOUNDER-REQUESTED EQUAL PRIORITY",
+      "verdict": "CONTINUE · DOCUMENTS + LOCAL VISIT",
+      "acres": 36,
+      "price": null,
+      "load": "5–10 MW initial facility hypothesis; expansion unproved",
+      "listing_url": "https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-195999/rooks-industrial-gateway-w-mc-85-s-rooks-rd-buckeye-az-85326-usa-buckeye-az-85326",
+      "geometry_apn": "401-87-007B",
+      "owner": "RTP GP PHASE I LLC (assessor record only)",
+      "summary": "Local access makes a 36-acre first phase worth testing. APS capacity, present price and a data-center use path remain unproved.",
+      "blocker": "Conflicting broker versions; no APS commitment; current asking price unpublished.",
+      "next_test": "Obtain current 36-acre price, offered survey, seller authority, and APS-issued documents tying the advertised 10 MW / Q1 2027 claim to this parcel and a transferable customer right.",
+      "source_ids": [
+        "AZ1",
+        "AZ2",
+        "AZ3",
+        "AZ4",
+        "AZ5",
+        "AZ6",
+        "AZ7",
+        "AZ8",
+        "AZ9",
+        "G1"
+      ],
+      "contact": "Cooper Fratt · CBRE · 602-735-5037 · cooper.fratt@cbre.com",
+      "source_contact": "AZ1",
+      "available_mw": null,
+      "energization_date": null,
+      "net_developable_acres": null,
+      "paid_control_ready": false,
+      "next_spend_usd": 0,
+      "formal_tier": "WATCH unless an existing founder decision says otherwise",
+      "buyer_validated": false,
+      "gates": [
+        {
+          "id": "G01",
+          "name": "Exact offered parcel",
+          "status": "UNKNOWN",
+          "reason": "Tax APNs resolved; offered 36-acre survey / record vs GIS acreage not reconciled."
+        },
+        {
+          "id": "G02",
+          "name": "Seller authority",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G03",
+          "name": "Legal access and layout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G04",
+          "name": "Serving utility",
+          "status": "UNKNOWN",
+          "reason": "APS named by broker; exact-parcel/load confirmation absent."
+        },
+        {
+          "id": "G05",
+          "name": "Studyable power path",
+          "status": "UNKNOWN",
+          "reason": "10 MW / Q1 2027 is broker-only and missing from directly linked CBRE brochure."
+        },
+        {
+          "id": "G06",
+          "name": "Use and approval path",
+          "status": "UNKNOWN",
+          "reason": "Broker I-1 assertion; exact data-center / generator / substation interpretation absent."
+        },
+        {
+          "id": "G07",
+          "name": "Water and cooling",
+          "status": "UNKNOWN",
+          "reason": "City water/sewer named by broker, no will-serve or fire-flow evidence."
+        },
+        {
+          "id": "G08",
+          "name": "Fiber path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G09",
+          "name": "Environmental path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G10",
+          "name": "Buyer fit",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G11",
+          "name": "Funded takeout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G12",
+          "name": "Assignable control",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G13",
+          "name": "Lawful transaction",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G14",
+          "name": "Transferable evidence",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G15",
+          "name": "Capital and runway",
+          "status": "HOLD",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G16",
+          "name": "Independent red team",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        }
+      ]
+    },
+    {
+      "id": "sc-dillon-53",
+      "key": "DILLON",
+      "name": "Dillon-Baker compartment 53",
+      "state": "SC",
+      "county": "Dillon",
+      "apns": [
+        "080-00-00-053"
+      ],
+      "offered_apns": [
+        "080-00-00-053"
+      ],
+      "record_type": "PARCEL",
+      "research_priority": "CONTINUE EXISTING DESKTOP SCREEN",
+      "verdict": "CONTINUE · POWER / RU USE / LAYOUT",
+      "acres": 60,
+      "price": 696000,
+      "load": "20–25 MW initial facility hypothesis; 50 MW expansion unproved",
+      "listing_url": "https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2",
+      "geometry_apn": "080-00-00-053",
+      "owner": "Baker Anne A (county tax record only)",
+      "summary": "The affordable 60-acre offer remains active. Drainage, narrow layout, exact electric supplier and RU data-center permission still control feasibility; compartment 48 remains the unpaid physical challenger.",
+      "blocker": "No exact-load service letter, written RU use path or civil concept layout.",
+      "next_test": "Ask AFM for the parcel 53 and 48 surveys, title/easements and existing utility evidence; obtain written exact-parcel utility and RU-use responses before any paid control.",
+      "source_ids": [
+        "SC1",
+        "SC2",
+        "SC3",
+        "SC4",
+        "SC5",
+        "SC6",
+        "SC7",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "contact": "Curtis Spencer · AFM · 803-491-4832 cell / 803-773-5461 office",
+      "source_contact": "SC1",
+      "available_mw": null,
+      "energization_date": null,
+      "net_developable_acres": null,
+      "paid_control_ready": false,
+      "next_spend_usd": 0,
+      "formal_tier": "WATCH unless an existing founder decision says otherwise",
+      "buyer_validated": false,
+      "gates": [
+        {
+          "id": "G01",
+          "name": "Exact offered parcel",
+          "status": "UNKNOWN",
+          "reason": "APN and tax record matched; seller survey / legal/title not reviewed."
+        },
+        {
+          "id": "G02",
+          "name": "Seller authority",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G03",
+          "name": "Legal access and layout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G04",
+          "name": "Serving utility",
+          "status": "UNKNOWN",
+          "reason": "Public service-area overlays conflict; exact supplier unresolved."
+        },
+        {
+          "id": "G05",
+          "name": "Studyable power path",
+          "status": "UNKNOWN",
+          "reason": "Nearby park and lines are not Baker allocation or a study letter."
+        },
+        {
+          "id": "G06",
+          "name": "Use and approval path",
+          "status": "UNKNOWN",
+          "reason": "RU map return, exact use and accessory approvals not confirmed."
+        },
+        {
+          "id": "G07",
+          "name": "Water and cooling",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G08",
+          "name": "Fiber path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G09",
+          "name": "Environmental path",
+          "status": "UNKNOWN",
+          "reason": "NWI and prior soils identify constraints; civil/environmental clearance absent."
+        },
+        {
+          "id": "G10",
+          "name": "Buyer fit",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G11",
+          "name": "Funded takeout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G12",
+          "name": "Assignable control",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G13",
+          "name": "Lawful transaction",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G14",
+          "name": "Transferable evidence",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G15",
+          "name": "Capital and runway",
+          "status": "HOLD",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G16",
+          "name": "Independent red team",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        }
+      ]
+    },
+    {
+      "id": "oct19-27254380",
+      "key": "NEWCASTLE",
+      "name": "New Castle State Road 3 & Riley Road",
+      "state": "IN",
+      "county": "Henry",
+      "apns": [
+        "33-07-27-000-111.001-021"
+      ],
+      "offered_apns": [],
+      "record_type": "OFFERED_PORTION",
+      "research_priority": "TARGETED DOCUMENT FOLLOW-UP",
+      "verdict": "CONTINUE · TRACT + UTILITY BOUNDARY",
+      "acres": 44.35,
+      "price": 899900,
+      "load": "20–25 MW initial facility hypothesis; 50 MW expansion unproved",
+      "listing_url": "https://www.reindiana.com/commercial-for-sale/N-State-Road-3-New-Castle-IN-47362-432318720",
+      "geometry_apn": "33-07-27-000-111.001-021",
+      "owner": null,
+      "summary": "Most mapped soils are well drained, but offered acreage and the load service point are unresolved. Public utility polygons split the matched tax geometry between Henry County REMC and Duke Energy.",
+      "blocker": "44.35-acre offering / old 49.634-acre legal / 43.55 GIS acres disagree; two utility polygons intersect.",
+      "next_test": "Get the post-split survey and legal description, then ask both utilities for a coordinated exact-premises/service-point determination and the applicable load-study process.",
+      "source_ids": [
+        "IN1",
+        "IN2",
+        "IN3",
+        "IN4",
+        "IN5",
+        "IN6",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "contact": "Mike McKown · F.C. Tucker/Crossroads · 765-524-3018",
+      "source_contact": "IN1",
+      "available_mw": null,
+      "energization_date": null,
+      "net_developable_acres": null,
+      "paid_control_ready": false,
+      "next_spend_usd": 0,
+      "formal_tier": "WATCH unless an existing founder decision says otherwise",
+      "buyer_validated": false,
+      "gates": [
+        {
+          "id": "G01",
+          "name": "Exact offered parcel",
+          "status": "UNKNOWN",
+          "reason": "Tax APN matched; offered split, title and acreage conflict remain."
+        },
+        {
+          "id": "G02",
+          "name": "Seller authority",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G03",
+          "name": "Legal access and layout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G04",
+          "name": "Serving utility",
+          "status": "UNKNOWN",
+          "reason": "IURC map intersects REMC and Duke; written premises determination absent."
+        },
+        {
+          "id": "G05",
+          "name": "Studyable power path",
+          "status": "UNKNOWN",
+          "reason": "Nearby substation claim, no capacity or delivery-path writing."
+        },
+        {
+          "id": "G06",
+          "name": "Use and approval path",
+          "status": "UNKNOWN",
+          "reason": "2025 municipal boundary returned no intersection; current AHJ and use path not issued."
+        },
+        {
+          "id": "G07",
+          "name": "Water and cooling",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G08",
+          "name": "Fiber path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G09",
+          "name": "Environmental path",
+          "status": "UNKNOWN",
+          "reason": "Soils/NWI screened; current flood and engineered drainage unresolved."
+        },
+        {
+          "id": "G10",
+          "name": "Buyer fit",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G11",
+          "name": "Funded takeout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G12",
+          "name": "Assignable control",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G13",
+          "name": "Lawful transaction",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G14",
+          "name": "Transferable evidence",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G15",
+          "name": "Capital and runway",
+          "status": "HOLD",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G16",
+          "name": "Independent red team",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        }
+      ]
+    },
+    {
+      "id": "oct19-3934635",
+      "key": "WILLISTON",
+      "name": "Williston Highway 1804 / 48th Street NW",
+      "state": "ND",
+      "county": "Williams",
+      "apns": [
+        "51-154-02-00-35-035",
+        "51-154-02-00-35-090",
+        "51-154-02-00-35-085"
+      ],
+      "offered_apns": [],
+      "record_type": "ASSEMBLAGE",
+      "research_priority": "ADVERSE HISTORY · HOLD",
+      "verdict": "HOLD · EXACT-PARCEL DENIAL",
+      "acres": 136,
+      "price": null,
+      "load": "No viable scope established; historic 30 MW crypto proposal denied",
+      "listing_url": "https://www.showcase.com/hwy-1804-48th-st-nw-williston-nd-58801/3934635/",
+      "geometry_apn": null,
+      "owner": "Multiple tax owners; offered schedule unconfirmed",
+      "summary": "The advertised group spans different tax owners. County records tie the eastern 76-acre parcel to a 2024 data-center setback denial; no current lawful cure or subject MW allocation was found.",
+      "blocker": "Historic exact-parcel setback failure, no written cure, no power commitment, possible sponsor-scale study costs.",
+      "next_test": "Ask the broker for the exact current lot/APN schedule and the county for any written decision curing the February 2024 denial on 35-035. Hold paid pursuit absent that evidence.",
+      "source_ids": [
+        "ND1",
+        "ND2",
+        "ND3",
+        "ND4",
+        "ND5",
+        "ND6",
+        "ND7",
+        "ND8",
+        "ND9",
+        "G1",
+        "G3"
+      ],
+      "contact": "Jeff Lunnen · Lunnen Real Estate · 701-428-1243 · jeff@lunnen.com",
+      "source_contact": "ND1",
+      "available_mw": null,
+      "energization_date": null,
+      "net_developable_acres": null,
+      "paid_control_ready": false,
+      "next_spend_usd": 0,
+      "formal_tier": "WATCH unless an existing founder decision says otherwise",
+      "buyer_validated": false,
+      "gates": [
+        {
+          "id": "G01",
+          "name": "Exact offered parcel",
+          "status": "UNKNOWN",
+          "reason": "136-acre group not reconciled to a current offered lot/APN schedule."
+        },
+        {
+          "id": "G02",
+          "name": "Seller authority",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G03",
+          "name": "Legal access and layout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G04",
+          "name": "Serving utility",
+          "status": "UNKNOWN",
+          "reason": "MWEC adjoining and involved historically; no subject service commitment."
+        },
+        {
+          "id": "G05",
+          "name": "Studyable power path",
+          "status": "UNKNOWN",
+          "reason": "No subject MW, ramp, date, security or cost commitment."
+        },
+        {
+          "id": "G06",
+          "name": "Use and approval path",
+          "status": "ADVERSE_HISTORY_HOLD",
+          "reason": "ADVERSE HISTORY: 2024 exact-parcel setback denial; current lawful cure absent."
+        },
+        {
+          "id": "G07",
+          "name": "Water and cooling",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G08",
+          "name": "Fiber path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G09",
+          "name": "Environmental path",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G10",
+          "name": "Buyer fit",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G11",
+          "name": "Funded takeout",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G12",
+          "name": "Assignable control",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G13",
+          "name": "Lawful transaction",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G14",
+          "name": "Transferable evidence",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        },
+        {
+          "id": "G15",
+          "name": "Capital and runway",
+          "status": "HOLD",
+          "reason": "Possible Basin application fee alone exceeds founder cumulative cap."
+        },
+        {
+          "id": "G16",
+          "name": "Independent red team",
+          "status": "UNKNOWN",
+          "reason": "No current scope-matched issuer / professional proof in the reviewed evidence."
+        }
+      ]
+    }
+  ],
+  "spatial_summary": {
+    "method": "Exact public tax/GIS polygons in WGS84, projected to local UTM for planar area and overlay. NWI intersections unioned before area. Tax boundaries are not surveys; no net usable acre calculation.",
+    "analysis_date": "2026-10-19",
+    "DIL-053": {
+      "apn": "080-00-00-053",
+      "gis_acres": 59.99370825290444,
+      "centroid": [
+        -79.41708671881499,
+        34.37149722443429
+      ],
+      "geometry_as_of": "2026-10-08",
+      "nwi_acres": 1.1328184942059012
+    },
+    "DIL-048": {
+      "apn": "080-00-00-048",
+      "gis_acres": 38.48786213541556,
+      "centroid": [
+        -79.42560748333875,
+        34.37056365459284
+      ],
+      "geometry_as_of": "2026-10-08"
+    },
+    "DIL-001": {
+      "apn": "092-00-00-001",
+      "gis_acres": 48.75184918294326,
+      "centroid": [
+        -79.42236653331787,
+        34.363802902691184
+      ],
+      "geometry_as_of": "2026-10-08"
+    },
+    "DIL-072": {
+      "apn": "092-00-00-072",
+      "gis_acres": 86.3250274738261,
+      "centroid": [
+        -79.42206026519514,
+        34.36752738391209
+      ],
+      "geometry_as_of": "2026-10-08"
+    },
+    "DIL-102": {
+      "apn": "092-00-00-102",
+      "gis_acres": 7.505168918559835,
+      "centroid": [
+        -79.40432003199082,
+        34.36654968731058
+      ],
+      "geometry_as_of": "2026-10-08"
+    },
+    "NEWCASTLE": {
+      "apn": "33-07-27-000-111.001-021",
+      "gis_acres": 43.54520338061639,
+      "centroid": [
+        -85.38171242692154,
+        39.98603859114989
+      ],
+      "nwi_acres": 0.06954059933960591,
+      "utility_overlap_acres": {
+        "HENRY COUNTY REMC": 28.716762223194895,
+        "DUKE ENERGY": 14.941988444720383
+      },
+      "hydric_major_component_acres": 3.2174996068470283,
+      "listing_pin": [
+        -85.37683,
+        40.00756
+      ],
+      "pin_centroid_distance_m": 2425.722963806001,
+      "utility_overlap_warning": "Approx. 0.26% map overlap; this is not a supplier election or serving-utility determination."
+    },
+    "ND-035": {
+      "apn": "51-154-02-00-35-035",
+      "owner": "BHANVADIA ND DEVCO III LLC",
+      "county_gis_acres": 76.767,
+      "gis_acres": 76.73160621452786,
+      "centroid": [
+        -103.76056620883848,
+        48.11304266544132
+      ],
+      "zoning_overlap_acres": {
+        "HI": 76.4482638524067,
+        "RR": 6.244413071030451e-06
+      },
+      "nwi_acres": 0.0
+    },
+    "ND-037": {
+      "apn": "51-154-02-00-35-037",
+      "owner": "MOUNTRAIL-WILLIAMS ELECTRIC COOPERATIVE",
+      "county_gis_acres": 6.9534,
+      "gis_acres": 6.950151970224148,
+      "centroid": [
+        -103.76511494074528,
+        48.11428337872925
+      ]
+    },
+    "ND-090": {
+      "apn": "51-154-02-00-35-090",
+      "owner": "YELLOWSTONE LAND COMPANY LLC",
+      "county_gis_acres": 15.0146,
+      "gis_acres": 15.021336971601562,
+      "centroid": [
+        -103.7719334681662,
+        48.11353775113563
+      ]
+    },
+    "ND-085": {
+      "apn": "51-154-02-00-35-085",
+      "owner": "YELLOWSTONE LAND COMPANY LLC",
+      "county_gis_acres": 51.6692,
+      "gis_acres": 51.645631590059644,
+      "centroid": [
+        -103.7697007472428,
+        48.1166059745865
+      ]
+    },
+    "AZ-401-87-005": {
+      "apn": "401-87-005",
+      "record_land_acres": 38.0,
+      "gis_acres": 37.433285465967764,
+      "owner": "RTP GP PHASE 2 LLC",
+      "recorded_sale_price": 8276000,
+      "deed_number": "20260165681",
+      "nwi_acres": 0.0,
+      "centroid": [
+        -112.61025965836747,
+        33.36490642951013
+      ]
+    },
+    "AZ-401-87-007B": {
+      "apn": "401-87-007B",
+      "record_land_acres": 36.0,
+      "gis_acres": 35.256005177824186,
+      "owner": "RTP GP PHASE I LLC",
+      "recorded_sale_price": 6665000,
+      "deed_number": "20250152752",
+      "nwi_acres": 0.0,
+      "centroid": [
+        -112.6102111313121,
+        33.36839568667079
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "AZ1",
+      "title": "Rooks Industrial Gateway · current primary listing",
+      "url": "https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-195999/rooks-industrial-gateway-w-mc-85-s-rooks-rd-buckeye-az-85326-usa-buckeye-az-85326",
+      "publisher": "CBRE",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "36-acre offering; price unpublished; current broker contacts",
+      "limitation": "Broker marketing. Availability, use and capacity require issuer confirmation."
+    },
+    {
+      "id": "AZ2",
+      "title": "Rooks · 74-acre marketing version",
+      "url": "https://images1.showcase.com/d2/hXViUO-cyyDQQAPCJrsU2nW9_0zIJ4g9V4anP7G7s44/document.pdf",
+      "publisher": "CBRE / Showcase",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "74-acre version, divisible to 36; advertised 10 MW / Q1 2027",
+      "limitation": "No APS letter, reservation, scope, cost or transfer right supplied. Conflicts with primary 36-acre brochure."
+    },
+    {
+      "id": "AZ3",
+      "title": "Rooks · brochure linked directly by CBRE",
+      "url": "https://www.cbre.com/resources/fileassets/US-SMPL-195999/71c7dbaf/b3de7e22-bb72-476d-985f-ceb6a254bcc0.pdf",
+      "publisher": "CBRE",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "36 acres plus 38-acre expansion; warehouse plan; APS named",
+      "limitation": "Retrieved PDF has no 10 MW / Q1 2027 promise. A warehouse concept is not a data-center approval."
+    },
+    {
+      "id": "AZ4",
+      "title": "Maricopa County Assessor · parcel service",
+      "url": "https://gis.mcassessor.maricopa.gov/arcgis/rest/services/Parcels/MapServer/0",
+      "publisher": "Maricopa County Assessor",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "APNs 401-87-007B and 401-87-005; owners, acreage fields, deeds and sale entries",
+      "limitation": "Tax/GIS records, not a survey, deed review, title commitment or evidence of current ask."
+    },
+    {
+      "id": "AZ5",
+      "title": "Older 35.3-acre Rooks sale flyer",
+      "url": "https://images1.showcase.com/d2/8cpKqPWOwNUHSmG-uwJX-eKk0Y6VMZCsvYgcCNhuQiU/document.pdf",
+      "publisher": "Western Land / Showcase",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "Historical $8/sf and $12,301,344 asking price",
+      "limitation": "Undated historical marketing; do not use as current asking price."
+    },
+    {
+      "id": "AZ6",
+      "title": "Buckeye General Plan and Development Code",
+      "url": "https://www.buckeyeaz.gov/business/development-services/general-plan-development-code",
+      "publisher": "City of Buckeye",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Published code update; exact use interpretation remains open",
+      "limitation": "City page indexed; direct retrieval restricted. Current parcel zoning/overlays and data-center classification not independently issued."
+    },
+    {
+      "id": "AZ7",
+      "title": "Buckeye Development Code · general use provisions",
+      "url": "https://library.municode.com/az/buckeye/codes/code_of_ordinances?nodeId=CD_ORD_CH7DECO_ART3ZO_3.1GEUSPR",
+      "publisher": "City of Buckeye / Municode",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Unlisted-use interpretation and scope-specific approval path",
+      "limitation": "Does not establish that a data center, generator yard or substation is allowed on these parcels."
+    },
+    {
+      "id": "AZ8",
+      "title": "APS · economic development",
+      "url": "https://www.aps.com/en/Business/Economic-Development/Economic-Development/Why-Arizona-and-APS",
+      "publisher": "Arizona Public Service",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Utility process discovery, custom load analysis",
+      "limitation": "Generic process; no subject allocation, rate quote or ready date."
+    },
+    {
+      "id": "AZ9",
+      "title": "Maricopa County floodplain information",
+      "url": "https://fcd.maricopa.gov/959/Floodplain-Information",
+      "publisher": "Flood Control District of Maricopa County",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Authoritative route for effective/local floodplain evidence",
+      "limitation": "Assessor Flood layer query returned a null-geometry county feature, not usable flood-zone coverage. No flood clearance."
+    },
+    {
+      "id": "SC1",
+      "title": "Dillon-Baker active offering",
+      "url": "https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2",
+      "publisher": "AFM Real Estate",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "60-acre compartment 53 / $696,000 and related compartments",
+      "limitation": "Marketing price and acreage; six offerings include two portions of the same parent APN."
+    },
+    {
+      "id": "SC2",
+      "title": "Dillon County · parcel 53 record",
+      "url": "https://dillonsc.wthgis.com/tgis/getftr.aspx?D=1042&F=16961&Z=0",
+      "publisher": "Dillon County / WTH",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "080-00-00-053; Baker Anne A; deed 492/54; plat 18/1",
+      "limitation": "County tax record does not prove present signing authority or title."
+    },
+    {
+      "id": "SC3",
+      "title": "Dillon County · RU zoning point",
+      "url": "https://dillonsc.wthgis.com/tgis/idarea.aspx?Lat=34.3713&Lon=-79.4177&M=52",
+      "publisher": "Dillon County / WTH",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Parcel 53 zoning point returns RU Rural",
+      "limitation": "Point/map screen, not a full overlay/use approval or county planning letter."
+    },
+    {
+      "id": "SC4",
+      "title": "Dillon County Building / Planning",
+      "url": "https://dilloncountysc.org/departments/building_code_enforcement_planning_zoning.php",
+      "publisher": "Dillon County",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Current planning contact and county process",
+      "limitation": "Exact data-center use, accessory uses and approval path still need written interpretation."
+    },
+    {
+      "id": "SC5",
+      "title": "Carolinas I-95 Super Park",
+      "url": "https://www.nesasc.org/properties/carolinas-i-95-super-park",
+      "publisher": "North Eastern Strategic Alliance",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V2",
+      "scope": "Competing 929-acre marketed industrial site and its separate utility information",
+      "limitation": "Park evidence does not transfer to Baker parcels; useful substitute, not a subject capacity source."
+    },
+    {
+      "id": "SC6",
+      "title": "SC PSC large-load docket 2026-138-E",
+      "url": "https://dms.psc.sc.gov/Web/Dockets/DocketCard/119719",
+      "publisher": "Public Service Commission of South Carolina",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Open generic docket; Oct 26–27, 2026 workshops",
+      "limitation": "Not an adopted subject tariff, capacity allocation or opening date."
+    },
+    {
+      "id": "SC7",
+      "title": "South Carolina H.5286 · bill status",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5286.htm",
+      "publisher": "South Carolina General Assembly",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Proposed data-center moratorium legislation",
+      "limitation": "Status reviewed does not show enactment; proposal must not be represented as an active statewide ban."
+    },
+    {
+      "id": "IN1",
+      "title": "New Castle N State Road 3 · IRMLS 202617664",
+      "url": "https://www.reindiana.com/commercial-for-sale/N-State-Road-3-New-Castle-IN-47362-432318720",
+      "publisher": "F.C. Tucker/Crossroads / REIndiana",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "44.35 acres, $899,900; APN; seller infrastructure claims; sewer None",
+      "limitation": "IRMLS 202617663 farm version is the same offering, not another parcel."
+    },
+    {
+      "id": "IN2",
+      "title": "Parcel Boundaries of Indiana 2025",
+      "url": "https://gisdata.in.gov/server/rest/services/Hosted/Parcel_Boundaries_of_Indiana_2025/FeatureServer/0",
+      "publisher": "Indiana Geographic Information Office / Henry County",
+      "date": "2025 layer; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "State parcel 330727000111001021; geometry loaded Aug 14, 2025",
+      "limitation": "Older statewide tax geometry, approximately 43.55 GIS acres; offered split and owner unresolved."
+    },
+    {
+      "id": "IN3",
+      "title": "Indiana IURC electric service boundaries",
+      "url": "https://gisdata.in.gov/server/rest/services/Hosted/IURC_Prod_Boundaries_View/FeatureServer/0",
+      "publisher": "Indiana Utility Regulatory Commission",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Whole-polygon clip intersects Henry County REMC and Duke Energy",
+      "limitation": "Map has slight overlap; no supplier election, load allocation or utility service-point determination."
+    },
+    {
+      "id": "IN4",
+      "title": "Henry County REMC · proposed data center note",
+      "url": "https://www.hcremc.com/alerts/a-note-on-the-proposed-data-center-in-henry-county/",
+      "publisher": "Henry County REMC",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Separate Knightstown project; distribution / Hoosier Energy roles; contact",
+      "limitation": "No power agreement for this State Road 3 parcel; not evidence of spare MW."
+    },
+    {
+      "id": "IN5",
+      "title": "County and business leaders support Knightstown Tech Park",
+      "url": "https://growinhenry.com/2025/10/county-business-leaders-support-knightstown-tech-park/",
+      "publisher": "New Castle Henry County Economic Development Corporation",
+      "date": "2025-10; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V2",
+      "scope": "Separate I-70 / SR109 proposal; political and competitive context",
+      "limitation": "Different land, load and approval; no approval for the subject."
+    },
+    {
+      "id": "IN6",
+      "title": "Henry County planning / permit fee sheet",
+      "url": "https://www.henrycounty.in.gov/DocumentCenter/View/384/Planning-Permit-Fees-PDF",
+      "publisher": "Henry County",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Official planning telephone 765-529-7408",
+      "limitation": "Confirm current jurisdiction, staff and code. Fee sheet is not use approval."
+    },
+    {
+      "id": "ND1",
+      "title": "Heavy industrial lots from 10 acres · current sale syndication",
+      "url": "https://www.commercialsearch.com/commercial-property/us/nd/williston/heavy-industrial-lots-from-10-acres-19-900-acre-next-to-substation-terminal-1/",
+      "publisher": "Lunnen Real Estate / CommercialSearch",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V1",
+      "scope": "Hwy 1804 / 48th Street offering; 10-acre example at $199,000; group originally 136 acres",
+      "limitation": "Broker MW field is a template placeholder, not measured capacity."
+    },
+    {
+      "id": "ND2",
+      "title": "Williams County parcel map",
+      "url": "https://willgis.co.williams.nd.us/willgis/rest/services/Williams_County/ParcelsForWebMap/MapServer/0",
+      "publisher": "Williams County GIS",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "76.767 county GIS-acre 35-035; MWEC notch; separate Yellowstone parcels",
+      "limitation": "Current tax geometry/owner fields, not seller authority, offered lot schedule or title."
+    },
+    {
+      "id": "ND3",
+      "title": "GoGo Tech denial-appeal staff memorandum",
+      "url": "https://williamsnd.civicweb.net/document/166723/9.%20GoGo%20Tech%20-%20Memo%20Kameron.pdf?handle=9401AFDB116F45A2953498FE6B10C1B9",
+      "publisher": "Williams County Development Services",
+      "date": "2024-02-13; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Exact parcel 51-154-02-00-35-035; 30 MW proposal and setback failure",
+      "limitation": "Historical adverse determination; scope/date explicit. Current lawful cure requires new written county evidence."
+    },
+    {
+      "id": "ND4",
+      "title": "County commission minutes · denied GoGo appeal",
+      "url": "https://williamsnd.civicweb.net/document/167495/",
+      "publisher": "Williams County Commission",
+      "date": "2024-02-20; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Feb 20, 2024 appeal denied 5–0 after hearing",
+      "limitation": "Do not confuse with the later GoGo approval at a different Section 12 site."
+    },
+    {
+      "id": "ND5",
+      "title": "Signed data-center ordinance 2024-01-02",
+      "url": "https://williamsnd.civicweb.net/document/167028",
+      "publisher": "Williams County Commission",
+      "date": "2024 ordinance; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "CUP, setbacks, acoustic work, signed power agreement and security requirements",
+      "limitation": "County index still lists it; no subject cure found. Seek current interpretation, not a permanent-ban assumption."
+    },
+    {
+      "id": "ND6",
+      "title": "County ordinance index",
+      "url": "https://williamsnd.civicweb.net/filepro/documents/5137/",
+      "publisher": "Williams County",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Current public ordinance index checked Oct 19, 2026",
+      "limitation": "An index search is not a legal certification that all amendments or decisions are captured."
+    },
+    {
+      "id": "ND7",
+      "title": "LU-0073-24 GoGo · different site packet",
+      "url": "https://williamsnd.civicweb.net/document/173936/LU-0073-24%20Gogo%20Technologies%20is%20requesting%20a%20Co.pdf?handle=71026DE56E994AFF8C6E7730A0361CC6",
+      "publisher": "Williams County / MWEC documents",
+      "date": "2024; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "10-acre Section 12, T153N R103W; up to 8 MW interruptible agreement",
+      "limitation": "Not Section 35 Judson and not capacity available to this listing."
+    },
+    {
+      "id": "ND8",
+      "title": "Basin Electric large-load onboarding · public one-pager",
+      "url": "https://www.basinelectric.com/_files/pdf/Large-Load-Program/BEPC-Large-Load-Commercial-Program-One-Pager.Final.pdf",
+      "publisher": "Basin Electric Power Cooperative",
+      "date": "Undated public version; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Generic phases, funded studies and $50,000 nonrefundable application stage",
+      "limitation": "Older public document; current program page exists, but linked newer PDF redirects to member login. Confirm applicability/current terms with MWEC."
+    },
+    {
+      "id": "ND9",
+      "title": "MWEC rate schedules · C4",
+      "url": "https://www.mwec.com/sites/default/files/2026-07/mwec-rate-schedules-october-2025.pdf",
+      "publisher": "Mountrail-Williams Electric Cooperative",
+      "date": "October 2025 schedule; retrieved 2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Published high-load schedule and contract/facility charges",
+      "limitation": "Not a delivered site quote; Basin process / project-specific contracts may govern."
+    },
+    {
+      "id": "G1",
+      "title": "National Wetlands Inventory · public map service",
+      "url": "https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer/0",
+      "publisher": "US Fish and Wildlife Service",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "Bounding queries then exact-polygon intersection and union for the four sites",
+      "limitation": "Inventory only; zero returned features is not absence of wetlands, streams or permitting jurisdiction."
+    },
+    {
+      "id": "G2",
+      "title": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "publisher": "USDA NRCS",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V3",
+      "scope": "New Castle dominant-component drainage/hydric map; Dillon carried Oct 8 summary",
+      "limitation": "Soil map is not geotechnical testing or wetland delineation. Dominant component does not describe every point."
+    },
+    {
+      "id": "G3",
+      "title": "FEMA National Flood Hazard Layer service",
+      "url": "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28",
+      "publisher": "FEMA",
+      "date": "2026-10-19",
+      "retrievedAt": "2026-10-19",
+      "kind": "V0",
+      "scope": "Attempted current parcel-envelope queries for SC, IN and ND",
+      "limitation": "All three attempts returned 503. Flood status remains unresolved; failed access is not a clean result."
+    }
+  ],
+  "factor_register": [
+    {
+      "id": "P01",
+      "name": "Exact serving utility and load process",
+      "pilot_weight": 3,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P02",
+      "name": "Studyable delivery path and headroom",
+      "pilot_weight": 4,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P03",
+      "name": "Phased energization and load ramp",
+      "pilot_weight": 3,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P04",
+      "name": "Energy supply and firming",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P05",
+      "name": "Electrical resilience and power quality",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P06",
+      "name": "Forward grid competition and congestion",
+      "pilot_weight": 3,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P07",
+      "name": "Delivered tariff and credit obligations",
+      "pilot_weight": 3,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P08",
+      "name": "Onsite or bridge power feasibility",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P09",
+      "name": "Flexible load and curtailment compatibility",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "P10",
+      "name": "Offsite power works and equipment path",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B01",
+      "name": "Workload, geography and network boundary",
+      "pilot_weight": 3,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B02",
+      "name": "Revealed demand with timing",
+      "pilot_weight": 3,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B03",
+      "name": "Substitutes and competitive pipeline",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B04",
+      "name": "Buyer and sponsor funding capability",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B05",
+      "name": "Reachable acquisition decision function",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "B06",
+      "name": "Defensible reason to pay Syncranicity",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "F01",
+      "name": "Physical route and entry diversity",
+      "pilot_weight": 4,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "F02",
+      "name": "End-to-end network performance",
+      "pilot_weight": 3,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "F03",
+      "name": "Carrier serviceability and capacity",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "F04",
+      "name": "Fiber construction, rights and delivery",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "F05",
+      "name": "Network ecosystem and expansion",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "L01",
+      "name": "Parcel identity, seller and title",
+      "pilot_weight": 2,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "L02",
+      "name": "Net contiguous developable layout",
+      "pilot_weight": 4,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "L03",
+      "name": "Legal access, easements and crossings",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "L04",
+      "name": "Assignable conditional control",
+      "pilot_weight": 2,
+      "first_gate": "G3",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "L05",
+      "name": "Expansion and assembly",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "J01",
+      "name": "Exact use permission and overlays",
+      "pilot_weight": 3,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "ADVERSE_HISTORY_HOLD",
+          "rating": null,
+          "reason": "Exact 35-035 historical setback denial; no current lawful cure found."
+        }
+      }
+    },
+    {
+      "id": "J02",
+      "name": "Approvals and appeal critical path",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "J03",
+      "name": "Government and community evidence",
+      "pilot_weight": 2,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "J04",
+      "name": "Environmental and operating permits",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "J05",
+      "name": "Ratepayer, water and local benefit burden",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "J06",
+      "name": "Transaction and regulatory applicability",
+      "pilot_weight": 2,
+      "first_gate": "G3",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "E01",
+      "name": "Floodway, flood and drainage",
+      "pilot_weight": 2,
+      "first_gate": "G1",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "E02",
+      "name": "Wetlands, habitat and cultural resources",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "E03",
+      "name": "Slope, soils and ground stability",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "E04",
+      "name": "Contamination and prior use",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "E05",
+      "name": "Adjacent hazards and physical security",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "W01",
+      "name": "Lawful water source and rights",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "W02",
+      "name": "Physical supply and drought resilience",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "W03",
+      "name": "Cooling architecture and heat rejection",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "W04",
+      "name": "Wastewater, fire flow and water works",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "W05",
+      "name": "Climate, PUE and WUE scenario",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "C01",
+      "name": "All-in buyer TCO and residual value",
+      "pilot_weight": 2,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "C02",
+      "name": "Option runway and capital at risk",
+      "pilot_weight": 2,
+      "first_gate": "G3",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "C03",
+      "name": "Transferable evidence value",
+      "pilot_weight": 1,
+      "first_gate": "G3",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "C04",
+      "name": "Alternate-use and walk-away downside",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "C05",
+      "name": "Net incentive value and durability",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "S01",
+      "name": "Renewable procurement compatibility",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "S02",
+      "name": "Carbon, sustainability and reporting",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "S03",
+      "name": "Future technology and exit adaptability",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "X01",
+      "name": "Workforce, logistics and supply chain",
+      "pilot_weight": 1,
+      "first_gate": "G2",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "NOT_RESOLVED",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    },
+    {
+      "id": "X02",
+      "name": "Execution ownership and quality control",
+      "pilot_weight": 1,
+      "first_gate": "G3",
+      "site_status": {
+        "ROOKS": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "DILLON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "NEWCASTLE": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        },
+        "WILLISTON": {
+          "research_status": "PARTIAL_DESKTOP",
+          "decision_status": "UNKNOWN",
+          "rating": null,
+          "reason": "See site findings and coverage register; required buyer/issuer/professional proof incomplete."
+        }
+      }
+    }
+  ],
+  "topic_coverage": [
+    {
+      "id": "Q01",
+      "name": "Exact parcel",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q02",
+      "name": "Seller authority",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q03",
+      "name": "Legal access and layout",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q04",
+      "name": "Exact serving utility",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q05",
+      "name": "Studyable power path",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q06",
+      "name": "Power terms and timing",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q07",
+      "name": "Zoning and use",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q08",
+      "name": "Approval path and politics",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q09",
+      "name": "Lawful water source",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q10",
+      "name": "Physical water / cooling",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q11",
+      "name": "Fiber and connectivity",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q12",
+      "name": "Flood and drainage",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q13",
+      "name": "Wetlands / habitat / cultural",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q14",
+      "name": "Soils / slope / geotechnical",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q15",
+      "name": "Contamination / prior use",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q16",
+      "name": "Adjacent hazards",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q17",
+      "name": "Expansion and assembly",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q18",
+      "name": "Buyer requirements / demand",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q19",
+      "name": "Substitutes and competition",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q20",
+      "name": "Named funded takeout",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q21",
+      "name": "Seller terms / control",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q22",
+      "name": "Assignment and enforceability",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q23",
+      "name": "Lawful transaction",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q24",
+      "name": "Transferable evidence",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q25",
+      "name": "Option survival / milestones",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q26",
+      "name": "All-in economics / cash",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q27",
+      "name": "Alternate-use downside",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q28",
+      "name": "Incentives and triggers",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q29",
+      "name": "Energy / sustainability",
+      "research_status": "NOT_RESOLVED",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q30",
+      "name": "Onsite / bridge power",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q31",
+      "name": "Execution and delivery",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q32",
+      "name": "Reason buyer pays",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q33",
+      "name": "Independent challenge",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    },
+    {
+      "id": "Q34",
+      "name": "Final decision / review",
+      "research_status": "PARTIAL_DESKTOP",
+      "decision_status": "UNKNOWN",
+      "completion_claim": false
+    }
+  ],
+  "scores": {
+    "conservative": null,
+    "base": null,
+    "upside": null,
+    "evidence_confidence": null,
+    "conversion_probability": null,
+    "reason": "No validated buyer card or complete issuer proof; no numeric score or success probability represented."
+  },
+  "limitations": [
+    "Targeted desktop screen; not completed 116-question pre-option diligence.",
+    "Available MW, energization date, net usable acres, funded takeout and assignment economics remain unknown.",
+    "Dillon geometry and soil screen carried from October 8; updates and calculation methods explicitly dated.",
+    "No current flood clearance for any site.",
+    "No seller/utility/carrier/agency outreach, study applications, contracts or payments."
+  ],
+  "pages": [
+    {
+      "title": "Four sites. One decision rule.",
+      "kicker": "SYNCRANICITY / FOUNDER DECISION MEMO · 19 OCTOBER 2026",
+      "blocks": [
+        {
+          "type": "box",
+          "text": "Continue Dillon. Add Rooks Road at equal research priority to today’s leading choices. Screen New Castle and Williston. Stop Adairsville screening. New spending recommendation and authorization in this run: $0."
+        },
+        {
+          "type": "p",
+          "text": "Rooks Road is Rooks Industrial Gateway at MC-85 and S Rooks Road in Buckeye, Maricopa County, Arizona. The initial offer is about 36 acres, with a separately owned 38-acre expansion advertised. The founder’s ability to visit improves the cost and speed of collecting local facts; it does not establish capacity or approval."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Site",
+            "Research decision",
+            "Decisive next proof"
+          ],
+          "rows": [
+            [
+              "Rooks Industrial Gateway",
+              "CONTINUE · DOCUMENTS + LOCAL VISIT",
+              "Conflicting broker versions; no APS commitment; current asking price unpublished."
+            ],
+            [
+              "Dillon-Baker compartment 53",
+              "CONTINUE · POWER / RU USE / LAYOUT",
+              "No exact-load service letter, written RU use path or civil concept layout."
+            ],
+            [
+              "New Castle State Road 3 & Riley Road",
+              "CONTINUE · TRACT + UTILITY BOUNDARY",
+              "44.35-acre offering / old 49.634-acre legal / 43.55 GIS acres disagree; two utility polygons intersect."
+            ],
+            [
+              "Williston Highway 1804 / 48th Street NW",
+              "HOLD · EXACT-PARCEL DENIAL",
+              "Historic exact-parcel setback failure, no written cure, no power commitment, possible sponsor-scale study costs."
+            ]
+          ],
+          "widths": [
+            1.55,
+            2.0,
+            3.35
+          ]
+        },
+        {
+          "type": "h",
+          "text": "The material changes"
+        },
+        {
+          "type": "p",
+          "text": "Williston is materially weaker than its morning listing-only rank: the county denied a setback appeal tied to the exact eastern 76-acre parcel in February 2024. New Castle has a more favorable soil screen, but the matched tax geometry intersects two utility territories. Rooks has inconsistent marketing versions for acreage, building plans and power. Dillon still needs its exact supplier and RU use path."
+        },
+        {
+          "type": "p",
+          "text": "Hinds 110 remains the existing global founder focus. This four-site work order does not replace that decision or reopen other sites. All four remain research cases, with no validated buyer, no verified available MW and no paid-control clearance."
+        },
+        {
+          "type": "p",
+          "text": "Deal IDs: Rooks oct19-38995811; Dillon sc-dillon-53; New Castle oct19-27254380; Williston oct19-3934635. Private internal screening. Public records are dated evidence, not title, engineering or utility commitments."
+        }
+      ]
+    },
+    {
+      "title": "Compare research effort, not imaginary capacity.",
+      "kicker": "WORKLOAD / SELECTION / LOOP",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "What the business might be: identify land where a buyer could lawfully build a data center, resolve the hard questions cheaply, then transfer useful rights and evidence with appropriate professional advice. A buyer pays only if that work saves more time or money than its own land search or another campus. No such premium is established here."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Working card",
+            "Rooks small phase",
+            "Dillon / New Castle"
+          ],
+          "rows": [
+            [
+              "Status",
+              "Analyst hypothesis; not buyer validated",
+              "Analyst hypothesis; not buyer validated"
+            ],
+            [
+              "Initial facility load",
+              "5–10 MW",
+              "20–25 MW"
+            ],
+            [
+              "Expansion",
+              "74-acre land possibility; MW unknown",
+              "50 MW test case; rights / capacity unknown"
+            ],
+            [
+              "IT load at illustrative PUE 1.2",
+              "4.2–8.3 MW",
+              "16.7–20.8 MW"
+            ],
+            [
+              "Common requirements",
+              "Low-water design; two physically diverse carrier paths; acceptable reliability, cost and date",
+              "Same requirements, with buyer-specific limits still undefined"
+            ]
+          ],
+          "widths": [
+            1.45,
+            2.7,
+            2.75
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The 5–10 MW Rooks case tests whether a smaller project creates a credible route. It is a separate scope, not a way to declare the larger 25 MW requirement passed. Do not split meters or phases to assume regulatory thresholds disappear. No universal MW-per-acre rule was used."
+        },
+        {
+          "type": "h",
+          "text": "Suggested next-hour allocation"
+        },
+        {
+          "type": "p",
+          "text": "Give Rooks and New Castle the next documentary work blocks. Continue Dillon’s existing utility / planning / layout questions. Spend only a short written cure check on Williston’s eastern 76 acres before expanding that work. Rooks stays at equal founder-requested research priority; its current price could still make it harder to control than Dillon or New Castle."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Current state",
+            "Bottleneck",
+            "Next decision event"
+          ],
+          "rows": [
+            [
+              "Public screen completed",
+              "Issuer documents, offered surveys and a buyer card",
+              "Existing documents establish scope, or the question goes to the responsible issuer"
+            ],
+            [
+              "No new external requests sent",
+              "Outreach is not authorized by this screening",
+              "Founder can use the prepared drafts"
+            ],
+            [
+              "Capital HOLD for all four",
+              "16 required proofs incomplete",
+              "Concrete funded structure and full gate review before any money"
+            ]
+          ],
+          "widths": [
+            1.65,
+            2.45,
+            2.8
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Neither a success percentage nor a numeric investment score is defensible yet. Conservative/base/upside scores and evidence confidence are left null; the JSON retains all 52 factors and 34 topics with explicit incomplete status. Missing proof never becomes a zero-risk assumption."
+        }
+      ]
+    },
+    {
+      "title": "Rooks: a local, smaller-phase test.",
+      "kicker": "AZ / MARICOPA COUNTY / BUCKEYE",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Item",
+            "Evidence and implication"
+          ],
+          "rows": [
+            [
+              "Initial land",
+              "APN 401-87-007B; assessor LAND_SIZE 36 acres; calculated GIS area about 35.26 acres. Recorded owner RTP GP PHASE I LLC."
+            ],
+            [
+              "Expansion",
+              "APN 401-87-005; 38 record acres / about 37.43 GIS acres; RTP GP PHASE 2 LLC. Same branded project does not mean one signing entity."
+            ],
+            [
+              "Present price",
+              "CBRE says contact broker. Current ask is unknown. An older flyer asked $12,301,344 for 35.3 acres; it is historical marketing only."
+            ],
+            [
+              "Transaction context",
+              "Assessor records show $6,665,000 / deed 20250152752 for 007B and $8,276,000 / deed 20260165681 for 005. These entries are not appraisals or today’s asking price."
+            ],
+            [
+              "Use / utilities",
+              "I-1, APS and City of Buckeye water/sewer are broker statements. Exact zoning, overlays, lawful data-center classification, will-serve, fire flow and utility allocation remain unissued."
+            ]
+          ],
+          "widths": [
+            1.25,
+            5.65
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Resolve the broker-version conflict first"
+        },
+        {
+          "type": "p",
+          "text": "The Showcase-linked 74-acre brochure advertises a 10 MW substation in process for Q1 2027. The six-page brochure linked directly on CBRE’s 36-acre listing does not make that MW/date statement and uses a different warehouse plan. No file date proves which commercial scope supersedes the other. Request the controlling plan and APS writing; do not carry the number into available MW. [AZ1–AZ4]"
+        },
+        {
+          "type": "h",
+          "text": "What can make it worthwhile"
+        },
+        {
+          "type": "p",
+          "text": "A buyer-accepted 5–10 MW first phase with dry or low-water heat rejection could use less land and power than the earlier 25 MW working screen. Local observation is inexpensive. A credible seller-cooperation or buyer-funded diligence arrangement would be more plausible than assuming cheap control of multimillion-dollar industrial land. Those are hypotheses, not accepted terms."
+        },
+        {
+          "type": "h",
+          "text": "What can stop it"
+        },
+        {
+          "type": "p",
+          "text": "No parcel-specific APS commitment; an unaffordable price or exclusivity premium; data-center or accessory-use conflict; water / fire-flow limits; adjacent residential noise constraints; flood / drainage / easement issues; no buyer-compatible diverse fiber. No evidence yet establishes a net contiguous buildable pad or assignment value."
+        }
+      ]
+    },
+    {
+      "title": "Rooks: make a visit answer specific questions.",
+      "kicker": "AZ / PARCEL MAP + VISIT SHEET",
+      "blocks": [
+        {
+          "type": "image",
+          "path": "working/maps/rooks.png",
+          "width": 6.5
+        },
+        {
+          "type": "p",
+          "text": "Visit from public roads, or enter only with owner/broker permission. Match the north parcel and expansion boundary to the broker’s survey. Photograph access points, gates, drainage channels / culverts, overhead corridors and visible construction with date, location and viewing direction. Record nearby homes and noise sources. Ask which photographed substation is meant by the marketing claim."
+        },
+        {
+          "type": "p",
+          "text": "Before a dedicated trip, request the current 36-acre price and APS documents. Bring the APN map and note whether frontage / access shown in marketing exists on the ground. A photograph cannot establish a legal access right, reserved MW, carrier diversity or flood status. Keep observations separate from agency or utility determinations."
+        },
+        {
+          "type": "p",
+          "text": "NWI returned no features in the queried two-parcel envelope. Flood clearance was not obtained: the Assessor Flood service’s queried layer returned a null-geometry county object, unsuitable for a flood-zone intersection. Buckeye planning services required a token, so exact-use interpretation remains a written city question. [AZ4, AZ6, AZ9, G1]"
+        }
+      ]
+    },
+    {
+      "title": "Dillon: keep 53 primary, keep 48 unpaid.",
+      "kicker": "SC / DILLON COUNTY / CONTINUATION",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Offering",
+            "Current ask / advertised gross acres",
+            "Role"
+          ],
+          "rows": [
+            [
+              "53 · 080-00-00-053",
+              "$696,000 / 60 · $11,600/ac",
+              "Primary existing research case"
+            ],
+            [
+              "48 · 080-00-00-048",
+              "$438,000 / 36.45",
+              "Physical-layout challenger; about 38.49 calculated GIS ac"
+            ],
+            [
+              "1 · 092-00-00-001",
+              "$608,880 / 51.6",
+              "Unpaid alternate; acreage reconciliation required"
+            ],
+            [
+              "72 + 721 · 092-00-00-072",
+              "$671,176 / 57.86 and $333,036 / 28.71",
+              "Two offered portions of one parent; do not double count"
+            ],
+            [
+              "102 · 092-00-00-102",
+              "$152,000 / 7.61",
+              "Smaller alternate only; no revival of the prior 20–25 MW case"
+            ]
+          ],
+          "widths": [
+            2.05,
+            2.4,
+            2.45
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The live AFM 53 listing still shows 60 acres and $696,000. A fresh county response matches Baker Anne A, deed 492/54 and plat 18/1. The public zoning-point response is RU Rural. These establish a traceable tax parcel and current marketing; they do not establish seller signing authority, legal access or data-center permission. [SC1–SC4]"
+        },
+        {
+          "type": "h",
+          "text": "The physical concern persists"
+        },
+        {
+          "type": "p",
+          "text": "The approximately 60-acre polygon is long and narrow. Fresh NWI intersection is about 1.13 acres of mapped riverine features. The Oct 8 dominant-soil screen carried forward roughly 25.13 acres somewhat poorly drained and 3.85 acres poorly drained; roughly 48% combined. The 48 challenger had more well-drained mapped soil but about 3.53 mapped NWI acres. These are overlapping screens, not additive exclusions or net pad areas. [G1, G2; Oct 8 Dillon baseline]"
+        },
+        {
+          "type": "h",
+          "text": "Power and demand remain the first commercial tests"
+        },
+        {
+          "type": "p",
+          "text": "Public electric overlays do not resolve the exact retail supplier. The nearby Carolinas I-95 Super Park’s Duke / cooperative, voltage and utility descriptions apply to that park, not Baker land. Its documented industrial offering is also a substitute that a buyer can evaluate. Syncranicity needs a specific advantage over that alternative, not a proximity narrative. [SC5]"
+        },
+        {
+          "type": "p",
+          "text": "Next: one combined 53/48 document request for surveys, access/easements, existing utility studies and a written county RU-use path. Proceed only with unpaid research; the current power, layout and buyer proof is too weak for an option."
+        }
+      ]
+    },
+    {
+      "title": "Dillon: mapped water is only part of the test.",
+      "kicker": "SC / PARCEL MAP + CURRENT POLICY",
+      "blocks": [
+        {
+          "type": "image",
+          "path": "working/maps/dillon.png",
+          "width": 6.9
+        },
+        {
+          "type": "h",
+          "text": "What changed in the policy watch"
+        },
+        {
+          "type": "p",
+          "text": "SC PSC docket 2026-138-E is an open generic large-load proceeding, with workshops listed for October 26–27, 2026. It does not supply an adopted price or a Baker load commitment. H.5286 is a proposed state moratorium bill; the reviewed status did not show enactment. Neither should be transformed into an automatic parcel approval or an active statewide ban. [SC6, SC7]"
+        },
+        {
+          "type": "p",
+          "text": "Current FEMA NFHL retrieval returned 503. Earlier county flood tiles were only a visual proxy. The resulting flood gate stays unresolved. Do not label the roughly 58.9 acres outside mapped NWI as buildable: setbacks, drainage, easements, flood, access and an actual low-water campus layout still need a combined constraints test."
+        },
+        {
+          "type": "p",
+          "text": "Written county question: for 080-00-00-053 and 048, identify the controlling jurisdiction and adopted RU use classification for a 20–25 MW non-crypto data center, plus generators, batteries, electrical yard and cooling. State approvals, setbacks, noise limits, appeal timing and any current prohibition. The City of Dillon code must not be substituted for county rules. [SC3, SC4]"
+        }
+      ]
+    },
+    {
+      "title": "New Castle: promising soil, unresolved offering.",
+      "kicker": "IN / HENRY COUNTY / N STATE ROAD 3",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Item",
+            "Evidence and implication"
+          ],
+          "rows": [
+            [
+              "Live offering",
+              "IRMLS 202617663 / 202617664 describes the same 44.35-acre offer at $899,900, about $20,291 per advertised acre. Sewer is listed as None."
+            ],
+            [
+              "Tax identity",
+              "APN 33-07-27-000-111.001-021; state parcel 330727000111001021; 2025 statewide geometry loaded Aug 14, 2025."
+            ],
+            [
+              "Acreage conflict",
+              "Prior listing legal description says 49.634 acres; current offer 44.35; matched GIS polygon calculates about 43.55. A reported 5.27-acre earlier sale could explain the first difference, but no current deed / split survey was reviewed."
+            ],
+            [
+              "Pin conflict",
+              "Listing coordinate is about 2.43 km / 1.51 miles north of the matched polygon centroid (WGS84 geodesic). Constraint calculations use the APN polygon, not that pin."
+            ],
+            [
+              "Jurisdiction",
+              "Prairie Township tax record; no municipal feature intersected in the 2025 boundary query. Current planning jurisdiction, ETJ and data-center use path still require county / city confirmation."
+            ]
+          ],
+          "widths": [
+            1.3,
+            5.6
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The possible split arithmetic is 49.634 − 5.27 = 44.364 acres, close to the advertised 44.35. That is an analyst inference from listing history, not proof that the offered legal description or access survived unchanged. Current owner and seller authority remain unknown. [IN1, IN2]"
+        },
+        {
+          "type": "h",
+          "text": "The more consequential conflict: utility territory"
+        },
+        {
+          "type": "p",
+          "text": "IURC polygon clips cover roughly 66% of the matched tract with Henry County REMC and 34% with Duke Energy; about 0.26% overlap reflects mapping inconsistency. This does not give a buyer two feeds, utility choice or a capacity allocation. Get a coordinated written determination of the premises and proposed delivery point before selecting a utility path. [IN3]"
+        },
+        {
+          "type": "p",
+          "text": "High-pressure gas, rail and a nearby substation are seller statements. Gas does not establish firm bridge-generation fuel, rail does not establish a usable crossing, and substation proximity does not establish headroom. [IN1]"
+        }
+      ]
+    },
+    {
+      "title": "New Castle: two maps, two different uncertainties.",
+      "kicker": "IN / POWER TERRITORY + SOIL SCREEN",
+      "blocks": [
+        {
+          "type": "image",
+          "path": "working/maps/newcastle.png",
+          "width": 6.9
+        },
+        {
+          "type": "p",
+          "text": "USDA dominant-component mapping clips about 40.33 acres / 92.6% as well drained and 3.22 acres / 7.4% as poorly drained hydric Westland. NWI overlaps about 0.07 acres, a narrow riverine feature. Do not add hydric soil and NWI as separate lost acres. Engineered drainage, agricultural tile, bearing conditions, groundwater and current flood status remain unresolved. [G1, G2]"
+        },
+        {
+          "type": "p",
+          "text": "The separate Knightstown I-70 / SR109 technology-park debate is political and competitive context, not this parcel’s approval. Henry County REMC describes its distribution role and Hoosier Energy’s power-agreement role for that other project. A large project’s publicity is neither available MW nor a countywide use determination for State Road 3. [IN4, IN5]"
+        },
+        {
+          "type": "p",
+          "text": "Next packet: post-split legal / survey; owner and authority; title access and easements; written REMC/Duke service-point response; planning use interpretation; water / wastewater / fire flow; two carrier route proposals. Current FEMA query failed, so no flood clearance is claimed."
+        }
+      ]
+    },
+    {
+      "title": "Williston: the exact-parcel history changes the answer.",
+      "kicker": "ND / WILLIAMS COUNTY / ADVERSE RECORD",
+      "blocks": [
+        {
+          "type": "box",
+          "text": "Hold paid pursuit of the eastern 76-acre parcel. Require current written county evidence of a lawful cure before investing in an expanded data-center case."
+        },
+        {
+          "type": "p",
+          "text": "The morning lead was the Hwy 1804 / 48th Street NW listing group, advertised as 136 acres in 10–76 acre lots. A current 10-acre example is $199,000 / $19,900 per acre. County matching identifies the eastern 76.767 county GIS-acre parcel as 51-154-02-00-35-035, MS16-0029, owned in tax records by BHANVADIA ND DEVCO III LLC. The listing pin lies on a separate western Yellowstone parcel. [ND1, ND2]"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Date / record",
+            "What it establishes"
+          ],
+          "rows": [
+            [
+              "Jan–Feb 2024 · county staff memo",
+              "The 30 MW GoGo proposal on exact parcel 35-035 failed one-mile sensitive-property and three-mile existing-data-center separation tests. Staff would not accept the CUP application; switching cooling did not cure the identified issue."
+            ],
+            [
+              "Feb 20, 2024 · commission minutes",
+              "Appeal denied 5–0. This is stronger negative evidence than a generic political-risk proxy."
+            ],
+            [
+              "Oct 19, 2026 · ordinance-index check",
+              "Signed data-center ordinance remains listed. No written subject cure was found. The historical denial is not called a permanent ban."
+            ]
+          ],
+          "widths": [
+            2.0,
+            4.9
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The ordinance regulates a broader data-center use, not merely cryptocurrency. Quiet HPC cannot be assumed exempt. Requirements include CUP review, acoustic work, a signed electric power agreement and maintenance / reclamation security. A current county interpretation is the responsible next source. [ND3–ND6]"
+        },
+        {
+          "type": "h",
+          "text": "Do not confuse the later GoGo approval"
+        },
+        {
+          "type": "p",
+          "text": "A later LU-0073-24 packet concerns a proposed 10-acre site in Section 12, T153N R103W, Hardscrabble Township. It includes an up-to-8 MW interruptible MWEC arrangement. The screened parcel is Section 35, T154N R102W, Judson Township. The later case demonstrates the sort of specific issuer evidence needed; it supplies no permit or power right here. [ND7]"
+        }
+      ]
+    },
+    {
+      "title": "Williston: separate the owners, land and power rights.",
+      "kicker": "ND / PARCEL MAP + CAPITAL DEPENDENCY",
+      "blocks": [
+        {
+          "type": "image",
+          "path": "working/maps/williston.png",
+          "width": 6.9
+        },
+        {
+          "type": "p",
+          "text": "The two western Yellowstone parcels report 15.0146 and 51.6692 county GIS acres; their combined approximately 66.7 acres match the scale of a separately marketed 67-acre sibling site. This is an identity clue, not a confirmed offered schedule. Do not assign the eastern denial to every western acre, or assume the western offering escapes the same ordinance. [ND1, ND2]"
+        },
+        {
+          "type": "p",
+          "text": "The current broker brochure contains an unfilled MW placeholder. No subject service agreement was recovered. MWEC’s published C4 tariff is a benchmark, not a total delivered-cost quote. The Basin public onboarding one-pager shows funded studies and a $50,000 nonrefundable application stage, with multiyear implementation phases. Confirm the current version and applicability with MWEC; the newer link was behind member login. [ND8, ND9]"
+        },
+        {
+          "type": "p",
+          "text": "That published application fee alone is five times the founder’s $10,000 cumulative all-in soft-control cap. If applicable, a credible sponsor must fund it; shrinking the land lot does not prove an exemption. Oil / pipeline / terminal neighbors also warrant a buyer-specific hazard and Phase I path. NWI returned no features in the covered 76-acre envelope; flood, soil/geotechnical and environmental clearance remain open."
+        }
+      ]
+    },
+    {
+      "title": "The paid-control gate stays closed.",
+      "kicker": "16 NON-COMPENSATING PROOFS / POLICY V2",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "U = required proof unresolved. H = capital/runway hold. A = adverse exact-parcel history requiring current cure. Desktop tax and GIS evidence improves the file but does not satisfy the complete proof at its required scope."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Proof",
+            "Rooks",
+            "Dillon",
+            "New Castle",
+            "Williston"
+          ],
+          "rows": [
+            [
+              "Exact offered parcel",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Seller authority",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Legal access and layout",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Serving utility",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Studyable power path",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Use and approval path",
+              "U",
+              "U",
+              "U",
+              "A"
+            ],
+            [
+              "Water and cooling",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Fiber path",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Environmental path",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Buyer fit",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Funded takeout",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Assignable control",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Lawful transaction",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Transferable evidence",
+              "U",
+              "U",
+              "U",
+              "U"
+            ],
+            [
+              "Capital and runway",
+              "H",
+              "H",
+              "H",
+              "H"
+            ],
+            [
+              "Independent red team",
+              "U",
+              "U",
+              "U",
+              "U"
+            ]
+          ],
+          "widths": [
+            3.1,
+            0.9,
+            0.9,
+            1.05,
+            0.95
+          ]
+        },
+        {
+          "type": "p",
+          "text": "No complete PASS is asserted. Several proof components have authoritative public evidence; the remaining private, professional or scope-specific pieces are material. No available-MW, COD, buyer commitment, assignable control, usable-acre or profit value is invented."
+        },
+        {
+          "type": "p",
+          "text": "Policy precedence: founder-approved September 8, 2026 policy v2 requires all 16 proofs, conservative score at least 70 and evidence confidence at least 85 before founder review of paid control. Even a passed review authorizes no money automatically. Existing $5,000 learning and $10,000 cumulative all-in soft-control limits for one paid parcel remain controlling."
+        },
+        {
+          "type": "p",
+          "text": "A complete 52-factor register and 34-topic coverage register are in the JSON. Unresearched components remain NOT_REVIEWED or UNKNOWN. This memo is a targeted desktop screen, not a completed 116-question pre-option clearance. An independent professional red team has not reviewed it."
+        }
+      ]
+    },
+    {
+      "title": "Make any control period survive the evidence timeline.",
+      "kicker": "ECONOMICS / STRUCTURE / STOP RULE",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Scenario",
+            "Illustrative cash / condition",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Desktop continuation",
+              "New out-of-pocket recommendation $0; historical exposure and remaining budget not reconciled here",
+              "Proceed with existing records and document preparation"
+            ],
+            [
+              "Small paid-control illustration",
+              "E.g. $2,000 nonrefundable option + $2,000 counsel + $2,000 survey/civil scope + $2,000 extension + $2,000 contingency = $10,000",
+              "Arithmetic only, not vendor quotes or an affordable package proved for any site; no room for utility security"
+            ],
+            [
+              "Basin published fee if applicable",
+              "$50,000 application stage, before additional study funding or construction",
+              "Founder cannot carry it inside the adopted cap; funded sponsor or hold"
+            ],
+            [
+              "Rooks price sensitivity",
+              "Historical multimillion-dollar marketing and transaction records; current ask unknown",
+              "Small acreage does not imply inexpensive control"
+            ]
+          ],
+          "widths": [
+            1.5,
+            3.5,
+            1.9
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Worst-loss rule: count nonrefundable premiums, counsel, reports, deposits, extension payments and nonrecoverable travel once, as cumulative exposure. Downside can be the entire funded amount with no assignment. Purchase money, infrastructure, tariffs, deposits, taxes and construction remain unpriced. No assignment premium, profit margin, ROI or takeout probability is established."
+        },
+        {
+          "type": "h",
+          "text": "Cheapest proposed structure to discuss, only after evidence improves"
+        },
+        {
+          "type": "p",
+          "text": "Request existing documents and permission for nonintrusive investigation first. An owner-authorized access / information agreement may support early desktop or professional scoping without an option. If control becomes justified, seek a conditional, assignable or nominee-compatible instrument, objective diligence exits, fixed price, defined utility milestones, reliance / sharing rights and affordable extension rights. Local counsel must resolve authority, access, licensing / compensation and transaction triggers."
+        },
+        {
+          "type": "p",
+          "text": "Draft seller language: “I am evaluating a defined data-center use and will not represent the land as powered. Would you provide the current survey, title and utility file, permit limited investigation, and discuss conditional control only after the issuer evidence supports the scope?” No terms were proposed or accepted in this run."
+        },
+        {
+          "type": "p",
+          "text": "Stop if the legal use has no documented cure; seller refuses useful access / assignment; essential offsite rights are unavailable; load / carrier timing outruns affordable control; required studies or security lack sponsor funding; or a buyer would choose a better substitute. No paid vendors commissioned. Obtain scoped civil, environmental and local counsel quotes only after the next decisive free documents support proceeding."
+        }
+      ]
+    },
+    {
+      "title": "Prepared requests: documents before residual calls.",
+      "kicker": "FOUNDER SPRINT / UNSENT DRAFTS",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Order / verified channel",
+            "Draft request"
+          ],
+          "rows": [
+            [
+              "Rooks · Cooper Fratt, CBRE\n602-735-5037\ncooper.fratt@cbre.com",
+              "Please confirm current pricing and availability for 401-87-007B and the expansion separately. Send the offered survey, title/easements, seller entities and APS-issued documents underlying the advertised 10 MW / Q1 2027 claim. Does it cover the 36-acre phase, who holds the right, and can it transfer? Which brochure / plan controls?"
+            ],
+            [
+              "New Castle · Mike McKown\nF.C. Tucker/Crossroads\n765-524-3018",
+              "Please send the current post-split survey/legal description, owner authority, access and utility file for 33-07-27-000-111.001-021. Reconcile 44.35, 49.634 and the older GIS boundary. What existing REMC/Duke document identifies the intended service point?"
+            ],
+            [
+              "Dillon · Curtis Spencer, AFM\n803-491-4832 cell\n803-773-5461 office",
+              "Please send the surveys/legal descriptions and access/easements for compartments 53 and 48, reconcile 48 acreage, and share existing utility and RU data-center use writing. Who can bind the seller and permit preliminary investigation?"
+            ],
+            [
+              "Williston · Jeff Lunnen\n701-428-1243\njeff@lunnen.com",
+              "Please identify each presently offered lot/APN, owner and current terms. For 51-154-02-00-35-035, provide any later written county decision curing the February 2024 denial, plus a subject MWEC agreement. Please distinguish it from LU-0073-24 in Section 12."
+            ]
+          ],
+          "widths": [
+            2.2,
+            4.7
+          ]
+        },
+        {
+          "type": "p",
+          "text": "These are drafts only; nothing was sent. CBRE’s brochure lists alternate mobile numbers for Cooper and John; the main listing number above is the current primary web contact. Contact sources: AZ1/AZ3, IN1, SC1 and ND1."
+        },
+        {
+          "type": "p",
+          "text": "Residual issuer channels after reviewing existing documents: Dillon Planning 843-841-3874 / dilloncode17@dilloncountysc.org; Henry Planning 765-529-7408; Henry County REMC 800-248-8413; MWEC 800-279-2667; Buckeye and APS via their official planning / economic-development pages. Do not use a generic customer-service answer as load approval."
+        },
+        {
+          "type": "p",
+          "text": "Utility script: “For this survey, intended delivery point and facility-load ramp, confirm the serving entity, intake classification, studyable connection/supply path, earliest conditional dates, required studies, all fees/deposits/security, upgrades, curtailment, tariff/minimums and transfer/reliance rights. Please respond in attributable writing. No application or paid study is requested.”"
+        },
+        {
+          "type": "p",
+          "text": "Capture issuer, role, document date/version, APNs, load units, point of delivery, assumptions, conditions, cost payer, deadlines, reliance/assignment and next milestone. A voicemail should request the right documentary contact and return channel; it should never suggest approval already exists."
+        }
+      ]
+    },
+    {
+      "title": "Coverage: what was screened, what remains open.",
+      "kicker": "34 TOPICS / 52 FACTORS / NO FALSE COMPLETION",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Coverage group",
+            "This run",
+            "Remaining authority / work"
+          ],
+          "rows": [
+            [
+              "Identity / Q01–03",
+              "Tax matches and offered conflicts; parcel maps; no title or access opinion",
+              "Seller survey, recorded documents, title / counsel and civil layout"
+            ],
+            [
+              "Power / Q04–06, Q29–30",
+              "Territory/proximity, current process/tariff references and historical agreements separated",
+              "Exact utility issuer; supply/transmission/distribution scopes; dates/cost/security; buyer acceptance"
+            ],
+            [
+              "Permission / Q07–08",
+              "Williston adverse history; Dillon RU; other use/jurisdiction gaps",
+              "Current agency/counsel interpretation for exact use and accessory equipment"
+            ],
+            [
+              "Water / Q09–10",
+              "Broker/provider discovery only",
+              "Lawful source, will-serve, fire flow, wastewater and design water balance"
+            ],
+            [
+              "Network / Q11",
+              "No constructible two-route evidence recovered",
+              "Carrier route, capacity, cost, delivery and shared-hazard proof"
+            ],
+            [
+              "Physical / Q12–17",
+              "NWI, New Castle soils, carried Dillon soils, parcel shapes and neighboring land context",
+              "Effective flood; soils / subsurface; Phase I; habitat/cultural; layout/access; field verification"
+            ],
+            [
+              "Market / Q18–20, Q27, Q32",
+              "Working buyer cards and substitutes; no qualified engaged buyer",
+              "Current named buyer requirement, funded sponsorship and defensible value"
+            ],
+            [
+              "Control / Q21–26, Q28, Q31, Q33–34",
+              "Unsent requests, cap arithmetic, structure / stop-rule analysis",
+              "Seller terms, local professional scope, lawful transaction/reliance, cash ledger and independent review"
+            ]
+          ],
+          "widths": [
+            1.65,
+            2.55,
+            2.7
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Transferable evidence plan"
+        },
+        {
+          "type": "p",
+          "text": "Keep each offered survey / legal description with its own APNs; store issuer letters with scope/date and sharing terms; separate marketing from capacity. A buyer room should contain the current source ledger, contradictions, parcel map, utility / carrier / planning responses, capital exposure and unresolved questions. Share third-party material only with appropriate rights; do not promise reliance the issuer has not granted."
+        },
+        {
+          "type": "h",
+          "text": "What this pass corrected"
+        },
+        {
+          "type": "p",
+          "text": "A ranked listing is not a qualified site. Williston’s later approval belonged to a different township and parcel. New Castle’s listing pin was unsuitable for constraints. Rooks’ directly linked brochure differed from the 74-acre power-marketed version. Dillon’s industrial-neighbor utility facts did not transfer to Baker land. These distinctions should persist in the Deal Desk."
+        },
+        {
+          "type": "p",
+          "text": "Learning assignment: read the Basin large-load onboarding one-pager [ND8]. Ask: who is the actual applicant, which money is nonrefundable, and can funded rights / studies transfer to the intended buyer? Then apply the same questions to APS, REMC/Duke and Dillon’s eventual supplier."
+        }
+      ]
+    },
+    {
+      "title": "Evidence ledger · 1–9",
+      "kicker": "SOURCE / SCOPE / FRESHNESS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Checked October 19, 2026 unless a historical date is shown. V1 = marketing/proxy; V2 = attributable context; V3 = authoritative public record at its stated scope; V0 = failed or unusable retrieval. No V4 subject utility, title, carrier or professional commitment was recovered."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Source · click title",
+            "What it covers / limit"
+          ],
+          "rows": [
+            [
+              "AZ1 · V1\nRooks Industrial Gateway · current primary listing\n2026-10-19",
+              "36-acre offering; price unpublished; current broker contacts\nBroker marketing. Availability, use and capacity require issuer confirmation."
+            ],
+            [
+              "AZ2 · V1\nRooks · 74-acre marketing version\n2026-10-19",
+              "74-acre version, divisible to 36; advertised 10 MW / Q1 2027\nNo APS letter, reservation, scope, cost or transfer right supplied. Conflicts with primary 36-acre brochure."
+            ],
+            [
+              "AZ3 · V1\nRooks · brochure linked directly by CBRE\n2026-10-19",
+              "36 acres plus 38-acre expansion; warehouse plan; APS named\nRetrieved PDF has no 10 MW / Q1 2027 promise. A warehouse concept is not a data-center approval."
+            ],
+            [
+              "AZ4 · V3\nMaricopa County Assessor · parcel service\n2026-10-19",
+              "APNs 401-87-007B and 401-87-005; owners, acreage fields, deeds and sale entries\nTax/GIS records, not a survey, deed review, title commitment or evidence of current ask."
+            ],
+            [
+              "AZ5 · V1\nOlder 35.3-acre Rooks sale flyer\n2026-10-19",
+              "Historical $8/sf and $12,301,344 asking price\nUndated historical marketing; do not use as current asking price."
+            ],
+            [
+              "AZ6 · V3\nBuckeye General Plan and Development Code\n2026-10-19",
+              "Published code update; exact use interpretation remains open\nCity page indexed; direct retrieval restricted. Current parcel zoning/overlays and data-center classification not independently issued."
+            ],
+            [
+              "AZ7 · V3\nBuckeye Development Code · general use provisions\n2026-10-19",
+              "Unlisted-use interpretation and scope-specific approval path\nDoes not establish that a data center, generator yard or substation is allowed on these parcels."
+            ],
+            [
+              "AZ8 · V3\nAPS · economic development\n2026-10-19",
+              "Utility process discovery, custom load analysis\nGeneric process; no subject allocation, rate quote or ready date."
+            ],
+            [
+              "AZ9 · V3\nMaricopa County floodplain information\n2026-10-19",
+              "Authoritative route for effective/local floodplain evidence\nAssessor Flood layer query returned a null-geometry county feature, not usable flood-zone coverage. No flood clearance."
+            ]
+          ],
+          "widths": [
+            2.5,
+            4.4
+          ],
+          "source_urls": [
+            "https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-195999/rooks-industrial-gateway-w-mc-85-s-rooks-rd-buckeye-az-85326-usa-buckeye-az-85326",
+            "https://images1.showcase.com/d2/hXViUO-cyyDQQAPCJrsU2nW9_0zIJ4g9V4anP7G7s44/document.pdf",
+            "https://www.cbre.com/resources/fileassets/US-SMPL-195999/71c7dbaf/b3de7e22-bb72-476d-985f-ceb6a254bcc0.pdf",
+            "https://gis.mcassessor.maricopa.gov/arcgis/rest/services/Parcels/MapServer/0",
+            "https://images1.showcase.com/d2/8cpKqPWOwNUHSmG-uwJX-eKk0Y6VMZCsvYgcCNhuQiU/document.pdf",
+            "https://www.buckeyeaz.gov/business/development-services/general-plan-development-code",
+            "https://library.municode.com/az/buckeye/codes/code_of_ordinances?nodeId=CD_ORD_CH7DECO_ART3ZO_3.1GEUSPR",
+            "https://www.aps.com/en/Business/Economic-Development/Economic-Development/Why-Arizona-and-APS",
+            "https://fcd.maricopa.gov/959/Floodplain-Information"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evidence ledger · 10–18",
+      "kicker": "SOURCE / SCOPE / FRESHNESS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Checked October 19, 2026 unless a historical date is shown. V1 = marketing/proxy; V2 = attributable context; V3 = authoritative public record at its stated scope; V0 = failed or unusable retrieval. No V4 subject utility, title, carrier or professional commitment was recovered."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Source · click title",
+            "What it covers / limit"
+          ],
+          "rows": [
+            [
+              "SC1 · V1\nDillon-Baker active offering\n2026-10-19",
+              "60-acre compartment 53 / $696,000 and related compartments\nMarketing price and acreage; six offerings include two portions of the same parent APN."
+            ],
+            [
+              "SC2 · V3\nDillon County · parcel 53 record\n2026-10-19",
+              "080-00-00-053; Baker Anne A; deed 492/54; plat 18/1\nCounty tax record does not prove present signing authority or title."
+            ],
+            [
+              "SC3 · V3\nDillon County · RU zoning point\n2026-10-19",
+              "Parcel 53 zoning point returns RU Rural\nPoint/map screen, not a full overlay/use approval or county planning letter."
+            ],
+            [
+              "SC4 · V3\nDillon County Building / Planning\n2026-10-19",
+              "Current planning contact and county process\nExact data-center use, accessory uses and approval path still need written interpretation."
+            ],
+            [
+              "SC5 · V2\nCarolinas I-95 Super Park\n2026-10-19",
+              "Competing 929-acre marketed industrial site and its separate utility information\nPark evidence does not transfer to Baker parcels; useful substitute, not a subject capacity source."
+            ],
+            [
+              "SC6 · V3\nSC PSC large-load docket 2026-138-E\n2026-10-19",
+              "Open generic docket; Oct 26–27, 2026 workshops\nNot an adopted subject tariff, capacity allocation or opening date."
+            ],
+            [
+              "SC7 · V3\nSouth Carolina H.5286 · bill status\n2026-10-19",
+              "Proposed data-center moratorium legislation\nStatus reviewed does not show enactment; proposal must not be represented as an active statewide ban."
+            ],
+            [
+              "IN1 · V1\nNew Castle N State Road 3 · IRMLS 202617664\n2026-10-19",
+              "44.35 acres, $899,900; APN; seller infrastructure claims; sewer None\nIRMLS 202617663 farm version is the same offering, not another parcel."
+            ],
+            [
+              "IN2 · V3\nParcel Boundaries of Indiana 2025\n2025 layer; retrieved 2026-10-19",
+              "State parcel 330727000111001021; geometry loaded Aug 14, 2025\nOlder statewide tax geometry, approximately 43.55 GIS acres; offered split and owner unresolved."
+            ]
+          ],
+          "widths": [
+            2.5,
+            4.4
+          ],
+          "source_urls": [
+            "https://www.afmrealestate.com/properties/60-acres-land-for-sale-in-dillon-county-south-carolina/dillon-baker-compartment-1-2",
+            "https://dillonsc.wthgis.com/tgis/getftr.aspx?D=1042&F=16961&Z=0",
+            "https://dillonsc.wthgis.com/tgis/idarea.aspx?Lat=34.3713&Lon=-79.4177&M=52",
+            "https://dilloncountysc.org/departments/building_code_enforcement_planning_zoning.php",
+            "https://www.nesasc.org/properties/carolinas-i-95-super-park",
+            "https://dms.psc.sc.gov/Web/Dockets/DocketCard/119719",
+            "https://www.scstatehouse.gov/sess126_2025-2026/bills/5286.htm",
+            "https://www.reindiana.com/commercial-for-sale/N-State-Road-3-New-Castle-IN-47362-432318720",
+            "https://gisdata.in.gov/server/rest/services/Hosted/Parcel_Boundaries_of_Indiana_2025/FeatureServer/0"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evidence ledger · 19–27",
+      "kicker": "SOURCE / SCOPE / FRESHNESS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Checked October 19, 2026 unless a historical date is shown. V1 = marketing/proxy; V2 = attributable context; V3 = authoritative public record at its stated scope; V0 = failed or unusable retrieval. No V4 subject utility, title, carrier or professional commitment was recovered."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Source · click title",
+            "What it covers / limit"
+          ],
+          "rows": [
+            [
+              "IN3 · V3\nIndiana IURC electric service boundaries\n2026-10-19",
+              "Whole-polygon clip intersects Henry County REMC and Duke Energy\nMap has slight overlap; no supplier election, load allocation or utility service-point determination."
+            ],
+            [
+              "IN4 · V3\nHenry County REMC · proposed data center note\n2026-10-19",
+              "Separate Knightstown project; distribution / Hoosier Energy roles; contact\nNo power agreement for this State Road 3 parcel; not evidence of spare MW."
+            ],
+            [
+              "IN5 · V2\nCounty and business leaders support Knightstown Tech Park\n2025-10; retrieved 2026-10-19",
+              "Separate I-70 / SR109 proposal; political and competitive context\nDifferent land, load and approval; no approval for the subject."
+            ],
+            [
+              "IN6 · V3\nHenry County planning / permit fee sheet\n2026-10-19",
+              "Official planning telephone 765-529-7408\nConfirm current jurisdiction, staff and code. Fee sheet is not use approval."
+            ],
+            [
+              "ND1 · V1\nHeavy industrial lots from 10 acres · current sale syndication\n2026-10-19",
+              "Hwy 1804 / 48th Street offering; 10-acre example at $199,000; group originally 136 acres\nBroker MW field is a template placeholder, not measured capacity."
+            ],
+            [
+              "ND2 · V3\nWilliams County parcel map\n2026-10-19",
+              "76.767 county GIS-acre 35-035; MWEC notch; separate Yellowstone parcels\nCurrent tax geometry/owner fields, not seller authority, offered lot schedule or title."
+            ],
+            [
+              "ND3 · V3\nGoGo Tech denial-appeal staff memorandum\n2024-02-13; retrieved 2026-10-19",
+              "Exact parcel 51-154-02-00-35-035; 30 MW proposal and setback failure\nHistorical adverse determination; scope/date explicit. Current lawful cure requires new written county evidence."
+            ],
+            [
+              "ND4 · V3\nCounty commission minutes · denied GoGo appeal\n2024-02-20; retrieved 2026-10-19",
+              "Feb 20, 2024 appeal denied 5–0 after hearing\nDo not confuse with the later GoGo approval at a different Section 12 site."
+            ],
+            [
+              "ND5 · V3\nSigned data-center ordinance 2024-01-02\n2024 ordinance; retrieved 2026-10-19",
+              "CUP, setbacks, acoustic work, signed power agreement and security requirements\nCounty index still lists it; no subject cure found. Seek current interpretation, not a permanent-ban assumption."
+            ]
+          ],
+          "widths": [
+            2.5,
+            4.4
+          ],
+          "source_urls": [
+            "https://gisdata.in.gov/server/rest/services/Hosted/IURC_Prod_Boundaries_View/FeatureServer/0",
+            "https://www.hcremc.com/alerts/a-note-on-the-proposed-data-center-in-henry-county/",
+            "https://growinhenry.com/2025/10/county-business-leaders-support-knightstown-tech-park/",
+            "https://www.henrycounty.in.gov/DocumentCenter/View/384/Planning-Permit-Fees-PDF",
+            "https://www.commercialsearch.com/commercial-property/us/nd/williston/heavy-industrial-lots-from-10-acres-19-900-acre-next-to-substation-terminal-1/",
+            "https://willgis.co.williams.nd.us/willgis/rest/services/Williams_County/ParcelsForWebMap/MapServer/0",
+            "https://williamsnd.civicweb.net/document/166723/9.%20GoGo%20Tech%20-%20Memo%20Kameron.pdf?handle=9401AFDB116F45A2953498FE6B10C1B9",
+            "https://williamsnd.civicweb.net/document/167495/",
+            "https://williamsnd.civicweb.net/document/167028"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evidence ledger · 28–34",
+      "kicker": "SOURCE / SCOPE / FRESHNESS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Checked October 19, 2026 unless a historical date is shown. V1 = marketing/proxy; V2 = attributable context; V3 = authoritative public record at its stated scope; V0 = failed or unusable retrieval. No V4 subject utility, title, carrier or professional commitment was recovered."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Source · click title",
+            "What it covers / limit"
+          ],
+          "rows": [
+            [
+              "ND6 · V3\nCounty ordinance index\n2026-10-19",
+              "Current public ordinance index checked Oct 19, 2026\nAn index search is not a legal certification that all amendments or decisions are captured."
+            ],
+            [
+              "ND7 · V3\nLU-0073-24 GoGo · different site packet\n2024; retrieved 2026-10-19",
+              "10-acre Section 12, T153N R103W; up to 8 MW interruptible agreement\nNot Section 35 Judson and not capacity available to this listing."
+            ],
+            [
+              "ND8 · V3\nBasin Electric large-load onboarding · public one-pager\nUndated public version; retrieved 2026-10-19",
+              "Generic phases, funded studies and $50,000 nonrefundable application stage\nOlder public document; current program page exists, but linked newer PDF redirects to member login. Confirm applicability/current terms with MWEC."
+            ],
+            [
+              "ND9 · V3\nMWEC rate schedules · C4\nOctober 2025 schedule; retrieved 2026-10-19",
+              "Published high-load schedule and contract/facility charges\nNot a delivered site quote; Basin process / project-specific contracts may govern."
+            ],
+            [
+              "G1 · V3\nNational Wetlands Inventory · public map service\n2026-10-19",
+              "Bounding queries then exact-polygon intersection and union for the four sites\nInventory only; zero returned features is not absence of wetlands, streams or permitting jurisdiction."
+            ],
+            [
+              "G2 · V3\nUSDA Soil Data Access\n2026-10-19",
+              "New Castle dominant-component drainage/hydric map; Dillon carried Oct 8 summary\nSoil map is not geotechnical testing or wetland delineation. Dominant component does not describe every point."
+            ],
+            [
+              "G3 · V0\nFEMA National Flood Hazard Layer service\n2026-10-19",
+              "Attempted current parcel-envelope queries for SC, IN and ND\nAll three attempts returned 503. Flood status remains unresolved; failed access is not a clean result."
+            ]
+          ],
+          "widths": [
+            2.5,
+            4.4
+          ],
+          "source_urls": [
+            "https://williamsnd.civicweb.net/filepro/documents/5137/",
+            "https://williamsnd.civicweb.net/document/173936/LU-0073-24%20Gogo%20Technologies%20is%20requesting%20a%20Co.pdf?handle=71026DE56E994AFF8C6E7730A0361CC6",
+            "https://www.basinelectric.com/_files/pdf/Large-Load-Program/BEPC-Large-Load-Commercial-Program-One-Pager.Final.pdf",
+            "https://www.mwec.com/sites/default/files/2026-07/mwec-rate-schedules-october-2025.pdf",
+            "https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer/0",
+            "https://sdmdataaccess.sc.egov.usda.gov/",
+            "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28"
+          ]
+        }
+      ]
+    }
+  ]
+}

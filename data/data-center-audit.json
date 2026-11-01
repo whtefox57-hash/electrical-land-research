@@ -1,0 +1,2772 @@
+{
+  "audit": {
+    "input_grid_records": 3866,
+    "input_compute_records": 2918,
+    "input_compute_data_centers": 2216,
+    "excluded_compute_power_generation": 476,
+    "excluded_compute_crypto_mining": 226,
+    "held_observations": 210,
+    "duplicate_records_merged": 338,
+    "current_source_records_added": 844,
+    "current_source_records_merged": 93,
+    "retained_named_records": 4257,
+    "mapped_records": 4257,
+    "with_land_acres": 919,
+    "with_reported_mw": 1531,
+    "with_source_reported_local_context": 646,
+    "with_linked_acquisition_cases": 7,
+    "upstream_ambiguous_relationships": 319,
+    "complete_national_census": false,
+    "actual_metered_mw_available": 0,
+    "unresolved_parent_child_relationships": true,
+    "source_sha256": {
+      "grid-silicon-all.json": "b5203798a859d439eee2515eb079f0e781dfdc3738bee62480e510a0de1312c5",
+      "grid-silicon-manifest.json": "3ec2c8ab812795c041909409d248ef713736104496a770f0f042c9fe84240f2e",
+      "compute-atlas-raw.json": "898fbc53c5df091a8f775dba13189510d9fe5867e9ce9aabc33eec1c5822efcb"
+    }
+  },
+  "merges": [
+    {
+      "retained": "compute_atlas-e26c0e91f96abdd1",
+      "merged": "datacentersexposed-0c26f0bcf9135806",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e9ae6c8597d26094",
+      "merged": "datacentersexposed-11815eba049c092a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-1eb5a69c9e7dc815",
+      "merged": "datacentersexposed-243891b64037299d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-5cab57bcba7d1541",
+      "merged": "datacentersexposed-2ea780f1cc2247e9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-06b0cf5cee4b36c2",
+      "merged": "datacentersexposed-44f43272f4e1bf2f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-80ef78c39e26fd5b",
+      "merged": "datacentersexposed-480feab8557c99ed",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-ae07cc714cd92fe1",
+      "merged": "datacentersexposed-7e82866fbeafdbbe",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e5a97711f217f194",
+      "merged": "datacentersexposed-8500fea3a159fed1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-cf679648020803b0",
+      "merged": "datacentersexposed-85798863deac921b",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e7bc6ca93d5a63c6",
+      "merged": "datacentersexposed-d2dba26fba9348e4",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-55c8cabd3e6f768e",
+      "merged": "datacentersexposed-fbd29c39fe912891",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-88a974c70d1e03ef",
+      "merged": "epoch-4ab4e255898efda3",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-95704c78c093d546",
+      "merged": "epoch-987720243d9bf042",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-faf06ab5c477f294",
+      "merged": "epoch-ed01378dc6f78dca",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-094ad8d270703f0d",
+      "merged": "osm-009b2675e2885c12",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a85f47d8dc5f4de7",
+      "merged": "osm-012fc59157d34f69",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-018032d5636b5c28",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-73a6495ca196abb7",
+      "merged": "osm-030386c275124354",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-004ab4ae9a68bca8",
+      "merged": "osm-033a8bbd114eec6c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cb232c66aa69a967",
+      "merged": "osm-03a13d3cf0ce2543",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ea6196064eac40ec",
+      "merged": "osm-0413ac580e0c1a74",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-09c397bec6f5cf25",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-16d88774167d63d9",
+      "merged": "osm-0a40b547caed8bfc",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-05aa9ee5792f6a12",
+      "merged": "osm-0c502b7a38ba98d8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-01e3d5c0446ae26f",
+      "merged": "osm-0da5ea76b8889eb0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2dce11e5786bac50",
+      "merged": "osm-105822e1383c05d4",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-1337fc0a88a378b7",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-5cab57bcba7d1541",
+      "merged": "osm-146bd67ad3a025f0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-428d8bb6f64d35cb",
+      "merged": "osm-1548378de1ab9f98",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-1574b1da83f70bb1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-adb06dac2db3696c",
+      "merged": "osm-164659a091cac62e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a3798a0643cb4fde",
+      "merged": "osm-16697d8f69d2c18e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1188fb841a884440",
+      "merged": "osm-16a859680ec58720",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-16d89ef89443230d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-1721873147182ae9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1188fb841a884440",
+      "merged": "osm-1762b2b7ec19d48a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-f7c7e6981d83ec50",
+      "merged": "osm-176c7e0475ea1e06",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a60f38c13658e994",
+      "merged": "osm-17df00b1e68981ca",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a3485636782c6366",
+      "merged": "osm-195ef47a31da1c91",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-1afcfd989bf2a931",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-570a9a21f29aee5a",
+      "merged": "osm-1c907fc94cb662f7",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-217192dcff6c56fc",
+      "merged": "osm-1cff0fe323f43f2f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2bc0a1a87128aec8",
+      "merged": "osm-1e7cf86930feafa9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0b75349467d4c342",
+      "merged": "osm-1ec9ee346e72be28",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b54822dc02a9886d",
+      "merged": "osm-1f15e6ab3bf4bd9a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2dce11e5786bac50",
+      "merged": "osm-1fb81055cdca4a31",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-23c2fb53ea41432f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3e6089424059ae31",
+      "merged": "osm-2454cab9f477e2f7",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-651be5d4536de916",
+      "merged": "osm-251220b9cf6c27c7",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1c0e5e40cc398ccb",
+      "merged": "osm-251ca369689df50e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8b5bd7819b0e8b13",
+      "merged": "osm-26cfac5ca5960781",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-caa751f350836e5b",
+      "merged": "osm-284f76de10264bb0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3460f04c5d55e03c",
+      "merged": "osm-2872d473a0b4f38a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-06b0cf5cee4b36c2",
+      "merged": "osm-2b3678678116bb8f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-12c6864133f5d624",
+      "merged": "osm-2bb1486a04222df4",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ad1570c768d85508",
+      "merged": "osm-2c45b7c0bf7a070d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-88251534758239f0",
+      "merged": "osm-2cf4926157016c41",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-2de4fdb036cabef6",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-2fe7491ce746a7e9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0b75349467d4c342",
+      "merged": "osm-314a25da29b20ebd",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ea6196064eac40ec",
+      "merged": "osm-34739b1b36639106",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1ecd3f9786f42393",
+      "merged": "osm-361a6ae06b1c5720",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1174f57789012bf1",
+      "merged": "osm-363447d6bf4488ab",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-deab5f05434f25f8",
+      "merged": "osm-36e4f5610855c73f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-80d6556163f20e4b",
+      "merged": "osm-374674c978a1ca48",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8b5bd7819b0e8b13",
+      "merged": "osm-38da1b064f1e14e1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-eaf471ac5c13a727",
+      "merged": "osm-3ce03b9b21c05eb3",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-3e635fefa52d2b11",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e7c6801aee2cbab7",
+      "merged": "osm-426112e83707f1ae",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-595afad65656e171",
+      "merged": "osm-43594fce5fb01c2b",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-dabc6349ae413cd5",
+      "merged": "osm-43620cbd0db5dadb",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d57b6b3639b4aa71",
+      "merged": "osm-47057d8cb5fc7356",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-48961b169931b334",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d926f5507c36fc0d",
+      "merged": "osm-48ce9ee5756286da",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8b5bd7819b0e8b13",
+      "merged": "osm-48ef71c1081247ac",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-4d2f56d0366e7864",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc6f07f1ec10f45f",
+      "merged": "osm-4d5eafcd5f74f074",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d7db586465fb3292",
+      "merged": "osm-4dc135db6c752a91",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-01e3d5c0446ae26f",
+      "merged": "osm-4ea55881e7f98d21",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-50dd5b79bfdc6da9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-88a974c70d1e03ef",
+      "merged": "osm-56a18ca21b027fbe",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2dce11e5786bac50",
+      "merged": "osm-5755c87c93e51768",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-9e46efddc61fbb1a",
+      "merged": "osm-59963beb55830aa8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e373e13153c9aab5",
+      "merged": "osm-5a7e7b89bfc4c21c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-5c9aef8455c94d1e",
+      "merged": "osm-5d261ec34d163e94",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-5c9aef8455c94d1e",
+      "merged": "osm-5e53f4b974e3139c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8b5bd7819b0e8b13",
+      "merged": "osm-5e9b5e9a21b0b0e8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cb232c66aa69a967",
+      "merged": "osm-5fe7ed76bf45594a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-5ff29e46597dcade",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3e6089424059ae31",
+      "merged": "osm-5ffe77a073e35cde",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-217192dcff6c56fc",
+      "merged": "osm-606a37dfbe7df34f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-336cd93fd84c4958",
+      "merged": "osm-6314984b5d5f8f00",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-63e4e12e3acacc5c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-303821b32659b621",
+      "merged": "osm-67ba85d106e1af30",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3e6089424059ae31",
+      "merged": "osm-68b472bbb0462a6c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0af5233c90790597",
+      "merged": "osm-68c829fad82c72c8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-29c2e56aed0f29eb",
+      "merged": "osm-6a0737a3528477ea",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1264363c848fb9f8",
+      "merged": "osm-6ad14cb7125113fb",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-6b5e4115c91a068a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-6bc1305b34a6e5af",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-6bf71307a42381f8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d7db586465fb3292",
+      "merged": "osm-6efdb30f0e97808a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3e6089424059ae31",
+      "merged": "osm-70ac43fa84adb4cb",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-7228f935916a70fc",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-587b6f8f500e57b6",
+      "merged": "osm-724b9659ef1c952d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-735d4cb1e78763e8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1a4aba38edc71dab",
+      "merged": "osm-736ff740b5ceb31c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-95704c78c093d546",
+      "merged": "osm-74c717322e012356",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-62cd354bc2c3fe68",
+      "merged": "osm-764f69a10d237ee6",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4014d2623739672d",
+      "merged": "osm-7ae5b8c4ec311d9c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-951303dc3f818f1f",
+      "merged": "osm-7ecbc9fc54814923",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-95704c78c093d546",
+      "merged": "osm-7fceb49fbbf4bbe0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-7ce667c9558dfbc3",
+      "merged": "osm-81d2195fd57e3962",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-57430aeb702c8c28",
+      "merged": "osm-81e815b3d113f1c1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-87ca1b17f9d9b0eb",
+      "merged": "osm-82038c617594c2ff",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-6bf04bbd6930b670",
+      "merged": "osm-82d33151f3f789ba",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-7b05d1e71551a361",
+      "merged": "osm-8474d2ffd253f5f5",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4740614517e9058c",
+      "merged": "osm-84a9e8a01b4412b5",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-87da0441ad4f36d3",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-88121e26176fcabc",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cbe44faad08d5a13",
+      "merged": "osm-884715f4c735f84e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-f7c7e6981d83ec50",
+      "merged": "osm-89207e6defe81e60",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-07eda79a9bf26f64",
+      "merged": "osm-89a88ed02b513316",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-8ba63c2ffeaa03c0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-40dee42962b2bd99",
+      "merged": "osm-8bb66bf7d61f5160",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e9ae6c8597d26094",
+      "merged": "osm-8e6a00c8562d6039",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-907bf948941c2003",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-9094f099e92d6bb4",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-c5cfdca5dd710243",
+      "merged": "osm-90aaa770282a0e23",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc16da6af9948587",
+      "merged": "osm-9263458299d87ac4",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1dcc861d3b875612",
+      "merged": "osm-929280dd69a34f23",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-217b3da97c739239",
+      "merged": "osm-936d8418045974ca",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3a17ddd940a4b37c",
+      "merged": "osm-94e413b44f971f92",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-88a974c70d1e03ef",
+      "merged": "osm-968ce97333e5ef7e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-f7c7e6981d83ec50",
+      "merged": "osm-982e9f2b57dbb517",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-9873dffcd745e1b3",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-9a79ad9426244ae1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-9bc1e459d96fada1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-f7c7e6981d83ec50",
+      "merged": "osm-9c6cca0bf470ccea",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0329ca26d9a9e3d7",
+      "merged": "osm-9fa11847e02aa6ce",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a146d6eb9258a863",
+      "merged": "osm-9fe01b394d1c727d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-88a974c70d1e03ef",
+      "merged": "osm-a02a0fd1111b95d7",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a6d00335b1d60c7a",
+      "merged": "osm-a0f0cb93b9307867",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-a212786fb2f7d50d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc16da6af9948587",
+      "merged": "osm-a322ade22ad76fad",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-a82015479fc10cde",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e26c0e91f96abdd1",
+      "merged": "osm-a8551d1646bffe45",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ed6c0f3e90477620",
+      "merged": "osm-abb2a65170375690",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ada243bdbe35eb72",
+      "merged": "osm-acd24e7e8520cb94",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b0733e584b98826d",
+      "merged": "osm-ae6e30ce8aeeda4b",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-af7afcc81a06b4f6",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a60f38c13658e994",
+      "merged": "osm-b023392a3d7e1019",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-098267e161d0b8a5",
+      "merged": "osm-b0d548d79c1987d0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-74e9073ee2f0e1d4",
+      "merged": "osm-b15f61255058c1de",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d78859940551eeb3",
+      "merged": "osm-b386564e009f2b2b",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a282c144532c183f",
+      "merged": "osm-b498615e566dbd4e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-13cd0a08183912a6",
+      "merged": "osm-b5487ccf70cae7fe",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-96bf55a4ae8e54cc",
+      "merged": "osm-b81ff3babf750549",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-9c536638a4ec2abe",
+      "merged": "osm-b91c84a1c1457b1c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b2a8829f7ec5b3d3",
+      "merged": "osm-bc5865e0e8d86ae0",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-533377beac8f26a2",
+      "merged": "osm-bf952d96c05a90c6",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-53f6a3792cb2746c",
+      "merged": "osm-c12cdd3d877f1e9d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-05d3f8fb82af33b5",
+      "merged": "osm-c1cd211b666aa08d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b54822dc02a9886d",
+      "merged": "osm-c1e8969a170e846d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-c49ccc9e547b7143",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-61130420de122552",
+      "merged": "osm-c6ef6d432974126d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-95704c78c093d546",
+      "merged": "osm-c712bd092bdd5eab",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a6ea87ba63bae405",
+      "merged": "osm-cbf7c3b43255ddd9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-23b11d03a926c9cd",
+      "merged": "osm-cd5a32e4d599ac9c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-51d7d6d835e65b30",
+      "merged": "osm-cd642a7036ce9680",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-5e5ea2c1330e4e3f",
+      "merged": "osm-cf834a30c063aea2",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0b75349467d4c342",
+      "merged": "osm-cfd7ca08014c028f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-fd2f791ae9031ef1",
+      "merged": "osm-d097263db5830cfb",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-c63752cfd3a3bfe8",
+      "merged": "osm-d52e4efb18faee27",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e9ae6c8597d26094",
+      "merged": "osm-d5b0a88d83385299",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "compute_atlas-e3e47ad0bc1dc88e",
+      "merged": "osm-d692c1ddbe208984",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a60f38c13658e994",
+      "merged": "osm-d80e24c0c1745a8f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d1a5dc75cb25a58a",
+      "merged": "osm-daaba992e6ad9969",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-da23cba9c5ac759b",
+      "merged": "osm-dad5334e59dcbfd9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-dcd2d11bc9850343",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-50c3d9007ed01a6c",
+      "merged": "osm-ddb49d1524d5239f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ea6196064eac40ec",
+      "merged": "osm-ddc3e266efc956b2",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ea6196064eac40ec",
+      "merged": "osm-defc88daff850754",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc6f07f1ec10f45f",
+      "merged": "osm-e3d8a52b5cd7f95f",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8b5bd7819b0e8b13",
+      "merged": "osm-e3e53110952bfd65",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b55d17554365fa2d",
+      "merged": "osm-e62506e9f1563288",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cb232c66aa69a967",
+      "merged": "osm-e7fd9ab880a6e17d",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d7db586465fb3292",
+      "merged": "osm-e868f319a10a3f1a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-eb9e398d279368f5",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b54822dc02a9886d",
+      "merged": "osm-ebef4c0613207385",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-499e60b540f4941e",
+      "merged": "osm-ed7b6d8b04711616",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b1f621f746a3d87e",
+      "merged": "osm-eef28fb02282b41e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc16da6af9948587",
+      "merged": "osm-ef88394ded3558ce",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-3381dd97865257d4",
+      "merged": "osm-efa71e3716906905",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2dce11e5786bac50",
+      "merged": "osm-f0f3e54566206ddf",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-f1bd1b34764fec7e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-be7200961608bf99",
+      "merged": "osm-f3977af41e5181b1",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8898fa036c74f5cc",
+      "merged": "osm-f402d3aae9338df8",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-004ab4ae9a68bca8",
+      "merged": "osm-f53fafa32f6ac405",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-f63d3f4de307a647",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-7aa47e4226dd5c8e",
+      "merged": "osm-f651700ecf124ab9",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e1451992f0fe38e5",
+      "merged": "osm-f84bc20d9a22603e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d4681cb2f4211f96",
+      "merged": "osm-f8bf19dfdcd8043c",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-6987ba06035cb0f4",
+      "merged": "osm-f9ee3a7652cf0f95",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e2fedb43d1b31923",
+      "merged": "osm-fb844cb09ba9d779",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-51d7d6d835e65b30",
+      "merged": "osm-fc3486b958f6591a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-53ebcef4ac058886",
+      "merged": "osm-fcb5330888755f5e",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "osm-ee05eb95f3ff2282",
+      "merged": "osm-fcdfea1b6d2cc4ee",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b867fd7191ed774b",
+      "merged": "osm-fd540f8cf4fee49a",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4932a4a9a019b24f",
+      "merged": "osm-fd7e94bfb548c8bb",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-26a3523a1ec5add9",
+      "merged": "osm-fd946339e1d64c0b",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4c0ac34a1ba5d9d4",
+      "merged": "osm-ff2055b879d6c443",
+      "reason": "Same normalized facility name and state, within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-6fc7d46fabc3b6f3",
+      "merged": "compute-current-32-avenue-of-the-americas-ny",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-c85bc4b84d61e895",
+      "merged": "compute-current-aligned-dfw-01-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-e03cbdcb1f6be834",
+      "merged": "compute-current-aligned-iad-01-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-541c787344ce5e50",
+      "merged": "compute-current-aligned-iad-03-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-78b68b0bdbaa1c3e",
+      "merged": "compute-current-aws-summit-crossing-tech-campus-spotsylvania-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-b3d6c993c59aed95",
+      "merged": "compute-current-charter-spectrum-charlotte-national-data-center-nc",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-ad1570c768d85508",
+      "merged": "compute-current-cloudhq-lc1-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-18419cab67b439e7",
+      "merged": "compute-current-convergent-technology-park-remington-fauquier-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-23c1b70bdc606b03",
+      "merged": "compute-current-coresite-ny3-secaucus-nj",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bb59be6a3c97400f",
+      "merged": "compute-current-cyrusone-ocb1-council-bluffs-ia",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-9d9d22886ee218d8",
+      "merged": "compute-current-cyrusone-sat2-sat4-san-antonio-tx",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-fca80fab7e91a76a",
+      "merged": "compute-current-dc-blox-high-point-nc",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e24a38411acc5e98",
+      "merged": "compute-current-dc-blox-montgomery-al",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-425619b154b193ae",
+      "merged": "compute-current-digital-realty-acc10-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-05aa9ee5792f6a12",
+      "merged": "compute-current-digital-realty-acc9-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d7c596d3e8366623",
+      "merged": "compute-current-digital-realty-iad42-building-r-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-f06a84e802cbc1b3",
+      "merged": "compute-current-digital-realty-iad43-building-s-va",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-d7f88afd72dc5bc6",
+      "merged": "compute-current-digital-realty-iad55-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-9d075fec40946748",
+      "merged": "compute-current-digital-realty-iad73-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-bc52dd047137e836",
+      "merged": "compute-current-digital-realty-new-york-ewr12-nj",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-7dd6cdf94eecdb06",
+      "merged": "compute-current-digital-realty-northern-virginia-acc5-va",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-a190b22bcc111413",
+      "merged": "compute-current-digital-realty-northern-virginia-iad14-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-41dd55f87ea728f7",
+      "merged": "compute-current-digital-realty-silicon-valley-sjc11-ca",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d78859940551eeb3",
+      "merged": "compute-current-digital-realty-silicon-valley-sjc16-ca",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-3165222c22d4f496",
+      "merged": "compute-current-digital-realty-silicon-valley-sjc31-ca",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "osm-3db6f8aae651c44f",
+      "merged": "compute-current-digital-realty-va4-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-40dee42962b2bd99",
+      "merged": "compute-current-edgeconnex-chi02-il",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-353712726a81a59d",
+      "merged": "compute-current-element-critical-chicago-two-il",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "osm-facdec94f94ce52d",
+      "merged": "compute-current-equinix-dc3-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-32053cfb5adbf420",
+      "merged": "compute-current-fiberhub-las1-las-vegas-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0e18e64120495614",
+      "merged": "compute-current-flexential-atlanta-alpharetta-data-center-ga",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-73dbbc25a571abc7",
+      "merged": "compute-current-flexential-atlanta-douglasville-1-ga",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e25f371a7df4fdef",
+      "merged": "compute-current-flexential-dallas-downtown-dallas-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-f5b2c0a6e148b222",
+      "merged": "compute-current-flexential-dallas-plano-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-7561e12456cf6c4c",
+      "merged": "compute-current-flexential-jacksonville-fl",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4f8e69103b68f3a6",
+      "merged": "compute-current-flexential-louisville-downtown-ky",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e590b3ec1c797f53",
+      "merged": "compute-current-flexential-phoenix-deer-valley-az",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-4014d2623739672d",
+      "merged": "compute-current-flexential-portland-hillsboro-5-or",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-7d8dfdb36a5d60fc",
+      "merged": "compute-current-flexential-tampa-west-fl",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "epoch-8ba89c68489cfa1e",
+      "merged": "compute-current-google-new-albany-oh",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-fd9039051f3ab587",
+      "merged": "compute-current-iron-mountain-va-3-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-9b712c9e5b0c6f6e",
+      "merged": "compute-current-iron-mountain-va-4-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-098267e161d0b8a5",
+      "merged": "compute-current-iron-mountain-va-6-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a9ac8e436b585df5",
+      "merged": "compute-current-lumen-albany-4-ny",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-90befc664f69e5ae",
+      "merged": "compute-current-lumen-ashburn-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-a32720fadb19f955",
+      "merged": "compute-current-lumen-austin-1-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-d8c29716fadd4570",
+      "merged": "compute-current-lumen-austin-3-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-109c075a605a2793",
+      "merged": "compute-current-lumen-dallas-6-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-1275719eca24410a",
+      "merged": "compute-current-lumen-madison-1-wi",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-994c153398b7030f",
+      "merged": "compute-current-lumen-mclean-1-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-3ddb1dac7ea801b9",
+      "merged": "compute-current-lumen-minneapolis-3-mn",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-efb8e9da6c641ebb",
+      "merged": "compute-current-lumen-norristown-pa",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-18e287b595f9c988",
+      "merged": "compute-current-lumen-phoenix-1-az",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-b8bff608d428e286",
+      "merged": "compute-current-lumen-san-antonio-2-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-d3486b366cf97894",
+      "merged": "compute-current-lumen-spokane-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-e75a2f00804a487b",
+      "merged": "compute-current-lumen-sunnyvale-1-ca",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-e64695fddedf9af0",
+      "merged": "compute-current-niagara-digital-campus-niagara-falls-ny",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-5dec732ec2ac1a5a",
+      "merged": "compute-current-ntt-ashburn-va7-data-center-va",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-e3e47ad0bc1dc88e",
+      "merged": "compute-current-ntt-chicago-ch2-data-center-il",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-46eefab50dc45765",
+      "merged": "compute-current-ntt-data-quincy-data-center-wa",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-c90ed2ebaf618242",
+      "merged": "compute-current-peterson-culpeper-technology-campus-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cc5b69a6a4b996c6",
+      "merged": "compute-current-powerhouse-ctp-02-va",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-9320ac1d282d1e1a",
+      "merged": "compute-current-prime-dfw01-01-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-57dc4a3dab154653",
+      "merged": "compute-current-qts-hillsboro-2-or",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-931606dbe9494bf3",
+      "merged": "compute-current-qts-hillsboro-3-or",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-0a5a652527934d70",
+      "merged": "compute-current-ryan-companies-project-swan-lakeland-fl",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-419f4d34da2f4abf",
+      "merged": "compute-current-sabey-intergate-columbia-building-a-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-ba117f2f83ea7b4d",
+      "merged": "compute-current-sabey-intergate-east-building-1-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-ba117f2f83ea7b4d",
+      "merged": "compute-current-sabey-intergate-east-building-5-sdc-east-5-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-ba117f2f83ea7b4d",
+      "merged": "compute-current-sabey-intergate-west-building-a-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "compute_atlas-ba117f2f83ea7b4d",
+      "merged": "compute-current-sabey-intergate-west-building-b-wa",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-9cca46aabd05c7b6",
+      "merged": "compute-current-sentinel-grove-technology-park-fort-pierce-fl",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-2d290e280e891a6a",
+      "merged": "compute-current-serverfarm-lax1-el-segundo-ca",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-cda1e81c4bf93d39",
+      "merged": "compute-current-shenandoah-project-kestrel-kc-northland-mo",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-8d9c612870195543",
+      "merged": "compute-current-simple-helix-huntsville-al",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-c02d7a9a4e12e1c2",
+      "merged": "compute-current-skybox-houston-one-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-bc2670c57300b127",
+      "merged": "compute-current-soluna-project-kati-willacy-tx",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-ee05eb95f3ff2282",
+      "merged": "compute-current-stack-por03-or",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "osm-b98b7fac4422b7b6",
+      "merged": "compute-current-switch-edge-1-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-89d51537d4b1454c",
+      "merged": "compute-current-switch-las-vegas-10-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-033ed5da50027e04",
+      "merged": "compute-current-switch-las-vegas-11-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-9c8e2614542f69b1",
+      "merged": "compute-current-switch-las-vegas-12-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-07eda79a9bf26f64",
+      "merged": "compute-current-switch-las-vegas-14-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-b29fed3a47869779",
+      "merged": "compute-current-switch-las-vegas-15-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-5733ca0d4447bdc4",
+      "merged": "compute-current-switch-las-vegas-4-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-5286c4ac4c4b8d19",
+      "merged": "compute-current-switch-las-vegas-5-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-05d3f8fb82af33b5",
+      "merged": "compute-current-switch-las-vegas-7-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-6e2a5efa854e499f",
+      "merged": "compute-current-switch-las-vegas-8-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-56e3786614dff5c4",
+      "merged": "compute-current-switch-las-vegas-9-nv",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-3426f53653b2f392",
+      "merged": "compute-current-switch-tahoe-reno-2-the-citadel-campus-nv",
+      "reason": "Same OSM object and operator within 300 m"
+    },
+    {
+      "retained": "datacentersexposed-b8c4bc50108dddfd",
+      "merged": "compute-current-t5-chicago-ii-il",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "datacentersexposed-c3249102bb340c33",
+      "merged": "compute-current-t5-cleveland-oh",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "osm-62a4da8c3ab3f3bd",
+      "merged": "compute-current-vantage-wa12-wa",
+      "reason": "Current source: same facility name/state within 1 km"
+    },
+    {
+      "retained": "compute_atlas-c1f5a7effaf4783a",
+      "merged": "datacentersexposed-18499f0f9ccc675d",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-8d4873a77387026c",
+      "merged": "datacentersexposed-943bab84e7a42c78",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-3a23b5550e12ed07",
+      "merged": "datacentersexposed-adc9c5f1151dea7b",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-cade6c1c6e0cf564",
+      "merged": "datacentersexposed-b7c6f54a047d9a72",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-20e38fcb4834160f",
+      "merged": "datacentersexposed-ba8b89920b031ae8",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-0e9b8fe4826d77c9",
+      "merged": "datacentersexposed-d7314cc10f2cb0eb",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-a6fc2d8af9c1b5dc",
+      "merged": "datacentersexposed-facbdc110327ffff",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-2d1489cf735c5380",
+      "merged": "osm-033a664061998682",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-a569fc5d16d963d5",
+      "merged": "osm-148afb3fcc2e257b",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-f8e43e5b182bdca6",
+      "merged": "osm-2bfc8430c06846d5",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-0b8a344ba0fbe657",
+      "merged": "osm-4d590f496aa235ef",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-94f365617d032b32",
+      "merged": "osm-609d06820c938d40",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-881d215017f48186",
+      "merged": "osm-672c728c3a97f0e1",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-d64f591fa09ff9a0",
+      "merged": "osm-859535e814c4ae55",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-9f54034763bd19e3",
+      "merged": "osm-90befc664f69e5ae",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-6987ba06035cb0f4",
+      "merged": "osm-9c8e2614542f69b1",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-9a1352846b43e0ce",
+      "merged": "osm-a04115cd10a5889e",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-31ad72f60086597a",
+      "merged": "osm-a1de1f771b7133cc",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-33f43db57efc97ad",
+      "merged": "osm-a2353c83be689d6b",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-9e57aae354a38837",
+      "merged": "osm-b29fed3a47869779",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-a3e7c260520279b5",
+      "merged": "osm-c0d3b1cb0bf28053",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-5ceb0a0e3c850e98",
+      "merged": "osm-cfa8702818c1fa55",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-1f5672dc6290349d",
+      "merged": "osm-d834d70ca4ef31e8",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-dcd76c20fef3a32d",
+      "merged": "osm-dc208997ed06441e",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-ca394b189541c747",
+      "merged": "compute-current-digital-fortress-lynnwood-wa",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-dbc1a7d12d27b0c0",
+      "merged": "compute-current-firstlight-portsmouth-nh-data-center-nh",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-4cf6263b220da9e2",
+      "merged": "compute-current-flexential-portland-hillsboro-4-pdx04-or",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-a69e42de3dffb889",
+      "merged": "compute-current-komo-plaza-seattle-wa",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-e0d1287b59cba489",
+      "merged": "compute-current-percheron-data-center-or",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-419f4d34da2f4abf",
+      "merged": "compute-current-sabey-intergate-columbia-building-d-wa",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "compute_atlas-ba117f2f83ea7b4d",
+      "merged": "compute-current-sabey-intergate-west-building-c-wa",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "osm-c2149ec07305ddd0",
+      "merged": "compute-current-switch-atlanta-the-keep-ga",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    },
+    {
+      "retained": "datacentersexposed-24682de7252865cd",
+      "merged": "compute-current-t5-charlotte-nc",
+      "reason": "Same mapped OSM object, compatible operator and building identity"
+    }
+  ],
+  "held": [
+    {
+      "id": "compute_atlas-03f147e2fc2644e6",
+      "name": "GW Ranch",
+      "reason": "Current source classifies as power_generation"
+    },
+    {
+      "id": "compute_atlas-0e9dfb9c8ecd6e20",
+      "name": "DC BLOX Myrtle Beach Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "compute_atlas-b587f9ff6e83ba60",
+      "name": "Globalinx Fastnet Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "datacentersexposed-0df7b94d0c7bb40f",
+      "name": "Apollo Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "datacentersexposed-2d6b61fcd8d65e46",
+      "name": "Unnamed Data Center",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "datacentersexposed-860e329c1e34c909",
+      "name": "Norma Beach Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "datacentersexposed-a66c44c5e88aae10",
+      "name": "Cable & Wireless Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "epoch-28ebfbea1f98d4e8",
+      "name": "Google Mesa",
+      "reason": "Outside the 50 states and District of Columbia"
+    },
+    {
+      "id": "osm-017f267e01f8b986",
+      "name": "Unnamed data center (way/894425613)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-01e531edb1cd5880",
+      "name": "Unnamed data center (way/79056848)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-02c77ba3e32a8257",
+      "name": "Unnamed data center (way/343593591)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-05883dddb135114b",
+      "name": "Unnamed data center (way/337127832)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-07efb93d9374c732",
+      "name": "Unnamed data center (way/706081342)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-080737cb85b20942",
+      "name": "Unnamed data center (way/1432637060)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-08f6c6a6364f4c56",
+      "name": "Unnamed data center (way/1561752472)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-09d4595f1fe037c5",
+      "name": "Unnamed data center (way/1530966383)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0ac8111bf2c085b1",
+      "name": "Unnamed data center (way/1530966394)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0ad7bfd7de4a660d",
+      "name": "Unnamed data center (way/383796776)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0b342f55002f357e",
+      "name": "Unnamed data center (way/435531451)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0bccb274540d398f",
+      "name": "Unnamed data center (way/476609221)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0c613f27c382c9fa",
+      "name": "Unnamed data center (way/607483487)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0e6bc12de5ebe635",
+      "name": "Unnamed data center (way/254773884)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0e6e82df526acfef",
+      "name": "Unnamed data center (way/1211362828)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0f1d9eff670e4f4a",
+      "name": "Unnamed data center (node/14076988553)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-0fc13ab221290e04",
+      "name": "Unnamed data center (way/509611426)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-169b6a7151bb0476",
+      "name": "Unnamed data center (way/1530966395)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-173bd0ca9974ae6c",
+      "name": "Unnamed data center (way/68281408)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1745af35c5ca0436",
+      "name": "Unnamed data center (way/567575425)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-18028483a3fc0298",
+      "name": "Unnamed data center (way/95349317)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-18090024bbb6d36e",
+      "name": "Unnamed data center (way/916046040)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-181e5b580cd3e4ae",
+      "name": "Unnamed data center (way/802054282)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-185183f1a094fff0",
+      "name": "Unnamed data center (way/936368014)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-186c250873384c8e",
+      "name": "Unnamed data center (way/1530966390)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-19cec69b1d756ffc",
+      "name": "Unnamed data center (way/696985482)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1a9cb19550d3ed6f",
+      "name": "Unnamed data center (way/1074591454)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1b1aa713722645e6",
+      "name": "Unnamed data center (way/1189426328)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1c66b145dcc1ea46",
+      "name": "Unnamed data center (way/1075445245)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1c6ee5622bff9c06",
+      "name": "Unnamed data center (way/697021949)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1cbc820e3dca28da",
+      "name": "Unnamed data center (way/747985149)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1d22c5348a784a48",
+      "name": "Unnamed data center (way/1375443893)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1d711506914f10f6",
+      "name": "Unnamed data center (node/10780794741)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1daae852a9113642",
+      "name": "Unnamed data center (way/758426349)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1e5b8cbd5d26c7b2",
+      "name": "Unnamed data center (way/696978351)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1f206506a13f9e4b",
+      "name": "Unnamed data center (way/349925359)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-1f6fb528fb96d6db",
+      "name": "Unnamed data center (way/958153770)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-213d73dc413fb3df",
+      "name": "Unnamed data center (way/1414729942)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-22dab78bd86d600e",
+      "name": "Unnamed data center (way/1471517731)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-254f65e48fb36bce",
+      "name": "Unnamed data center (way/1430720170)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-276f4c42e2c96cee",
+      "name": "Unnamed data center (way/597876723)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-284b519a8d321286",
+      "name": "Unnamed data center (way/923167491)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-2864b4f6077d84a3",
+      "name": "Unnamed data center (way/567894059)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-2b2dc78276e6c304",
+      "name": "Unnamed data center (way/1392657385)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-2ef928c006bd07b9",
+      "name": "Unnamed data center (way/1557957010)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-2fc15c6f881a7e1e",
+      "name": "Unnamed data center (way/832622369)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-323ee36287e65aba",
+      "name": "Unnamed data center (way/1530966393)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-32e9fe5d35a96937",
+      "name": "Unnamed data center (way/930540164)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-332836f6019a8d27",
+      "name": "Unnamed data center (way/45583037)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-362eb632597d2ffd",
+      "name": "Unnamed data center (way/1092283612)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-36d83cfa62c2ef16",
+      "name": "Unnamed data center (way/191655977)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-374243306a634350",
+      "name": "Unnamed data center (way/156468497)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-381ca9e4935e84df",
+      "name": "Unnamed data center (way/1530966387)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-3f31bbc092dad0b2",
+      "name": "Unnamed data center (way/814061068)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-430c84849cadde5a",
+      "name": "Unnamed data center (way/1566676867)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-43656f3d4448dc06",
+      "name": "Unnamed data center (way/1319724559)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-44db3817a0a65e8b",
+      "name": "Unnamed data center (way/460056018)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-44df1b8daa766cf8",
+      "name": "Unnamed data center (way/1540172608)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-463c637395846a7e",
+      "name": "Unnamed data center (way/1530966391)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-47336b457dd27bae",
+      "name": "Unnamed data center (way/765230023)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-477dee7b1fd44a0f",
+      "name": "Unnamed data center (way/1568581817)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-48686bbb253d812d",
+      "name": "Unnamed data center (way/1022757170)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-4aaf3108ed58e340",
+      "name": "Unnamed data center (way/966520234)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-50fbd1b7257b52fe",
+      "name": "Unnamed data center (way/460182337)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-513666b69a401ce2",
+      "name": "Unnamed data center (way/1482076328)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-5195cdefae00ec79",
+      "name": "Unnamed data center (way/755540694)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-51ad21c3a1497f7b",
+      "name": "Unnamed data center (way/38305611)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-537f5129e4642c31",
+      "name": "Unnamed data center (way/729376485)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-53895243919d653e",
+      "name": "Unnamed data center (way/744177375)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-547dcb16f2d27a58",
+      "name": "Unnamed data center (way/1235255415)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-596d5ea3ff93e3eb",
+      "name": "Unnamed data center (way/545704217)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-5cc6790b0a694d8d",
+      "name": "Unnamed data center (way/1193914601)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-5e20a1e04d91317d",
+      "name": "Unnamed data center (way/1052182309)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-5f03e708729b8335",
+      "name": "Manasquan Cable Landing Station (TAT-14)",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "osm-5fbf3b47e4e508b0",
+      "name": "Unnamed data center (way/543316327)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-61a7a05fdfb28654",
+      "name": "Unnamed data center (way/1536086683)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-636a5e739f047f57",
+      "name": "Unnamed data center (way/424945736)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-63a6c82077ad3fef",
+      "name": "Unnamed data center (way/1549253249)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-64c3753de0955d6f",
+      "name": "Unnamed data center (way/1498670679)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-662494eef430de17",
+      "name": "Unnamed data center (way/1539600946)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-684d8e4eee04337d",
+      "name": "Unnamed data center (way/1157356188)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6869cc2fcf08f049",
+      "name": "AT&T Tuckerton Cable Landing Station (TAT-14)",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "osm-692d03352b6f0837",
+      "name": "Unnamed data center (way/1143804764)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6a3fbb895f2088f3",
+      "name": "Unnamed data center (way/1509985717)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6cc08002330d25a1",
+      "name": "Unnamed data center (way/1010260674)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6cf7f6c162e65388",
+      "name": "Unnamed data center (way/45448535)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6d087537455f7bec",
+      "name": "Unnamed data center (way/590213771)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6d8bfdb39d533ca5",
+      "name": "GlobeNet Tuckerton Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "osm-6df11386b3114cdf",
+      "name": "Unnamed data center (way/345650474)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6e2285031c0301d1",
+      "name": "Unnamed data center (way/36897140)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6ee894a93682a2b2",
+      "name": "Unnamed data center (way/807374322)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-6f3e9a27b683193b",
+      "name": "Unnamed data center (way/379204766)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-728176dc17064364",
+      "name": "Unnamed data center (way/1368776076)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-7457b5f851e39520",
+      "name": "Unnamed data center (way/617525579)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-74e37b801e344ebc",
+      "name": "Unnamed data center (way/1387080629)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-7717438248e4adac",
+      "name": "Unnamed data center (way/251716311)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-78260f3997c9db81",
+      "name": "Unnamed data center (way/71187940)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-7cdfdc9153fa665f",
+      "name": "Unnamed data center (way/283051469)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-7e7b6d5b7eaf388a",
+      "name": "Unnamed data center (way/1484435248)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-7f98ffd816151163",
+      "name": "Unnamed data center (way/1454573842)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-80e1fb09b7d0b69a",
+      "name": "Unnamed data center (node/9861806598)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-8157df5ed55b0423",
+      "name": "Unnamed data center (way/1069388067)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-8176f7e37ccd6997",
+      "name": "Unnamed data center (way/283051478)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-82d11ad5ed43dcb3",
+      "name": "Unnamed data center (way/919948160)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-831258473bd34611",
+      "name": "Unnamed data center (way/254742608)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-83ad96dc729e3066",
+      "name": "Unnamed data center (way/499403699)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-84a5c7735fa0aa5d",
+      "name": "Unnamed data center (way/946014659)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-8acdcfa84491fb26",
+      "name": "Unnamed data center (way/1316005112)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-8d525d19aa272285",
+      "name": "Unnamed data center (way/195165330)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-8e89fae7b23c3774",
+      "name": "Unnamed data center (way/260996040)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-91ed7f109996e9d5",
+      "name": "Unnamed data center (way/1530966389)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-922dd7c8beb322cd",
+      "name": "Unnamed data center (way/590213770)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-954df2f433537255",
+      "name": "Unnamed data center (way/1530966388)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-95552415fe0b21b6",
+      "name": "Unnamed data center (way/1193914602)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-96bfb7d1bfc8f593",
+      "name": "Unnamed data center (way/533842335)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-96eb320e79e531b8",
+      "name": "Unnamed data center (way/642755041)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-970e1d333e111701",
+      "name": "Unnamed data center (way/959969621)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-97e36e0012d59861",
+      "name": "Unnamed data center (way/1034230196)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-9a77c0da995468e2",
+      "name": "Unnamed data center (way/1012918195)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-9aaf60120f6f7727",
+      "name": "Unnamed data center (way/87058670)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-9b350ea2ee99cf16",
+      "name": "Unnamed data center (way/1210199366)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a007e8bfabf76cbe",
+      "name": "Unnamed data center (way/1380114462)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a05f88033a523572",
+      "name": "Unnamed data center (way/1530966386)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a1837f1d89ba5826",
+      "name": "Unnamed data center (way/1447049070)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a2785031d4338026",
+      "name": "Unnamed data center (way/1556797631)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a3e587ac4ecd2b46",
+      "name": "Unnamed data center (way/587103676)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a3f6d321c96aa3e0",
+      "name": "Unnamed data center (way/1530966392)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a6189e677135cda5",
+      "name": "Unnamed data center (way/1530966384)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a63f7e3956a5a910",
+      "name": "Unnamed data center (way/451413811)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a8bf5fb107048d76",
+      "name": "Unnamed data center (way/813688319)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a8d0fe14b8dcee92",
+      "name": "Unnamed data center (way/487170215)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-a9b8c6260eab57d8",
+      "name": "Unnamed data center (way/221201212)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-aa2cde213f9b471f",
+      "name": "Unnamed data center (way/1511639842)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-aae9ce229caa0498",
+      "name": "Unnamed data center (way/1530966382)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-ac0d93dab4ca2ed5",
+      "name": "Unnamed data center (way/609126465)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-ac6f4eb819876c6f",
+      "name": "Unnamed data center (way/1455915217)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-ad5b8e210b116b5a",
+      "name": "Unnamed data center (node/11815482844)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-adc4ea4e00ae216d",
+      "name": "Unnamed data center (way/1109643936)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-addf5b95ab171f83",
+      "name": "Unnamed data center (way/209105766)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-aec57b43bd48343f",
+      "name": "Unnamed data center (way/1197757147)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-af29fae7430f05b3",
+      "name": "Unnamed data center (way/1485867768)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-af356b9beeaf4cd6",
+      "name": "Unnamed data center (way/460182320)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-afd85c4e292bc33b",
+      "name": "Unnamed data center (way/1422191468)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-b15898eddbfa3559",
+      "name": "Unnamed data center (way/1177794153)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-b18fdd5944d2f332",
+      "name": "Unnamed data center (way/178331621)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-b323a1736feff0dc",
+      "name": "Manasquan Cable Landing Station (Apollo)",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "osm-b49ffcca6ef7ecd7",
+      "name": "Unnamed data center (way/460159925)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-b834210b76a2d63f",
+      "name": "Unnamed data center (way/1510420026)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-b86c1a514bf25b71",
+      "name": "Unnamed data center (way/354590432)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-bcc707bdccd9ac39",
+      "name": "Unnamed data center (node/14086231277)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-beecc6b4bc677b11",
+      "name": "Unnamed data center (way/1498005255)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-bf347b49390984e6",
+      "name": "Unnamed data center (way/826001605)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-bf35990b5ae4afbe",
+      "name": "Unnamed data center (way/460212563)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c0982633599c6182",
+      "name": "Unnamed data center (way/1457383500)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c0b688c76f497256",
+      "name": "Unnamed data center (way/904453635)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c3f8d3bc43bf8fd3",
+      "name": "Unnamed data center (way/1312792611)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c56cc95cc891d8ea",
+      "name": "Unnamed data center (way/1521913706)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c64db0d4078b202c",
+      "name": "Unnamed data center (way/1530966385)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c73b9c27d3ae9666",
+      "name": "Unnamed data center (way/1024384322)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c989a148ef6687e3",
+      "name": "Unnamed data center (way/414055239)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c98b4e09dd25b2e0",
+      "name": "Unnamed data center (way/1377227154)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-c9bc7a7b287f9ffb",
+      "name": "Unnamed data center (way/1252196806)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-cb4f74e4e481359e",
+      "name": "Unnamed data center (way/116005354)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-cb82c26b7817e41e",
+      "name": "Unnamed data center (way/1372772726)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-cbd5847f1ad946fa",
+      "name": "Unnamed data center (way/195169261)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-cc6b36fb0a5a46ce",
+      "name": "Unnamed data center (way/944024849)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-cea950700dd06bcb",
+      "name": "Unnamed data center (way/464097467)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-d64e9739cd66c5cf",
+      "name": "Unnamed data center (way/1472056705)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-d7536b62576acf99",
+      "name": "Unnamed data center (way/819981888)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-d8473ae963cf25f3",
+      "name": "Unnamed data center (way/1545590995)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-daaf18a10d784be0",
+      "name": "Unnamed data center (way/495115494)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-db89e169b318346a",
+      "name": "Unnamed data center (way/916148870)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-dc0a42a934b9dc3b",
+      "name": "Unnamed data center (way/844374689)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-dc0ed74dd0bebcd9",
+      "name": "Unnamed data center (way/1552427895)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-dd8b7340e35a8ed9",
+      "name": "Unnamed data center (way/843314844)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-dd99b312ff62bf15",
+      "name": "Unnamed data center (way/1433936352)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-de68db30fab7c026",
+      "name": "Unnamed data center (way/1074588578)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-df7bc8739375540e",
+      "name": "Unnamed data center (way/1456975947)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e03219db9d493a91",
+      "name": "Unnamed data center (way/1042260902)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e0f52b06d6b7c945",
+      "name": "Unnamed data center (way/696992451)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e150838c2a64b52a",
+      "name": "Unnamed data center (way/1133944585)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e17a9a9a13e00f98",
+      "name": "Unnamed data center (way/571010571)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e31a7347601ed2f0",
+      "name": "Unnamed data center (way/1556702082)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e3af554d35c69e6d",
+      "name": "Unnamed data center (way/1558344919)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e89f01d23d46ac55",
+      "name": "Unnamed data center (way/1161730862)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-e973ca73803d3d1b",
+      "name": "Unnamed data center (way/1469988846)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-ea6ce3a13500ba27",
+      "name": "Unnamed data center (way/1556814304)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-eb145b73720ad293",
+      "name": "Unnamed data center (way/447803368)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-ecac91508bdd916e",
+      "name": "Unnamed data center (way/1556760955)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-eef09df77a904c64",
+      "name": "Unnamed data center (way/1547829413)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-f4334364f57e9a49",
+      "name": "Unnamed data center (way/607753694)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-f48e8f87cf8a601f",
+      "name": "Unnamed data center (way/1411056682)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-f6a91f94f290b537",
+      "name": "Unnamed data center (way/186515922)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fa90f624c830228e",
+      "name": "Unnamed data center (way/1310628998)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fb13838f00adb726",
+      "name": "Unnamed data center (way/1510517629)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fc306f392c225e11",
+      "name": "Unnamed data center (way/938592711)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fd72253ff4847c88",
+      "name": "Unnamed data center (way/1567485997)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fe5e842d1f0564d2",
+      "name": "Unnamed data center (way/429040021)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "osm-fefa0ee2c411c931",
+      "name": "Wall Township Cable Landing Station",
+      "reason": "Cable landing station: data-center use not established"
+    },
+    {
+      "id": "osm-ff4dd491270ae10b",
+      "name": "Unnamed data center (way/466516719)",
+      "reason": "Unnamed OSM observation; excluded from the named facility count pending identity review"
+    },
+    {
+      "id": "compute-current-att-keawaula-cable-landing-station-waianae-hi",
+      "name": "Keawaula Cable Landing Station",
+      "reason": "Cable landing-only facility"
+    },
+    {
+      "id": "compute-current-southern-cross-kahe-point-cable-landing-station-hi",
+      "name": "Kahe Point Cable Landing Station (Southern Cross)",
+      "reason": "Cable landing-only facility"
+    }
+  ]
+}
