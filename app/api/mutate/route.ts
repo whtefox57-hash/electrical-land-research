@@ -1,8 +1,9 @@
+import {withDatabase} from '@/lib/vercel-runtime';
 import {parseDailyDigest} from '@/lib/daily-digest';
 import {importBuyerWatch} from '@/lib/buyer-watch-import';
 import {authorize} from '@/lib/auth';import {readDesk,saveDesk,digest} from '@/lib/store';import {changeTier,validateDesk} from '@/lib/model';
 export const dynamic='force-dynamic';
-export async function POST(req:Request){const denied=authorize(req,true);if(denied)return denied;
+async function POSTHandler(req:Request){const denied=authorize(req,true);if(denied)return denied;
  try{
   const raw=await req.text();if(raw.length>4000000)return Response.json({error:'Import exceeds 4 MB.'},{status:413});
   const b=JSON.parse(raw);const {data:s,version}=await readDesk();if(b.expectedVersion!==version)return Response.json({error:'Another session saved first. Refresh before retrying; your draft is still on screen.'},{status:409});
@@ -47,3 +48,5 @@ export async function POST(req:Request){const denied=authorize(req,true);if(deni
   s.history.push({at,action:b.action,recordId:b.recordId||null});validateDesk(s);const v=await saveDesk(s,version);return Response.json({version:v,result});
  }catch(e){const message=(e as Error).message;return Response.json({error:message},{status:message.startsWith('CONFLICT')?409:400});}
 }
+
+export const POST=withDatabase(POSTHandler);

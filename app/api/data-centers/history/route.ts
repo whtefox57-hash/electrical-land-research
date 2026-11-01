@@ -1,9 +1,10 @@
+import {withDatabase} from '@/lib/vercel-runtime';
 import {historyProgress,historyDetail,historyQueue,historyStages,queueRecords} from '@/lib/data-center-history';
 import workflow from '@/data/data-center-history-workflow.json';
 export const dynamic='force-dynamic';
 // The existing owner-only Sites gateway authorizes both visitors and service callers.
 // Service credentials deliberately carry no visitor email; keep the current audience private.
-export async function GET(req:Request){
+async function GETHandler(req:Request){
  const origin=req.headers.get('origin');if(origin&&origin!==new URL(req.url).origin)return Response.json({error:'Origin not allowed'},{status:403});
  const p=new URL(req.url).searchParams,headers={'Cache-Control':'private, no-store'};
  try{
@@ -16,3 +17,5 @@ export async function GET(req:Request){
   return Response.json({total:ids.length,offset,limit,summary:progress.summary,rows:queueRecords(ids.slice(offset,offset+limit))},{headers});
  }catch(e){return Response.json({error:(e as Error).message},{status:503,headers})}
 }
+
+export const GET=withDatabase(GETHandler);

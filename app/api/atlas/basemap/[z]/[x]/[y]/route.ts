@@ -1,4 +1,7 @@
-import {env} from 'cloudflare:workers';
+import {withDatabase} from '@/lib/vercel-runtime';
+import {vaultEnvironment} from '@/lib/vercel-runtime';
 import {atlasBasemap} from '@/lib/atlas-basemap.mjs';
 export const dynamic='force-dynamic';
-export const GET=(req:Request)=>atlasBasemap(req,env);
+const GETHandler=(req:Request)=>atlasBasemap(req, vaultEnvironment());
+
+export const GET=withDatabase(GETHandler);
